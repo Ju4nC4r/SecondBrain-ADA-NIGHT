@@ -1,0 +1,120 @@
+{
+  "captured_at": "2026-10-05T09:35:56+02:00",
+  "timezone": "Europe/Madrid",
+  "purpose": "Contraste documental y de código de los cinco fundamentos científicos; no medición del estado de mainnet.",
+  "node": {
+    "tag": "node-1.0.300",
+    "commit": "c3895bd2bd930b03ad53a4c8de0d98a490b8bfcb",
+    "tag_reference_url": "https://api.github.com/repos/midnightntwrk/midnight-node/git/ref/tags/node-1.0.300",
+    "release_url": "https://github.com/midnightntwrk/midnight-node/releases/tag/node-1.0.300",
+    "release_target_commitish": "31f4c36560b3182cbb536fd68c9fcdbe620a3bab",
+    "note": "Se usa el commit de la referencia del tag capturada, que difiere del target_commitish de la ficha de release reemitida."
+  },
+  "ledger": {
+    "tag": "ledger-8.1.2",
+    "commit": "36d7442172136758e33009f75ff4aa56616cff40",
+    "tag_reference_url": "https://api.github.com/repos/midnightntwrk/midnight-ledger/git/ref/tags/ledger-8.1.2",
+    "dependency": "Cargo.toml del nodo fija midnight-ledger =8.1.2."
+  },
+  "files": [
+    {
+      "repository": "midnightntwrk/midnight-node",
+      "upstream_path": "README.md",
+      "local_path": "node/README.md",
+      "github_blob_sha": "857aca8872bca173912b152e667862ef28e5189a",
+      "source_url": "https://github.com/midnightntwrk/midnight-node/blob/c3895bd2bd930b03ad53a4c8de0d98a490b8bfcb/README.md"
+    },
+    {
+      "repository": "midnightntwrk/midnight-node",
+      "upstream_path": "Cargo.toml",
+      "local_path": "node/Cargo.toml",
+      "github_blob_sha": "510a35b08c156e16d1376c93ef83f8078e17721e",
+      "source_url": "https://github.com/midnightntwrk/midnight-node/blob/c3895bd2bd930b03ad53a4c8de0d98a490b8bfcb/Cargo.toml"
+    },
+    {
+      "repository": "midnightntwrk/midnight-node",
+      "upstream_path": "node/src/service.rs",
+      "local_path": "node/node/src/service.rs",
+      "github_blob_sha": "14a4dd51ab450e97a305b956d6101ce3b57f136c",
+      "source_url": "https://github.com/midnightntwrk/midnight-node/blob/c3895bd2bd930b03ad53a4c8de0d98a490b8bfcb/node/src/service.rs"
+    },
+    {
+      "repository": "midnightntwrk/midnight-node",
+      "upstream_path": "runtime/src/lib.rs",
+      "local_path": "node/runtime/src/lib.rs",
+      "github_blob_sha": "5faff54e3c1f57d6efcce2f88708615013ad95d7",
+      "source_url": "https://github.com/midnightntwrk/midnight-node/blob/c3895bd2bd930b03ad53a4c8de0d98a490b8bfcb/runtime/src/lib.rs"
+    },
+    {
+      "repository": "midnightntwrk/midnight-node",
+      "upstream_path": "pallets/cnight-observation/src/lib.rs",
+      "local_path": "node/pallets/cnight-observation/src/lib.rs",
+      "github_blob_sha": "98e495b00f4478776e93fd56a4f04071f3a4516d",
+      "source_url": "https://github.com/midnightntwrk/midnight-node/blob/c3895bd2bd930b03ad53a4c8de0d98a490b8bfcb/pallets/cnight-observation/src/lib.rs"
+    },
+    {
+      "repository": "midnightntwrk/midnight-node",
+      "upstream_path": "partner-chains/toolkit/committee-selection/selection/src/ariadne.rs",
+      "local_path": "node/partner-chains/toolkit/committee-selection/selection/src/ariadne.rs",
+      "github_blob_sha": "620dffd32559289435311d3e001f7e8788d71c41",
+      "source_url": "https://github.com/midnightntwrk/midnight-node/blob/c3895bd2bd930b03ad53a4c8de0d98a490b8bfcb/partner-chains/toolkit/committee-selection/selection/src/ariadne.rs"
+    },
+    {
+      "repository": "midnightntwrk/midnight-node",
+      "upstream_path": "ledger/src/versions/common/api/ledger.rs",
+      "local_path": "node/ledger/src/versions/common/api/ledger.rs",
+      "github_blob_sha": "4c049c5a634b95dfe65d5feb439f513758232a78",
+      "source_url": "https://github.com/midnightntwrk/midnight-node/blob/c3895bd2bd930b03ad53a4c8de0d98a490b8bfcb/ledger/src/versions/common/api/ledger.rs"
+    },
+    {
+      "repository": "midnightntwrk/midnight-ledger",
+      "upstream_path": "spec/contracts.md",
+      "local_path": "ledger/spec/contracts.md",
+      "github_blob_sha": "89d2ebbc632ce20192886dea46ebdc1b39607860",
+      "source_url": "https://github.com/midnightntwrk/midnight-ledger/blob/36d7442172136758e33009f75ff4aa56616cff40/spec/contracts.md"
+    },
+    {
+      "repository": "midnightntwrk/midnight-ledger",
+      "upstream_path": "spec/cost-model.md",
+      "local_path": "ledger/spec/cost-model.md",
+      "github_blob_sha": "20645c35a920cfcf40d6756afed7e2a9a40c263a",
+      "source_url": "https://github.com/midnightntwrk/midnight-ledger/blob/36d7442172136758e33009f75ff4aa56616cff40/spec/cost-model.md"
+    },
+    {
+      "repository": "midnightntwrk/midnight-ledger",
+      "upstream_path": "spec/dust.md",
+      "local_path": "ledger/spec/dust.md",
+      "github_blob_sha": "09910dc788ce5809a2bc70098e0fcafd8d175ef6",
+      "source_url": "https://github.com/midnightntwrk/midnight-ledger/blob/36d7442172136758e33009f75ff4aa56616cff40/spec/dust.md"
+    },
+    {
+      "repository": "midnightntwrk/midnight-ledger",
+      "upstream_path": "ledger/src/structure.rs",
+      "local_path": "ledger/ledger/src/structure.rs",
+      "github_blob_sha": "00d764c42d879e4be5d785885fcd8b1c2e05e063",
+      "source_url": "https://github.com/midnightntwrk/midnight-ledger/blob/36d7442172136758e33009f75ff4aa56616cff40/ledger/src/structure.rs"
+    },
+    {
+      "repository": "midnightntwrk/midnight-ledger",
+      "upstream_path": "ledger/src/dust.rs",
+      "local_path": "ledger/ledger/src/dust.rs",
+      "github_blob_sha": "a7374a9061ed84c319dda066bf741f58e8b33ecd",
+      "source_url": "https://github.com/midnightntwrk/midnight-ledger/blob/36d7442172136758e33009f75ff4aa56616cff40/ledger/src/dust.rs"
+    },
+    {
+      "repository": "midnightntwrk/midnight-ledger",
+      "upstream_path": "base-crypto/src/cost_model.rs",
+      "local_path": "ledger/base-crypto/src/cost_model.rs",
+      "github_blob_sha": "dfbab5b2b717bc97456dab604a8056cb91308c23",
+      "source_url": "https://github.com/midnightntwrk/midnight-ledger/blob/36d7442172136758e33009f75ff4aa56616cff40/base-crypto/src/cost_model.rs"
+    },
+    {
+      "repository": "midnightntwrk/midnight-ledger",
+      "upstream_path": "ledger/src/semantics.rs",
+      "local_path": "ledger/ledger/src/semantics.rs",
+      "github_blob_sha": "0fe810d1cfb495cea0e5df32157d6140b50816a7",
+      "source_url": "https://github.com/midnightntwrk/midnight-ledger/blob/36d7442172136758e33009f75ff4aa56616cff40/ledger/src/semantics.rs"
+    }
+  ]
+}
+

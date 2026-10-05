@@ -1,0 +1,57 @@
+{
+  "captured_at": "2026-10-05 08:02:03 UTC",
+  "display_timezone": "Europe/Madrid",
+  "purpose": "Recursos visuales para el índice de SecondBrain-CryptoADA",
+  "publication_dates": "No determinadas para los archivos de imagen; la fecha de captura no se presenta como publicación.",
+  "changes": "Originales conservados sin editar ni recolorear. El tamaño de presentación se indica en Markdown para Obsidian.",
+  "files": [
+    {
+      "file": "2026-10-05-cardano-logotipo-azul.svg",
+      "role": "Logotipo horizontal azul de Cardano",
+      "author": "Cardano, recurso publicado en su web oficial",
+      "source": "https://cardano.org/img/cardano-logo-blue.svg",
+      "reference": "https://cardano.org/brand-assets/",
+      "sha256": "0bf123fb0410180ea5f759bd31664fdb9939481e9ffb73279d192d1ae6a0058d"
+    },
+    {
+      "file": "2026-10-05-cardano-simbolo-azul.svg",
+      "role": "Símbolo azul de Cardano",
+      "author": "Cardano, recurso publicado en su web oficial",
+      "source": "https://cardano.org/img/brand-assets/cardano-starburst-blue.svg",
+      "reference": "https://cardano.org/brand-assets/",
+      "sha256": "25e5fb6747e58495c87463df84177cc5626dac2fb4ec14a6fee5df7c045f4f19"
+    },
+    {
+      "file": "2026-10-05-midnight-ilustracion-privacidad.png",
+      "role": "Ilustración de privacidad de la web de Midnight; no logotipo",
+      "author": "Midnight, recurso publicado en su web oficial",
+      "source": "https://cdn.sanity.io/images/330xhmya/production/9cfcf4c70d4a8317abdb9a3b61cb07a6aac53884-708x708.png",
+      "reference": "https://midnight.network/",
+      "sha256": "432807248ee7f5cbd50b1e9925bbc948f61434eedf37f8151da9a71bd0f3cd73"
+    },
+    {
+      "file": "2026-10-05-midnight-logotipo-fondo-claro.svg",
+      "role": "Logotipo oficial de Midnight para fondo claro",
+      "author": "Midnight, repositorio de documentación oficial",
+      "source": "https://github.com/midnightntwrk/midnight-docs/blob/8eb627420aed2db4eb28962da7bd8cc27685e6ab/static/img/midnight-header-logo-light.svg",
+      "repository": "midnightntwrk/midnight-docs",
+      "commit": "8eb627420aed2db4eb28962da7bd8cc27685e6ab",
+      "github_blob_sha": "d7e67922b01434627008d42d920559e6ff8f6d3e",
+      "reference": "https://midnight.network/brand-hub",
+      "sha256": "a137ad070e786452cba54855b42bcdad4d57a4e5481f97af881a810c14662bb1"
+    },
+    {
+      "file": "2026-10-05-midnight-logotipo-fondo-oscuro.svg",
+      "role": "Logotipo oficial de Midnight para fondo oscuro",
+      "author": "Midnight, repositorio de documentación oficial",
+      "source": "https://github.com/midnightntwrk/midnight-docs/blob/8eb627420aed2db4eb28962da7bd8cc27685e6ab/static/img/midnight-header-logo-dark.svg",
+      "repository": "midnightntwrk/midnight-docs",
+      "commit": "8eb627420aed2db4eb28962da7bd8cc27685e6ab",
+      "github_blob_sha": "87e48a8ace749932a006eca66505e6eb68ee83ac",
+      "reference": "https://midnight.network/brand-hub",
+      "sha256": "1c7cb29ba948bb05e1cc72a9b9c712f69cf671a018c607d9b9f9d6328751edf6"
+    }
+  ],
+  "section_icons": "Caracteres Unicode/emoji; no imágenes descargadas."
+}
+

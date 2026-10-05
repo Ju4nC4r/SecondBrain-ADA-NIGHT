@@ -1,0 +1,31 @@
+{
+  "created_at": "2026-10-05T08:13:41.246Z",
+  "display_timezone": "Europe/Madrid",
+  "purpose": "Copias PNG de presentación para el índice; originales SVG conservados sin cambios.",
+  "method": "Rasterización determinista con sharp 0.35.4. Proporciones y colores originales; altura del logo 40 px; lienzo 220 × 64 px blanco para visibilidad en ambos temas.",
+  "original_provenance": "2026-10-05-imagenes-indice-metadatos.json",
+  "files": [
+    {
+      "file": "2026-10-05-cardano-logotipo-indice.png",
+      "derived_from": "2026-10-05-cardano-logotipo-azul.svg",
+      "source_sha256": "0bf123fb0410180ea5f759bd31664fdb9939481e9ffb73279d192d1ae6a0058d",
+      "sha256": "fce7b75df32f28472f0d29ee95a33a765fe505994058869cc114c822575d9b8e",
+      "width": 220,
+      "height": 64,
+      "logo_height": 40,
+      "logo_width": 198,
+      "background": "#ffffff"
+    },
+    {
+      "file": "2026-10-05-midnight-logotipo-indice.png",
+      "derived_from": "2026-10-05-midnight-logotipo-fondo-claro.svg",
+      "source_sha256": "a137ad070e786452cba54855b42bcdad4d57a4e5481f97af881a810c14662bb1",
+      "sha256": "90a12a719d07f4828155718951a64def6d9d96fb7fc47876e49ab302fd45ab33",
+      "width": 220,
+      "height": 64,
+      "logo_height": 40,
+      "logo_width": 178,
+      "background": "#ffffff"
+    }
+  ]
+}

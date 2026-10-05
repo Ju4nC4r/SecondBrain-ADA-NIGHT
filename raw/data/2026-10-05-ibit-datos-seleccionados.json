@@ -1,0 +1,27 @@
+{
+  "source": "https://www.ishares.com/us/products/333011/ishares-bitcoin-trust-etf",
+  "source_file": "2026-10-05-ibit-exportacion-blackrock.xls",
+  "worksheet": "Historical",
+  "selection": [
+    {
+      "date": "Oct 02, 2026",
+      "nav_usd": "47.637156",
+      "ex_dividends": "--",
+      "shares_outstanding": "1418840000"
+    },
+    {
+      "date": "Oct 01, 2026",
+      "nav_usd": "47.934783",
+      "ex_dividends": "--",
+      "shares_outstanding": "1414760000"
+    },
+    {
+      "date": "Sep 30, 2026",
+      "nav_usd": "47.393896",
+      "ex_dividends": "--",
+      "shares_outstanding": "1414960000"
+    }
+  ],
+  "extraction": "Lectura de ss:Row y ss:Data en el XML original; sin modificarlo. El XML contiene caracteres no escapados y no se corrigió el original.",
+  "status": "Datos de NAV y participaciones; no publicación directa de flujos netos de Farside."
+}

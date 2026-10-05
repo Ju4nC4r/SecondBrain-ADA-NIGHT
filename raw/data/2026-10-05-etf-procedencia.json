@@ -1,0 +1,29 @@
+{
+  "captured_at": "2026-10-05T09:35:56+02:00",
+  "timezone": "Europe/Madrid",
+  "units": "USD millones en Farside; USD por participación y número de participaciones en BlackRock",
+  "session_dates": [
+    "2026-10-01",
+    "2026-10-02"
+  ],
+  "publication_times": "No indicadas; páginas dinámicas",
+  "farside": {
+    "urls": [
+      "https://farside.co.uk/btc/",
+      "https://farside.co.uk/bitcoin-etf-flow-all-data/"
+    ],
+    "file": "2026-10-05-farside-etf-1-2-octubre.csv",
+    "type": "Transcripción de las dos filas observadas; signos negativos convertidos de paréntesis a menos y guion ausente a celda vacía; no captura íntegra HTML",
+    "missing_value": "IBIT, 2026-10-02; no equivale a cero"
+  },
+  "blackrock": {
+    "page": "https://www.ishares.com/us/products/333011/ishares-bitcoin-trust-etf",
+    "download": "https://www.blackrock.com/varnish-api/blk-one01-product-data/product-data/api/v1/get-fund-document?appSubType=ISHARES&appType=PRODUCT_PAGE&component=fundDownload&locale=en_US&portfolioId=333011&targetSite=us-ishares&userType=individual",
+    "file": "2026-10-05-ibit-exportacion-blackrock.xls",
+    "sha256": "c9a1d99ede95cb5dfcd024ecaba487dc5bc01ebb8279b3cd07c5d7d75723ab42",
+    "format": "XML Spreadsheet, extensión XLS del emisor",
+    "selection_file": "2026-10-05-ibit-datos-seleccionados.json",
+    "status": "NAV y participaciones; no flujo diario publicado"
+  }
+}
+
