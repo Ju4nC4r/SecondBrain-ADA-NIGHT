@@ -114,3 +114,15 @@
 - Por solicitud del usuario, incorporados los archivos del proyecto al control de versiones local: wiki, fuentes de RAW, imágenes, plantillas, documentos de referencia, instrucciones y configuración de Obsidian.
 - Conservadas las exclusiones existentes: archivos temporales, .DS_Store y disposición de ventanas de Obsidian. El canvas existente se incluye en la versión inicial.
 - El repositorio no tenía commits anteriores; esta operación registra la primera versión del proyecto.
+
+## [2026-10-05] verify | Publicación de la versión inicial en Gitea
+
+- Verificado que `refs/heads/main` del remoto `origin` coincide con el commit local `a2f39fbd2aab231e1be27cacd5c2db0bbfd002f7`, tras la autenticación realizada por el usuario en la entrada oculta de Git.
+- La excepción de comprobación TLS se limitó a las operaciones contra el repositorio indicado; no se guardó una desactivación global. Se conservaron los cambios de Obsidian y la eliminación del canvas fuera del commit inicial publicado.
+
+## [2026-10-05] docs | README visual y guía de uso
+
+- Reescrito el [README principal](../README.md) por solicitud del usuario: propósito, alcance, contenido existente, organización de RAW y wiki, incorporación de fuentes, consultas, revisión y control de versiones. Corregidas las referencias anteriores que aún indicaban ausencia de informes y de remoto.
+- Añadidos iconos, los logotipos ya archivados, un árbol de carpetas y un [esquema del flujo](../docs/images/flujo-secondbrain.png), con su [original SVG](../docs/images/flujo-secondbrain.svg). La figura describe el proceso de trabajo; no representa un servicio automático nuevo.
+- Incluido el inicio rápido de Obsidian: apertura de la raíz como bóveda existente, índice, enlaces a fuentes, búsqueda y grafo. Contrastados estos controles con la configuración local y la documentación oficial. Explicado el acceso por la pestaña Código de Gitea y la diferencia con su función Wiki separada.
+- Verificación: 32 enlaces locales del README válidos, esquema SVG válido e imagen PNG inspeccionada visualmente. Los archivos preexistentes de Obsidian y la eliminación del canvas conservan su estado; no se han modificado originales de RAW.
