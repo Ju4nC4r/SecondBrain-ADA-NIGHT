@@ -1,4 +1,4 @@
-# 🧠 SecondBrain-CryptoADA
+# 🧠 Second Brain ADA NIGHT
 
 ![Cardano / ADA](raw/images/2026-10-05-cardano-logotipo-indice.png) ![Midnight / NIGHT](raw/images/2026-10-05-midnight-logotipo-indice.png)
 
