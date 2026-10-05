@@ -1,8 +1,10 @@
-# Esquema de SecondBrain-CryptoADA
+# Instrucciones de Second Brain ADA NIGHT
 
 ## Alcance y lenguaje
 
 Esta base de conocimiento trata de Cardano (ADA) y Midnight (NIGHT). Escribe las páginas de la wiki en español. Conserva los nombres de proyectos, símbolos de activos, código, identificadores y enlaces originales cuando sean necesarios para identificar las fuentes.
+
+El nombre del proyecto es **Second Brain ADA NIGHT**. Los repositorios se llaman `SecondBrain-ADA-NIGHT`; la carpeta local conserva el nombre `SecondBrain-CryptoADA`.
 
 ## Capas y convenciones
 
@@ -42,6 +44,21 @@ Guarda los informes elaborados en `wiki/reports/`; conserva sus fuentes en `raw/
 ## Revisión de coherencia
 
 Comprueba enlaces rotos, páginas huérfanas, contradicciones, afirmaciones desactualizadas, referencias cruzadas que falten, conceptos sin página y lagunas de información. Documenta el resultado en el registro. Conserva la procedencia y el historial de las correcciones.
+
+## Control de versiones y remotos
+
+La rama principal es `main` y sigue a `origin/main`. Los remotos son:
+
+| Remoto | Función | Repositorio |
+|---|---|---|
+| `origin` | Principal: GitHub | https://github.com/Ju4nC4r/SecondBrain-ADA-NIGHT.git |
+| `gitea` | Secundario: Gitea | https://gitea.ailab/JuanCar/SecondBrain-ADA-NIGHT.git |
+
+Cuando el usuario solicite publicar una versión, sube los commits acordados a ambos remotos, salvo que indique otro destino, y comprueba que sus referencias coinciden con la versión local. Revisa los cambios antes del commit, conserva los cambios ajenos al encargo y no fuerces una subida frente a un historial divergente. Gestiona la autenticación localmente; las credenciales quedan fuera del repositorio.
+
+## Licencia
+
+La licencia del proyecto es Apache 2.0 y su texto oficial completo se conserva en [LICENSE](LICENSE), en la raíz. Las fuentes archivadas y los complementos de terceros conservan sus licencias y atribuciones originales; la licencia del proyecto no cambia las suyas. No inventes titulares ni avisos de copyright.
 
 ## Límites operativos
 

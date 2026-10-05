@@ -6,7 +6,7 @@ Base de conocimiento personal en español para investigar **Cardano (ADA)** y **
 
 Sigue la propuesta **LLM Wiki de Andrej Karpathy**: conservar las fuentes, elaborar conocimiento a partir de ellas y mantener sus referencias e historial. La [guía original](llm-wiki.md), su [traducción al español](llm-wiki-es.md) y las [instrucciones del proyecto](AGENTS.md) explican el enfoque.
 
-El repositorio remoto se llama [SecondBrain-ADA-NIGHT en Gitea](https://gitea.ailab/JuanCar/SecondBrain-ADA-NIGHT); la carpeta local conserva el nombre `SecondBrain-CryptoADA`.
+El repositorio principal es [SecondBrain-ADA-NIGHT en GitHub](https://github.com/Ju4nC4r/SecondBrain-ADA-NIGHT), con una segunda copia en [Gitea](https://gitea.ailab/JuanCar/SecondBrain-ADA-NIGHT); la carpeta local conserva el nombre `SecondBrain-CryptoADA`.
 
 ## 🧭 Empieza aquí
 
@@ -135,7 +135,7 @@ git status --short
 git diff
 ```
 
-Después de revisarlos, registra los archivos que correspondan en un commit. El remoto `origin` apunta al repositorio de Gitea indicado arriba; la autenticación se gestiona localmente y las credenciales quedan fuera de la documentación del proyecto.
+Después de revisarlos, registra los archivos que correspondan en un commit. El remoto `origin` apunta a GitHub y `gitea` al repositorio secundario de Gitea; `main` sigue a `origin/main`. Cuando solicites publicar una versión, se sube a ambos destinos salvo que indiques otro. La autenticación se gestiona localmente y las credenciales quedan fuera de la documentación del proyecto.
 
 ## 📝 Informes y seguimiento diario
 

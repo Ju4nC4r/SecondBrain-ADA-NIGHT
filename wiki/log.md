@@ -126,3 +126,10 @@
 - Añadidos iconos, los logotipos ya archivados, un árbol de carpetas y un [esquema del flujo](../docs/images/flujo-secondbrain.png), con su [original SVG](../docs/images/flujo-secondbrain.svg). La figura describe el proceso de trabajo; no representa un servicio automático nuevo.
 - Incluido el inicio rápido de Obsidian: apertura de la raíz como bóveda existente, índice, enlaces a fuentes, búsqueda y grafo. Contrastados estos controles con la configuración local y la documentación oficial. Explicado el acceso por la pestaña Código de Gitea y la diferencia con su función Wiki separada.
 - Verificación: 32 enlaces locales del README válidos, esquema SVG válido e imagen PNG inspeccionada visualmente. Los archivos preexistentes de Obsidian y la eliminación del canvas conservan su estado; no se han modificado originales de RAW.
+
+## [2026-10-05] docs | Actualización de las instrucciones del proyecto
+
+- Actualizado [AGENTS.md](../AGENTS.md) por solicitud del usuario con el nombre Second Brain ADA NIGHT, la identidad de los repositorios y el nombre conservado por la carpeta local.
+- Registrada la configuración comprobada de Git: GitHub como remoto principal `origin`, Gitea como secundario `gitea` y seguimiento de `main` mediante `origin/main`. Corregidas en el [README](../README.md) las referencias que aún situaban Gitea como principal.
+- Añadida la referencia a la [licencia Apache 2.0](../LICENSE), distinguiendo la licencia del proyecto de las licencias y atribuciones de fuentes y complementos de terceros. Conservadas las reglas existentes de organización, incorporación de fuentes y mantenimiento de la wiki.
+- Verificación: 74 enlaces locales válidos en los tres documentos; configuración de remotos y seguimiento contrastada con Git. Las entradas históricas del registro y el texto de LICENSE se conservan sin cambios.
