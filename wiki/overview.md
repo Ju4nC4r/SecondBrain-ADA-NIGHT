@@ -6,7 +6,9 @@ Base de conocimiento personal para investigar Cardano (ADA) y Midnight (NIGHT) c
 
 ## Estado
 
-La estructura conserva la [guía de Karpathy](sources/llm-wiki.md) y una [copia del informe de ADA, NIGHT y Bitcoin](sources/2026-10-05-informe-ada-night-bitcoin.md) del 5 de octubre, procedente de otro chat y guardada en RAW con sus metadatos. El informe ya está integrado en [una síntesis diaria](reports/2026-10-05-seguimiento-ada-night-bitcoin.md), páginas de activos, conceptos y un tema de seguimiento. Las cotizaciones y el interés abierto de esa primera fotografía siguen sin nueva verificación. La revisión posterior de ETF sí conserva datos de Farside y una exportación primaria de BlackRock, con los límites descritos abajo.
+La estructura conserva la [guía de Karpathy](sources/llm-wiki.md) y los informes de ADA, NIGHT y Bitcoin del [5](reports/2026-10-05-seguimiento-ada-night-bitcoin.md) y [6 de octubre](reports/2026-10-06-seguimiento-ada-night-bitcoin.md), con versiones en RAW y fichas de procedencia. El primero procede de otro chat; el segundo se elaboró manualmente en este proyecto al comprobar que no había una entrega del día 6. La incorporación actualiza activos, conceptos, índices y el tema de seguimiento.
+
+Las cotizaciones y el interés abierto de la primera fotografía conservan su atribución y siguen sin reconstrucción con series compatibles. El informe del 6 consulta publicaciones de mercado fechadas, avisos oficiales y una nueva captura de Farside; no aporta una cotización de NIGHT al corte ni mediciones de actividad de cadena.
 
 El 5 de octubre se incorporó la [bibliografía científica y técnica de Midnight](topics/midnight-fundamentos-cientificos.md): siete PDF originales, cinco trabajos publicados en congresos y dos documentos oficiales, con versiones y procedencia registradas.
 
@@ -20,16 +22,18 @@ RAW conserva el informe original. Las páginas de la wiki contienen su elaboraci
 
 El contraste técnico identifica mecanismos relacionados con Kachina, DUST y precios por recurso. AURA/GRANDPA en el nodo revisado difiere de Minotaur PoW/PoS. Se documenta además una diferencia entre capacidad de escritura propuesta en la especificación y el código inicial; no se atribuyen esos parámetros al estado vivo. [Evidencia y límites](comparisons/midnight-investigacion-e-implementacion.md).
 
-Las fuentes para estudiar mercado y uso están identificadas, pero faltan series empíricas completas. Farside aún deja ausente IBIT del 2 de octubre al corte de la revisión; el total de 134,4 millones de USD sigue provisional. Una aproximación con NAV y participaciones del emisor no concilia con la fecha o metodología del proveedor y se conserva separada.
+Las fuentes para estudiar mercado y uso están identificadas, pero faltan series empíricas completas. La revisión del 5 dejó IBIT del 2 ausente y un total provisional de 134,4 millones de USD. La [captura del 6](sources/2026-10-06-farside-flujos-bitcoin.md) ya publica ese dato y un agregado del 1–2 de 292,6 millones. Se cierra la ausencia en el proveedor; la aproximación con NAV y participaciones del emisor sigue sin conciliar su fecha o metodología. Los originales anteriores se conservan.
+
+El [estado oficial del Cardano Summit](sources/2026-10-06-cardano-summit-estado.md) corrige su planificación anterior: no se celebra en las fechas del 5–6. El aviso no muestra fecha de publicación y no se presenta como anuncio del día 6. La [revisión de Midnight](sources/2026-10-06-midnight-red-y-agenda.md) distingue publicaciones anteriores, agenda futura y documentación operativa. Se incorporan los conceptos de [gobernanza y tesorería](concepts/gobernanza-y-tesoreria.md) e [infraestructura de acceso](concepts/infraestructura-de-acceso-a-la-red.md).
 
 La carpeta [RAW/images](../raw/images/README.md) conserva las imágenes descargadas o necesarias para la wiki, con procedencia y originales sin modificar.
 
 ## Flujo diario configurado
 
-La automatización «Noticias diarias de ADA, NIGHT y Bitcoin» conserva la entrega en el chat «Informe diario de noticias de ADA y NIGHT» a las 07:00, Europe/Madrid. Desde el 5 de octubre incluye instrucciones para archivar cada informe en RAW e integrar su contenido en la wiki. Se ha verificado la configuración guardada; queda pendiente comprobar el primer guardado e integración realizados por una ejecución automática posterior.
+La configuración registrada el 5 de octubre para «Noticias diarias de ADA, NIGHT y Bitcoin» conserva la entrega en el chat «Informe diario de noticias de ADA y NIGHT» a las 07:00, Europe/Madrid, con instrucciones de archivo e incorporación. El día 6, la comprobación del historial y del proyecto no encontró un informe de hoy; se realizó la ingesta manual solicitada. Esto no acredita una ejecución automática posterior y su primer guardado e integración autónomos siguen pendientes de comprobación. No se modificó la automatización en esta operación.
 
 ## Preguntas abiertas
 
 - Qué parámetros y comité muestra mainnet en un bloque finalizado y cómo se justifican las garantías científicas en la implementación; [contraste documental parcial completado](reports/2026-10-05-midnight-fundamentos-implementacion.md).
 - Qué resultados aportan series históricas completas de mercado, adopción y uso; [fuentes y método identificados](reports/2026-10-05-fuentes-mercado-adopcion-uso.md), descarga y análisis empírico pendientes.
-- Cómo conciliar fechas y metodología del flujo de IBIT y obtener el dato diario publicado; [estado pendiente comprobado y fuentes archivadas](reports/2026-10-05-ibit-conciliacion-flujos-etf.md), sin convertir el total provisional en definitivo.
+- Cómo conciliar fechas y metodología del flujo de IBIT con los saldos de participaciones y NAV del emisor. El [dato diario del proveedor ya está publicado](sources/2026-10-06-farside-flujos-bitcoin.md); la [discrepancia metodológica documentada](reports/2026-10-05-ibit-conciliacion-flujos-etf.md) permanece abierta.

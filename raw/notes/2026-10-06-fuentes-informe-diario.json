@@ -1,0 +1,158 @@
+{
+  "title": "Fuentes y observaciones del informe diario del 6 de octubre de 2026",
+  "consolidated_at": "2026-10-06T10:01:01+02:00",
+  "timezone": "Europe/Madrid",
+  "method": "Lectura directa de páginas mediante navegador de investigación; notas originales de observación en paráfrasis. No es una copia íntegra de los artículos ni una serie de cotizaciones en tiempo real. La hora individual de cada consulta no se registró; este sello corresponde a la consolidación.",
+  "daily_source_thread": "Informe diario de noticias de ADA y NIGHT",
+  "daily_source_status": "No había informe del 6 en el historial consultado ni en el proyecto; el último incorporado era el del 5.",
+  "records": [
+    {
+      "id": "ada",
+      "publisher": "CoinDesk",
+      "title": "Cardano's ADA leads gains in narrow range-bound market",
+      "author": "Omkar Godbole",
+      "editor": "Jamie Crawley",
+      "published_at": "2026-10-05T06:37:00-04:00",
+      "published_at_madrid": "2026-10-05T12:37:00+02:00",
+      "event_date": "2026-10-05",
+      "classification": "seguimiento de mercado publicado ayer; ventana móvil de 24 horas",
+      "observations": [
+        "La publicación describe ADA por encima de 0,27 USD y +10 % en 24 horas; no confirma el catalizador. No es una cotización al corte del informe de hoy."
+      ],
+      "url": "https://www.coindesk.com/markets/2026/10/05/cardano-s-ada-leads-gains-in-narrow-range-bound-market",
+      "consulted_date": "2026-10-06",
+      "individual_capture_time": null
+    },
+    {
+      "id": "btc",
+      "publisher": "CoinDesk",
+      "title": "Bitcoin keeps getting rejected at $87,000 as stocks hover near records",
+      "author": "Shaurya Malwa",
+      "published_at": "2026-10-06T00:41:00-04:00",
+      "published_at_madrid": "2026-10-06T06:41:00+02:00",
+      "event_date": "movimiento del 5 de octubre y lectura de la mañana asiática del 6",
+      "classification": "publicación del día; observación de mercado secundaria",
+      "observations": [
+        "El artículo sitúa BTC alrededor de 85.600 USD y una caída del 1,2 % tras un intento de superar 87.000 USD. La hora exacta de la lectura y una ventana homogénea con otros activos no constan."
+      ],
+      "url": "https://www.coindesk.com/markets/2026/10/06/bitcoin-keeps-getting-rejected-at-usd87-000-as-stocks-hover-near-records",
+      "consulted_date": "2026-10-06",
+      "individual_capture_time": null
+    },
+    {
+      "id": "farside",
+      "publisher": "Farside Investors",
+      "title": "Bitcoin ETF Flow (US$m)",
+      "published_at": null,
+      "event_dates": [
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05"
+      ],
+      "classification": "tabla dinámica; actualización de datos históricos y última sesión estadounidense publicada",
+      "observations": [
+        "IBIT del 2 de octubre figura con 158,2 millones de USD y el total de la sesión con 189,9.",
+        "La sesión del 5 registra un total de -89,8 millones. Se transcriben las doce columnas de tres sesiones.",
+        "No consta cuándo se incorporó cada celda; la tabla puede revisarse y el proveedor advierte de posibles errores."
+      ],
+      "url": "https://farside.co.uk/btc/",
+      "consulted_date": "2026-10-06",
+      "individual_capture_time": null
+    },
+    {
+      "id": "summit",
+      "publisher": "Cardano Foundation",
+      "title": "A note from the organizers — Cardano Summit",
+      "published_at": null,
+      "event_dates": [
+        "2026-10-05",
+        "2026-10-06"
+      ],
+      "classification": "cancelación comprobada hoy; fecha de anuncio desconocida",
+      "observations": [
+        "La organización informa de que el Summit previsto en Singapur no se celebra y atribuye la decisión a la votación comunitaria sobre la propuesta.",
+        "El mismo aviso diferencia el patrocinio de TOKEN2049 del 7–8 de octubre, cuya propuesta de EMURGO declara aprobada. No se ha reproducido el escrutinio en cadena."
+      ],
+      "url": "https://summit.cardano.org/",
+      "consulted_date": "2026-10-06",
+      "individual_capture_time": null
+    },
+    {
+      "id": "summit_previous",
+      "publisher": "Cardano Foundation",
+      "title": "Cardano Summit 2025 by the Numbers",
+      "published_at": "2026-03-03",
+      "event_dates": [
+        "2026-10-05",
+        "2026-10-06"
+      ],
+      "classification": "anuncio histórico superado por el aviso actual",
+      "observations": [
+        "El artículo de marzo indicaba una reserva para el Summit en Singapur el 5–6 de octubre. No acredita que el evento se celebrara."
+      ],
+      "url": "https://cardanofoundation.org/blog/cardano-summit-2025-journey-and-results",
+      "consulted_date": "2026-10-06",
+      "individual_capture_time": null
+    },
+    {
+      "id": "cardano_blog",
+      "publisher": "Cardano Foundation",
+      "title": "Blog",
+      "published_at": null,
+      "classification": "revisión limitada del listado de publicaciones",
+      "observations": [
+        "Las publicaciones más recientes del listado consultado son del 30 de septiembre; no se identificó allí una publicación del 5–6 de octubre. Esto no prueba ausencia de novedades en otros canales."
+      ],
+      "url": "https://cardanofoundation.org/blog",
+      "consulted_date": "2026-10-06",
+      "individual_capture_time": null
+    },
+    {
+      "id": "midnight_blog",
+      "publisher": "Midnight",
+      "title": "Blog",
+      "published_at": null,
+      "classification": "revisión limitada del listado de publicaciones",
+      "observations": [
+        "La entrada más reciente visible es Connecting Midnight wallets made simple with Dynamic, del 1 de octubre; no se presenta como anuncio del día 6."
+      ],
+      "url": "https://midnight.network/blog",
+      "consulted_date": "2026-10-06",
+      "individual_capture_time": null
+    },
+    {
+      "id": "ecosystem",
+      "publisher": "Midnight",
+      "title": "Ecosystem — Events Schedule",
+      "published_at": null,
+      "event_dates": [
+        "2026-10-07",
+        "2026-10-08"
+      ],
+      "classification": "agenda futura; fecha de anuncio desconocida",
+      "observations": [
+        "Enter the Night está anunciado para el 7 de octubre a las 10:00 UTC (12:00 de Madrid). Hay otros encuentros anunciados para el 8. Su celebración y posibles anuncios siguen pendientes."
+      ],
+      "url": "https://midnight.network/ecosystem",
+      "consulted_date": "2026-10-06",
+      "individual_capture_time": null
+    },
+    {
+      "id": "network",
+      "publisher": "Midnight Docs / Input Output Global",
+      "title": "Environments and endpoints",
+      "published_at": null,
+      "last_updated_date": "2026-10-05",
+      "event_at": "2026-09-30T22:00:00+00:00",
+      "event_at_madrid": "2026-10-01T00:00:00+02:00",
+      "classification": "documentación operativa actualizada ayer sobre un cambio anterior",
+      "observations": [
+        "La documentación señala Blockfrost como proveedor público del indexador y RPC de Mainnet, con token de proyecto.",
+        "El retiro de los endpoints hospedados por Midnight se fecha el 30 de septiembre a las 22:00 UTC. No se han realizado consultas autenticadas ni verificado el estado vivo de los servicios."
+      ],
+      "url": "https://docs.midnight.network/relnotes/network",
+      "consulted_date": "2026-10-06",
+      "individual_capture_time": null
+    }
+  ]
+}

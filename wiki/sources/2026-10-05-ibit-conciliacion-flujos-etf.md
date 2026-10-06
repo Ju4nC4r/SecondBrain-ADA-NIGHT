@@ -2,7 +2,7 @@
 title: "IBIT: conciliación de flujos de ETF — fuente archivada"
 type: source
 created: "2026-10-05"
-updated: "2026-10-05"
+updated: "2026-10-06"
 tags: [informe, investigacion, procedencia]
 sources:
   - "../../raw/reports/2026-10-05-ibit-conciliacion-flujos-etf.md"
@@ -24,7 +24,10 @@ Comprobación del dato todavía ausente en Farside, exportación de BlackRock y 
 
 ## Límites y uso en la wiki
 
-IBIT del 2 de octubre sigue ausente en Farside. El cálculo con NAV y participaciones es propio y aproximado, con una discrepancia de fecha o metodología sin resolver.
+Al corte del 5 de octubre, IBIT del 2 seguía ausente en Farside. El cálculo con NAV y participaciones es propio y aproximado, con una discrepancia de fecha o metodología sin resolver.
+
+## Revisión posterior del 6 de octubre
+
+La [captura nueva del proveedor](2026-10-06-farside-flujos-bitcoin.md) ya publica el dato diario antes ausente. El RAW anterior y sus cálculos permanecen intactos; la discrepancia con el emisor no queda explicada. [Informe de la revisión](../reports/2026-10-06-seguimiento-ada-night-bitcoin.md).
 
 [Informe integrado](../reports/2026-10-05-ibit-conciliacion-flujos-etf.md) · [Registro de fuentes de las consultas](../../raw/notes/2026-10-05-fuentes-investigacion-overview.md) · [Índice de fuentes](index.md).
-

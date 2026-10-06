@@ -2,10 +2,11 @@
 title: "Midnight / NIGHT"
 type: entity
 created: "2026-10-05"
-updated: "2026-10-05"
+updated: "2026-10-06"
 tags: [midnight, night]
 sources:
   - "../sources/2026-10-05-informe-ada-night-bitcoin.md"
+  - "../sources/2026-10-06-midnight-red-y-agenda.md"
   - "../sources/kachina-foundations-private-smart-contracts.md"
   - "../sources/blockchain-space-tokenization.md"
   - "../sources/minotaur-multi-resource-blockchain-consensus.md"
@@ -41,12 +42,20 @@ Resumen de las fichas de lectura incorporadas el 5 de octubre de 2026. Su relaci
 
 La lectura es histórica y no se ha vuelto a verificar. La conclusión sobre la ausencia de novedades se limita al alcance de aquella búsqueda.
 
+## Revisión del 6 de octubre
+
+El blog oficial no muestra una publicación del 5–6 en el listado consultado; su última entrada visible es del 1. La agenda del 7–8 permanece como planificación, y la documentación de acceso Mainnet se trata como contexto operativo anterior. [Fuentes, fechas y alcance de la búsqueda](../sources/2026-10-06-midnight-red-y-agenda.md).
+
+No se ha obtenido una cotización de NIGHT al corte ni una serie de actividad autenticada. La revisión documental no prueba disponibilidad en vivo o adopción. [Infraestructura de acceso](../concepts/infraestructura-de-acceso-a-la-red.md).
+
 ## Implicaciones e incertidumbres
 
 El informe no aporta pruebas para atribuir el retroceso a un problema técnico nuevo o a cambios en el uso de Midnight. Aunque ya se han archivado documentos oficiales de arquitectura y tokenomics, falta incorporar los anuncios originales y métricas de actividad correspondientes a la ventana de mercado del informe para desarrollar esa relación.
 
 ## Relaciones
 
+- [Informe integrado del 6 de octubre](../reports/2026-10-06-seguimiento-ada-night-bitcoin.md).
+- [Infraestructura de acceso a la red](../concepts/infraestructura-de-acceso-a-la-red.md).
 - [Informe integrado del 5 de octubre](../reports/2026-10-05-seguimiento-ada-night-bitcoin.md).
 - [Seguimiento de mercado](../topics/seguimiento-mercado-ada-night.md).
 - [Fundamentos científicos de Midnight](../topics/midnight-fundamentos-cientificos.md): fichas de los cinco trabajos científicos y documentos oficiales complementarios.

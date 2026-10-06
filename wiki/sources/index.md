@@ -2,6 +2,10 @@
 
 [Volver al índice general](../index.md).
 
+- [Informe archivado de ADA, NIGHT y Bitcoin — 6 de octubre de 2026](2026-10-06-informe-ada-night-bitcoin.md): procedencia de la elaboración manual y publicaciones de mercado fechadas.
+- [Farside: actualización de flujos de Bitcoin e IBIT](2026-10-06-farside-flujos-bitcoin.md): tres sesiones, doce fondos, revisiones y dato anteriormente ausente.
+- [Cardano Summit: estado del evento](2026-10-06-cardano-summit-estado.md): aviso oficial de cancelación frente a la planificación anterior.
+- [Midnight: red y agenda revisadas](2026-10-06-midnight-red-y-agenda.md): documentos de acceso, publicaciones anteriores y encuentros futuros.
 - [Propuesta LLM Wiki de Karpathy](llm-wiki.md): guía del modelo de organización.
 - [Informe archivado de ADA, NIGHT y Bitcoin — 5 de octubre de 2026](2026-10-05-informe-ada-night-bitcoin.md): copia del informe de otro chat, con fuentes enlazadas y cifras sin nueva verificación.
 - [Contraste de implementación de Midnight](2026-10-05-midnight-fundamentos-implementacion.md): informe derivado y copias de código versionadas.

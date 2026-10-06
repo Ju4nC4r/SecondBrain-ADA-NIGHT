@@ -2,10 +2,12 @@
 title: "Métricas de uso y adopción de blockchain"
 type: concept
 created: "2026-10-05"
-updated: "2026-10-05"
+updated: "2026-10-06"
 tags: [metricas, cardano, midnight]
 sources:
   - "../sources/2026-10-05-fuentes-mercado-adopcion-uso.md"
+  - "../sources/2026-10-06-midnight-red-y-agenda.md"
+  - "../sources/2026-10-06-cardano-summit-estado.md"
 ---
 
 # Métricas de uso y adopción
@@ -18,5 +20,10 @@ Un recuento de direcciones no mide personas. Deben separarse operaciones del sis
 
 Guardar cada dato con origen, unidad, intervalo observado, captura, consulta y estado de revisión. Ausencia no equivale a cero; una correlación con el precio no demuestra causa.
 
-[Cardano / ADA](../entities/cardano-ada.md) · [Midnight / NIGHT](../entities/midnight-night.md) · [Seguimiento de mercado](../topics/seguimiento-mercado-ada-night.md) · [Índice de conceptos](index.md).
+## Criterios aplicados el 6 de octubre
 
+- El [estado del Cardano Summit](../sources/2026-10-06-cardano-summit-estado.md) exige separar propuesta, aprobación y actividad ejecutada. Un calendario o un anuncio no cuantifica adopción; véase [gobernanza y tesorería](gobernanza-y-tesoreria.md).
+- La [documentación de acceso de Midnight](../sources/2026-10-06-midnight-red-y-agenda.md) identifica servicios, entorno y autenticación; no es una serie de uso. Véase [infraestructura de acceso](infraestructura-de-acceso-a-la-red.md).
+- Los precios periodísticos del [informe diario](../reports/2026-10-06-seguimiento-ada-night-bitcoin.md) proceden de horas y ventanas distintas. No se combinan como una fotografía sincronizada ni sustituyen una historia de precios.
+
+[Cardano / ADA](../entities/cardano-ada.md) · [Midnight / NIGHT](../entities/midnight-night.md) · [Seguimiento de mercado](../topics/seguimiento-mercado-ada-night.md) · [Índice de conceptos](index.md).

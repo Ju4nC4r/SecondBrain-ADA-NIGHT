@@ -2,7 +2,7 @@
 title: "IBIT: conciliación del flujo pendiente"
 type: report
 created: "2026-10-05"
-updated: "2026-10-05"
+updated: "2026-10-06"
 tags: [ibit, bitcoin, etf, provisional]
 sources:
   - "../sources/2026-10-05-ibit-conciliacion-flujos-etf.md"
@@ -30,5 +30,8 @@ Ese cálculo no cierra el flujo pendiente: entre el 30 de septiembre y el 1 de o
 
 Conservar otra captura cuando el dato diario se publique o se concilien fechas y metodología. Recalcular todas las columnas si hay revisiones, indicar proveedor y distinguir cifra publicada de cálculo propio. La wiki debe mantener el valor provisional anterior y su fecha. [Procedimiento completo](../../raw/reports/2026-10-05-ibit-conciliacion-flujos-etf.md).
 
-[Flujos de ETF de Bitcoin](../concepts/flujos-etf-bitcoin.md) · [Bitcoin / BTC](../entities/bitcoin-btc.md) · [Índice de informes](index.md).
+## Revisión posterior del 6 de octubre
 
+El estado descrito arriba corresponde al corte del día 5 y su RAW permanece intacto. La [captura nueva de Farside](../sources/2026-10-06-farside-flujos-bitcoin.md) ya publica IBIT del 2 y actualiza el agregado del 1–2. Se cierra la ausencia en el proveedor; la diferencia con la aproximación del emisor no queda conciliada. [Informe de la nueva revisión](2026-10-06-seguimiento-ada-night-bitcoin.md).
+
+[Flujos de ETF de Bitcoin](../concepts/flujos-etf-bitcoin.md) · [Bitcoin / BTC](../entities/bitcoin-btc.md) · [Índice de informes](index.md).

@@ -2,7 +2,7 @@
 title: "Seguimiento de ADA, NIGHT y Bitcoin — 5 de octubre de 2026"
 type: daily-report
 created: "2026-10-05"
-updated: "2026-10-05"
+updated: "2026-10-06"
 tags: [ada, night, bitcoin, mercado]
 sources:
   - "../sources/2026-10-05-informe-ada-night-bitcoin.md"
@@ -51,5 +51,8 @@ El documento atribuye a Decrypt, con publicación del 4 de octubre, entradas net
 - Contrastar el repunte de ADA con series de negociación y actividad de red antes de plantear una causa.
 - Separar futuras noticias de protocolo o adopción de simples movimientos de precio.
 
-[Seguimiento de mercado de ADA y NIGHT](../topics/seguimiento-mercado-ada-night.md) · [Índice de informes](index.md).
+## Revisión posterior del 6 de octubre
 
+Las cifras y atribuciones anteriores conservan la fotografía del día 5. El [nuevo informe](2026-10-06-seguimiento-ada-night-bitcoin.md) incorpora una [captura posterior de Farside](../sources/2026-10-06-farside-flujos-bitcoin.md), que ya contiene la celda pendiente de IBIT. El total provisional anterior no se sustituye en RAW; la conciliación con la metodología del emisor sigue abierta.
+
+[Seguimiento de mercado de ADA y NIGHT](../topics/seguimiento-mercado-ada-night.md) · [Índice de informes](index.md).
