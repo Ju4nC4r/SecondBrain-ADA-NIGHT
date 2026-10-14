@@ -1,0 +1,25 @@
+{
+  "author": "Codex",
+  "tool": "image_gen.imagegen integrada",
+  "mode": "built-in, sin CLI",
+  "registered": "2026-10-14T08:48:51+02:00",
+  "generation_exact_time": null,
+  "prompt": "Use case: infographic-diagram. Create a polished Spanish news infographic, landscape high resolution, crisp readable type, airy three equal panels on warm white: ADA blue, NIGHT violet, BTC orange. Only simple abstract illustrative icons, no official-logo claims, price charts, invented dates, facts, forecasts, returns, recommendations, extra slogans or watermark. Use the following text exactly with accents and decimal commas:\nTitle \"NOTICIAS DIARIAS\"\nSubtitle \"ADA · NIGHT · BITCOIN\"\nDate \"14 de octubre de 2026 · Corte: 08:35 · Europe/Madrid\"\nADA panel:\n\"ADA\"\n\"Leios: fase Fire\"\n\"Musashi Dojo aumenta la carga por etapas.\"\n\"Anuncio: 12 oct. según SIPO\"\n\"Cobertura: 13 oct.\"\n\"Fuente: sitio oficial de Musashi Dojo\"\n\"Testnet: no mejora aplicada a mainnet.\"\n\"Resultados y despliegue pendientes.\"\nNIGHT panel:\n\"NIGHT\"\n\"Nueva hoja de ruta\"\n\"Q4 2026: migración por etapas y recompensas de bloques.\"\n\"Q1 2027: staking NIGHT y participación de pools de Cardano.\"\n\"Fuente: Midnight\"\n\"Anuncio fechado el 13 por SIPO; página sin fecha.\"\n\"Objetivos futuros, sin rentabilidad garantizada.\"\nBTC panel:\n\"BITCOIN\"\n\"ETF: +175,7 M USD\"\n\"Sesión del 13 oct. · Fuente: Farside\"\n\"FBTC +103,1 · IBIT +65,9 · MSBT +6,7\"\n\"Datos revisables.\"\n\"Strive: +3.311 BTC\"\n\"Compras: 5–9 oct. · Declaración: 13 oct.\"\n\"Fuente: formulario 8-K / SEC\"\nFooter:\n\"Fechas, fuentes y límites detallados en el informe.\"\n\"Sin causalidad de precio confirmada.\"\n\"Sin recomendaciones de compra o venta.\"\nMake sure Q4 and Q1 are future roadmap quarters, ETF numbers are fund flows not price changes, the Strive purchases are earlier than publication. Legible footnotes and no overlapping text.",
+  "image_sha256": "093f00c8f82c849d400696cdc38036b9fba2e20dc7692fb3dff47b3073b5f30f",
+  "report_sha256": "c959e2af61fe5dccdd61d049fc691defb8b31fa648fa48599582c7e9b0cfe2d3",
+  "width": 1536,
+  "height": 1024,
+  "original_tool_file": "/Users/juancarlos/.codex/generated_images/01a0fb1b-0289-79a0-91cc-f6add3e697e9/exec-a544b71a-dbe5-4ef8-b1ca-c63c8206d966.png",
+  "report": "../reports/2026-10-14-informe-ada-night-bitcoin.md",
+  "sources": [
+    "https://www.musashi.network/",
+    "https://sipo.tokyo/signal-20261013-543956e9/",
+    "https://github.com/input-output-hk/ouroboros-leios/releases/tag/rc-2026w41",
+    "https://midnight.network/roadmap",
+    "https://sipo.tokyo/signal-20261014-f9aadbba/",
+    "https://farside.co.uk/btc/",
+    "https://www.sec.gov/Archives/edgar/data/1920406/000162828026065595/asst-20261013.htm"
+  ],
+  "verification": "Inspección visual: fecha/corte, Fire en testnet, Q4 2026 y Q1 2027 como planes, flujos175.7 con103.1/65.9/6.7, Strive3311BTC y ventana5–9/anuncio13. Correctos según informe.",
+  "limits": "Síntesis generada por IA, no fuente primaria. Iconos y barras decorativos, sin representar series de precio o medidas adicionales. Planes futuros y datos revisables conservados."
+}

@@ -1,6 +1,16 @@
 # Resúmenes de fuentes
 
+Última actualización: **14 de octubre de 2026, 10:10 (Europe/Madrid)**.
+
 [Volver al índice general](../index.md).
+
+- [Lote de Angry Crypto Show](2026-10-14-lote-angry-crypto-show.md): manifiesto, seis informes, transcripciones y fechas de la entrega retrasada.
+- [Angry Crypto Show — 7 de octubre](2026-10-07-informe-angry-crypto-show.md): procedencia, clasificaciones y vínculos a originales.
+- [Angry Crypto Show — 8 de octubre](2026-10-08-informe-angry-crypto-show.md): procedencia, clasificaciones y vínculos a originales.
+- [Angry Crypto Show — 9 de octubre](2026-10-09-informe-angry-crypto-show.md): procedencia, clasificaciones y vínculos a originales.
+- [Angry Crypto Show — 10 de octubre](2026-10-10-informe-angry-crypto-show.md): procedencia, clasificaciones y vínculos a originales.
+- [Angry Crypto Show — 13 de octubre](2026-10-13-informe-angry-crypto-show.md): procedencia, clasificaciones y vínculos a originales.
+- [Angry Crypto Show — 14 de octubre](2026-10-14-informe-angry-crypto-show.md): procedencia, clasificaciones y vínculos a originales.
 
 - [Informe archivado de ADA, NIGHT y Bitcoin — 6 de octubre de 2026](2026-10-06-informe-ada-night-bitcoin.md): procedencia de la elaboración manual y publicaciones de mercado fechadas.
 - [Farside: actualización de flujos de Bitcoin e IBIT](2026-10-06-farside-flujos-bitcoin.md): tres sesiones, doce fondos, revisiones y dato anteriormente ausente.

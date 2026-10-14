@@ -1,0 +1,314 @@
+YouTube transcript
+Video ID: muO8geP1FYM
+Language: en
+Captions: auto-generated
+
+[0:00] What is good, Cardano fam? ADA gang,
+[0:02] with lots of exciting updates to unpack
+[0:04] today. So, hit that subscribe, hit that
+[0:05] like. Cardano ADA 24-hour trade volume
+[0:08] reached as high as $400 million,
+[0:10] according to CoinGecko.
+[0:12] CoinMarketCap ranks Cardano as the 11th
+[0:15] most viewed cryptocurrency, surpassing
+[0:17] Chainlink, Hyperliquid, Dogecoin, BNB,
+[0:20] and Tron.
+[0:22] Cardano surpasses 301,200
+[0:26] monthly active addresses, a 12% increase
+[0:29] in the last 7 days, according to data
+[0:32] from Token Terminal.
+[0:34] Blockworks ranks Cardano as the fourth
+[0:37] highest mindshare at 3.38%,
+[0:40] surpassing Zcash, BNB, BitTensor,
+[0:44] Hyperliquid, and XRP.
+[0:47] Cardano generated over $570,000
+[0:51] in 24-hour trade volume on Calsi's
+[0:53] crypto perpetuals. Seems like not too
+[0:56] much, but still surpassing BNB and
+[0:59] Chainlink.
+[1:01] Cardano sets a new record for TPS in a
+[1:04] single block, 440 TPS, thanks to a surge
+[1:09] in transactions from Hosky. Ouroboros
+[1:11] Leios is set to advance ADA's throughput
+[1:14] to the next level. And speaking of,
+[1:17] Leios enters its fire phase to solidify
+[1:20] the true throughput ceiling. Timing
+[1:23] windows proven across the distance and
+[1:26] the hardware it really needs. Fire
+[1:28] demands performance in the harshest
+[1:31] conditions, says product manager Carlos
+[1:34] Lopez de Lara. So, we're now in the fire
+[1:36] phase, and it's going to really push
+[1:38] everything to its true limit, and really
+[1:40] make sure that it's battle-tested as we
+[1:42] get closer to mainnet.
+[1:45] Midnight Foundation product director
+[1:47] says, "You can create a Midnight
+[1:49] Passport accounts through your favorite
+[1:52] wallets. We're meeting our users where
+[1:54] they are. I think that's a great good UX
+[1:57] practice. We have a lot of fantastic
+[2:00] midnight updates. Charles had a
+[2:02] fantastic keynote. He says, "What did we
+[2:05] love, treasure, admire, and respect
+[2:07] about Bitcoin? We liked UTXO, the
+[2:10] immutability, the probabilistic
+[2:12] finality, the self-healing nature of
+[2:15] Bitcoin, color coins, the ability for
+[2:18] users to issue their own assets."
+[2:21] Charles says there were many good things
+[2:23] we learned from the Ethereum world as
+[2:25] well.
+[2:26] And he announced that OKX is listing
+[2:29] night on October 13th on OKJ in Japan,
+[2:34] so their Japanese arm. This is great.
+[2:37] More adoption in Japan, more listings.
+[2:39] Really like that.
+[2:41] Charles says privacy is super important.
+[2:44] Every business, 15 years of talking to
+[2:46] them, they come and say, "We love
+[2:48] blockchains, but we can't have
+[2:50] everything out in the open in the
+[2:52] public.
+[2:53] We need privacy-enhancing technologies,
+[2:55] not just privacy. You need all
+[2:58] categories."
+[2:59] Charles says the night frame is the
+[3:02] successor to the smart contract. It's a
+[3:05] private, always-on computer that runs
+[3:08] your programs. It follows your intent
+[3:11] and most importantly, it's provable.
+[3:14] Charles says, "When you have these
+[3:16] capabilities, you can go beyond just
+[3:18] solving problems. You can do things
+[3:20] we've never been able to do before in
+[3:22] human history. Quantum money was
+[3:25] impossible to do until we had night
+[3:28] frames,
+[3:29] offline, off-chain, totally private. And
+[3:32] imagine the synergy also with Hydra,
+[3:36] where you have the layer two using the
+[3:38] same rules as the main ledger, but also,
+[3:42] you know, that on-chain, off-chain
+[3:43] match. So, a lot of great use cases, I
+[3:46] think, that haven't been explored yet
+[3:48] for Cardano and midnight when it comes
+[3:50] to offline payments, off-chain payments.
+[3:53] Charles says, "What if each of these
+[3:55] night frames have intelligence? If they
+[3:58] start coordinating and collaborating and
+[4:00] working together, they can solve
+[4:02] incredible problems as a swarm."
+[4:05] Charles says, "Night frames are the most
+[4:07] social elements in the world. There's
+[4:09] never been something as social as this.
+[4:12] We've seen it with all these hacks with
+[4:14] hugging face, where thousands of agents
+[4:16] work together. We didn't build something
+[4:19] for agents till now."
+[4:22] And this is another reason why Midnight
+[4:24] City is important. Charles says,
+[4:25] "Another way of looking at these night
+[4:27] frames is this way. They are the agents
+[4:31] of Midnight City."
+[4:33] Charles says, "Night frames will be
+[4:34] super important for RealFi's,
+[4:36] microfinance, for lending and borrowing,
+[4:39] providing loan payments a cash-like
+[4:41] experience in places that don't have
+[4:44] stable internet. Totally private. They
+[4:46] can prove properties and it makes
+[4:49] Cardano better. Makes things grow."
+[4:52] Charles says, "Midnight Passport is
+[4:53] coming out towards the end of the year.
+[4:55] The first 6 months of next year is going
+[4:58] to be wild. About every 3 weeks a new
+[5:01] feature is shipping. When you create an
+[5:03] agent, your agent has an identity, the
+[5:06] same identity that you have."
+[5:09] Charles says, "Midnight City will enable
+[5:11] agentic trading in the next few months.
+[5:13] You can deposit funds and your agents
+[5:15] can download trading strategies and
+[5:17] place trades on other blockchains and
+[5:21] off-chain infrastructure, real
+[5:23] cryptocurrencies and you control it."
+[5:26] Dollar cost crypto. So, what are the
+[5:28] KOLs, the influencers talking about? He
+[5:30] says, "No matter how much you hate
+[5:32] Cardano, it's always come back pretty
+[5:35] well. And it will probably keep pace
+[5:37] with the majority of the market and from
+[5:39] time to time, ADA will outpace Bitcoin
+[5:42] and Ethereum."
+[5:44] Lark Davis highlights ADA's social
+[5:46] dominance. He says Cardano has a group
+[5:49] of extreme believers and that's
+[5:51] something I respect. You got to have the
+[5:53] community.
+[5:55] The modern investor, hyper bullish
+[5:58] case here. He says I could totally see
+[6:01] $295,000
+[6:03] Bitcoin, $1,000 ETH, $8.95 XRP and a $5
+[6:08] ADA. So, take it with a grain of salt,
+[6:11] but I appreciate the optimism. George
+[6:13] Crypto's R Us, he's George, I'm George,
+[6:16] we're all George, he's ADA, I'm ADA,
+[6:19] we're all ADA.
+[6:20] He says ADA can make a Solana type
+[6:23] comeback.
+[6:24] He says ADA is one that I think will
+[6:26] never disappoint unless Charles
+[6:29] Hoskinson leaves. If he leaves, it's
+[6:31] like Elon leaving Tesla.
+[6:35] On Charles Hoskinson, he says as long as
+[6:37] he doesn't leave, he stays strong and
+[6:39] leads the community, ADA will always
+[6:41] come back. The community is strong.
+[6:44] Finally, he says Charles has been
+[6:46] pushing for complete decentralization
+[6:48] of Cardano for a long time. He has moved
+[6:51] in that direction and I think he
+[6:52] completed it.
+[6:54] We Japan CEO, Yoshi Bancho says 80% of
+[6:58] retail is offline. We focus on offline.
+[7:02] We aims to leverage Midnight's
+[7:04] privacy-enhancing technology and quantum
+[7:06] money to expand offline off-chain
+[7:09] payments across more than 15,000
+[7:11] merchants and 700,000
+[7:14] payment terminals
+[7:15] in Japan. They completed a real pilot
+[7:18] project with Haneda Airport in Tokyo,
+[7:21] the first stablecoin paid face-to-face
+[7:24] in Japan with a commercial integration
+[7:27] coming this year, according to their
+[7:28] CEO. So, Midnight could supercharge that
+[7:31] adoption in Japan with private payments
+[7:34] for point of sale.
+[7:36] They also completed a real pilot project
+[7:38] for point of sale integration with
+[7:39] Lawson, which operates more than 14,600
+[7:43] convenience stores across Japan also
+[7:46] with a commercial integration rolling
+[7:48] out this year. Cardano founder Charles
+[7:50] Hoskinson did say that he's very
+[7:52] impressed with we and excited to learn
+[7:55] more.
+[7:57] Their CEO says merchants and retailers
+[7:59] never put their money on public ledgers.
+[8:02] The settlement data is crucial
+[8:04] management data. Therefore, privacy is a
+[8:07] requirement for the merchant. That's why
+[8:10] we need to work with midnight. So, it's
+[8:12] really exciting to see that type of
+[8:15] possibility of working with
+[8:17] point-of-sale merchants. I think there's
+[8:19] a great use case for Cardano for
+[8:21] midnight varying technology to take
+[8:24] advantage of offline off-chain payments.
+[8:27] Zcash co-founder highlights the rising
+[8:30] demand for a quantum safe layer one.
+[8:33] Well, we do know that Charles Hoskinson
+[8:34] has already worked with NIST on
+[8:37] post-quantum standards and is actively
+[8:39] working on nightstream with people from
+[8:41] Google, Linux Foundation, and Microsoft
+[8:44] Research. Given that Cardano is modular,
+[8:47] we can do the hard forks, we have
+[8:50] upgradeability. I think Cardano and
+[8:52] midnight are well positioned for this
+[8:54] post-quantum future.
+[8:56] Speaking of quantum, a good transition.
+[8:58] Shout out to the quantum snake.
+[9:00] Flashback to when big quantum angry gave
+[9:03] Q snake a shoutout on his YouTube
+[9:05] channel. Well, I got to say these guys
+[9:07] are amazing, great attitude. I really
+[9:09] like that quantum snake. What do you
+[9:11] guys think? Like it's it's kind of
+[9:12] chill, it's kind of cute. I like that
+[9:14] quantum snake. So, big shoutout to the
+[9:16] quantum snake.
+[9:17] Amazing members in the Cardano
+[9:19] community. There's many. What else is
+[9:21] going on? Watcher Guru reports that XRP
+[9:24] ledger fixes a critical security flaw
+[9:26] that could have allowed attackers to
+[9:29] mint unlimited XRP from nothing. Now,
+[9:32] take this with a grain of salt because I
+[9:34] do see the top reply saying fud. So,
+[9:36] take it with a massive grain of salt. Uh
+[9:39] China officially calls for the
+[9:40] construction of a national blockchain
+[9:42] network as part of its economic
+[9:45] strategy.
+[9:46] IMF says tokenized stocks are less
+[9:49] liquid and more volatile than the
+[9:51] traditional stocks.
+[9:53] Well, could be some fud against the
+[9:55] tokenized stocks, but we'll see.
+[9:57] Crypto exchange Kraken to launch in the
+[9:59] United Arab Emirates after securing full
+[10:03] regulatory approval. That's pretty big.
+[10:05] Michael Saylor strategy buys 250 Bitcoin
+[10:08] worth $21 million.
+[10:11] Standard Chartered officially launches
+[10:13] custody services for rUSD on the XRPL.
+[10:18] Morgan Stanley says tokenized asset
+[10:20] market will become a three three
+[10:22] trillion dollar to ten trillion dollar
+[10:25] market by 2030.
+[10:27] Finally, some updates from Tom Lee. He
+[10:29] predicts that Ethereum will surpass
+[10:31] $5,000 by the end of this year. Finally,
+[10:35] they've bought more than 12,000 Ethereum
+[10:37] worth $31 million. So, despite the
+[10:40] choppy market,
+[10:42] there is a lot of buys. I think a lot of
+[10:44] smart money is continuing to accumulate,
+[10:47] and I think we're setting up for
+[10:49] something that could be pretty big. Hard
+[10:51] to know exactly when, right? That's the
+[10:53] mother of all questions. When exactly
+[10:55] will it happen? But, I do think that
+[10:57] ADA, XRP, and a few select other alts
+[11:00] are well positioned with their brand,
+[11:03] with their community strength, and just
+[11:05] strong fundamentals.
+[11:07] So, I'm very excited that Leo is in his
+[11:09] fire phase. That's definitely one thing
+[11:11] that is exciting. Uh lovely video.
+[11:14] Carlos has a fantastic voice when he
+[11:16] narrates these videos.
+[11:18] Other than that, it's superb to see
+[11:20] another exchange listing.
+[11:22] OKX, so another Japanese listing for
+[11:25] Knight. And beyond that, I want to just
+[11:27] give a shout out to George. I think he
+[11:29] does a good job being fair, very
+[11:32] optimistic, and not having these very
+[11:34] like limited takes on Cardano. So, I
+[11:37] agree with him.
+[11:39] It is important for Charles to be in the
+[11:40] community as he is, and I agree with
+[11:43] George that Charles won't leave. I don't
+[11:45] think he's going to leave Cardano.
+[11:47] And finally, I agree with him that the
+[11:49] community is strong and
+[11:51] ADA comes back. We see it time and time
+[11:53] again, but we have to capitulate to
+[11:56] catapult. It's as simple as that with
+[11:58] any project, really. So, let me know
+[12:00] your thoughts. What do you guys think?
+[12:02] Will ADA always come back? What do you
+[12:04] guys think about the community strength?
+[12:06] And what are your thoughts on Leios
+[12:08] getting closer to mainnet as we have now
+[12:10] entered the fire phase. So, also for my
+[12:14] Canadians, happy Thanksgiving as a
+[12:16] fellow Canadian. Hope you guys are doing
+[12:18] well as we continue into Q4. So, smash
+[12:21] that subscribe, smash that like, and
+[12:23] I'll see you guys in the next Angry
+[12:25] Crypto Show.

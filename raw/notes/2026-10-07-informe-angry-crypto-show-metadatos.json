@@ -1,0 +1,52 @@
+{
+  "channel": "Angry Crypto Show",
+  "report_date": "2026-10-07",
+  "archived_at_utc": "2026-10-14T07:45:57.447944+00:00",
+  "ingestion_status_at_handoff": "pending",
+  "source_video": {
+    "id": "UjorU1Yf6-E",
+    "url": "https://www.youtube.com/watch?v=UjorU1Yf6-E",
+    "publication_timestamp": "2026-10-06T14:21:11-07:00",
+    "publication_madrid": null,
+    "transcript_source": "Original auto-generated English YouTube transcript in Brave, accessed through screen accessibility context",
+    "review_scope": "Full caption transcript 00:00 to closing segment 10:35; no full audio or chart review"
+  },
+  "original_report": {
+    "path": "raw/notes/2026-10-07-informe-angry-crypto-show.md",
+    "source_path": "/Users/juancarlos/Documents/Codex/2026-10-07/realtime-voice-chat/outputs/informe-angry-crypto-show-2026-10-07.md",
+    "sha256": "8be4e8cf71e9563c04901f212df117c8152a0956c78288ab8bc01b97a896ef3e",
+    "size_bytes": 7683
+  },
+  "original_transcript": {
+    "path": "raw/transcripts/2026-10-06-angry-crypto-show-UjorU1Yf6-E.txt",
+    "source_path": "/Users/juancarlos/Documents/Codex/2026-10-07/realtime-voice-chat/work/angry-crypto-show-transcripcion-2026-10-06.txt",
+    "sha256": "bb9b22d188d16f88132f597edbdedc4442e46bb7923b6fcb377de700b88c94f7",
+    "size_bytes": 10509
+  },
+  "original_infographic": null,
+  "gmail_deliveries": [
+    {
+      "report_date": "2026-10-07",
+      "recipient": "gallegojc@gmail.com",
+      "gmail_message_id": "1a114ec24dfa8be1",
+      "status": "sent_verified_in_gmail",
+      "sent_at_utc": "2026-10-07T05:53:02Z",
+      "verified_at_utc": "2026-10-07 05:53:30 UTC",
+      "do_not_resend": true
+    },
+    {
+      "report_date": "2026-10-07",
+      "recipient": "gallegojc@gmail.com",
+      "gmail_message_id": "1a114f0a54080c75",
+      "status": "sent_verified_in_gmail",
+      "subject": "[Codex] Angry Crypto Show — Informe diario del 7 de octubre de 2026",
+      "delivery_type": "explicit_user_requested_resend_with_subject_prefix",
+      "verified_at_utc": "2026-10-07T06:04:44.648077+00:00",
+      "do_not_resend": true
+    }
+  ],
+  "limitations": [
+    "Copia original sin modificar; la ingesta debe conservar las distinciones, atribuciones y limitaciones del informe.",
+    "No se han generado informes retrospectivos para fechas sin original recuperable."
+  ]
+}

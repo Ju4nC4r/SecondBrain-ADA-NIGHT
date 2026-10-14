@@ -1,0 +1,32 @@
+{
+  "author": "Codex",
+  "report_date": "2026-10-13",
+  "recipient": "gallegojc@gmail.com",
+  "subject": "[Codex] Informe diario de ADA, NIGHT y Bitcoin — 2026-10-13",
+  "message_id": "1a133e1f5f7e22d5",
+  "thread_id": "1a133e1f5f7e22d5",
+  "internal_date_milliseconds": "1791871808000",
+  "label_ids": [
+    "UNREAD",
+    "SENT",
+    "INBOX"
+  ],
+  "verified_headers": {
+    "received": "from 77377267392 named unknown by gmailapi.google.com with HTTPREST; Tue, 13 Oct 2026 08:10:08 +0200",
+    "mime-version": "1.0",
+    "content-type": "multipart/related; boundary=\"===============2156498222509547882==\"",
+    "subject": "[Codex] Informe diario de ADA, NIGHT y Bitcoin — 2026-10-13",
+    "to": "gallegojc@gmail.com",
+    "date": "Tue, 13 Oct 2026 08:10:08 +0200",
+    "message-id": "<CANZA1bQDvCn132wAbbyu128_uzOZ_xknHJ+73gbODN9c+_BCcA@mail.gmail.com>",
+    "from": "Juan Carlos Gallego <gallegojc@gmail.com>"
+  },
+  "verification": "Respuesta de envío y lectura metadata: SENT, asunto y destinatario correctos; no acredita lectura por el destinatario.",
+  "format": "multipart/related con versiones HTML y texto, PNG inline",
+  "report": "../reports/2026-10-13-informe-ada-night-bitcoin.md",
+  "image": "../images/2026-10-13-infografia-ada-night-bitcoin.png",
+  "sent_time_europe_madrid": "2026-10-13T08:10:08+02:00",
+  "verification_registered": "2026-10-13T08:13:02+02:00",
+  "report_sha256": "48c24292f13d85eb1df8d8ef4925257b5492abb271d71299b8c0a2264f6e451e",
+  "image_sha256": "1dbe88f424eaf3e15ac098fc0d567d4c4ce4dace3d4b0ed3ba14f2172e84c0d2"
+}

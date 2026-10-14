@@ -1,6 +1,11 @@
 # Conceptos
 
+Última actualización: **14 de octubre de 2026, 10:10 (Europe/Madrid)**.
+
 [Volver al índice general](../index.md).
+
+- [Previsiones atribuidas y publicidad](previsiones-atribuidas-y-publicidad.md): autores, condiciones, campos ausentes y patrocinio.
+- [Interoperabilidad, custodia y privacidad](interoperabilidad-custodia-y-privacidad.md): redes, activos, reservas y etapas de despliegue distintas.
 
 - [Interés abierto en futuros](interes-abierto-en-futuros.md): indicador de derivados utilizado en el informe.
 - [Flujos de ETF de Bitcoin](flujos-etf-bitcoin.md): capturas históricas, actualización publicada y conciliación metodológica pendiente.

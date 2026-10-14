@@ -1,0 +1,23 @@
+{
+  "author": "Codex",
+  "tool": "image_gen.imagegen integrada",
+  "mode": "built-in, sin CLI",
+  "prompt": "Use case: infographic-diagram. Create a polished editorial infographic in Spanish, landscape, crisp large typography, three spacious panels ADA in blue, NIGHT in violet, Bitcoin in orange; simple decorative line icons, restrained business style on off-white background. No invented logos, charts, price trends, slogans, watermarks, facts or advice. Use ONLY the following exact text, fully readable with proper Spanish accents and decimal commas:\nHeader: \"NOTICIAS DIARIAS\"\nSubtitle: \"ADA · NIGHT · BITCOIN\"\nDate: \"13 de octubre de 2026 · Corte: 07:58 · Europe/Madrid\"\nADA panel:\n\"ADA\"\n\"Dos propuestas expiradas\"\n\"minPoolCost: apoyo DRep 44,18 %\"\n\"OpenZeppelin: apoyo DRep 4,0 %\"\n\"Umbral: 67 %\"\n\"Hecho: 11 oct., 23:44 Madrid\"\n\"Publicación: 12 oct. · Fuente: SIPO\"\n\"Resultados secundarios, sin contraste directo en AdaStat.\"\nNIGHT panel:\n\"NIGHT\"\n\"OKJ: inicio previsto hoy\"\n\"13 oct. · 10:00 Madrid / 17:00 Japón\"\n\"Anuncio: 10 oct. · Fuente: OKCoin Japan\"\n\"Depósitos y retiradas: Cardano\"\n\"Al corte, aún pendiente de inicio.\"\n\"Hora sujeta a cambios; liquidez por comprobar.\"\nBTC panel:\n\"BITCOIN\"\n\"81.382 USD · −2,8 % en 24 h\"\n\"Lectura histórica: 13 oct., 03:20 Madrid\"\n\"Fuente: The Block\"\n\"ETF: −65,4 M USD\"\n\"Sesión del 12 oct. · Fuente: Farside\"\n\"IBIT: −65,4 M USD\"\n\"Datos revisables.\"\nFooter:\n\"Fuentes y fechas detalladas en el informe.\"\n\"Sin causa única de precio confirmada.\"\n\"Sin recomendaciones de compra o venta.\"\nConstraints: The voting percentages are DRep approvals attributed to SIPO, NOT price changes. ETF values are flows, NOT price returns. NIGHT event is scheduled later than the cutoff, NOT already operational. BTC value is historical. Ensure complete and exact text; clean hierarchy, balanced margins and whitespace.",
+  "report": "../reports/2026-10-13-informe-ada-night-bitcoin.md",
+  "report_sha256": "48c24292f13d85eb1df8d8ef4925257b5492abb271d71299b8c0a2264f6e451e",
+  "image_sha256": "1dbe88f424eaf3e15ac098fc0d567d4c4ce4dace3d4b0ed3ba14f2172e84c0d2",
+  "registration": "2026-10-13T08:04:24+02:00",
+  "generation_time_exact": null,
+  "generation_note": "Generada durante esta ejecución antes del registro; hora independiente no conservada.",
+  "original_tool_file": "/Users/juancarlos/.codex/generated_images/01a0fb1b-0289-79a0-91cc-f6add3e697e9/exec-f8ebfc04-055d-4275-9f09-4138213b1d33.png",
+  "width": 1774,
+  "height": 887,
+  "source_urls": [
+    "https://sipo.tokyo/epoch-660/",
+    "https://prtimes.jp/main/html/rd/p/000000193.000054229.html",
+    "https://farside.co.uk/btc/",
+    "https://www.theblock.co/news/markets/2026-10-12-bitcoin-slides-crypto-liquidations-surge-418374"
+  ],
+  "verified": "Inspección visual: fecha y corte, votos DRep 44,18 y 4,0 frente 67, fecha del hecho 11 a23:44; NIGHT futuro13 a10:00Madrid; precio histórico81382 y -2,8; ETF e IBIT -65,4. Cifras y límites coinciden.",
+  "limitations": "Imagen derivada generada por IA; no fuente primaria ni activos oficiales. Fuente secundaria de gobernanza explícita; inicio de OKJ pendiente al corte; flujos revisables."
+}

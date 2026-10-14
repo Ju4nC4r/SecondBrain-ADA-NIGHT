@@ -1,0 +1,315 @@
+YouTube transcript
+Video ID: qNSsaPvlmd0
+Language: es
+Captions: auto-generated
+
+[0:00] ¿Qué tal, familia de Cardano?
+[0:01] Pandilla ADA, hoy tenemos muchas
+[0:02] actualizaciones emocionantes que
+[0:04] analizar. Así que, suscríbanse y
+[0:05] denle a me gusta. El volumen de
+[0:07] comercio de 24 horas de Cardano ADA
+[0:09] alcanzó los 810 millones de dólares,
+[0:11] según CoinGecko. CoinMarketCap
+[0:13] clasifica a Cardano como la novena
+[0:16] criptomoneda más vista, superando a
+[0:18] Hyperliquid, Chainlink y Dogecoin. ADA
+[0:21] generó el tercer mayor volumen de
+[0:23] comercio en 24 horas en los perpetuos
+[0:26] cripto de Polymarket, con más de 3.5
+[0:28] millones de dólares. Súper
+[0:31] impresionante, justo detrás de Bitcoin
+[0:33] y Ethereum. ADA generó el décimo
+[0:37] mayor volumen de comercio en 24 horas
+[0:40] en los perpetuos cripto de Kalshi,
+[0:42] superando los 2.1 millones, por encima
+[0:44] de los 770 mil de BNB. Casi el triple
+[0:48] del volumen de los perpetuos.
+[0:50] Blockworks clasifica a ADA como la
+[0:53] cuarta mayor cuota de mercado una vez
+[0:56] más con un 3.52%, justo detrás de
+[0:59] Ethereum, superando a Zcash, BNB,
+[1:02] Bittensor, Hyperliquid y XRP. El token
+[1:06] Night supera los 88,000 titulares
+[1:09] únicos en Cardano, según Cexplorer.
+[1:13] La Fundación Cardano anuncia que el
+[1:15] CIP-113 de ADA ya está activo en la
+[1:18] red principal. Una actualización
+[1:20] importante que desbloquea la
+[1:22] tokenización programable para integrar
+[1:24] reglas de cumplimiento directamente en
+[1:27] los activos nativos de Cardano,
+[1:29] aplicadas automáticamente por el
+[1:31] propio registro para avanzar en activos
+[1:33] regulados y adopción institucional. La
+[1:37] Fundación Cardano dice: "Cardano está
+[1:39] abierto a activos regulados. Las
+[1:41] stablecoins, los bonos y las acciones
+[1:43] vienen con reglas. Ahora, el propio
+[1:46] token puede llevarlas, con el registro
+[1:48] aplicándolas en cada emisión,
+[1:50] transferencia o quema, activo hoy en la
+[1:53] red principal". Esto es fantástico
+[1:56] porque desbloquea la adopción
+[1:57] institucional, especialmente en lo que
+[2:00] respecta al cumplimiento y la lógica
+[2:02] personalizable para nuestros CNT.
+[2:05] Sentiment Intelligence, otra gran
+[2:07] publicación. Dicen que el dominio
+[2:09] social de Cardano alcanzó un nuevo
+[2:11] máximo en 2026. La actividad de las
+[2:14] ballenas de ADA alcanzó su nivel más
+[2:16] alto desde el 4 de junio. Así que,
+[2:18] creo, basándome en gran parte de los
+[2:20] datos que hemos visto en los últimos
+[2:22] meses, que las ballenas efectivamente
+[2:24] están acumulando ADA. Y de nuevo, la
+[2:26] actividad es fuerte en las grandes
+[2:28] carteras, pero también en la cuota de
+[2:30] mercado. Continúan diciendo que Leios,
+[2:34] el soporte de bloques lejanos y las
+[2:36] nuevas integraciones institucionales
+[2:38] están ayudando a impulsar el mayor
+[2:40] pico de discusión de Cardano en el
+[2:42] año. Chain Spect dice que Cardano
+[2:47] estableció un nuevo récord de TPS en
+[2:50] un solo bloque, 329 TPS hoy, 7 de
+[2:53] octubre. Superando el récord anterior
+[2:57] de 304 TPS establecido el 24 de
+[2:59] diciembre de 2024. Ahora, por supuesto,
+[3:02] con Cardano es más avanzado debido a
+[3:05] UTXO. Podemos agrupar cosas dentro de
+[3:07] una transacción. Así que solo puedo
+[3:09] imaginar lo que sucederá con la
+[3:11] actualización de Leios. Porque ya con
+[3:14] una demostración exitosa de 1,000 TPS,
+[3:16] Ouroboros Leios está listo para llevar
+[3:18] el rendimiento de ADA al siguiente
+[3:20] nivel. Y tenemos los bloques de
+[3:23] respaldo, los bloques de Praos; tenemos
+[3:25] lo mejor de ambos mundos. Esto es
+[3:28] emocionante. Esto se presentó en el
+[3:31] evento Token 2049. Fluid Tokens y
+[3:34] MinSwap de ADA unen sus fuerzas. El CEO
+[3:38] de Fluid Token dice que la fusión
+[3:40] permitirá integraciones más profundas
+[3:42] para DeFi más compleja, mayores
+[3:44] rendimientos, más liquidez y hará que
+[3:46] DeFi en Cardano sea mucho más
+[3:48] competitivo. Los proyectos siguen
+[3:50] siendo independientes, pero los equipos
+[3:52] se comparten. Así que, es un
+[3:54] movimiento interesante. Midnight ha
+[3:56] generado más de 220,000 transacciones
+[3:58] en la red principal según Midnight
+[4:00] Explorer. Así que, desde el
+[4:02] lanzamiento de los despliegues de
+[4:04] contratos inteligentes privados sin
+[4:06] permiso, las transacciones en la red
+[4:08] principal están aumentando. Charles
+[4:11] Hoskinson dice: "Bienvenido a Midnight,
+[4:13] Solana". Los usuarios de SOL podrán
+[4:16] intercambiar de forma privada e
+[4:17] interactuar con DeFi privada
+[4:19] directamente desde sus billeteras de
+[4:21] Solana en la red principal con la
+[4:23] actualización de componibilidad de la
+[4:24] versión 9 de Midnight, prevista para
+[4:26] finales de año. Ya vimos al CTO de la
+[4:29] Fundación Midnight mostrar el trabajo
+[4:32] en la red de prueba que ya está activo
+[4:34] con billeteras como Nightly y Backpack,
+[4:37] pero imagino que veremos más soporte
+[4:39] de billeteras y también el paso a la
+[4:42] red principal con la actualización del
+[4:45] registro de la versión 9. Sundae Labs
+[4:48] anuncia intercambios atómicos. Ahora
+[4:51] bien, no se trata de los intercambios
+[4:52] atómicos entre cadenas que muchos
+[4:53] piensan y que yo también pensé que
+[4:55] serían. Esto es, esencialmente, un
+[4:57] enrutamiento súper eficiente, por así
+[4:59] decirlo. Tradicionalmente, enrutar un
+[5:01] intercambio a través de múltiples
+[5:02] grupos significa ejecutar cada salto
+[5:04] por separado. Cada salto introduce otra
+[5:06] transacción, otra oportunidad de
+[5:08] deslizamiento y el riesgo de quedarse
+[5:11] atrapado con un token que nunca tuvo la
+[5:13] intención de poseer. Así que, los
+[5:15] intercambios atómicos que presentan, y
+[5:17] que ya están activos, eliminan la
+[5:19] brecha entre saltos. Usted especifica
+[5:21] lo que está intercambiando y el
+[5:23] mínimo que está dispuesto a recibir.
+[5:25] El enrutador de la versión 4 encuentra
+[5:27] el mejor camino a través de sus grupos
+[5:29] y ejecuta toda la ruta en una sola
+[5:31] transacción de Cardano. Cada salto
+[5:33] tiene éxito o ninguno se ejecuta. Sin
+[5:36] rellenos parciales, sin tokens
+[5:38] intermedios varados, sin exposición
+[5:40] entre transacciones. Así que, echemos
+[5:43] un vistazo a esto en vivo. Bastante
+[5:46] genial. Podemos ver cómo SNACK no
+[5:48] tiene un par para USD RF, pero
+[5:50] básicamente aún puedes encontrarlo.
+[5:53] Encontrarás la mejor ruta, en este
+[5:54] caso a tres niveles de profundidad en
+[5:56] los grupos. Tres grupos, una
+[5:58] transacción, ve directo de SNACK a esa
+[6:01] moneda estable. Cada salto se completa
+[6:03] o ninguno lo hace. Esto me gusta. Creo
+[6:06] que es importante. Es muy crítico
+[6:08] tener un buen enrutamiento. Ruta a
+[6:10] cualquier lugar, liquida una vez. Buen
+[6:12] avance por parte de SundaeSwap. Más
+[6:15] actualizaciones de Charles en la ONU.
+[6:18] Él dice: "Hemos logrado que las
+[6:20] plantas sean bioluminiscentes y muy
+[6:22] brillantes. Un pequeño equipo puede
+[6:24] empezar a concebir cómo usar las
+[6:26] plantas para reconstruir el mundo por
+[6:28] completo, eliminar toxinas del suelo y
+[6:30] terraformar el desierto". Podemos usar
+[6:33] la IA para acelerar la investigación
+[6:35] por décadas. Charles dice: "Lo que
+[6:38] hace que las tecnologías exponenciales
+[6:40] de IA sean tan interesantes y
+[6:41] difíciles para nosotros es que mejoran
+[6:43] por sí mismas, se vuelven más
+[6:44] rápidas y drásticamente mejores". ¿
+[6:46] Por qué entonces la regulación no
+[6:49] hace lo mismo? Todo se soluciona solo y
+[6:52] el sistema se autorrepara. Finalmente,
+[6:55] Charles dice: "La sociedad no puede
+[6:56] funcionar si no confiamos unos en otros
+[6:58] ". La razón por la que tenemos tantos
+[7:01] problemas ahora es que la tecnología y
+[7:03] la globalización avanzan demasiado
+[7:05] rápido y no podemos adaptarnos lo
+[7:07] suficiente para confiar en todos, así
+[7:09] que estamos regresando al tribalismo.
+[7:11] ¿Verdad? La economía solo puede
+[7:13] funcionar con confianza. Y plantea un
+[7:15] buen punto sobre cómo las tecnologías
+[7:17] exponenciales se aceleran de forma
+[7:18] alocada y es difícil para nosotros
+[7:20] seguir el ritmo. Second Five acaba de
+[7:23] lanzar, eh, probablemente la
+[7:24] actualización más importante, chicos.
+[7:27] Así que, si fueron afectados por
+[7:28] Second Five, antes conocido como Yoroi,
+[7:31] la herramienta de recuperación de
+[7:33] activos ya está activa. Es una
+[7:35] publicación sumamente larga. No
+[7:37] entraré en todos los detalles.
+[7:39] Asegúrense de seguir todos los enlaces
+[7:41] oficiales, pero la herramienta de
+[7:43] recuperación solo está disponible en
+[7:45] secondfi.io a través de un navegador
+[7:47] web. No se completa a través de la
+[7:49] aplicación de Secondfi. Recomiendo
+[7:51] encarecidamente tener una buena
+[7:52] billetera lista de antemano. Yo uso
+[7:55] Lace. Hay muchas otras excelentes, como
+[7:58] Vespr, etc. Dicen que no necesitan
+[8:00] haber enviado un ticket de reclamo
+[8:02] antes de comenzar. Enviar una solicitud
+[8:04] de recuperación a través de la
+[8:06] herramienta oficial inicia el proceso
+[8:07] de reclamo para la billetera afectada.
+[8:10] Ahora bien, dijeron que una vez
+[8:12] terminado, básicamente envía una
+[8:14] prueba, genera un comprobante, y puede
+[8:17] tomar cinco días hábiles para que esa
+[8:19] migración, los activos afectados, sean
+[8:21] trasladados a la billetera de destino.
+[8:25] Una vez que todo esté migrado a su
+[8:28] gusto, definitivamente dejen de usar
+[8:31] esa billetera afectada; asegúrense de
+[8:34] revisar su publicación. Espero que, si
+[8:38] fueron afectados, puedan recuperar todo
+[8:40] y tengan una pronta recuperación de
+[8:43] sus activos. ¿Qué más está pasando?
+[8:45] Watcher Guru dice que el banco más
+[8:47] grande de Rusia, Sberbank, fue aprobado
+[8:49] oficialmente como custodio de cripto
+[8:51] para lanzar productos de Bitcoin,
+[8:53] Ethereum y USDT. Así que serán
+[8:56] oficialmente un custodio. Robinhood
+[8:59] anuncia que agregó 25 millones de
+[9:01] dólares en Bitcoin a su balance
+[9:03] general. Tom Lee dice que Bitmain
+[9:06] dejará de comprar más Ethereum cuando
+[9:09] acumule el 5%del suministro total de
+[9:11] Ethereum. Eric Trump dice que el auge
+[9:14] de la IA provocará un crecimiento
+[9:16] masivo de las criptomonedas. La CFTC
+[9:18] dice que ofrecerá reglas claras,
+[9:21] disculpen, sobre criptomonedas, con o
+[9:23] sin legislación del Congreso. Eso me
+[9:25] agrada. Por último, el gigante
+[9:27] bancario Wells Fargo está en
+[9:29] conversaciones con la empresa matriz de
+[9:30] Kraken para proveer liquidez de trading
+[9:32] de criptomonedas. Muy bien. Entonces,
+[9:35] los precios retrocedieron esta mañana.
+[9:38] ADA estuvo, creo, por debajo de los 25
+[9:40] centavos, pero se está normalizando de
+[9:41] nuevo. Es algo de esperar. El camino
+[9:44] hacia arriba no será lineal. Así que,
+[9:46] esperen algunos retrocesos, a veces
+[9:48] bastante drásticos. En este momento,
+[9:52] ADA a 0.254, XRP a 1.42 y Bitcoin a 833
+[9:56] . Algunas personas esperan un retroceso
+[10:00] hasta los 74 mil. Todo es posible, ¿
+[10:04] verdad? Recordamos la liquidación del
+[10:06] 10/10 que ocurrió el año pasado. Así
+[10:08] que, mucha gente está algo asustada
+[10:10] por eso, creo, con los tres días que
+[10:11] tenemos por delante. Pero, en general,
+[10:14] creo que nos dirigimos hacia niveles
+[10:15] mucho más altos. Creo que apenas
+[10:17] estamos comenzando, pero eso no
+[10:18] significa que estemos libres de
+[10:20] retrocesos. Los retrocesos y las
+[10:22] liquidaciones a la baja siguen siendo
+[10:24] una posibilidad. Bueno, un par de
+[10:26] menciones. Es genial ver que el CIP-113
+[10:29] para la tokenización programable ya
+[10:31] está activo en la red principal.
+[10:34] Además, me impresiona mucho ver que
+[10:36] ADA es el número tres, justo detrás
+[10:39] de Ethereum, en volumen de perpetuos en
+[10:42] Polymarket. Muy bueno. Y aparte de eso,
+[10:45] estoy disfrutando mucho del trabajo y
+[10:47] la colaboración. Esperemos ver más
+[10:50] colaboración entre Solana, Cardano y
+[10:53] Midnight. Hay muchas actualizaciones
+[10:55] excelentes ocurriendo en segundo plano,
+[10:57] tal como vimos con SundaeSwap. Creo que
+[11:00] algo así es genial para mejorar el
+[11:02] enrutamiento, porque a veces quieres
+[11:04] enrutar algo y nuestro ecosistema DeFi
+[11:06] no es tan profundo, por así decirlo. Y
+[11:10] por eso, necesitas un mejor
+[11:12] enrutamiento para solucionar la posible
+[11:14] falta de pares o de liquidez, para al
+[11:16] final darle al usuario lo que busca.
+[11:19] Así que, buenas actualizaciones en
+[11:21] todos los ámbitos. Déjenme saber qué
+[11:22] es lo que más les emociona. ¿Y qué
+[11:24] piensan ustedes sobre la fusión,
+[11:26] uniendo fuerzas entre Fluid Tokens y
+[11:28] MinSwap? Me interesa ver qué opinan al
+[11:32] respecto. Creo que es bueno. Me gustan
+[11:35] ambos proyectos y creo que al
+[11:37] mantenerse independientes y trabajar
+[11:39] juntos, compartiendo liquidez y
+[11:41] habilidades, ambos podrían
+[11:43] beneficiarse mucho y llevar las cosas
+[11:45] al siguiente nivel. Así que, déjenme
+[11:48] saber sus pensamientos. Suscríbanse,
+[11:50] denle me gusta y nos vemos en el
+[11:51] próximo programa de Angry Crypto.

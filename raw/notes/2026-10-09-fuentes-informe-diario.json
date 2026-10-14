@@ -1,0 +1,137 @@
+{
+  "type": "notas_de_consulta_derivadas_no_articulos_completos",
+  "author": "Codex",
+  "report_date": "2026-10-09",
+  "timezone": "Europe/Madrid",
+  "cutoff": "2026-10-09T08:56:00+02:00",
+  "preparation_clock": "2026-10-09 06:56:25 UTC",
+  "per_source_access_time": null,
+  "sources": [
+    {
+      "url": "https://cardanofoundation.org/blog/ada-icann-next-stage",
+      "kind": "comunicado oficial consultado directamente",
+      "author": "Laura Mattiucci",
+      "publication_date": "2026-10-08",
+      "publication_time": null,
+      "event_dates": [
+        "2026-10-07",
+        "2026-10-08"
+      ],
+      "observations": [
+        "Avance de la solicitud .ada a siguiente fase atribuido a la Fundación; hito Reveal Day del 7.",
+        "Evaluación técnica, financiera y operativa pendiente; aprobación final no acreditada.",
+        "Delegaciones previstas en 2028–2030 según la Fundación, condicionadas al proceso."
+      ],
+      "limitations": [
+        "Lista ICANN no contrastada de forma independiente; no adopción ni causalidad de precio confirmadas."
+      ]
+    },
+    {
+      "url": "https://midnight.network/blog",
+      "kind": "índice oficial consultado directamente",
+      "publication_date": null,
+      "event_date": null,
+      "observations": [
+        "Última entrada visible fechada 2026-10-01; no nueva noticia posterior al informe del 8 localizada."
+      ],
+      "limitations": [
+        "Ausencia limitada a búsqueda; no reproducir la noticia antigua como nueva."
+      ]
+    },
+    {
+      "url": "https://midnight.foundation/",
+      "kind": "página institucional consultada directamente",
+      "publication_date": null,
+      "observations": [
+        "Sin anuncio nuevo fechado identificado."
+      ]
+    },
+    {
+      "url": "https://midnight.network/ecosystem",
+      "kind": "agenda oficial consultada directamente",
+      "publication_date": null,
+      "observations": [
+        "Agenda futura previamente conocida; no se introduce como novedad en el cuerpo."
+      ],
+      "limitations": [
+        "No confirma resultados nuevos de eventos."
+      ]
+    },
+    {
+      "url": "https://farside.co.uk/btc/",
+      "kind": "tabla del proveedor consultada directamente",
+      "publication_date": null,
+      "publication_time": null,
+      "event_date": "2026-10-08",
+      "unit": "millones USD",
+      "columns": [
+        "IBIT",
+        "FBTC",
+        "BITB",
+        "ARKB",
+        "BTCO",
+        "EZBC",
+        "BRRR",
+        "HODL",
+        "BTCW",
+        "MSBT",
+        "GBTC",
+        "BTC"
+      ],
+      "values": [
+        "-5.5",
+        "-197.1",
+        "-17.7",
+        "-20.3",
+        "0.0",
+        "4.7",
+        "0.0",
+        "0.0",
+        "0.0",
+        "0.0",
+        "-8.2",
+        "0.0"
+      ],
+      "total": "-244.1",
+      "comparison": {
+        "event_date": "2026-10-07",
+        "total": "-484.9",
+        "two_session_sum": "-729.0",
+        "calculation": "Propio, suma de las filas del 7 y 8"
+      },
+      "limitations": [
+        "Revisable; fila completa no equivale a conciliación con emisores."
+      ]
+    },
+    {
+      "url": "https://cryptoslate.com/bitcoin-crashes-through-81000-buy-wall-as-1-billion-crypto-liquidation-bloodbath-unfolds/",
+      "kind": "noticia secundaria consultada directamente; datos CoinGlass atribuidos por el medio",
+      "author": "Oluwapelumi Adejumo",
+      "publication_date": "2026-10-08",
+      "publication_time": null,
+      "event_date": "2026-10-08",
+      "observations": [
+        "BTC tuvo mínimo intradía cerca de 80000 USD según el artículo.",
+        "Más de 1000 millones USD de liquidaciones agregadas de mercado cripto en la ventana previa de 24h descrita."
+      ],
+      "limitations": [
+        "Extremos horarios desconocidos; ventana no reconstruida directamente en CoinGlass.",
+        "Resumen/cuerpo/pies de imagen presentan desgloses divergentes; no se fusionan ni se extrae una cifra exacta de BTC.",
+        "Lectura posterior por URL falló transitoriamente; referencia previamente leída recuperó contenido."
+      ]
+    },
+    {
+      "url": "https://sipo.tokyo/signal-20261007-e81d65f4/",
+      "kind": "cobertura secundaria consultada para detectar duplicación",
+      "publication_date": "2026-10-07",
+      "observations": [
+        "Contenido de Midnight ya recogido el 8; excluido del cuerpo como noticia antigua."
+      ]
+    }
+  ],
+  "limitations": [
+    "No cobertura exhaustiva de redes sociales ni cotizaciones compatibles al corte.",
+    "Resultados de tokens homónimos no identificados se descartaron.",
+    "Solo informe, metadatos, notas y fila CSV archivados; artículos completos no archivados."
+  ]
+}

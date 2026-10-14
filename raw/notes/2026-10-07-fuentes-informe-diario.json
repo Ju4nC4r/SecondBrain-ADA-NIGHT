@@ -1,0 +1,47 @@
+{
+  "report_date": "2026-10-07",
+  "timezone": "Europe/Madrid",
+  "cutoff": "07:50",
+  "recorded_at": "2026-10-07T07:50:22+02:00",
+  "origin_thread": "01a0fb1b-0289-79a0-91cc-f6add3e697e9",
+  "kind": "Notas derivadas de consultas; no archivo de artículos completos",
+  "sources": [
+    {
+      "url": "https://cardanofoundation.org/blog/programmable-tokens-cardano-mainnet",
+      "author": "Siobhán Calpin / Cardano Foundation",
+      "publication_date": "2026-10-07",
+      "publication_time": null,
+      "event_date": "2026-10-07",
+      "exact_deployment_time": null,
+      "observations": "Anuncio oficial: CIP-0113 live en mainnet; reconocimiento para esquema CMTA. Sin comprobación independiente de código/cadena. Reapertura intermedia fallida; consulta al resultado anterior accesible."
+    },
+    {
+      "url": "https://midnight.network/blog",
+      "author": "Midnight",
+      "latest_visible_publication": "2026-10-01",
+      "observations": "No entrada nueva del 6–7 visible en el listado consultado; conclusión limitada al alcance consultado."
+    },
+    {
+      "url": "https://midnight.network/ecosystem",
+      "author": "Midnight",
+      "publication_date": null,
+      "event_at": "2026-10-07T10:00:00Z",
+      "observations": "Agenda previamente conocida; evento pendiente al corte. No resultados ni anuncio concreto confirmado."
+    },
+    {
+      "url": "https://farside.co.uk/btc/",
+      "author": "Farside Investors",
+      "publication_date": null,
+      "event_date": "2026-10-06",
+      "unit": "millones de USD",
+      "raw_data": "../data/2026-10-07-farside-flujos-bitcoin.csv",
+      "observations": "Todas las columnas de la fila tienen valores. 122+7.8-11=118.8. Proveedor distinto de emisores; revisable."
+    }
+  ],
+  "limitations": [
+    "No cotizaciones simultáneas verificadas",
+    "No copia íntegra de páginas externas",
+    "No causa confirmada de movimientos de precio",
+    "No validación independiente de ejecución automática"
+  ]
+}

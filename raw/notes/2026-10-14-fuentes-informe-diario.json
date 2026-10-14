@@ -1,0 +1,128 @@
+{
+  "author": "Codex",
+  "report_date": "2026-10-14",
+  "cutoff": "2026-10-14T08:35:00+02:00",
+  "research_clock": "2026-10-14 06:35:00 UTC",
+  "registered": "2026-10-14T08:48:51+02:00",
+  "per_source_exact_capture_time": null,
+  "sources": [
+    {
+      "slug": "cardano-leios-fire",
+      "title": "Cardano: Leios en la fase Fire",
+      "urls": [
+        "https://www.musashi.network/",
+        "https://sipo.tokyo/signal-20261013-543956e9/",
+        "https://github.com/input-output-hk/ouroboros-leios/releases/tag/rc-2026w41"
+      ],
+      "kind": "página primaria y release consultados directamente; cobertura secundaria para fecha del anuncio",
+      "author": "IOG; SIPO para la cobertura",
+      "publication_date": null,
+      "event_date": "2026-10-12 según SIPO",
+      "secondary_publication_date": "2026-10-13",
+      "claims": [
+        "El sitio oficial confirma fase Fire de testnet y aumento escalonado de carga.",
+        "No equivale a activación en mainnet ni rendimiento validado de producción."
+      ],
+      "limits": [
+        "Página oficial sin fecha visible; X de IOG no accesible; no pruebas de rendimiento propias ni resolución de gobernanza comprobada."
+      ]
+    },
+    {
+      "slug": "midnight-roadmap",
+      "title": "Midnight: hoja de ruta y staking de NIGHT",
+      "urls": [
+        "https://midnight.network/roadmap",
+        "https://sipo.tokyo/signal-20261014-f9aadbba/"
+      ],
+      "kind": "roadmap primaria consultada directamente; cobertura secundaria para fecha de difusión",
+      "author": "Midnight; SIPO para la cobertura",
+      "publication_date": null,
+      "event_date": "difusión del anuncio el 2026-10-13 según SIPO",
+      "secondary_publication_date": "2026-10-14",
+      "claims": [
+        "Q4 2026: migración escalonada BABE y recompensas de producción de bloques.",
+        "Q1 2027: staking NIGHT, apertura de producción a SPO de Cardano y comienzo de migración BABE a mainnet."
+      ],
+      "limits": [
+        "Página sin fecha de publicación; X no accesible; objetivos futuros, sin implementación, tasas de recompensa o condiciones de participación verificadas."
+      ]
+    },
+    {
+      "slug": "farside-flujos-bitcoin",
+      "title": "Farside: sesión del 13 de octubre",
+      "urls": [
+        "https://farside.co.uk/btc/"
+      ],
+      "kind": "tabla primaria del proveedor",
+      "author": "Farside Investors",
+      "publication_date": null,
+      "event_date": "2026-10-13",
+      "claims": [
+        "Doce columnas: IBIT65.9, FBTC103.1, MSBT6.7, las demás0.0; total175.7 millones USD."
+      ],
+      "limits": [
+        "Dato revisable; hora de publicación desconocida; no conciliación por emisor."
+      ]
+    },
+    {
+      "slug": "strive-compras-bitcoin",
+      "title": "Strive: compras de Bitcoin declaradas el 13",
+      "urls": [
+        "https://www.sec.gov/Archives/edgar/data/1920406/000162828026065595/asst-20261013.htm"
+      ],
+      "kind": "declaración primaria del emisor en SEC, formulario8-K",
+      "author": "Strive, Inc.",
+      "publication_date": "2026-10-13",
+      "event_date": "compras entre2026-10-05 y2026-10-09; saldo al9",
+      "claims": [
+        "3311BTC comprados, promedioaproximado84500USD incluidas comisiones y gastos; totaltenencias32773BTC."
+      ],
+      "limits": [
+        "Compras anteriores a anuncio, declaración de empresa sin auditoría propia de custodia; no sumar como simultáneas a flujos ETF."
+      ]
+    }
+  ],
+  "blocked": [
+    "https://x.com/MidnightNtwrk/status/2110032576517976405",
+    "https://x.com/IOGroup/status/2109615074163974342"
+  ],
+  "conservation": "Notas y paráfrasis, informe derivado e infografía; no artículos íntegros.",
+  "limits": [
+    "No causas de precio confirmadas ni cotizaciones sincronizadas al corte.",
+    "No se repiten las propuestas expiradas o el anuncio de OKJ del informe anterior.",
+    "Ejecución manual de hoy por petición explícita, sin cambiar o pausar programación."
+  ],
+  "farside": {
+    "session_date": "2026-10-13",
+    "columns": [
+      "IBIT",
+      "FBTC",
+      "BITB",
+      "ARKB",
+      "BTCO",
+      "EZBC",
+      "BRRR",
+      "HODL",
+      "BTCW",
+      "MSBT",
+      "GBTC",
+      "BTC"
+    ],
+    "values": [
+      "65.9",
+      "103.1",
+      "0.0",
+      "0.0",
+      "0.0",
+      "0.0",
+      "0.0",
+      "0.0",
+      "0.0",
+      "6.7",
+      "0.0",
+      "0.0"
+    ],
+    "total": "175.7",
+    "unit": "millones USD"
+  }
+}

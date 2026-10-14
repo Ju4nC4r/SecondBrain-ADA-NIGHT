@@ -2,9 +2,10 @@
 title: "Seguimiento de mercado de ADA y NIGHT"
 type: topic
 created: "2026-10-05"
-updated: "2026-10-06"
+updated: "2026-10-14"
 tags: [ada, night, mercado, seguimiento]
 sources:
+  - "../sources/2026-10-14-lote-angry-crypto-show.md"
   - "../sources/2026-10-05-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-06-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-06-farside-flujos-bitcoin.md"
@@ -42,3 +43,9 @@ El documento no identifica causas fundamentales confirmadas de los movimientos. 
 ## Contradicciones y lagunas
 
 Las capturas del 5 y 6 de Farside conservan el dato antes ausente y su publicación posterior; la diferencia temporal o metodológica con el emisor sigue abierta. El aviso del Cardano Summit contradice su planificación histórica: se documentan ambas fuentes, sin afirmar que la cancelación se anunciara hoy. Las cotizaciones y el OI del primer informe aún no se han reconstruido con series compatibles y faltan medidas de uso y adopción. Véanse las [fichas de fuentes](../sources/index.md) y los [informes incorporados](../reports/index.md).
+
+## Fuente complementaria: Angry Crypto Show
+
+El [seguimiento del canal](seguimiento-angry-crypto-show.md) incorpora seis informes de opinión con transcripciones de los días 7, 8, 9, 10, 13 y 14. Mantiene separadas las noticias documentadas, métricas no reproducidas, previsiones condicionales y patrocinio. Complementa la serie de Noticias diarias ADA/NIGHT/BTC; el informe del 10 de Angry no rellena la laguna del 10 de esa otra serie.
+
+Las lecturas del canal no sustituyen series compatibles de mercado o uso. Los niveles de inversión y plazos ausentes no se reconstruyen desde títulos, gráficos no revisados o intervenciones anteriores. [Previsiones y publicidad](../concepts/previsiones-atribuidas-y-publicidad.md) · [Interoperabilidad y custodia](../concepts/interoperabilidad-custodia-y-privacidad.md).

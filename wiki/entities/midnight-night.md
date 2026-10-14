@@ -2,9 +2,10 @@
 title: "Midnight / NIGHT"
 type: entity
 created: "2026-10-05"
-updated: "2026-10-06"
+updated: "2026-10-14"
 tags: [midnight, night]
 sources:
+  - "../sources/2026-10-14-lote-angry-crypto-show.md"
   - "../sources/2026-10-05-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-06-midnight-red-y-agenda.md"
   - "../sources/kachina-foundations-private-smart-contracts.md"
@@ -63,3 +64,11 @@ El informe no aporta pruebas para atribuir el retroceso a un problema técnico n
 - [Modelo token-recurso](../concepts/modelo-token-recurso.md): relación de NIGHT con la capacidad de ejecución.
 - [Fuentes para medir mercado, adopción y uso](../reports/2026-10-05-fuentes-mercado-adopcion-uso.md): fuentes identificadas y series empíricas pendientes.
 - [Cardano / ADA](cardano-ada.md).
+
+## Informes de Angry Crypto Show incorporados el 14
+
+Los episodios del [lote](../sources/2026-10-14-lote-angry-crypto-show.md) citan actividad de mainnet y agentes de Midnight City, pero no reconstruyen sus ventanas históricas. Los planes de Passport, nightframes y wallets de Solana permanecen como descripciones y calendarios atribuidos; no prueban funciones actuales, garantías de identidad o adopción.
+
+El [informe del 13](../sources/2026-10-13-informe-angry-crypto-show.md) recoge el anuncio de OKJ y el [del 14](../sources/2026-10-14-informe-angry-crypto-show.md) una afirmación de operación activa. Ninguno verifica la operación efectiva. El [comunicado primario ya incorporado](../sources/2026-10-13-night-okj.md) documenta el horario previsto y conserva sus límites.
+
+[Sig.Network](sig-network.md) y las hipótesis sobre [Minswap](minswap.md) se conectan con [interoperabilidad, custodia y privacidad](../concepts/interoperabilidad-custodia-y-privacidad.md). Ledger v9, disponibilidad de una función de wallets, staking y consenso son estados distintos; la fotografía histórica del código se mantiene.

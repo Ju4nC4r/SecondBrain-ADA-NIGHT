@@ -37,3 +37,11 @@ La configuración registrada el 5 de octubre para «Noticias diarias de ADA, NIG
 - Qué parámetros y comité muestra mainnet en un bloque finalizado y cómo se justifican las garantías científicas en la implementación; [contraste documental parcial completado](reports/2026-10-05-midnight-fundamentos-implementacion.md).
 - Qué resultados aportan series históricas completas de mercado, adopción y uso; [fuentes y método identificados](reports/2026-10-05-fuentes-mercado-adopcion-uso.md), descarga y análisis empírico pendientes.
 - Cómo conciliar fechas y metodología del flujo de IBIT con los saldos de participaciones y NAV del emisor. El [dato diario del proveedor ya está publicado](sources/2026-10-06-farside-flujos-bitcoin.md); la [discrepancia metodológica documentada](reports/2026-10-05-ibit-conciliacion-flujos-etf.md) permanece abierta.
+
+## Incorporación adicional: Angry Crypto Show
+
+El [lote de Angry](sources/2026-10-14-lote-angry-crypto-show.md), archivado por petición del usuario, incorpora seis informes de revisión de los días 7, 8, 9, 10, 13 y 14. Cada uno conserva original, metadatos y transcripción; cuatro infografías están vinculadas en las síntesis. Su [tema de seguimiento](topics/seguimiento-angry-crypto-show.md) separa noticias, métricas atribuidas, opiniones condicionales y publicidad.
+
+Se reutilizan CIP-0113, .ada, Leios y la roadmap; se añaden [Minswap](entities/minswap.md), [Solada](entities/solada.md), [Sig.Network](entities/sig-network.md), [previsiones y publicidad](concepts/previsiones-atribuidas-y-publicidad.md) e [interoperabilidad y custodia](concepts/interoperabilidad-custodia-y-privacidad.md). La descripción de Solada matiza liquidez unificada; los cambios de afirmación sobre OKJ no se convierten en operación comprobada. La ficha primaria de Strive complementa el contraste secundario del canal.
+
+El seguimiento empezó el 7: no constan informes recuperables del 1–6 ni 11–12, sin inferir ausencia de vídeos. El informe del 10 se preparó el 12 y se envió el 13; su imagen conserva la fecha de preparación. Es una serie adicional: ese informe del 10 no sustituye un informe faltante de Noticias diarias ADA/NIGHT/BTC. Los originales y el estado histórico pending del manifiesto permanecen intactos.

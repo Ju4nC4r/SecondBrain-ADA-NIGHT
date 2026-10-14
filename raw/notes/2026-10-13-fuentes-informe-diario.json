@@ -1,0 +1,101 @@
+{
+  "author": "Codex",
+  "report_date": "2026-10-13",
+  "timezone": "Europe/Madrid",
+  "cutoff": "2026-10-13T07:58:00+02:00",
+  "last_research_clock": "2026-10-13T05:58:12Z",
+  "registration": "2026-10-13T08:04:24+02:00",
+  "per_source_exact_capture_time": null,
+  "sources": [
+    {
+      "url": "https://sipo.tokyo/epoch-660/",
+      "type": "secundaria, análisis de un SPO/DRep participante",
+      "author": "SIPO",
+      "publication_date": "2026-10-12",
+      "event_time_jst": "2026-10-12T06:44:00+09:00",
+      "event_time_madrid": "2026-10-11T23:44:00+02:00",
+      "time_precision": "aproximada, minutos",
+      "claims": [
+        "minPoolCost 170 a 75 ADA expiró con apoyo DRep 44.18% frente umbral 67%.",
+        "Retirada OpenZeppelin 11787063 ADA expiró con apoyo DRep 4.0%."
+      ],
+      "limitations": [
+        "Fichas AdaStat inaccesibles; no reconstrucción directa de resultados on-chain."
+      ]
+    },
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000000193.000054229.html",
+      "type": "comunicado primario de OKCoin Japan distribuido en PR TIMES",
+      "author": "OKCoin Japan",
+      "publication_date": "2026-10-10",
+      "displayed_publication_time": "18:17 (zona no escrita en el texto leído)",
+      "planned_event_time_japan": "2026-10-13T17:00:00+09:00",
+      "planned_event_time_madrid": "2026-10-13T10:00:00+02:00",
+      "claims": [
+        "Inicio previsto de NIGHT en negociación, compraventa, compras periódicas y depósitos/retiradas.",
+        "Red Cardano; negociación en sistema actualizado; horario puede variar."
+      ],
+      "limitations": [
+        "Evento posterior al corte, no inicio operativo comprobado, ni volumen o liquidez."
+      ]
+    },
+    {
+      "url": "https://farside.co.uk/btc/",
+      "type": "tabla primaria del proveedor",
+      "author": "Farside Investors",
+      "publication_date": null,
+      "publication_time": null,
+      "event_date": "2026-10-12",
+      "unit": "millones USD",
+      "values": {
+        "IBIT": "-65.4",
+        "FBTC": "0.0",
+        "BITB": "0.0",
+        "ARKB": "0.0",
+        "BTCO": "0.0",
+        "EZBC": "0.0",
+        "BRRR": "0.0",
+        "HODL": "0.0",
+        "BTCW": "0.0",
+        "MSBT": "0.0",
+        "GBTC": "0.0",
+        "BTC": "0.0",
+        "Total": "-65.4"
+      },
+      "limitations": [
+        "Tabla automática revisable; no conciliación por emisor."
+      ]
+    },
+    {
+      "url": "https://www.theblock.co/news/markets/2026-10-12-bitcoin-slides-crypto-liquidations-surge-418374",
+      "type": "noticia secundaria consultada directamente",
+      "author": "Timmy Shen; edición Danny Park",
+      "publication_time_edt": "2026-10-12T21:57:00-04:00",
+      "update_time_edt": "2026-10-12T22:23:00-04:00",
+      "price_time_edt": "2026-10-12T21:20:00-04:00",
+      "publication_time_madrid": "2026-10-13T03:57:00+02:00",
+      "update_time_madrid": "2026-10-13T04:23:00+02:00",
+      "price_time_madrid": "2026-10-13T03:20:00+02:00",
+      "claims": [
+        "BTC 81382 USD, -2.8%24h al momento citado, no al corte.",
+        "Liquidaciones mercado cripto 771 millones USD, largos 685.6 millones; CoinGlass citado por el medio."
+      ],
+      "limitations": [
+        "Ventana CoinGlass no reconstruida directamente, extremos horarios exactos del agregado desconocidos.",
+        "Opiniones macro y contagio asiático se excluyen como causa confirmada."
+      ]
+    }
+  ],
+  "inaccessible_primary_urls": [
+    "https://adastat.net/governances/75e7882a8ef2bc39517bffbfb654e89f525def5a8364d81e11fc5facafc6dd9b0",
+    "https://adastat.net/governances/418df5986f50547ec4a709f1a5bce6b850753ad6614c873386b7c953fee84a9f0",
+    "https://support.okj.com/hc/ja/articles/62711798448153"
+  ],
+  "preservation": "Informe, imagen generada, metadatos, notas y fila CSV; no artículos completos.",
+  "gaps": "Al inicio no existían copias de informes del 10–12 en las carpetas consultadas. No se deduce motivo ni se acredita ausencia de entrega fuera del proyecto; no se rellenan retrospectivamente.",
+  "limitations": [
+    "Sin cotizaciones simultáneas al corte, causalidad de precio o conciliación individual con emisores.",
+    "Anuncios anteriores no se repiten salvo inicio operativo previsto hoy.",
+    "La consulta secundaria de SIPO distingue su fecha de publicación y la conversión de fecha del hecho."
+  ]
+}

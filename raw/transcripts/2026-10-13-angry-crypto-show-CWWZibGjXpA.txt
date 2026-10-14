@@ -1,0 +1,295 @@
+YouTube transcript
+Video ID: CWWZibGjXpA
+Language: en
+Captions: auto-generated
+
+[0:00] What is good Cardano fam, ADA gang?
+[0:02] We've lots of exciting updates to unpack
+[0:04] today, so hit that subscribe, hit that
+[0:06] like. Cardano ADA 24-hour trade volume
+[0:08] surpasses $530 million
+[0:11] according to CoinGecko.
+[0:12] CoinMarketCap ranks Cardano as the 13th
+[0:15] most viewed cryptocurrency, surpassing
+[0:18] hyperliquid, Chainlink, Dogecoin, BNB,
+[0:21] and Tron.
+[0:23] Blockworks ranks Cardano as the fourth
+[0:26] highest mind share yet again at 3.28%
+[0:30] right behind Ethereum, surpassing Zcash,
+[0:33] BNB, Bittensor, hyperliquid, and XRP.
+[0:38] Coinbase wrapped ADA surpasses 6,500
+[0:41] holders, highlighting rising interest in
+[0:43] cross-chain Cardano.
+[0:45] Midnight has generated over 400,000
+[0:49] transactions on mainnet according to
+[0:50] Midnight Explorer, a 34% increase in
+[0:54] just 4 days.
+[0:57] Kraken Pro posts the SNACK.
+[1:00] Looks like the Kraken intern is really
+[1:02] enjoying the SNACK, and I got to say the
+[1:04] new logo has definitely grown on me. I
+[1:06] was a little resistant at first, but I
+[1:09] do like the new logo.
+[1:10] ADA generated nearly $700,000
+[1:14] in 24-hour trade volume on KAU SHI's
+[1:17] crypto perpetuals, surpassing BNB at 570
+[1:21] and Chainlink at 370. So again, though
+[1:24] the numbers may not seem so high, we're
+[1:27] doing nearly double Chainlink's volume.
+[1:30] Cardano's Strike Finance says, "Every
+[1:33] dollar we make goes back to our holders,
+[1:36] and we believe it's one of the things
+[1:37] that will propel us to a billion-dollar
+[1:40] market cap."
+[1:42] They also applied to list the Strike
+[1:44] token on CoinMarketCap, so great not
+[1:48] just for Strike, but Strike is a Cardano
+[1:50] native asset, and so that's also going
+[1:53] to boost the visibility for
+[1:54] Cardano-related projects.
+[1:57] Cardano Foundation says the European
+[1:59] Union just turned every green claim on
+[2:01] food into something brands have to
+[2:04] prove.
+[2:05] Open food chain partnered already with
+[2:08] giants like Kraft Heinz and Interfood
+[2:12] anchors food traceability, certificates,
+[2:15] and supplier evidence as verifiable
+[2:17] proofs on Cardano.
+[2:19] So, Open Food Chain is already a step
+[2:21] ahead and they just make it an easy scan
+[2:25] of QR code.
+[2:26] This is fantastic. So, Cardano is well
+[2:28] positioned when it comes to
+[2:30] traceability.
+[2:32] Midnight City surpasses 1,400 online
+[2:35] agents. 274 active agents were added in
+[2:39] just 5 days.
+[2:42] Cardano surpasses 303,200
+[2:45] monthly active addresses, a 2,000
+[2:48] increase in 24 hours, according to data
+[2:51] from Token Terminal. So, again, the
+[2:53] surge in monthly active addresses,
+[2:56] transactions, and whatnot, I think
+[2:59] mostly credited to Hosky going crazy
+[3:02] with a lot of on-chain transactions and
+[3:05] airdrops and things like that. So, big
+[3:07] shout-out, big respect to Hosky token.
+[3:10] Cardano's premier DEX MinSwap hints at
+[3:14] upcoming multi-chain support for Bitcoin
+[3:17] and Midnight. They had a poll and they
+[3:20] had their MinSwap logo
+[3:23] in the brand color scheme of both
+[3:25] Bitcoin and Midnight. So, who knows?
+[3:27] They don't support the networks right
+[3:29] now. They do have night token, but
+[3:31] that's a CNA. So, I think MinSwap, if
+[3:35] they integrate Bitcoin and Midnight
+[3:37] network, could be huge.
+[3:40] Alex Becker. He's Alex, I'm Alex, we're
+[3:42] all Alex. He mentions Cardano.
+[3:45] Now, not in the most
+[3:48] civil, respectful way, but at the end of
+[3:50] the day, posts like this get hundreds of
+[3:54] thousands of views.
+[3:56] And it just goes to show what we say
+[3:58] about brand power,
+[4:00] the community strength.
+[4:02] So, it's something about Tobey Maguire
+[4:04] and some ex-wife. I don't even know.
+[4:05] But, you know, Alex has cheeky humor,
+[4:08] and he just grabs his PNG, just leaves
+[4:11] that transparent background, and away we
+[4:14] go. I'm excited uh for the market, and I
+[4:17] think many others are as well. We look
+[4:19] at the silver lining.
+[4:21] Nights token trading is now live on OKX
+[4:25] in Japan. That's OKX's Japanese arm, if
+[4:28] you will.
+[4:29] Following Sony's regulated crypto
+[4:32] exchange S-Blocks, if you guys recall,
+[4:35] listing both Cardano and Midnight back
+[4:37] in August. So, Night token continues to
+[4:40] establish itself as a regulated asset
+[4:43] for trading in Japan.
+[4:45] This is super exciting. I really like
+[4:48] this. The first-ever Cardano to Solana
+[4:50] launchpad is now live, unifying Cardano
+[4:54] and Solana with a new liquidity rail, if
+[4:56] you will, bringing ADA-funded launches
+[4:59] to Pump Fund,
+[5:01] which has over 1.7 million monthly
+[5:04] active users. So, it enables their
+[5:06] massive audience to discover and trade
+[5:09] these tokens. Now, why is that good?
+[5:12] Because it's all taken care of, and Pump
+[5:14] Fund creator fees are paid in ADA
+[5:17] directly to Cardano wallets. So, it
+[5:19] brings in a new flow of revenue right
+[5:22] back to the Cardano ecosystem, but
+[5:24] giving exposure to a massive audience,
+[5:27] where normally a rail like that didn't
+[5:29] exist.
+[5:31] So, I like the project name, Solada.
+[5:34] Pretty cool, nice combination of Solana
+[5:36] and Cardano. And it's a great video that
+[5:39] they have on the explainer. So, if you
+[5:41] guys like Solana, you like Cardano,
+[5:43] check it out. I think it's cool, because
+[5:46] you do not have to use a Solana network.
+[5:49] You don't need to use a Solana wallet.
+[5:51] You can just stay with Cardano and they
+[5:53] take care of everything and they unify
+[5:56] everything and then bring in that new
+[5:57] flow of users and liquidity.
+[6:00] Charles Hoskinson says abstraction is a
+[6:03] continuation of the prior generation of
+[6:05] interoperability. Multi-chain,
+[6:08] multi-asset.
+[6:09] Charles says AI agents are getting
+[6:11] involved in our money. They're getting
+[6:13] connected to our bank accounts, our
+[6:15] phones, our payment systems. Agentic
+[6:18] finance is incredibly important.
+[6:21] Couldn't agree any more. Charles says
+[6:23] all the properties of each generation
+[6:25] build on the prior generation. And you
+[6:28] carry the guarantees, values, and powers
+[6:30] of them. Nightframes integrate the
+[6:33] properties of the cryptocurrency space.
+[6:36] Non-custodial, decentralized,
+[6:38] censorship-resistant.
+[6:40] Charles on Nightframes says Midnight
+[6:42] City is the front page of this new
+[6:44] paradigm. And as we bring the countless
+[6:47] millions and billions of people
+[6:48] together, we will witness an economic
+[6:51] shift we've never seen in human history
+[6:54] and power coming back to the people.
+[6:58] Charles says if you have smart
+[6:59] contracts, let's go a step further.
+[7:01] We'll have living organisms within these
+[7:04] Nightframes. Programs that are
+[7:06] persistent. It works everywhere 24/7.
+[7:09] They never stop.
+[7:11] Charles on the evolution of smart
+[7:13] contracts says Nightframes are growing
+[7:15] exponentially in their intelligence with
+[7:18] large language models. Their
+[7:20] capabilities get better. So, why don't
+[7:22] we give them wallets? We just integrated
+[7:25] the open wallet standard. They can have
+[7:28] any type of asset.
+[7:30] Lark Davis. Hate him or love him. At the
+[7:32] end of the day, he does say some good
+[7:35] things also. You know, criticisms aside.
+[7:38] He says ADA went to $100 billion.
+[7:40] Charles has people's attention. so
+[7:43] midnight has people's attention as a
+[7:45] broad byproduct of that.
+[7:47] So, ultimately, the mind share is there,
+[7:48] and it's not a matter of opinion, as we
+[7:51] saw with Blockworks.
+[7:52] Crypto Banter's Sheldon says you can see
+[7:54] very clearly where the buys are on ADA.
+[7:58] I do think a lot of these tokens are
+[8:00] going to be here for a week or two, and
+[8:03] then start moving ridiculously.
+[8:06] As he targets towards 40 cents and
+[8:08] beyond for ADA. In the days and weeks
+[8:11] ahead, it's hard to know exactly the
+[8:13] timing, but he is optimistic.
+[8:16] What else is going on? Russia's Moscow
+[8:18] Exchange to launch Bitcoin, Ethereum,
+[8:20] and USDT trading on December 1st. Nasdaq
+[8:24] CEO says tokenization could unlock tens
+[8:26] of billions of dollars across the global
+[8:29] financial system. S&P executes its
+[8:32] first-ever on-chain derivatives swap.
+[8:36] Vivek Strive buys over 3,300 Bitcoin.
+[8:39] Quite a big buys, worth 275
+[8:42] million dollars.
+[8:44] Wells Fargo CEO says the bank is
+[8:46] preparing for potential crypto
+[8:48] stablecoin opportunities in the United
+[8:50] States.
+[8:52] Finally, Michael Saylor says
+[8:54] Bitcoin is at the beginning of a bull
+[8:56] market.
+[8:57] Well, only time will tell.
+[8:59] But, speaking of time, I want to give a
+[9:01] big shout-out to Kalshi. Guys, I'm super
+[9:04] excited to announce that Kalshi is now
+[9:06] officially uh the sponsor for the
+[9:08] channel. And if you didn't know, Kalshi
+[9:11] did list ADA perpetuals live for
+[9:13] trading, Cardano perps, right in
+[9:16] America, only on Kalshi. So, if you're
+[9:18] looking for a place to trade
+[9:21] perpetuals, leverage perpetuals in the
+[9:24] United States, fully CFTC regulated,
+[9:27] Kalshi's available to eligible US
+[9:29] residents. You can sign up using my link
+[9:32] and get a $50 bonus for trading 25
+[9:34] bucks.
+[9:35] Really great to work uh with Kalshi, and
+[9:38] I'm so happy that they included ADA with
+[9:41] their perps as we've been talking about
+[9:44] how ADA has a clear regulatory advantage
+[9:48] with CME Group and whatnot. And as we
+[9:50] saw with the ADA perps on Kalshi, which
+[9:53] is not too long ago, just a little over
+[9:55] a month, September 3rd. So, jumping to
+[9:58] price,
+[10:00] ADA right now at 237,
+[10:03] BTC at 831, and XRP at 1.37.
+[10:07] So, let me know guys, have you traded
+[10:09] perps before? We obviously have a
+[10:10] variety of options available. I think
+[10:13] that the UX of Kalshi is dope, and
+[10:15] everything that you're looking for is in
+[10:17] the video description if you do want to
+[10:19] sign up. But keep in mind that it is for
+[10:21] US residents. But yeah, other than that
+[10:25] guys,
+[10:27] the highlights for me, I would say would
+[10:29] be
+[10:30] Mhm.
+[10:32] One, I'm very excited that Strike is
+[10:34] listing on CMC. I think that they are a
+[10:36] sleeper, and again, it just shows us the
+[10:38] importance of perps, right? Whether it's
+[10:40] Kalshi, whether it's Strike Finance,
+[10:43] etc.
+[10:44] Uh beyond that, these little micro
+[10:47] markets, if you will,
+[10:49] almost showcase to us that, in my
+[10:51] opinion,
+[10:53] ADA is undervalued because we continue
+[10:56] to see not only the social dominance,
+[10:58] but strong volume on perps platforms,
+[11:01] which are like a micro niche market in
+[11:03] themselves when people are trading. So,
+[11:05] that's a big one. And I think the last
+[11:07] but not least,
+[11:09] this is awesome. I think we
+[11:12] underestimate the amount of users and
+[11:14] liquidity that could flow in. We're
+[11:16] talking $70 billion plus of an
+[11:18] ecosystem. So, by them being tethered to
+[11:21] one another, I think that there's a big
+[11:23] possibility we can see more flow of fees
+[11:26] paid out in ADA, which we're already
+[11:28] seeing a lot with the platform.
+[11:32] And beyond that, the last thing I would
+[11:33] say,
+[11:34] nice to see OKX list Knight in Japan,
+[11:38] OKJ. So, let me know, guys, what do you
+[11:40] think about the current market right
+[11:43] now?
+[11:44] And a big thank you to Kalshi for them
+[11:46] now becoming the official sponsor of the
+[11:49] channel. So, let me know your thoughts,
+[11:51] guys. Smash that subscribe, smash that
+[11:53] like, and I'll see you guys in the next
+[11:55] Angry Crypto Show.

@@ -1,0 +1,33 @@
+{
+  "author": "Codex",
+  "report_date": "2026-10-14",
+  "chat_origin": "01a0fb1b-0289-79a0-91cc-f6add3e697e9",
+  "to": "gallegojc@gmail.com",
+  "subject": "[Codex] Informe diario de ADA, NIGHT y Bitcoin — 2026-10-14",
+  "message_id": "1a1392d79b3e05e4",
+  "thread_id": "1a1392d79b3e05e4",
+  "internal_date_milliseconds": "1791960643000",
+  "report": "../reports/2026-10-14-informe-ada-night-bitcoin.md",
+  "image": "../images/2026-10-14-infografia-ada-night-bitcoin.png",
+  "verification": {
+    "sent_label": true,
+    "to_and_subject_verified": true,
+    "text_plain_exact": true,
+    "text_html_exact": true,
+    "image_filename": "2026-10-14-infografia-ada-night-bitcoin.png",
+    "image_mime": "image/png",
+    "image_inline": "inline; filename=\"2026-10-14-infografia-ada-night-bitcoin.png\"",
+    "attachment_downloaded_to_memory_for_verification_only": true,
+    "image_sha256": "093f00c8f82c849d400696cdc38036b9fba2e20dc7692fb3dff47b3073b5f30f",
+    "image_bytes": 1542415,
+    "image_exact_match": true
+  },
+  "limitations": [
+    "El envío y el contenido se verifican en Gmail; no acredita lectura por el destinatario."
+  ],
+  "programming": "Sin cambio ni pausa de la automatización diaria",
+  "sent_time_europe_madrid": "2026-10-14T08:50:43+02:00",
+  "verification_registered": "2026-10-14T08:53:02+02:00",
+  "report_sha256": "c959e2af61fe5dccdd61d049fc691defb8b31fa648fa48599582c7e9b0cfe2d3",
+  "image_sha256": "093f00c8f82c849d400696cdc38036b9fba2e20dc7692fb3dff47b3073b5f30f"
+}

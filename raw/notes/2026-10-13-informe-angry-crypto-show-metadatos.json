@@ -1,0 +1,57 @@
+{
+  "channel": "Angry Crypto Show",
+  "report_date": "2026-10-13",
+  "archived_at_utc": "2026-10-14T07:45:57.535241+00:00",
+  "ingestion_status_at_handoff": "pending",
+  "source_video": {
+    "id": "muO8geP1FYM",
+    "url": "https://www.youtube.com/watch?v=muO8geP1FYM",
+    "publication_timestamp": "2026-10-12T10:11:42-07:00",
+    "publication_madrid": "2026-10-12T19:11:42+02:00",
+    "transcript_source": "Transcripción completa original de YouTube, inglés automático exportado desde Brave y resumido en español; audio y gráficos no revisados íntegramente.",
+    "review_scope": "00:00–12:25; metadatos de duración 746 segundos"
+  },
+  "original_report": {
+    "path": "raw/notes/2026-10-13-informe-angry-crypto-show.md",
+    "source_path": "/Users/juancarlos/Documents/Codex/2026-10-07/realtime-voice-chat/outputs/informe-angry-crypto-show-2026-10-13.md",
+    "sha256": "9d658ef9d6658246bba1799156781218035a9b43b37c3b57e7091d810e509afb",
+    "size_bytes": 11266
+  },
+  "original_transcript": {
+    "path": "raw/transcripts/2026-10-12-angry-crypto-show-muO8geP1FYM.txt",
+    "source_path": "/Users/juancarlos/Documents/Codex/2026-10-07/realtime-voice-chat/work/angry-crypto-show-transcripcion-2026-10-12.txt",
+    "sha256": "48fc9733dc5984e33b5329cb998205702fda30a3c0551fbffcc3fac3b50f06da",
+    "size_bytes": 13120
+  },
+  "original_infographic": {
+    "path": "raw/images/2026-10-13-infografia-angry-crypto-show.png",
+    "source_path": "/Users/juancarlos/Documents/Codex/2026-10-07/realtime-voice-chat/outputs/infografia-angry-crypto-show-2026-10-13.png",
+    "sha256": "c7dbc41f49188cd03a45814d3609e72a83418217bfbe86a84615838decd3ea99",
+    "size_bytes": 1813861
+  },
+  "gmail_deliveries": [
+    {
+      "report_date": "2026-10-13",
+      "recipient": "gallegojc@gmail.com",
+      "subject": "[Codex] Angry Crypto Show — Informe diario — 2026-10-13",
+      "gmail_message_id": "1a133e68461ce057",
+      "gmail_thread_id": "1a133e68461ce057",
+      "status": "sent_verified_in_gmail",
+      "sent_at_utc": "2026-10-13T06:15:07+00:00",
+      "sent_at_local": "2026-10-13T08:15:07+02:00",
+      "verified_at_utc": "2026-10-13T06:16:38.092431+00:00",
+      "full_body_verified": true,
+      "infographic_included": true,
+      "infographic_path": "outputs/infografia-angry-crypto-show-2026-10-13.png",
+      "infographic_size_bytes": 1813861,
+      "infographic_delivery": "inline_multipart_related_content_id_verified",
+      "report_path": "outputs/informe-angry-crypto-show-2026-10-13-con-infografia.html",
+      "delivery_type": "scheduled_daily_report",
+      "do_not_resend": true
+    }
+  ],
+  "limitations": [
+    "Copia original sin modificar; la ingesta debe conservar las distinciones, atribuciones y limitaciones del informe.",
+    "No se han generado informes retrospectivos para fechas sin original recuperable."
+  ]
+}

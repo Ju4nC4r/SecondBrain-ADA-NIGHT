@@ -1,6 +1,6 @@
 # 🧠 Índice de la wiki
 
-Última actualización: **6 de octubre de 2026, 10:05 (Europe/Madrid)**.
+Última actualización: **14 de octubre de 2026, 10:10 (Europe/Madrid)**.
 
 ![Cardano / ADA](../raw/images/2026-10-05-cardano-logotipo-indice.png) ![Midnight / NIGHT](../raw/images/2026-10-05-midnight-logotipo-indice.png)
 
@@ -10,6 +10,14 @@
 - [Registro de actividad](log.md): operaciones realizadas.
 
 ## 📚 Fuentes
+
+- [Lote archivado de Angry Crypto Show](sources/2026-10-14-lote-angry-crypto-show.md): seis informes, transcripciones, manifiesto y corrección de fechas del día 10.
+- [Angry Crypto Show — fuente del 7](sources/2026-10-07-informe-angry-crypto-show.md): original, metadatos, transcripción, atribuciones y límites.
+- [Angry Crypto Show — fuente del 8](sources/2026-10-08-informe-angry-crypto-show.md): original, metadatos, transcripción, atribuciones y límites.
+- [Angry Crypto Show — fuente del 9](sources/2026-10-09-informe-angry-crypto-show.md): original, metadatos, transcripción, atribuciones y límites.
+- [Angry Crypto Show — fuente del 10](sources/2026-10-10-informe-angry-crypto-show.md): original, metadatos, transcripción, atribuciones y límites.
+- [Angry Crypto Show — fuente del 13](sources/2026-10-13-informe-angry-crypto-show.md): original, metadatos, transcripción, atribuciones y límites.
+- [Angry Crypto Show — fuente del 14](sources/2026-10-14-informe-angry-crypto-show.md): original, metadatos, transcripción, atribuciones y límites.
 
 - [Informe archivado de ADA, NIGHT y Bitcoin — 6 de octubre de 2026](sources/2026-10-06-informe-ada-night-bitcoin.md): elaboración manual, procedencia y publicaciones de mercado fechadas.
 - [Farside: actualización de Bitcoin e IBIT](sources/2026-10-06-farside-flujos-bitcoin.md): tres sesiones completas, dato antes ausente y revisiones.
@@ -24,12 +32,20 @@
 
 ## 🏷️ Entidades
 
+- [Angry Crypto Show](entities/angry-crypto-show.md): canal, método y patrocinio.
+- [Minswap](entities/minswap.md): hipótesis de integración y colaboraciones relatadas.
+- [Solada](entities/solada.md): reservas bajo custodia y mercados separados.
+- [Sig.Network](entities/sig-network.md): descripción y etapa de despliegue según el informe.
+
 - [Cardano / ADA](entities/cardano-ada.md): cronología de mercado, estado del Summit y lagunas de verificación.
 - [Midnight / NIGHT](entities/midnight-night.md): seguimiento de mercado y fundamentos científicos contrastados parcialmente con el código.
 - [Bitcoin / BTC](entities/bitcoin-btc.md): contexto de los informes solicitado por el usuario.
 - [iShares Bitcoin Trust ETF / IBIT](entities/ishares-bitcoin-trust-ibit.md): fondo de BlackRock, dato publicado y conciliación metodológica pendiente.
 
 ## 💡 Conceptos
+
+- [Previsiones atribuidas y publicidad](concepts/previsiones-atribuidas-y-publicidad.md): condiciones, campos ausentes y promoción comercial.
+- [Interoperabilidad, custodia y privacidad](concepts/interoperabilidad-custodia-y-privacidad.md): distinguir red, activo, reserva y disponibilidad.
 
 - [Gobernanza y tesorería](concepts/gobernanza-y-tesoreria.md): propuesta, aprobación y ejecución en el caso del Summit.
 - [Infraestructura de acceso a la red](concepts/infraestructura-de-acceso-a-la-red.md): servicios, autenticación y límites de una revisión documental.
@@ -39,9 +55,18 @@
 
 ## 🧭 Temas
 
+- [Seguimiento de Angry Crypto Show](topics/seguimiento-angry-crypto-show.md): los seis informes incorporados y sus relaciones.
+
 - [Seguimiento de mercado de ADA y NIGHT](topics/seguimiento-mercado-ada-night.md): síntesis, relaciones y preguntas abiertas.
 
 ## 📝 Informes
+
+- [Angry Crypto Show — síntesis del 7 de octubre](reports/2026-10-07-angry-crypto-show.md): noticias, cifras atribuidas, opiniones y contexto.
+- [Angry Crypto Show — síntesis del 8 de octubre](reports/2026-10-08-angry-crypto-show.md): noticias, cifras atribuidas, opiniones y contexto.
+- [Angry Crypto Show — síntesis del 9 de octubre](reports/2026-10-09-angry-crypto-show.md): noticias, cifras atribuidas, opiniones y contexto.
+- [Angry Crypto Show — síntesis del 10 de octubre](reports/2026-10-10-angry-crypto-show.md): lectura atribuida del episodio y límites; entrega del 10 fechada por separado.
+- [Angry Crypto Show — síntesis del 13 de octubre](reports/2026-10-13-angry-crypto-show.md): noticias, cifras atribuidas, opiniones y contexto.
+- [Angry Crypto Show — síntesis del 14 de octubre](reports/2026-10-14-angry-crypto-show.md): noticias, cifras atribuidas, opiniones y contexto.
 
 - [Seguimiento de ADA, NIGHT y Bitcoin — 6 de octubre de 2026](reports/2026-10-06-seguimiento-ada-night-bitcoin.md): informe de hoy, agenda corregida, revisión de ETF y límites de verificación.
 - [Seguimiento de ADA, NIGHT y Bitcoin — 5 de octubre de 2026](reports/2026-10-05-seguimiento-ada-night-bitcoin.md): síntesis del informe archivado, con fechas, atribuciones e incertidumbres.

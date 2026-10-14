@@ -2,9 +2,10 @@
 title: "Bitcoin / BTC — contexto de los informes"
 type: entity
 created: "2026-10-05"
-updated: "2026-10-06"
+updated: "2026-10-14"
 tags: [bitcoin, btc, contexto]
 sources:
+  - "../sources/2026-10-14-lote-angry-crypto-show.md"
   - "../sources/2026-10-05-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-06-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-06-farside-flujos-bitcoin.md"
@@ -34,3 +35,9 @@ La [revisión de IBIT del 5 de octubre](../reports/2026-10-05-ibit-conciliacion-
 - [iShares Bitcoin Trust ETF / IBIT](ishares-bitcoin-trust-ibit.md).
 - [Informe integrado del 5 de octubre](../reports/2026-10-05-seguimiento-ada-night-bitcoin.md).
 - [Seguimiento de mercado de ADA y NIGHT](../topics/seguimiento-mercado-ada-night.md).
+
+## Contexto de Angry Crypto Show incorporado el 14
+
+El [informe del 13](../sources/2026-10-13-informe-angry-crypto-show.md) documenta una compra corporativa de 250 BTC de Strategy declarada el 12. Es diferente de la compra de 3.311 BTC de Strive recogida en el [informe del 14 del canal](../sources/2026-10-14-informe-angry-crypto-show.md) y en la [ficha primaria existente](../sources/2026-10-14-strive-compras-bitcoin.md). Las noticias no se duplican como operaciones distintas por aparecer en dos series.
+
+Las hipótesis sobre Bitcoin DeFi en [Minswap](minswap.md), rendimientos y agentes mantienen su carácter condicional. Las previsiones de terceros y la publicidad del canal no demuestran demanda, rentabilidad o una estrategia para el lector. [Seguimiento del canal](../topics/seguimiento-angry-crypto-show.md).

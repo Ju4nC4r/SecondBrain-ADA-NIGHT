@@ -1,0 +1,45 @@
+{
+  "channel": "Angry Crypto Show",
+  "report_date": "2026-10-08",
+  "archived_at_utc": "2026-10-14T07:45:57.450261+00:00",
+  "ingestion_status_at_handoff": "pending",
+  "source_video": {
+    "id": "qNSsaPvlmd0",
+    "url": "https://www.youtube.com/watch?v=qNSsaPvlmd0",
+    "publication_timestamp": "2026-10-07T14:09:13-07:00",
+    "publication_madrid": null,
+    "transcript_source": "Complete YouTube transcript exported from existing Brave session; Spanish auto-generated captions; auto-dubbing noted by YouTube",
+    "review_scope": "Full caption transcript 00:00 to closing segment 11:51; no complete original audio or chart review"
+  },
+  "original_report": {
+    "path": "raw/notes/2026-10-08-informe-angry-crypto-show.md",
+    "source_path": "/Users/juancarlos/Documents/Codex/2026-10-07/realtime-voice-chat/outputs/informe-angry-crypto-show-2026-10-08.md",
+    "sha256": "a0f8b43938ae5bad96926fa88f4f909b856ac9105436295aecc38e0703f1b3b3",
+    "size_bytes": 7756
+  },
+  "original_transcript": {
+    "path": "raw/transcripts/2026-10-07-angry-crypto-show-qNSsaPvlmd0.txt",
+    "source_path": "/Users/juancarlos/Documents/Codex/2026-10-07/realtime-voice-chat/work/angry-crypto-show-transcripcion-2026-10-07.txt",
+    "sha256": "8e1840f0250695f029181c4e877451f6c5a6d46f39f0ba1af73ac0312976593b",
+    "size_bytes": 13661
+  },
+  "original_infographic": null,
+  "gmail_deliveries": [
+    {
+      "report_date": "2026-10-08",
+      "recipient": "gallegojc@gmail.com",
+      "gmail_message_id": "1a119f920c86e89c",
+      "subject": "[Codex] Angry Crypto Show — Informe diario — 2026-10-08",
+      "status": "sent_verified_in_gmail",
+      "sent_at_utc": "2026-10-08T05:25:19+00:00",
+      "verified_at_utc": "2026-10-08T05:25:36.593266+00:00",
+      "full_body_verified": true,
+      "do_not_resend": true,
+      "delivery_type": "user_requested_early_review"
+    }
+  ],
+  "limitations": [
+    "Copia original sin modificar; la ingesta debe conservar las distinciones, atribuciones y limitaciones del informe.",
+    "No se han generado informes retrospectivos para fechas sin original recuperable."
+  ]
+}

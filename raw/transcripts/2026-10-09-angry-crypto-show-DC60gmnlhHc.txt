@@ -1,0 +1,275 @@
+YouTube transcript
+Video ID: DC60gmnlhHc
+Language: en
+Captions: auto-generated
+
+[0:00] What is good Cardono fam? Ada gang with
+[0:02] lots of exciting updates to unpack
+[0:04] today. So, hit that subscribe, hit that
+[0:05] like. Cardona 24-hour trade volume
+[0:08] reached as high as $780 million
+[0:11] according to Coin Gecko. Coin Market Cap
+[0:13] ranks Cardono as the 10th most viewed
+[0:16] cryptocurrency, surpassing Hyperlquid,
+[0:18] Chain Link, Dogecoin, BNB, and Tron. ADA
+[0:23] generated more 24-hour trade volume than
+[0:26] the combined total of Tron, Monero, and
+[0:29] Stellar. Quite impressive for volume.
+[0:32] Cardono surpasses 289,700
+[0:36] monthly active addresses, a 10% increase
+[0:39] in the last 7 days. According to Token
+[0:42] Terminal,
+[0:44] Cardono surpasses
+[0:46] 125 million transactions on mainet.
+[0:48] According to C Explorer,
+[0:51] Cardono set a new all-time high in daily
+[0:54] transactions with over 542,000
+[0:57] transactions on October 8th according to
+[1:00] data from Block Works. So again, we see
+[1:03] strong network activity, transaction
+[1:05] count, TPS records, and Santime
+[1:08] Intelligence confirms Cardono's surge in
+[1:11] onchain activity. They say the data
+[1:14] agrees. ADA daily active addresses hit
+[1:17] about 27,500
+[1:19] on October 7th and 27,200
+[1:23] on October 8th, nearly two times the
+[1:26] September weekday average. ADA generated
+[1:30] over $314,000
+[1:32] in 24-hour trade volume on Poly Market's
+[1:35] crypto perpetuals. Now, that dollar
+[1:37] amount may not seem impressive, but it
+[1:40] surpasses Hyperlquid, Monero, BMBB, and
+[1:43] nearly triple XRP. That trend continues
+[1:47] on Koshi, where ADA generated the 12th
+[1:50] highest 24-hour trade volume at over
+[1:52] $870,000,
+[1:54] surpassing Dogecoin, Chain Link, and
+[1:57] nearly triple BMBB.
+[2:00] Block Works ranks Cardono as the fourth
+[2:02] highest mind share again surpassing
+[2:05] Zcash, BMBB, BitTensor, Hyperlquid, and
+[2:08] XRP. ETF assets under management for ADA
+[2:12] has been steadily rising, now surpassing
+[2:15] $76.9 million, a $27 million increase in
+[2:20] the past 3 months. According to
+[2:22] Blockworks,
+[2:24] Coinbase wrap ADA or CBA on Solana has
+[2:27] generated over 232,000 transactions and
+[2:31] more than 2,000 holders. What about on
+[2:34] base? Well, CBA on base surpasses 6,400
+[2:38] holders, highlighting rising interest in
+[2:40] crosschain Cardono. And also, 24-hour
+[2:43] transfers surged for CBA over 40% with
+[2:48] over 10,300 transfers.
+[2:51] Swissborg, Europe's leading app for
+[2:54] buying and selling crypto safely, ranks
+[2:56] Cardono as its second most trending
+[2:58] cryptocurrency.
+[3:00] Swissborg's trending score combines real
+[3:03] user trade volume, transaction count,
+[3:05] and search intensity.
+[3:07] The moon shows CryptoKit meets with
+[3:10] Cardono founder Charles Hoskinson. He
+[3:12] says, "I couldn't be more confident on
+[3:14] my ADA bags."
+[3:16] Topper Upho's fiat on-ramp solution with
+[3:19] support for Mastercard, Visa, PayPal,
+[3:22] Venmo, Apple Pay, Google Pay, and more
+[3:25] highlights its recent integration and
+[3:27] partnership with Cardono's Sunday Swap
+[3:30] and float, allowing users to easily buy
+[3:32] ADA with a card directly in app. So,
+[3:35] they announced this just days ago, but
+[3:37] they did another highlight just
+[3:39] yesterday. So, great to see the
+[3:41] partnership. Cardono founder Charles
+[3:43] Hoskinson is very impressed with Wii and
+[3:47] excited to learn more. So Wii is a
+[3:49] Japanese enterprise web3 platform that
+[3:52] moves payments, capital, and credit all
+[3:54] at once. With over 10 years of research
+[3:57] and development experience, over a 100
+[3:59] patents, and more than 600,000 partner
+[4:03] terminals, I think there could be
+[4:05] massive collaboration here because their
+[4:08] focus is off-chain payments. And so when
+[4:11] you combine Cardono and midnight
+[4:13] offchain, onchain, a lot of other
+[4:15] features could really transform
+[4:18] payments, point of sale, etc. Adam Back
+[4:22] told Ethereum to use UTXO in 2014 before
+[4:26] they had written any code. So Adam Back
+[4:29] is one of the pioneers and
+[4:31] cryptographer, has done a lot of work.
+[4:34] And so Charles Hoskinson says, "I can
+[4:37] confirm. I was in that call on
+[4:40] Ethereum's UTXO road map." Adam says,
+[4:43] "Vitalic provided no citations. Adam was
+[4:46] right. As with their proof of work, also
+[4:49] what I told him how to do." So
+[4:51] essentially, in a nutshell, Adam is
+[4:53] like, "Guys, like Ethereum, you guys are
+[4:55] now finally realizing I was right." But
+[4:58] just like Charles, Adam seems, you know,
+[5:00] he's slamming Vitalic for no citations
+[5:03] really. And so continuing from that
+[5:06] story, Charles on Adam back advising
+[5:08] Ethereum team to use UTXO in 2014,
+[5:12] Charles says, I did take your advice. We
+[5:14] created extended UTXO. You guys built
+[5:18] simplicity and liquid, excuse me. Did
+[5:21] Ethereum already follow Cardono with
+[5:23] proof of stake as you guys saw in 2022?
+[5:26] And now again with UTXOs and formal
+[5:29] methods, I think it's safe to say pretty
+[5:32] much when Vitalic Ranch Midnight just
+[5:35] minutes ago generated over 300,000
+[5:38] transactions on mainet in total
+[5:41] according to Midnight Explorer. A 14%
+[5:44] increase in just 24 hours. So they have
+[5:47] passed that 300K mark. And so ever since
+[5:51] smart contract deployment, the network
+[5:53] activity is just skyrocketing.
+[5:56] Charles Hoskinson presents Morarityi.
+[6:00] Morerti interesting uh name choice. The
+[6:04] language of intention designed by IoG
+[6:07] powered by Midnight. And so this is
+[6:09] provably correct. Every transaction is
+[6:12] proven proven to everyone shown to no
+[6:14] one code that does exactly what you
+[6:17] meant. So ultimately taking that
+[6:19] intention executing that outcome if it
+[6:22] doesn't give you that outcome it won't
+[6:24] do it at all. And so very interesting to
+[6:26] see how this will shape up the
+[6:28] abstraction and intention space.
+[6:31] Charles says the magic of where we're at
+[6:34] is we all have superhuman capabilities
+[6:36] thanks to AI. It is incredibly important
+[6:39] that you get much more collaborative
+[6:42] because there's still this human thing
+[6:43] of is it a good idea? Is there product
+[6:46] market fit? He's absolutely right.
+[6:49] Charles on identity and privacy says
+[6:51] midnight is another dimension of
+[6:53] building. It's very different. It's not
+[6:55] about smart contracts anymore. It's this
+[6:58] concept of night frames. You're adding
+[7:00] color. You're adding dimensionality to
+[7:03] things that are 2D.
+[7:05] Charles says Midnight Passport consumes
+[7:07] things from Google, Apple, and Microsoft
+[7:10] from the open- source world and hardware
+[7:12] in your phone, the trusted execution
+[7:14] environments, biometrics, pin codes, and
+[7:16] it's supposed to work with crypto stuff
+[7:18] like MetaMask. Charles says Midnight
+[7:21] City has a feature called suburbs coming
+[7:24] in the next six months. It's an SDK and
+[7:26] you will be able to build your own parts
+[7:28] of Midnight City. Charles says Midnight
+[7:31] has built into it a capability that is
+[7:34] very undervertised.
+[7:36] This concept of a night frame, it allows
+[7:38] something called quantum money. That's
+[7:41] the ability to spend cryptocurrencies
+[7:43] offline, offchain.
+[7:46] Charles says, "A market vertical we've
+[7:48] been examining is family offices that
+[7:50] hold Bitcoin, and Pogan tries to create
+[7:53] yield for that. We like that to go
+[7:55] through midnight, so it's private. We'll
+[7:57] lend the Bitcoin to a private stable
+[7:59] coin, then it get placed into DeFi."
+[8:02] Charles says, "I was just talking to JP
+[8:05] Morgan's private bank. They said they've
+[8:07] had more impersonation and hacking
+[8:09] attempts this year than the last 25
+[8:12] years. If you have an identity stack,
+[8:15] you can do proofs of identity and
+[8:17] they're immune to generative AI.
+[8:20] Charles says things are going to get
+[8:22] very parabolic if we do our job right.
+[8:25] The culture has to stay the same. It has
+[8:27] to be open, friendly, transparent,
+[8:29] honest, direct, but friendly. And people
+[8:32] have fun. I totally agree. We got to
+[8:35] have fun. I agree with the pillars of
+[8:38] the culture. And I do also agree that
+[8:41] things will get very parabolic. What
+[8:43] else is going on? NASDAQ CEO predicts
+[8:46] blockchain based tokenization will
+[8:48] transform global finance, unleashing
+[8:50] tens of billions of dollars in capital.
+[8:54] Thailand to allow Bitcoin and Ethereum
+[8:56] ETFs to trade on its stock exchange
+[8:59] starting October 16th, so just a week
+[9:01] away. Ledger investigates potential $86
+[9:05] million crypto theft linked to hardware
+[9:07] wallets sold by a reseller in Southeast
+[9:10] Asia. Interesting. President Trump says
+[9:14] Russia has agreed to supply over 4.8
+[9:16] million tons of diesel to the US and
+[9:19] global markets following talks with
+[9:21] President Putin. So, we'll see how this
+[9:24] affects the markets if if it will
+[9:26] because diesel has been going crazy,
+[9:28] super expensive. So, the US officially
+[9:31] lifts sanctions on Russian diesel
+[9:32] imports until April 2027. We'll see
+[9:36] what's going to happen with midterms
+[9:38] with the price of oil and how that's
+[9:41] going to affect the rest of the space. I
+[9:43] like that ADA and the rest of the market
+[9:45] has been pulling back up again. So, ADA
+[9:48] 238, XRP 1.39, and Bitcoin at 825.
+[9:53] So, a few shout outs from me. really
+[9:56] enjoyed this segment uh where yesterday
+[9:59] we highlighted SIG network their efforts
+[10:01] to bring essentially the entire Ethereum
+[10:04] uh ecosystem uh to midnight and have
+[10:07] private ETH etc and give you that
+[10:09] freedom to go into the Ethereum
+[10:10] ecosystem as you wish with privacy. I
+[10:14] agree with Charles. I do think that the
+[10:16] market is going to go very parabolic.
+[10:18] Beyond that really happy to see the
+[10:21] surge in network activity and it's
+[10:24] confirmed right we see that from block
+[10:26] works we see that from Santiment so good
+[10:28] to see Santiment intelligence chain spec
+[10:32] blocks and others providing that data
+[10:35] that insight so good to see this stuff
+[10:37] and we don't even have Laos yet we don't
+[10:40] really have even layer zero fully
+[10:42] realized for atomic swaps so there's a
+[10:44] lot that is still on the table plus we
+[10:47] just deployed deployed CIP 113 on
+[10:50] mainet. So that will also set that
+[10:54] unlock for institutional adoption as
+[10:56] well. So when we zoom out and we see
+[10:58] that CME Group has been been playing a
+[11:00] big role with CFTC regulated products,
+[11:03] when we see that ETFs haven't even
+[11:06] unlocked like ADA's potential in the US
+[11:08] market and the rest of what's going on,
+[11:11] I'm feeling pretty bullish and it's no
+[11:13] wonder that Charles says that, you know,
+[11:16] pretty much going very parabolic if we
+[11:18] do our job right. And I think he means
+[11:20] that not only Cardono Midnight, but in
+[11:23] the grander broader scheme of things
+[11:25] with the entire industry. But I think
+[11:27] that it's inevitable with tokenization,
+[11:29] with everything going on, unified
+[11:31] markets. I think we're seeing the
+[11:33] convergence of everything and then AI
+[11:35] being an accelerant to everything
+[11:37] simultaneously. So let me know your
+[11:39] thoughts, guys. What do you think on the
+[11:41] network surge with Cardono, with
+[11:43] transaction count, TPS? And do you think
+[11:45] that things will get very parabolic? Let
+[11:48] me know your thoughts. Smash that
+[11:50] subscribe. Smash that like.

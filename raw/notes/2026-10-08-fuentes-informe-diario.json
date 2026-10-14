@@ -1,0 +1,65 @@
+{
+  "report_date": "2026-10-08",
+  "timezone": "Europe/Madrid",
+  "cutoff": "07:20",
+  "recorded_at": "2026-10-08T07:20:06+02:00",
+  "capture_window_approximate": "07:16–07:20 Europe/Madrid",
+  "origin_thread": "01a0fb1b-0289-79a0-91cc-f6add3e697e9",
+  "type": "Notas de consulta y enlaces; no artículos íntegros",
+  "sources": [
+    {
+      "url": "https://cardanofoundation.org/blog/veridian-spinout",
+      "author": "Siobhán Calpin / Cardano Foundation",
+      "publication_date": "2026-10-08",
+      "event_date": "2026-10-08",
+      "tokenization_date": null,
+      "observations": "Spinout independiente; acciones tokenizadas con CIP-0113 según el comunicado. Plan de socios e inversores 2027, no financiación obtenida. No verificación en cadena."
+    },
+    {
+      "url": "https://sipo.tokyo/signal-20261007-e81d65f4/",
+      "author": "SIPO",
+      "publication_date": "2026-10-07",
+      "event_date": "2026-10-07",
+      "primary_reference": "https://x.com/MidnightNtwrk/status/2107683779447816316",
+      "primary_read_status": "403; inaccesible",
+      "observations": "Presentación de cuatro productos, atribuida a SIPO. Sin fechas verificadas de disponibilidad general."
+    },
+    {
+      "url": "https://github.com/midnightntwrk/midnight-node/releases/tag/node-1.0.400",
+      "author": "Equipo Midnight / github-actions",
+      "publication_date": "2026-10-06",
+      "displayed_time": "10:24, zona no explícita",
+      "owner_confirmed_deployment_date": "2026-10-05",
+      "event_exact_time": null,
+      "observations": "Publicación pública posterior a despliegue declarado. Ledger 8.1.3; no contraste independiente de estado en vivo."
+    },
+    {
+      "url": "https://github.com/midnightntwrk/midnight-ledger/security/advisories/GHSA-wr7g-rr4v-jmj8",
+      "author": "nstanford5 / Midnight",
+      "publication_date": "2026-10-01",
+      "affected_versions": "<=8.1.2",
+      "patched_version": "8.1.3",
+      "observations": "Crítica. Corrección no repara automáticamente claves afectadas ya guardadas en estado. No se verifican explotación ni pérdidas."
+    },
+    {
+      "url": "https://farside.co.uk/btc/",
+      "author": "Farside Investors",
+      "publication_date": null,
+      "event_date": "2026-10-07",
+      "unit": "millones de USD",
+      "observations": "Doce columnas de fondos presentes, total -484.9; suma comprobada. Datos revisables y sin conciliación individual con emisores."
+    },
+    {
+      "url": "https://midnight.network/blog",
+      "author": "Midnight",
+      "latest_visible_publication": "2026-10-01"
+    },
+    {
+      "url": "https://midnight.network/ecosystem",
+      "author": "Midnight",
+      "publication_date": null,
+      "event_date": "2026-10-08",
+      "observations": "La agenda muestra Midnight Cafe como live y Privacy Pitched con inicio previsto 05:00 UTC; se conservan como etiquetas de agenda, no prueba de ejecución."
+    }
+  ]
+}

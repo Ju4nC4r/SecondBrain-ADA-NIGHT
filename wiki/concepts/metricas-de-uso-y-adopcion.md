@@ -2,9 +2,10 @@
 title: "Métricas de uso y adopción de blockchain"
 type: concept
 created: "2026-10-05"
-updated: "2026-10-06"
+updated: "2026-10-14"
 tags: [metricas, cardano, midnight]
 sources:
+  - "../sources/2026-10-14-lote-angry-crypto-show.md"
   - "../sources/2026-10-05-fuentes-mercado-adopcion-uso.md"
   - "../sources/2026-10-06-midnight-red-y-agenda.md"
   - "../sources/2026-10-06-cardano-summit-estado.md"
@@ -27,3 +28,11 @@ Guardar cada dato con origen, unidad, intervalo observado, captura, consulta y e
 - Los precios periodísticos del [informe diario](../reports/2026-10-06-seguimiento-ada-night-bitcoin.md) proceden de horas y ventanas distintas. No se combinan como una fotografía sincronizada ni sustituyen una historia de precios.
 
 [Cardano / ADA](../entities/cardano-ada.md) · [Midnight / NIGHT](../entities/midnight-night.md) · [Seguimiento de mercado](../topics/seguimiento-mercado-ada-night.md) · [Índice de conceptos](index.md).
+
+## Cifras atribuidas en Angry Crypto Show
+
+Los [seis informes](../topics/seguimiento-angry-crypto-show.md) citan volumen móvil de 24 horas, direcciones mensuales y diarias, transacciones acumuladas, picos por bloque, titulares de tokens y agentes conectados. Sus definiciones y ventanas históricas no fueron reproducidas; no se suman como usuarios o compradores nuevos.
+
+La atención social o mindshare no es cuota de mercado económica. Grandes transferencias no demuestran compras netas; una base potencial de dispositivos o usuarios de otra plataforma no se atribuye como adopción conseguida. Los activos representados en otra red tampoco se cuentan como transacciones nativas de Cardano.
+
+El [informe del 10](../sources/2026-10-10-informe-angry-crypto-show.md) cita AUM de productos llamados ETF de ADA sin identificar completamente fondos y jurisdicción. Ese agregado no demuestra por sí solo un ETF estadounidense ni debe confundirse con los flujos de ETF de Bitcoin. [TPS y Leios](leios-testnet-y-mainnet.md).

@@ -1,0 +1,72 @@
+{
+  "channel": "Angry Crypto Show",
+  "report_date": "2026-10-09",
+  "archived_at_utc": "2026-10-14T07:45:57.467299+00:00",
+  "ingestion_status_at_handoff": "pending",
+  "source_video": {
+    "id": "mo06bglbk0s",
+    "url": "https://www.youtube.com/watch?v=mo06bglbk0s",
+    "publication_timestamp": "2026-10-08T14:45:46-07:00",
+    "publication_madrid": "2026-10-08T23:45:46+02:00",
+    "transcript_source": "Transcripción completa original de YouTube exportada desde Brave; subtítulos automáticos en inglés traducidos al español. Audio y gráficos no revisados íntegramente.",
+    "review_scope": "00:00–12:08; vídeo de 12:11"
+  },
+  "original_report": {
+    "path": "raw/notes/2026-10-09-informe-angry-crypto-show.md",
+    "source_path": "/Users/juancarlos/Documents/Codex/2026-10-07/realtime-voice-chat/outputs/informe-angry-crypto-show-2026-10-09.md",
+    "sha256": "2a3664b98f40787d32086646654763fd786e877e71758aa5b132a9b87f7a5ca9",
+    "size_bytes": 8820
+  },
+  "original_transcript": {
+    "path": "raw/transcripts/2026-10-08-angry-crypto-show-mo06bglbk0s.txt",
+    "source_path": "/Users/juancarlos/Documents/Codex/2026-10-07/realtime-voice-chat/work/angry-crypto-show-transcripcion-2026-10-08.txt",
+    "sha256": "d3e33fe082cf0909f5c032da5c912bd16a9a2383fc027a2469a4550fbf5935d6",
+    "size_bytes": 13038
+  },
+  "original_infographic": {
+    "path": "raw/images/2026-10-09-infografia-angry-crypto-show.png",
+    "source_path": "/Users/juancarlos/Documents/Codex/2026-10-07/realtime-voice-chat/outputs/infografia-angry-crypto-show-2026-10-09.png",
+    "sha256": "d200f7d23aa945928d490f2c688622c75afb5e45fbac27d12a47f3a2cc166dcd",
+    "size_bytes": 1905879
+  },
+  "gmail_deliveries": [
+    {
+      "report_date": "2026-10-09",
+      "gmail_message_id": "1a11f7650c4067df",
+      "gmail_thread_id": "1a11f73d4faa0824",
+      "status": "sent_verified_in_gmail",
+      "to": "gallegojc@gmail.com",
+      "subject": "[Codex] Angry Crypto Show — Informe diario — 2026-10-09",
+      "sent_at_local": "2026-10-09T09:00:00+02:00",
+      "sent_time_precision": "minute, shown by Gmail",
+      "verified_at_utc": "2026-10-09T07:03:04.349061+00:00",
+      "full_body_verified": true,
+      "links_verified": true,
+      "do_not_resend": true,
+      "delivery_type": "scheduled_daily_report",
+      "proof_screenshot": "outputs/gmail-angry-crypto-show-2026-10-09.jpg"
+    },
+    {
+      "report_date": "2026-10-09",
+      "gmail_message_id": "1a11f9b669003d61",
+      "gmail_thread_id": "1a11f9b669003d61",
+      "to": "gallegojc@gmail.com",
+      "subject": "[Codex] Angry Crypto Show — Informe diario con infografía — 2026-10-09",
+      "status": "sent_verified_in_gmail",
+      "sent_at_local": "2026-10-09T09:40:40+02:00",
+      "verified_at_utc": "2026-10-09T07:41:20.831893+00:00",
+      "delivery_type": "explicit_user_requested_resend_with_infographic",
+      "full_body_verified": true,
+      "infographic_included": true,
+      "infographic_delivery": "inline_multipart_related_content_id_verified",
+      "infographic_path": "outputs/infografia-angry-crypto-show-2026-10-09.png",
+      "infographic_size_bytes": 1905879,
+      "report_path": "outputs/informe-angry-crypto-show-2026-10-09-con-infografia.html",
+      "do_not_resend": true
+    }
+  ],
+  "limitations": [
+    "Copia original sin modificar; la ingesta debe conservar las distinciones, atribuciones y limitaciones del informe.",
+    "No se han generado informes retrospectivos para fechas sin original recuperable."
+  ]
+}

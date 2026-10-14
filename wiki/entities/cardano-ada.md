@@ -2,9 +2,10 @@
 title: "Cardano / ADA"
 type: entity
 created: "2026-10-05"
-updated: "2026-10-06"
+updated: "2026-10-14"
 tags: [cardano, ada]
 sources:
+  - "../sources/2026-10-14-lote-angry-crypto-show.md"
   - "../sources/2026-10-05-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-06-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-06-cardano-summit-estado.md"
@@ -41,3 +42,11 @@ La fuente interpreta la mayor exposición en derivados como un posible amplifica
 - [Métricas de uso y adopción](../concepts/metricas-de-uso-y-adopcion.md): criterios para separar actividad de cadena de negociación.
 - [Seguimiento de mercado](../topics/seguimiento-mercado-ada-night.md).
 - [Midnight / NIGHT](midnight-night.md).
+
+## Informes de Angry Crypto Show incorporados el 14
+
+El [seguimiento del canal](../topics/seguimiento-angry-crypto-show.md) añade retrospectivas del 7–14 con transcripciones y atribuciones. [CIP-0113](../concepts/tokens-programables-cip-0113.md), [.ada](../concepts/dominio-ada-y-aprobacion-icann.md) y [Leios](../concepts/leios-testnet-y-mainnet.md) reutilizan los anuncios ya documentados; no se contabiliza su repetición como noticia nueva.
+
+Las cifras de volumen, direcciones, grandes transferencias y TPS son instantáneas citadas sin reproducción independiente. Los objetivos de George, Sheldon y otros creadores se conservan como [previsiones atribuidas](../concepts/previsiones-atribuidas-y-publicidad.md), con condiciones y campos ausentes; no se presentan como valoración propia de ADA.
+
+Las menciones de colaboración de [Minswap](minswap.md) y el modelo descrito de [Solada](solada.md) permanecen separados de anuncios confirmados, reservas auditadas o adopción medida. Las fuentes y fechas están en las fichas del canal.

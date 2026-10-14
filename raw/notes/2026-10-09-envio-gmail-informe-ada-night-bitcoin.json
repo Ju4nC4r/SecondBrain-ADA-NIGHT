@@ -1,0 +1,22 @@
+{
+  "type": "constancia_envio_gmail",
+  "author": "Codex",
+  "automation_id": "noticias-diarias-de-ava",
+  "report_date": "2026-10-09",
+  "chat_origin": "01a0fb1b-0289-79a0-91cc-f6add3e697e9",
+  "to": "gallegojc@gmail.com",
+  "from": "gallegojc@gmail.com",
+  "subject": "[Codex] Informe diario de ADA, NIGHT y Bitcoin — 2026-10-09",
+  "message_id": "1a11fa633bca4241",
+  "thread_id": "1a11fa633bca4241",
+  "gmail_internal_date_milliseconds": "1791532347000",
+  "verification_clock_utc": "2026-10-09 07:52:46 UTC",
+  "report_file": "../reports/2026-10-09-informe-ada-night-bitcoin-revision-con-infografia.md",
+  "infographic_file": "../images/2026-10-09-infografia-ada-night-bitcoin.png",
+  "delivery_format": "multipart/related con versiones text/plain y text/html, infografía PNG incluida como imagen inline Content-ID",
+  "verification": "Respuesta de Gmail y lectura metadata del mensaje: etiqueta SENT, destinatario y asunto correctos. No se afirma lectura por el destinatario.",
+  "recurring_configuration": "ACTIVE; diario 07:00 Europe/Madrid; informe completo e infografía enviados a gallegojc@gmail.com; prefijo exacto [Codex]; comprobar Enviados y evitar duplicados.",
+  "sent_time_europe_madrid": "2026-10-09T09:52:27+02:00",
+  "report_sha256": "e56fac1f00b3fc7feeb56df47f5d436960bb5dca4d1db8b9f8b8d3d3ed57876e",
+  "image_sha256": "e5504d3b3bebdf4b07ffb2f260197e37242751cb65e278624eeb6f04e93525fc"
+}
