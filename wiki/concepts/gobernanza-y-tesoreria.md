@@ -2,9 +2,10 @@
 title: "Gobernanza y tesorería: propuesta, aprobación y ejecución"
 type: concept
 created: "2026-10-06"
-updated: "2026-10-06"
+updated: "2026-10-13"
 tags: [cardano, gobernanza, tesoreria]
 sources:
+  - "../sources/2026-10-13-cardano-gobernanza-expiraciones.md"
   - "../sources/2026-10-06-cardano-summit-estado.md"
 ---
 
@@ -17,3 +18,8 @@ Para el seguimiento de eventos deben separarse **propuesta**, **aprobación decl
 Esta página recoge ese caso y el criterio de verificación. No reconstruye el proceso general de votación ni acredita el escrutinio o el gasto en cadena; las fechas del aviso y del voto siguen sin determinar.
 
 [Cardano / ADA](../entities/cardano-ada.md) · [Métricas de uso y adopción](metricas-de-uso-y-adopcion.md) · [Informe diario](../reports/2026-10-06-seguimiento-ada-night-bitcoin.md) · [Índice de conceptos](index.md).
+
+## Revisión del 13 de octubre
+
+El [caso de expiración](../sources/2026-10-13-cardano-gobernanza-expiraciones.md) añade una distinción: vencer sin ratificación no demuestra una mayoría de votos contrarios. SIPO reporta 44,18% y 4,0% de apoyo DRep frente 67; fichasAdaStat noaccesibles. No afirmar reducción aplicada oretiradaejecutada por esaspropuestas. FechaJSTdel 12 equivale anoche 11 Madrid.
+

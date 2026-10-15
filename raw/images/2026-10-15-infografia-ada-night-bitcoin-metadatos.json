@@ -1,0 +1,38 @@
+{
+  "report_date": "2026-10-15",
+  "cutoff": "2026-10-15T07:22:00+02:00",
+  "cutoff_timezone": "Europe/Madrid",
+  "author": "Codex",
+  "origin_chat_title": "Informe diario de noticias de ADA y NIGHT",
+  "origin_chat_id": "01a0fb1b-0289-79a0-91cc-f6add3e697e9",
+  "captured_at": "2026-10-15T12:05:44+02:00",
+  "report_sha256": "54f2273014d74ba0a04c91b3193557a3734adaa03f353cc0240fb626cf2ba887",
+  "source_urls": [
+    "https://updates.cardano.intersectmbo.org/2026-10-14-mithril/",
+    "https://sipo.tokyo/daily-intel-20261015/",
+    "https://x.com/NorthStarDEX/status/2110272218819432867",
+    "https://midnight.network/blog",
+    "https://www.bls.gov/news.release/archives/cpi_10142026.htm",
+    "https://www.theblock.co/news/markets/2026-10-14-bitcoin-falls-below-82000-core-inflation-fed-rate-hike-418582",
+    "https://farside.co.uk/btc/",
+    "https://www.sec.gov/Archives/edgar/data/1920406/000162828026065816/asst-20261014.htm"
+  ],
+  "external_article_fulltext_archived": false,
+  "scope": "Copia del informe ya preparado y su infografía; sin integración en wiki por instrucción posterior del usuario",
+  "tool": "image_gen.imagegen",
+  "mode": "built-in; generate",
+  "prompt": "Use case: infographic-diagram. Create an elegant Spanish editorial daily crypto news infographic, landscape, very legible large typography, off-white background, three equal panels with ADA blue, NIGHT violet and Bitcoin orange accents. Calm financial newspaper style. All text must be spelled exactly, readable, no charts, no price curves, no arrows implying price prediction. Only the following verified report facts and explicitly labelled verification limits. Header text: \"ADA · NIGHT · BITCOIN\" and \"15 de octubre de 2026 | Corte: 07:22 Europe/Madrid\".\nPanel 1 title \"ADA / CARDANO\". Heading \"Mithril: avances técnicos\". Body text \"Publicación: 14 oct 2026\" \"SNARK reforzadas\" \"Entorno: node 11.1.3\" \"Node 11.2: en desarrollo\" \"Hechos: trabajo semanal; sin fecha individual\". Small label \"No acredita despliegue en toda mainnet\". Source \"Fuente: Cardano Development Updates\".\nPanel 2 title \"NIGHT / MIDNIGHT\". Heading \"NorthStar: contraste pendiente\". Body \"SIPO publica: 15 oct 2026\" \"Referencia a beta en mainnet\" \"Fecha del primer día: no indicada\" \"Cifras sin contraste directo\" \"Sin otra novedad fundamental nueva corroborada\". Source \"Fuentes: SIPO · blog de Midnight\". Do not add any unverified numerical NorthStar metrics.\nPanel 3 title \"BTC / BITCOIN\". Heading \"Inflación y salidas de ETF\". Body \"IPC de septiembre: +3,7 % interanual\" \"Publicado: 14 oct, 14:30 Madrid\" \"ETF, sesión 14 oct: −261,4 millones USD\" \"Dato completo y revisable\" \"Strive: 2.822 BTC comprados el 12–13 oct\" \"Declaración: 14 oct\". Source \"Fuentes: BLS · Farside · SEC\".\nFooter \"Hechos históricos y límites de verificación | Impactos posibles, sin causalidad de precio confirmada\" and \"Sin recomendaciones de compra o venta\". Add small footer source domains \"updates.cardano.intersectmbo.org · sipo.tokyo · midnight.network · bls.gov · farside.co.uk · sec.gov\". No invented prices, numbers, dates, icons resembling charts, or investment recommendations. Plenty of whitespace, enough height for each line without squeezing, unobtrusive simple network icons allowed.",
+  "generated_on": "2026-10-15",
+  "generation_timestamp": null,
+  "generation_timestamp_limitation": "La fecha consta por la ejecución y el archivo; no se conserva una hora exacta independiente de creación del servicio.",
+  "original_generated_path": "/Users/juancarlos/.codex/generated_images/01a0fb1b-0289-79a0-91cc-f6add3e697e9/exec-1e784326-8e22-469d-8d3c-5cb95b7ce140.png",
+  "file_sha256": "70253241831d72bf5c3c23f52a3003d6b07bb8dbda52d6d46dd83d905f3c4f24",
+  "bytes": 1810274,
+  "dimensions": [
+    1774,
+    887
+  ],
+  "report": "../reports/2026-10-15-informe-ada-night-bitcoin.md",
+  "visual_check": "Inspección visual de fecha, corte, versiones 11.1.3/11.2, IPC 3,7 %, ETF -261,4 millones USD, compra 2.822 BTC 12–13, fuentes y límites. No se dibujan series o precios inventados.",
+  "publication_status": "Infografía derivada; no es una fuente primaria ni una auditoría de cifras atribuidas."
+}

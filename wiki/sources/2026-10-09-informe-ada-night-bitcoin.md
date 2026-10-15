@@ -2,7 +2,7 @@
 title: "Informe diario del 9 de octubre: procedencia"
 type: source
 created: "2026-10-09"
-updated: "2026-10-14"
+updated: "2026-10-09"
 tags: [ada, night, bitcoin, informe, procedencia]
 sources:
   - "../../raw/reports/2026-10-09-informe-ada-night-bitcoin.md"

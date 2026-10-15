@@ -2,7 +2,7 @@
 title: "Farside: sesión del 8 de octubre"
 type: source
 created: "2026-10-09"
-updated: "2026-10-14"
+updated: "2026-10-09"
 tags: [bitcoin, etf, farside, ibit]
 sources:
   - "https://farside.co.uk/btc/"

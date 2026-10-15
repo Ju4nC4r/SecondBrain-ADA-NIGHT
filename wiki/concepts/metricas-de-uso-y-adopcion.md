@@ -6,6 +6,7 @@ updated: "2026-10-14"
 tags: [metricas, cardano, midnight]
 sources:
   - "../sources/2026-10-14-lote-angry-crypto-show.md"
+  - "../sources/2026-10-14-cardano-leios-fire.md"
   - "../sources/2026-10-05-fuentes-mercado-adopcion-uso.md"
   - "../sources/2026-10-06-midnight-red-y-agenda.md"
   - "../sources/2026-10-06-cardano-summit-estado.md"
@@ -28,6 +29,11 @@ Guardar cada dato con origen, unidad, intervalo observado, captura, consulta y e
 - Los precios periodísticos del [informe diario](../reports/2026-10-06-seguimiento-ada-night-bitcoin.md) proceden de horas y ventanas distintas. No se combinan como una fotografía sincronizada ni sustituyen una historia de precios.
 
 [Cardano / ADA](../entities/cardano-ada.md) · [Midnight / NIGHT](../entities/midnight-night.md) · [Seguimiento de mercado](../topics/seguimiento-mercado-ada-night.md) · [Índice de conceptos](index.md).
+
+## Revisión del 14 de octubre
+
+Una [fase de testnet](leios-testnet-y-mainnet.md) no mide capacidad de mainnet o adopción. Una [roadmap](roadmap-midnight-y-staking-night.md) no mide entregas o usuarios. Mantener entornos, ventanas y estado de ejecución al comparar declaraciones.
+
 
 ## Cifras atribuidas en Angry Crypto Show
 

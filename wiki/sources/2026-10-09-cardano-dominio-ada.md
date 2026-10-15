@@ -2,7 +2,7 @@
 title: "Cardano: avance de la candidatura .ada"
 type: source
 created: "2026-10-09"
-updated: "2026-10-14"
+updated: "2026-10-09"
 tags: [cardano, ada, dominios, icann]
 sources:
   - "https://cardanofoundation.org/blog/ada-icann-next-stage"

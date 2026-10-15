@@ -9,6 +9,8 @@
 - [Solada](solada.md): reservas bajo custodia y mercados separados según el contraste del informe.
 - [Sig.Network](sig-network.md): descripción del proyecto, etapa de despliegue y límites de privacidad.
 
+- [Veridian](veridian.md): empresa de identidad y caso anunciado de CIP-0113.
+
 - [Cardano / ADA](cardano-ada.md): cronología de mercado y revisión del estado del Summit con fuentes fechadas.
 - [Midnight / NIGHT](midnight-night.md): seguimiento de mercado y contraste parcial de fundamentos científicos.
 - [Bitcoin / BTC](bitcoin-btc.md): contexto expresamente incluido en los informes.

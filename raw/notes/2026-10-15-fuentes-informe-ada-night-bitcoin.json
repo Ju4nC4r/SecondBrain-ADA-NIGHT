@@ -1,0 +1,109 @@
+{
+  "report_date": "2026-10-15",
+  "cutoff": "2026-10-15T07:22:00+02:00",
+  "cutoff_timezone": "Europe/Madrid",
+  "author": "Codex",
+  "origin_chat_title": "Informe diario de noticias de ADA y NIGHT",
+  "origin_chat_id": "01a0fb1b-0289-79a0-91cc-f6add3e697e9",
+  "captured_at": "2026-10-15T12:05:44+02:00",
+  "report_sha256": "54f2273014d74ba0a04c91b3193557a3734adaa03f353cc0240fb626cf2ba887",
+  "source_urls": [
+    "https://updates.cardano.intersectmbo.org/2026-10-14-mithril/",
+    "https://sipo.tokyo/daily-intel-20261015/",
+    "https://x.com/NorthStarDEX/status/2110272218819432867",
+    "https://midnight.network/blog",
+    "https://www.bls.gov/news.release/archives/cpi_10142026.htm",
+    "https://www.theblock.co/news/markets/2026-10-14-bitcoin-falls-below-82000-core-inflation-fed-rate-hike-418582",
+    "https://farside.co.uk/btc/",
+    "https://www.sec.gov/Archives/edgar/data/1920406/000162828026065816/asst-20261014.htm"
+  ],
+  "external_article_fulltext_archived": false,
+  "scope": "Copia del informe ya preparado y su infografía; sin integración en wiki por instrucción posterior del usuario",
+  "sources": [
+    {
+      "url": "https://updates.cardano.intersectmbo.org/2026-10-14-mithril/",
+      "author": "Jean-Philippe Raynaud",
+      "publication": "2026-10-14",
+      "event": "Trabajo semanal; fechas individuales no indicadas",
+      "status": "Fuente primaria consultada directamente"
+    },
+    {
+      "url": "https://sipo.tokyo/daily-intel-20261015/",
+      "author": "SIPO",
+      "publication": "2026-10-15",
+      "event": "Primer día de beta de NorthStar; fecha no precisada",
+      "status": "Fuente secundaria; cifras atribuidas sin contraste en cadena"
+    },
+    {
+      "url": "https://x.com/NorthStarDEX/status/2110272218819432867",
+      "author": "NorthStar",
+      "publication": null,
+      "event": null,
+      "status": "Referencia enlazada por SIPO; lectura bloqueada HTTP 403"
+    },
+    {
+      "url": "https://midnight.network/blog",
+      "author": "Midnight",
+      "publication": null,
+      "event": null,
+      "status": "Listado oficial consultado; última entrada visible 2026-10-01; no se repite como novedad"
+    },
+    {
+      "url": "https://www.bls.gov/news.release/archives/cpi_10142026.htm",
+      "author": "U.S. Bureau of Labor Statistics",
+      "publication": "2026-10-14T08:30:00-04:00",
+      "event": "IPC de septiembre de 2026",
+      "status": "Comunicado primario consultado directamente"
+    },
+    {
+      "url": "https://www.theblock.co/news/markets/2026-10-14-bitcoin-falls-below-82000-core-inflation-fed-rate-hike-418582",
+      "author": "Jason Shubnell",
+      "publication": "2026-10-14T12:51:00-04:00",
+      "event": "Observación histórica publicada el 14; instante exacto de cotización no reconstruido",
+      "status": "Cobertura periodística; causalidad única no comprobada"
+    },
+    {
+      "url": "https://farside.co.uk/btc/",
+      "author": "Farside Investors",
+      "publication": null,
+      "event": "Sesión estadounidense 2026-10-14",
+      "status": "Tabla primaria del proveedor consultada; datos revisables"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1920406/000162828026065816/asst-20261014.htm",
+      "author": "Strive, Inc.; firma Matthew Cole",
+      "publication": "2026-10-14",
+      "event": "Compra de 2.822 BTC entre 2026-10-12 y 2026-10-13",
+      "status": "Declaración primaria del emisor ante SEC consultada"
+    }
+  ],
+  "capture_limit": "Las fuentes se consultaron en la preparación matinal del informe. Se registró una marca final de reloj 2026-10-15T07:22:29+02:00; no hay una hora individual de captura por URL. captured_at identifica la creación de esta nota, no la publicación externa.",
+  "farside": {
+    "unit": "millones de USD",
+    "session": "2026-10-14",
+    "funds": {
+      "IBIT": -110.9,
+      "FBTC": -152.7,
+      "BITB": 2.2,
+      "ARKB": 0,
+      "BTCO": 0,
+      "EZBC": 0,
+      "BRRR": 0,
+      "HODL": 0,
+      "BTCW": 0,
+      "MSBT": 0,
+      "GBTC": 0,
+      "BTC": 0
+    },
+    "total": -261.4,
+    "all_twelve_cells_present": true,
+    "revisable": true,
+    "issuer_reconciliation": false
+  },
+  "limitations": [
+    "Cifras de NorthStar atribuidas a SIPO; X bloqueado y sin reconstrucción en cadena.",
+    "Sin cotizaciones sincronizadas de los tres activos.",
+    "No se establece causalidad de precio.",
+    "No se archivaron artículos completos; se conserva el informe derivado y sus enlaces."
+  ]
+}

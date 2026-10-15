@@ -1,0 +1,311 @@
+{
+  "title": "Revisión de archivo e ingesta semántica de los informes diarios del 6 al 14 de octubre de 2026",
+  "author": "Codex",
+  "registered_at": "2026-10-14T09:44:20+02:00",
+  "timezone": "Europe/Madrid",
+  "scope": "Noticias diarias ADA/NIGHT/BTC, ambos días incluidos; comprobación e incorporación únicamente de entregas existentes.",
+  "source_thread": {
+    "title": "Informe diario de noticias de ADA y NIGHT",
+    "id": "01a0fb1b-0289-79a0-91cc-f6add3e697e9",
+    "turns_reviewed": 12,
+    "date_range_reached": "14–7 de octubre y comprobaciones anteriores del 6",
+    "read_outputs_for_oct10": true
+  },
+  "checks": {
+    "raw_and_metadata": true,
+    "source_fiche": true,
+    "wiki_report": true,
+    "entity_cross_references": true,
+    "concepts_and_topic": true,
+    "overview_and_indexes": true,
+    "unique_ingestion_log": true,
+    "declared_hashes": true,
+    "revision_9_preserves_original_body_without_image": true,
+    "image_hashes_dimensions_and_visual_review": true
+  },
+  "news_body_comparison_method": "Para las entregas completas del 7,8,9,13,14, comparación del texto noticioso tras retirar imágenes y normalizar formato, puntuación y espacios. No se afirma identidad tipográfica de la presentación del chat. Las huellas de los archivos se comprueban por separado.",
+  "before_changes": {
+    "wiki_pages": 81,
+    "local_references": 1080,
+    "broken_links": [],
+    "orphans": []
+  },
+  "rows": [
+    {
+      "date": "2026-10-06",
+      "raw_present": true,
+      "metadata_present": true,
+      "wiki_report_present": true,
+      "source_present": true,
+      "raw_path": "raw/reports/2026-10-06-informe-ada-night-bitcoin.md",
+      "raw_sha256": "458ae3b68deed3ad93543c443096dc3c7ce20159576d8461259d987618e25cdb",
+      "metadata_declares_body_hash": true,
+      "declared_hash_count": 3,
+      "wiki_path": "wiki/reports/2026-10-06-seguimiento-ada-night-bitcoin.md",
+      "indexed_general": true,
+      "indexed_reports": true,
+      "source_indexed": true,
+      "source_links_raw": true,
+      "source_links_report": true,
+      "report_links_raw": true,
+      "report_links_source": true,
+      "entity_date_references": {
+        "cardano-ada.md": true,
+        "midnight-night.md": true,
+        "bitcoin-btc.md": true,
+        "ishares-bitcoin-trust-ibit.md": true
+      },
+      "ingest_log_count": 1,
+      "status": "ya_ingerido_en_wiki",
+      "new_ingestion_required": false,
+      "news_body_matches_source_delivery_after_format_normalization": null,
+      "source_delivery_context": "Elaborado manualmente en este proyecto; procedencia propia conservada."
+    },
+    {
+      "date": "2026-10-07",
+      "raw_present": true,
+      "metadata_present": true,
+      "wiki_report_present": true,
+      "source_present": true,
+      "raw_path": "raw/reports/2026-10-07-informe-ada-night-bitcoin.md",
+      "raw_sha256": "1e0067249c020ea6602e016e872a849ede978fc2a2167723e3b60e517ca0d3ab",
+      "metadata_declares_body_hash": null,
+      "declared_hash_count": 0,
+      "wiki_path": "wiki/reports/2026-10-07-seguimiento-ada-night-bitcoin.md",
+      "indexed_general": true,
+      "indexed_reports": true,
+      "source_indexed": true,
+      "source_links_raw": true,
+      "source_links_report": true,
+      "report_links_raw": true,
+      "report_links_source": true,
+      "entity_date_references": {
+        "cardano-ada.md": true,
+        "midnight-night.md": true,
+        "bitcoin-btc.md": true,
+        "ishares-bitcoin-trust-ibit.md": true
+      },
+      "ingest_log_count": 1,
+      "status": "ya_ingerido_en_wiki",
+      "new_ingestion_required": false,
+      "news_body_matches_source_delivery_after_format_normalization": true,
+      "source_delivery_context": "Entrega completa localizada en el chat de origen y comparada con el cuerpo noticioso archivado."
+    },
+    {
+      "date": "2026-10-08",
+      "raw_present": true,
+      "metadata_present": true,
+      "wiki_report_present": true,
+      "source_present": true,
+      "raw_path": "raw/reports/2026-10-08-informe-ada-night-bitcoin.md",
+      "raw_sha256": "43b589d937976c3638fbf7bb4ce75d186f4c89844270d6fb1b9ca8e30096236f",
+      "metadata_declares_body_hash": true,
+      "declared_hash_count": 1,
+      "wiki_path": "wiki/reports/2026-10-08-seguimiento-ada-night-bitcoin.md",
+      "indexed_general": true,
+      "indexed_reports": true,
+      "source_indexed": true,
+      "source_links_raw": true,
+      "source_links_report": true,
+      "report_links_raw": true,
+      "report_links_source": true,
+      "entity_date_references": {
+        "cardano-ada.md": true,
+        "midnight-night.md": true,
+        "bitcoin-btc.md": true,
+        "ishares-bitcoin-trust-ibit.md": true
+      },
+      "ingest_log_count": 1,
+      "status": "ya_ingerido_en_wiki",
+      "new_ingestion_required": false,
+      "news_body_matches_source_delivery_after_format_normalization": true,
+      "source_delivery_context": "Entrega completa localizada en el chat de origen y comparada con el cuerpo noticioso archivado."
+    },
+    {
+      "date": "2026-10-09",
+      "raw_present": true,
+      "metadata_present": true,
+      "wiki_report_present": true,
+      "source_present": true,
+      "raw_path": "raw/reports/2026-10-09-informe-ada-night-bitcoin.md",
+      "raw_sha256": "f4b0cad54379d0ec5f145e737e0c1718dc16456810983f3443093cd43531a545",
+      "metadata_declares_body_hash": true,
+      "declared_hash_count": 1,
+      "wiki_path": "wiki/reports/2026-10-09-seguimiento-ada-night-bitcoin.md",
+      "indexed_general": true,
+      "indexed_reports": true,
+      "source_indexed": true,
+      "source_links_raw": true,
+      "source_links_report": true,
+      "report_links_raw": true,
+      "report_links_source": true,
+      "entity_date_references": {
+        "cardano-ada.md": true,
+        "midnight-night.md": true,
+        "bitcoin-btc.md": true,
+        "ishares-bitcoin-trust-ibit.md": true
+      },
+      "ingest_log_count": 1,
+      "revision": {
+        "path": "raw/reports/2026-10-09-informe-ada-night-bitcoin-revision-con-infografia.md",
+        "sha256": "e56fac1f00b3fc7feeb56df47f5d436960bb5dca4d1db8b9f8b8d3d3ed57876e",
+        "hash_matches_metadata": true,
+        "linked_in_report": true,
+        "source_body_preserved_after_removing_image": true
+      },
+      "infographic": {
+        "path": "raw/images/2026-10-09-infografia-ada-night-bitcoin.png",
+        "sha256": "e5504d3b3bebdf4b07ffb2f260197e37242751cb65e278624eeb6f04e93525fc",
+        "metadata_hash_matches": true,
+        "dimensions": [
+          1672,
+          941
+        ],
+        "metadata_dimensions_match": true,
+        "linked_in_report": true,
+        "linked_in_source": true
+      },
+      "status": "ya_ingerido_en_wiki",
+      "new_ingestion_required": false,
+      "news_body_matches_source_delivery_after_format_normalization": true,
+      "source_delivery_context": "Entrega completa localizada en el chat de origen y comparada con el cuerpo noticioso archivado."
+    },
+    {
+      "date": "2026-10-10",
+      "raw_present": false,
+      "metadata_present": false,
+      "wiki_report_present": false,
+      "source_present": false,
+      "status": "no_existe_informe_completo_recuperable_en_fuentes_revisadas",
+      "ingest_log_count": 0,
+      "new_ingestion_required": null,
+      "source_delivery_context": "Ejecución del día 10 interrumpida; sin cuerpo completo entregado o archivo recuperable."
+    },
+    {
+      "date": "2026-10-11",
+      "raw_present": false,
+      "metadata_present": false,
+      "wiki_report_present": false,
+      "source_present": false,
+      "status": "no_existe_informe_completo_recuperable_en_fuentes_revisadas",
+      "ingest_log_count": 0,
+      "new_ingestion_required": null,
+      "source_delivery_context": "Sin entrega completa separada ni archivo del día en las fuentes revisadas."
+    },
+    {
+      "date": "2026-10-12",
+      "raw_present": false,
+      "metadata_present": false,
+      "wiki_report_present": false,
+      "source_present": false,
+      "status": "no_existe_informe_completo_recuperable_en_fuentes_revisadas",
+      "ingest_log_count": 0,
+      "new_ingestion_required": null,
+      "source_delivery_context": "Sin entrega completa separada ni archivo del día en las fuentes revisadas."
+    },
+    {
+      "date": "2026-10-13",
+      "raw_present": true,
+      "metadata_present": true,
+      "wiki_report_present": true,
+      "source_present": true,
+      "raw_path": "raw/reports/2026-10-13-informe-ada-night-bitcoin.md",
+      "raw_sha256": "48c24292f13d85eb1df8d8ef4925257b5492abb271d71299b8c0a2264f6e451e",
+      "metadata_declares_body_hash": true,
+      "declared_hash_count": 2,
+      "wiki_path": "wiki/reports/2026-10-13-seguimiento-ada-night-bitcoin.md",
+      "indexed_general": true,
+      "indexed_reports": true,
+      "source_indexed": true,
+      "source_links_raw": true,
+      "source_links_report": true,
+      "report_links_raw": true,
+      "report_links_source": true,
+      "entity_date_references": {
+        "cardano-ada.md": true,
+        "midnight-night.md": true,
+        "bitcoin-btc.md": true,
+        "ishares-bitcoin-trust-ibit.md": true
+      },
+      "ingest_log_count": 1,
+      "infographic": {
+        "path": "raw/images/2026-10-13-infografia-ada-night-bitcoin.png",
+        "sha256": "1dbe88f424eaf3e15ac098fc0d567d4c4ce4dace3d4b0ed3ba14f2172e84c0d2",
+        "metadata_hash_matches": true,
+        "dimensions": [
+          1774,
+          887
+        ],
+        "metadata_dimensions_match": true,
+        "linked_in_report": true,
+        "linked_in_source": true
+      },
+      "status": "ya_ingerido_en_wiki",
+      "new_ingestion_required": false,
+      "news_body_matches_source_delivery_after_format_normalization": true,
+      "source_delivery_context": "Entrega completa localizada en el chat de origen y comparada con el cuerpo noticioso archivado."
+    },
+    {
+      "date": "2026-10-14",
+      "raw_present": true,
+      "metadata_present": true,
+      "wiki_report_present": true,
+      "source_present": true,
+      "raw_path": "raw/reports/2026-10-14-informe-ada-night-bitcoin.md",
+      "raw_sha256": "c959e2af61fe5dccdd61d049fc691defb8b31fa648fa48599582c7e9b0cfe2d3",
+      "metadata_declares_body_hash": true,
+      "declared_hash_count": 2,
+      "wiki_path": "wiki/reports/2026-10-14-seguimiento-ada-night-bitcoin.md",
+      "indexed_general": true,
+      "indexed_reports": true,
+      "source_indexed": true,
+      "source_links_raw": true,
+      "source_links_report": true,
+      "report_links_raw": true,
+      "report_links_source": true,
+      "entity_date_references": {
+        "cardano-ada.md": true,
+        "midnight-night.md": true,
+        "bitcoin-btc.md": true,
+        "ishares-bitcoin-trust-ibit.md": true
+      },
+      "ingest_log_count": 1,
+      "infographic": {
+        "path": "raw/images/2026-10-14-infografia-ada-night-bitcoin.png",
+        "sha256": "093f00c8f82c849d400696cdc38036b9fba2e20dc7692fb3dff47b3073b5f30f",
+        "metadata_hash_matches": true,
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "metadata_dimensions_match": true,
+        "linked_in_report": true,
+        "linked_in_source": true
+      },
+      "status": "ya_ingerido_en_wiki",
+      "new_ingestion_required": false,
+      "news_body_matches_source_delivery_after_format_normalization": true,
+      "source_delivery_context": "Entrega completa localizada en el chat de origen y comparada con el cuerpo noticioso archivado."
+    }
+  ],
+  "findings": {
+    "existing_semantic_ingestions": 6,
+    "archive_only_reports": 0,
+    "complete_generated_reports_pending": 0,
+    "dates_without_recoverable_complete_report": [
+      "2026-10-10",
+      "2026-10-11",
+      "2026-10-12"
+    ],
+    "oct10_state": "El historial muestra una ejecución fallida por interrupción de la conexión. Llegó a recopilar fuentes y mensajes de progreso, pero no contiene informe completo recuperable ni entrega final.",
+    "source_workspace_search": "La carpeta de trabajo del chat origen no contiene archivos recuperables del lote en la búsqueda realizada."
+  },
+  "limits": [
+    "No se crea un informe retrospectivo a partir de fuentes sueltas o mensajes de progreso.",
+    "No se incluyen otros canales o informes fuera del seguimiento ADA/NIGHT/BTC.",
+    "El informe del 7 no declara SHA-256 en su nota original; esta revisión registra su huella actual y compara su texto con la entrega, sin modificar esos metadatos.",
+    "No se vuelven a contrastar noticias históricas ni se presenta esta revisión como nueva fecha de publicación.",
+    "No se comprueban envíos de correo nuevos ni se cambia la automatización."
+  ],
+  "preservation": "Los 97 archivos previos de RAW se mantienen; la comprobación final compara sus huellas con la captura inicial. Esta nota es un archivo nuevo."
+}

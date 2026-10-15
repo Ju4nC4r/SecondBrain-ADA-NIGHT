@@ -2,7 +2,7 @@
 title: "Liquidaciones de posiciones apalancadas"
 type: concept
 created: "2026-10-09"
-updated: "2026-10-14"
+updated: "2026-10-13"
 tags: [bitcoin, derivados, liquidaciones]
 sources:
   - "../sources/2026-10-13-bitcoin-mercado-liquidaciones.md"

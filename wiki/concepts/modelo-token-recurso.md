@@ -11,3 +11,8 @@ Interpretación: ambos trabajos ayudan a razonar sobre costes de uso y congesti�
 **Contraste del 5 de octubre:** el [informe técnico](../reports/2026-10-05-midnight-fundamentos-implementacion.md) identifica en ledger 8.1.2 una capacidad inicial de 5 DUST por NIGHT, periodo de gracia de tres horas y un modelo de precios por dimensiones que se ajusta tras los bloques. Son constantes iniciales del código, no parámetros vigentes comprobados en mainnet. Tampoco se han acreditado las garantías de demora de BST para el mempool actual.
 
 [Midnight, NIGHT y DUST](../entities/midnight-night-dust.md) · [Fundamentos científicos](../topics/midnight-fundamentos-cientificos.md) · [Índice de conceptos](index.md).
+
+## Revisión del 14 de octubre
+
+La [roadmap oficial](../sources/2026-10-14-midnight-roadmap.md) prevé staking para Q1 2027 y recompensas de bloques para Q4 2026. No equiparar esas funciones a la generación de DUST ni fijar rendimientos sin documentación y ejecución comprobadas. [Distinciones y límites](roadmap-midnight-y-staking-night.md).
+

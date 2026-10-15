@@ -2,7 +2,7 @@
 title: "Informe del 13 de octubre: procedencia"
 type: source
 created: "2026-10-13"
-updated: "2026-10-14"
+updated: "2026-10-13"
 tags: [ada, night, bitcoin, seguimiento]
 sources:
   - "../../raw/reports/2026-10-13-informe-ada-night-bitcoin.md"

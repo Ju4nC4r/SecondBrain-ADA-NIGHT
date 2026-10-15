@@ -2,7 +2,7 @@
 title: "Farside: sesión del 12 de octubre"
 type: source
 created: "2026-10-13"
-updated: "2026-10-14"
+updated: "2026-10-13"
 tags: [ada, night, bitcoin, seguimiento]
 sources:
   - "https://farside.co.uk/btc/"

@@ -6,6 +6,11 @@ updated: "2026-10-14"
 tags: [midnight, night]
 sources:
   - "../sources/2026-10-14-lote-angry-crypto-show.md"
+  - "../sources/2026-10-14-midnight-roadmap.md"
+  - "../sources/2026-10-13-night-okj.md"
+  - "../sources/2026-10-09-informe-ada-night-bitcoin.md"
+  - "../sources/2026-10-08-midnight-seguridad-nodo.md"
+  - "../sources/2026-10-07-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-05-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-06-midnight-red-y-agenda.md"
   - "../sources/kachina-foundations-private-smart-contracts.md"
@@ -52,6 +57,28 @@ No se ha obtenido una cotización de NIGHT al corte ni una serie de actividad au
 ## Implicaciones e incertidumbres
 
 El informe no aporta pruebas para atribuir el retroceso a un problema técnico nuevo o a cambios en el uso de Midnight. Aunque ya se han archivado documentos oficiales de arquitectura y tokenomics, falta incorporar los anuncios originales y métricas de actividad correspondientes a la ventana de mercado del informe para desarrollar esa relación.
+
+## Revisión del 7 de octubre
+
+El blog consultado sigue mostrando como última entrada la del 1; no se identifica una novedad fundamental del 6–7. La agenda mantiene el encuentro del 7 a las 10:00 UTC (12:00 Madrid), pendiente al corte 07:50. Ya figuraba en la revisión anterior: no se presenta como nuevo anuncio ni se anticipan resultados. [Fuentes directas, fechas y límites](../sources/2026-10-07-informe-ada-night-bitcoin.md) · [Informe del 7](../reports/2026-10-07-seguimiento-ada-night-bitcoin.md).
+
+## Revisión del 8 de octubre
+
+La consulta amplía canales: [SIPO recoge cuatro productos presentados el 7](../sources/2026-10-08-midnight-productos-token2049.md), pero no se accedió directamente al post oficial. Disponibilidad general no confirmada. La ausencia de novedades indicada el 7 se conserva como conclusión limitada a aquella búsqueda, sin convertirla en ausencia global.
+
+Se contrasta además [node 1.0.400 y su corrección crítica](../sources/2026-10-08-midnight-seguridad-nodo.md): publicación el 6, despliegue declarado el 5, aviso publicado el 1. Es un hecho anterior recién incorporado. Las revisiones fijadas 1.0.300 / ledger 8.1.2 del análisis del 5 siguen siendo evidencia histórica, no descripción de la versión vigente. Sin comprobación independiente de estado de todos los nodos o contratos ni de explotación. [Concepto de actualizaciones de seguridad](../concepts/actualizaciones-seguridad-midnight.md) · [Informe del 8](../reports/2026-10-08-seguimiento-ada-night-bitcoin.md).
+
+## Revisión del 9 de octubre
+
+El [informe del 9](../sources/2026-10-09-informe-ada-night-bitcoin.md) no encuentra noticias relevantes nuevas verificables desde el del 8 en los canales consultados. La ausencia es un resultado limitado de búsqueda, no prueba de ausencia global; los anuncios ya recogidos no se presentan de nuevo como novedades. Sin cotización al corte ni impacto nuevo confirmado.
+
+## Revisión del 13 de octubre
+
+[Comunicado primario de OKCoin Japan](../sources/2026-10-13-night-okj.md): anuncio 10, inicio previsto 13 a 10:00 Madrid por Cardano. Futuro al corte 07:58, horario variable, sistema actualizado. Posible ampliación de acceso; no apertura operativa, liquidez o efecto de precio comprobados.
+
+## Revisión del 14 de octubre
+
+La [roadmap primaria](../sources/2026-10-14-midnight-roadmap.md) prevé Q4 2026 para migración por etapas/recompensas por bloques y Q1 2027 para staking y apertura a SPO de Cardano. Planes futuros, no consenso nuevo o staking disponibles hoy. La fotografía histórica AURA/GRANDPA y los límites de mainnet se conservan. [Staking, DUST y ejecución](../concepts/roadmap-midnight-y-staking-night.md).
 
 ## Relaciones
 

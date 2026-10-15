@@ -2,7 +2,7 @@
 title: "Bitcoin: caída y liquidaciones descritas el 8"
 type: source
 created: "2026-10-09"
-updated: "2026-10-14"
+updated: "2026-10-09"
 tags: [bitcoin, liquidaciones, mercado, fuente-secundaria]
 sources:
   - "https://cryptoslate.com/bitcoin-crashes-through-81000-buy-wall-as-1-billion-crypto-liquidation-bloodbath-unfolds/"

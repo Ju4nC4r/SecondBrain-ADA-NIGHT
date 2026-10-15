@@ -2,7 +2,7 @@
 title: "Dominio .ada y aprobación de ICANN"
 type: concept
 created: "2026-10-09"
-updated: "2026-10-14"
+updated: "2026-10-09"
 tags: [cardano, ada, dominios, icann]
 sources:
   - "../sources/2026-10-09-cardano-dominio-ada.md"

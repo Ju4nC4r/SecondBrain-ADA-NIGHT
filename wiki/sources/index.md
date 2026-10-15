@@ -12,6 +12,35 @@
 - [Angry Crypto Show — 13 de octubre](2026-10-13-informe-angry-crypto-show.md): procedencia, clasificaciones y vínculos a originales.
 - [Angry Crypto Show — 14 de octubre](2026-10-14-informe-angry-crypto-show.md): procedencia, clasificaciones y vínculos a originales.
 
+- [Informe archivado — 14 de octubre](2026-10-14-informe-ada-night-bitcoin.md): procedencia manual, cuerpo, infografía y envío comprobado.
+- [Cardano: Leios en la fase Fire](2026-10-14-cardano-leios-fire.md): página primaria y release consultados directamente; cobertura secundaria para fecha del anuncio.
+- [Midnight: hoja de ruta y staking de NIGHT](2026-10-14-midnight-roadmap.md): roadmap primaria consultada directamente; cobertura secundaria para fecha de difusión.
+- [Farside: sesión del 13 de octubre](2026-10-14-farside-flujos-bitcoin.md): tabla primaria del proveedor.
+- [Strive: compras de Bitcoin declaradas el 13](2026-10-14-strive-compras-bitcoin.md): declaración primaria del emisor en SEC, formulario8-K.
+
+- [Informe archivado — 13 de octubre](2026-10-13-informe-ada-night-bitcoin.md): cuerpo completo, infografía, procedencia y envío por Gmail.
+- [Cardano: propuestas expiradas](2026-10-13-cardano-gobernanza-expiraciones.md): resultados atribuidos a SIPO, sin contraste directo en AdaStat.
+- [NIGHT: inicio previsto en OKJ](2026-10-13-night-okj.md): comunicado primario y horario futuro al corte.
+- [Farside: sesión del 12](2026-10-13-farside-flujos-bitcoin.md): doce fondos y salidas netas revisables.
+- [Bitcoin: caída de madrugada](2026-10-13-bitcoin-mercado-liquidaciones.md): lectura histórica y liquidaciones atribuidas.
+
+- [Infografía diaria — 9 de octubre](2026-10-09-infografia-informe-diario.md): imagen derivada, prompt y relación con la revisión del informe.
+
+- [Informe archivado — 9 de octubre](2026-10-09-informe-ada-night-bitcoin.md): procedencia, búsqueda, límites y envío por Gmail.
+- [Cardano: candidatura .ada](2026-10-09-cardano-dominio-ada.md): avance atribuido y aprobación pendiente.
+- [Farside: sesión del 8](2026-10-09-farside-flujos-bitcoin.md): salidas netas y fila completa revisable.
+- [Bitcoin: caída y liquidaciones](2026-10-09-bitcoin-mercado-liquidaciones.md): noticia del 8, cifras históricas y divergencias.
+
+- [Informe archivado — 8 de octubre](2026-10-08-informe-ada-night-bitcoin.md): procedencia del heartbeat y límites.
+- [Cardano: Veridian](2026-10-08-cardano-veridian.md): spin-out y tokenización anunciada.
+- [Midnight: productos en TOKEN2049](2026-10-08-midnight-productos-token2049.md): cobertura secundaria y post oficial inaccesible.
+- [Midnight: corrección de seguridad](2026-10-08-midnight-seguridad-nodo.md): publicación, despliegue declarado y estado histórico.
+- [Farside: sesión del 7](2026-10-08-farside-flujos-bitcoin.md): salidas netas y cifras revisables.
+
+- [Informe del 7 de octubre](2026-10-07-informe-ada-night-bitcoin.md): procedencia de la entrega manual.
+- [Cardano: tokens programables](2026-10-07-cardano-tokens-programables.md): anuncio oficial, fechas y límites.
+- [Farside: sesión del 6](2026-10-07-farside-flujos-bitcoin.md): fila completa de ETF y revisión posible.
+
 - [Informe archivado de ADA, NIGHT y Bitcoin — 6 de octubre de 2026](2026-10-06-informe-ada-night-bitcoin.md): procedencia de la elaboración manual y publicaciones de mercado fechadas.
 - [Farside: actualización de flujos de Bitcoin e IBIT](2026-10-06-farside-flujos-bitcoin.md): tres sesiones, doce fondos, revisiones y dato anteriormente ausente.
 - [Cardano Summit: estado del evento](2026-10-06-cardano-summit-estado.md): aviso oficial de cancelación frente a la planificación anterior.

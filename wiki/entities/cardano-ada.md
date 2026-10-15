@@ -6,6 +6,11 @@ updated: "2026-10-14"
 tags: [cardano, ada]
 sources:
   - "../sources/2026-10-14-lote-angry-crypto-show.md"
+  - "../sources/2026-10-14-cardano-leios-fire.md"
+  - "../sources/2026-10-13-cardano-gobernanza-expiraciones.md"
+  - "../sources/2026-10-09-cardano-dominio-ada.md"
+  - "../sources/2026-10-08-cardano-veridian.md"
+  - "../sources/2026-10-07-cardano-tokens-programables.md"
   - "../sources/2026-10-05-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-06-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-06-cardano-summit-estado.md"
@@ -31,6 +36,26 @@ La nueva publicación de mercado consultada sobre ADA corresponde al día 5, des
 ## Implicaciones e incertidumbres
 
 La fuente interpreta la mayor exposición en derivados como un posible amplificador de volatilidad. No identifica un anuncio confirmado como causa del repunte ni evidencia de mayor utilización de Cardano. Falta contrastar las series de negociación y actividad.
+
+## Revisión del 7 de octubre
+
+La Fundación anuncia CIP-0113 disponible en mainnet; publicación y anuncio del 7, sin hora ni momento exacto del despliegue. [Fuente primaria consultada](../sources/2026-10-07-cardano-tokens-programables.md) y [concepto](../concepts/tokens-programables-cip-0113.md). Posible facilitación de tokenización, sin adopción cuantificada ni causa confirmada del repunte previo. [Informe del 7](../reports/2026-10-07-seguimiento-ada-night-bitcoin.md).
+
+## Revisión del 8 de octubre
+
+La Fundación anuncia el spin-out comercial de [Veridian](veridian.md) y la tokenización de sus acciones con CIP-0113. [Fuente oficial y límites](../sources/2026-10-08-cardano-veridian.md). Es un caso de emisión declarado, que amplía la evidencia del 7; sin verificación en cadena, escala cuantificada o causa demostrada de precio. [Informe del 8](../reports/2026-10-08-seguimiento-ada-night-bitcoin.md).
+
+## Revisión del 9 de octubre
+
+[Cardano Foundation](../sources/2026-10-09-cardano-dominio-ada.md) anunció el 8 el avance de la candidatura .ada, atribuyendo el hito a la lista de ICANN del 7. No es aprobación final ni disponibilidad: quedan evaluaciones. El intervalo 2028–2030 y los usos en monederos e identidad son expectativas condicionadas. [Proceso y límites](../concepts/dominio-ada-y-aprobacion-icann.md). No se atribuye un movimiento de ADA a esta noticia.
+
+## Revisión del 13 de octubre
+
+[Resultados atribuidos a SIPO](../sources/2026-10-13-cardano-gobernanza-expiraciones.md): minPoolCost 75 y retirada 11787063 ADA paraOpenZeppelin expiraron al comenzar época 661, noche 11 Madrid. ApoyoDRep 44,18% y 4,0% frente 67. Fuente secundaria sin reconstrucciónAdaStat; no se convierten en mayoría opositora ni causa de precio.
+
+## Revisión del 14 de octubre
+
+[Musashi Dojo](../sources/2026-10-14-cardano-leios-fire.md) confirma Fire, una fase de carga escalonada en testnet. La cobertura del 13 fecha el anuncio el 12; página sin fecha propia. [Distinción de testnet y mainnet](../concepts/leios-testnet-y-mainnet.md): no atribuir capacidad desplegada, adopción o un efecto de precio.
 
 ## Relaciones
 

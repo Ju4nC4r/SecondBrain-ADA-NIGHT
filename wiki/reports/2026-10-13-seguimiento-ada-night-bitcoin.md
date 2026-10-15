@@ -2,7 +2,7 @@
 title: "Seguimiento de ADA, NIGHT y Bitcoin — 13 de octubre de 2026"
 type: report
 created: "2026-10-13"
-updated: "2026-10-14"
+updated: "2026-10-13"
 tags: [ada, night, bitcoin, seguimiento]
 sources:
   - "../sources/2026-10-13-informe-ada-night-bitcoin.md"

@@ -2,9 +2,14 @@
 title: "Flujos de ETF al contado de Bitcoin"
 type: concept
 created: "2026-10-05"
-updated: "2026-10-06"
+updated: "2026-10-14"
 tags: [bitcoin, etf, mercado]
 sources:
+  - "../sources/2026-10-14-farside-flujos-bitcoin.md"
+  - "../sources/2026-10-13-farside-flujos-bitcoin.md"
+  - "../sources/2026-10-09-farside-flujos-bitcoin.md"
+  - "../sources/2026-10-08-farside-flujos-bitcoin.md"
+  - "../sources/2026-10-07-farside-flujos-bitcoin.md"
   - "../sources/2026-10-05-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-06-farside-flujos-bitcoin.md"
 ---
@@ -32,6 +37,26 @@ Una aproximación propia basada en NAV y variación de participaciones da unos 1
 ## Revisión del 6 de octubre
 
 La [captura posterior](../sources/2026-10-06-farside-flujos-bitcoin.md) ya contiene IBIT del 2; el agregado del 1–2 pasa de 134,4 provisionales a 292,6 millones de USD publicados. Se conservan las doce columnas y el total de cada sesión, sin modificar el archivo anterior. La diferencia con el cálculo del emisor sigue sin explicar y los datos del proveedor pueden revisarse.
+
+## Revisión del 7 de octubre
+
+La [nueva fila del proveedor](../sources/2026-10-07-farside-flujos-bitcoin.md), para la sesión del 6, contiene doce fondos y total +118,8 millones de USD. Se comprueba la suma de columnas y se archiva un CSV nuevo. Las versiones anteriores permanecen intactas; todas las celdas de esta fila están presentes, pero los datos siguen siendo revisables. [Informe del 7](../reports/2026-10-07-seguimiento-ada-night-bitcoin.md).
+
+## Revisión del 8 de octubre
+
+La [fila de la sesión del 7](../sources/2026-10-08-farside-flujos-bitcoin.md) muestra total −484,9 millones de USD y doce columnas presentes. La suma se comprueba y la versión se archiva en un CSV nuevo. No confundir flujos netos de fondos con ventas simultáneas de BTC; tampoco inferir una tendencia sostenida de una sesión. [Informe del 8](../reports/2026-10-08-seguimiento-ada-night-bitcoin.md).
+
+## Revisión del 9 de octubre
+
+La [fila del 8](../sources/2026-10-09-farside-flujos-bitcoin.md) contiene doce cifras, suma −244,1 millones USD comprobada. Junto con el 7, −729,0 por cálculo propio. Fila completa no equivale a conciliación por emisor. Los flujos miden exposición neta de los fondos y no son el agregado de [liquidaciones de derivados](liquidaciones-posiciones-apalancadas.md); no se suman esas medidas ni se infiere una causa de precio por coincidencia temporal.
+
+## Revisión del 13 de octubre
+
+[Sesión del12](../sources/2026-10-13-farside-flujos-bitcoin.md):-65,4 millonesUSD,total igual aIBIT; doce cifras presentes,suma verificada. Una fila completa sigue siendo revisable y no equivale a conciliación de emisores ni ventas simultáneas deBTC.
+
+## Revisión del 14 de octubre
+
+La [sesión del 13](../sources/2026-10-14-farside-flujos-bitcoin.md) contiene doce cifras y suma +175,7 millones de USD. Se distingue de las [compras de Strive](../sources/2026-10-14-strive-compras-bitcoin.md): compras del 5–9, anuncio del 13; no son la misma ventana ni una medida sumable automáticamente.
 
 ## Relaciones
 

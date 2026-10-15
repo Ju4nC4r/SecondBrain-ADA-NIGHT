@@ -2,7 +2,7 @@
 title: "Cardano: propuestas expiradas"
 type: source
 created: "2026-10-13"
-updated: "2026-10-14"
+updated: "2026-10-13"
 tags: [ada, night, bitcoin, seguimiento]
 sources:
   - "https://sipo.tokyo/epoch-660/"

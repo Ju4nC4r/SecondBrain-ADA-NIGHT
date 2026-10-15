@@ -2,7 +2,7 @@
 title: "Bitcoin: caída durante la madrugada del 13"
 type: source
 created: "2026-10-13"
-updated: "2026-10-14"
+updated: "2026-10-13"
 tags: [ada, night, bitcoin, seguimiento]
 sources:
   - "https://www.theblock.co/news/markets/2026-10-12-bitcoin-slides-crypto-liquidations-surge-418374"
