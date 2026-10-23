@@ -1,0 +1,30 @@
+{
+  "report_date": "2026-10-16",
+  "verified_at": "2026-10-16T07:47:17+02:00",
+  "gmail_message_id": "1a1433ed6345e629",
+  "gmail_thread_id": "1a1433ed6345e629",
+  "sent_at": "2026-10-16T07:45:53+02:00",
+  "headers": {
+    "to": "gallegojc@gmail.com",
+    "subject": "[Codex] Informe diario de ADA, NIGHT y Bitcoin — 2026-10-16",
+    "date": "Fri, 16 Oct 2026 01:45:53 -0400",
+    "message_id": "<CANZA1bRe97TNAuXcqMqj=V7MJaWK+XX637Mg2oo72nfhjCV7Qw@mail.gmail.com>"
+  },
+  "sent_label_verified": true,
+  "recipient_verified": true,
+  "subject_verified": true,
+  "duplicate_check": "Dos búsquedas previas en Enviados para destinatario, ADA y fecha del informe, sin coincidencias.",
+  "report": "../reports/2026-10-16-informe-ada-night-bitcoin.md",
+  "report_sha256": "658125b3e239bbf1fe042527a32885873def7b01b4aae244af770f42757b52bb",
+  "body_plain_exact_match": true,
+  "body_html_exact_match": true,
+  "body_plain_sha256": "55b4f8fa80a686bd62153e6363a08db4ae7fbb1c0edbf8f580df406aa0953d99",
+  "body_html_sha256": "e544a7395b94dd8308c00d2126ca64e319829de93161c36bf5820806ebc4d7d8",
+  "image": "../images/2026-10-16-infografia-ada-night-bitcoin.png",
+  "image_mime_type": "image/png",
+  "image_content_id": "infografia-ada-night-bitcoin-20261016",
+  "image_bytes": 1889064,
+  "image_sha256": "7f85ecb539891a3d858072f46e794de22b223d429bae36c445428ff447c473b1",
+  "image_retrieved_from_gmail_and_identical": true,
+  "limits": "Envío y contenido confirmados por Gmail; no acredita lectura del destinatario."
+}

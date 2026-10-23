@@ -1,0 +1,79 @@
+{
+  "channel": "Angry Crypto Show",
+  "report_date": "2026-10-16",
+  "prepared_at_utc": "2026-10-16T05:36:00.059974+00:00",
+  "archived_at_utc": "2026-10-16T05:46:51.653193+00:00",
+  "source_video": {
+    "video_id": "-P2fo_YWXyY",
+    "title": "Charles Sets $1B TVL Target: \"Race To A Billion.\" Angry Crypto Reacts",
+    "publication_date": "2026-10-15",
+    "publication_timestamp": "2026-10-15T14:42:42-07:00",
+    "publication_madrid": "2026-10-15T23:42:42+02:00",
+    "source": "YouTube original, inglés automático, exportado desde Brave",
+    "review_scope": "Transcripción completa 00:00–10:35; audio y gráficas sin revisión completa",
+    "transcript_path": "outputs/transcripcion-angry-crypto-show-2026-10-15--P2fo_YWXyY.txt",
+    "report_date": "2026-10-16",
+    "report_path": "outputs/informe-angry-crypto-show-2026-10-16.md",
+    "analysis_completed_at_utc": "2026-10-16T05:46:51.653193+00:00"
+  },
+  "files": [
+    {
+      "role": "report",
+      "path": "raw/notes/2026-10-16-informe-angry-crypto-show.md",
+      "relative_link_from_metadata": "2026-10-16-informe-angry-crypto-show.md",
+      "source_path": "/Users/juancarlos/Documents/Codex/2026-10-07/realtime-voice-chat/outputs/informe-angry-crypto-show-2026-10-16.md",
+      "sha256": "a6700862fbd6ab42fecd0386b43dc93df2bcb554e487213ad1a1ee922685650c",
+      "size_bytes": 10730
+    },
+    {
+      "role": "infographic",
+      "path": "raw/images/2026-10-16-infografia-angry-crypto-show.png",
+      "relative_link_from_metadata": "../images/2026-10-16-infografia-angry-crypto-show.png",
+      "source_path": "/Users/juancarlos/Documents/Codex/2026-10-07/realtime-voice-chat/outputs/infografia-angry-crypto-show-2026-10-16.png",
+      "sha256": "0954787900af0f859955d8783608326f4ca42f78ce893b2a2b948fde46b4ee9b",
+      "size_bytes": 1790901
+    },
+    {
+      "role": "transcript",
+      "path": "raw/transcripts/2026-10-15-angry-crypto-show--P2fo_YWXyY.txt",
+      "relative_link_from_metadata": "../transcripts/2026-10-15-angry-crypto-show--P2fo_YWXyY.txt",
+      "source_path": "/Users/juancarlos/Documents/Codex/2026-10-07/realtime-voice-chat/outputs/transcripcion-angry-crypto-show-2026-10-15--P2fo_YWXyY.txt",
+      "sha256": "a006bc66d7aeee453e133a7e4f8cd61a178092199685c3e2d8bb0b6ef85be75f",
+      "size_bytes": 10869
+    }
+  ],
+  "gmail_deliveries": [
+    {
+      "report_date": "2026-10-16",
+      "gmail_message_id": "1a1433ec27cd5601",
+      "gmail_thread_id": "1a1433ec27cd5601",
+      "status": "sent_verified_in_gmail",
+      "recipient": "gallegojc@gmail.com",
+      "subject": "[Codex] Angry Crypto Show — Informe diario — 2026-10-16",
+      "sent_at_utc": "2026-10-16T05:45:48.000Z",
+      "checks": {
+        "sent": true,
+        "to": true,
+        "subject": true,
+        "html": true,
+        "image_bytes": true,
+        "cid": true
+      },
+      "infographic_filename": "infografia-angry-crypto-show-2026-10-16.png",
+      "infographic_size_bytes": 1790901,
+      "verified_at_utc": "2026-10-16T05:46:06.381Z",
+      "full_body_verified": true,
+      "infographic_included": true,
+      "infographic_delivery": "inline_multipart_related_content_id_verified",
+      "infographic_path": "outputs/infografia-angry-crypto-show-2026-10-16.png",
+      "report_path": "outputs/informe-angry-crypto-show-2026-10-16-con-infografia.html",
+      "do_not_resend": true
+    }
+  ],
+  "ingestion_status": "pending",
+  "limitations": [
+    "Original íntegro sin modificar. Las frases de estado de entrega del original reflejan su preparación; los datos de Gmail en esta ficha reflejan el envío posterior verificado.",
+    "Transcripción automática completa; no revisión íntegra de audio ni gráficas.",
+    "Archivo RAW no equivale a ingesta de la wiki."
+  ]
+}

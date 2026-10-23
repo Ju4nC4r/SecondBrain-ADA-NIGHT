@@ -1,8 +1,67 @@
 # Resúmenes de fuentes
 
-Última actualización: **14 de octubre de 2026, 10:10 (Europe/Madrid)**.
+Última actualización: **23 de octubre de 2026, 10:39 (Europe/Madrid)**.
+
+- [Angry — aviso del 23 de acceso limitado](2026-10-23-aviso-angry-acceso-limitado.md): metadatos, limitaciones, imagen y entrega del aviso.
+
+- [Informe archivado — 23 de octubre](2026-10-23-informe-ada-night-bitcoin.md): procedencia, fechas e infografía.
+- [Hydra: reensayo del Glacier Drop](2026-10-23-hydra-reensayo-glacier-drop.md): resultados declarados y contexto histórico.
+- [Midnight: Freedom Fighters](2026-10-23-midnight-freedom-fighters.md): divulgación del 22, sin nueva tokenomics.
+- [Farside: sesión del 22](2026-10-23-farside-flujos-bitcoin.md): doce cifras revisables y −635,6 millones USD.
+
+- [Informe archivado — 22 de octubre](2026-10-22-informe-ada-night-bitcoin.md): procedencia, fechas e infografía.
+- [Fundación y MiCA](2026-10-22-cardano-respuesta-mica.md): postura publicada el 21, respuesta del 30 de septiembre.
+- [Registros agrícolas en India](2026-10-22-cardano-registros-agricolas-india.md): declaración primaria y fechas ausentes.
+- [Farside: sesión del 21](2026-10-22-farside-flujos-bitcoin.md): doce cifras revisables, suma +524,8 millones USD.
+- [FINMA: ETF suizo minorista](2026-10-22-finma-etf-bitcoin-minorista.md): aprobación anunciada el 20, negociación sin confirmar.
+
+- [Angry Crypto Show — 21 de octubre](2026-10-21-informe-angry-crypto-show.md): texto, imagen, fechas, contradicciones y contraste atribuido.
+
+- [Informe archivado — 21 de octubre](2026-10-21-informe-ada-night-bitcoin.md): procedencia, fechas, infografía y límites.
+- [Midnight: explicación de Nightmode](2026-10-21-midnight-nightmode.md): arquitectura atribuida y despliegue por verificar.
+- [Farside: sesión del 20](2026-10-21-farside-flujos-bitcoin.md): doce cifras revisables y suma comprobada.
+- [BlackRock: propuesta PBIT](2026-10-21-blackrock-pbit-propuesta.md): presentación preliminar del 19.
+- [J.P. Morgan: previsiones de BTC](2026-10-21-jpmorgan-previsiones-bitcoin.md): comunicado del 19 y rango sin asignación.
+
+- [Angry Crypto Show — 20 de octubre](2026-10-20-informe-angry-crypto-show.md): informe, transcripción, infografía, fechas y contraste atribuido.
+
+- [Informe archivado — 20 de octubre](2026-10-20-informe-ada-night-bitcoin.md): procedencia y límites.
+- [Farside: sesión del 19](2026-10-20-farside-flujos-bitcoin.md): fila nueva y revisable.
+- [Strategy: compras del 12–18](2026-10-20-strategy-compras-bitcoin.md): anuncio del 19 y hechos históricos.
 
 [Volver al índice general](../index.md).
+
+- [Informe archivado — 19 de octubre](2026-10-19-informe-ada-night-bitcoin.md): procedencia, infografía y ausencia limitada de novedades.
+- [Intersect: presupuesto y contratos](2026-10-19-intersect-contratos-presupuesto.md): declaración primaria, financiación y trabajo terminado por distinguir.
+
+
+- [Angry — aviso del 19 sin vídeos nuevos](2026-10-19-aviso-angry-sin-videos-nuevos.md): procedencia, comprobación del canal y fechas de entrega/archivo.
+
+
+- [Angry Crypto Show — 17 de octubre](2026-10-17-informe-angry-crypto-show.md): fuente derivada, preparación del 18, envío/archivo del 19 y límites.
+
+
+- [Informe archivado — edición del 17](2026-10-17-informe-ada-night-bitcoin.md): recuperación el 18, fuentes y procedencia.
+- [Cardano: Leios e Hydra](2026-10-17-cardano-desarrollo-leios-hydra.md): informe semanal y unidades del límite de snapshot.
+- [Midnight: SDK candidato](2026-10-17-midnight-js-candidato.md): release oficial, compatibilidad y despliegue por distinguir.
+- [MSCI: reglas de elegibilidad](2026-10-17-msci-empresas-no-operativas.md): anuncio primario y exposición empresarial atribuida.
+- [Farside: sesión del 16](2026-10-17-farside-flujos-bitcoin.md): salidas netas revisables, consulta del 18.
+
+
+- [Hoskinson: Nightframes, original del 10 de octubre](2026-10-10-hoskinson-nightframes-tokio.md): transcripción inglesa, fechas, relación con el doblaje y límites.
+
+
+- [Angry Crypto Show — 15 de octubre](2026-10-15-informe-angry-crypto-show.md): fuentes, transcripción, imagen y recuperación del archivo.
+- [Angry Crypto Show — 16 de octubre](2026-10-16-informe-angry-crypto-show.md): aspiración, afirmaciones atribuidas y secuencia de entrega.
+
+
+- [Informe archivado — 16 de octubre](2026-10-16-informe-ada-night-bitcoin.md): procedencia, fuentes, infografía y límites.
+- [Cardano: solicitud de reserva de cobre](2026-10-16-cardano-propuesta-cobre.md): PDF primario y presentación atribuida; aprobación no comprobada.
+- [Farside: sesión del 15](2026-10-16-farside-flujos-bitcoin.md): doce valores completos y saldo revisable de +5,1 millones USD.
+- [Bitcoin: rebote y contexto asiático](2026-10-16-bitcoin-rebote-asia.md): publicación del 16, precios históricos y causalidad pendiente.
+
+
+- [Informe archivado — 15 de octubre](2026-10-15-informe-ada-night-bitcoin.md): fuente derivada, fechas, enlaces externos, imagen y límites de verificación.
 
 - [Lote de Angry Crypto Show](2026-10-14-lote-angry-crypto-show.md): manifiesto, seis informes, transcripciones y fechas de la entrega retrasada.
 - [Angry Crypto Show — 7 de octubre](2026-10-07-informe-angry-crypto-show.md): procedencia, clasificaciones y vínculos a originales.

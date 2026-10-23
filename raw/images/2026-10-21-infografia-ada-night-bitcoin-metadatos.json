@@ -1,0 +1,19 @@
+{
+  "tool": "image_gen.imagegen (herramienta integrada)",
+  "use_case": "infographic-diagram",
+  "prompt": "Use case: infographic-diagram\nAsset type: infografía editorial en español para informe diario y correo.\nPrimary request: imagen horizontal con tres bloques ADA, NIGHT y Bitcoin; fondo claro, azul/violeta/naranja; texto grande muy legible e ilustraciones decorativas discretas. Sin gráficos de precios. Solo reproducir los siguientes hechos, atribuciones y límites.\nText (verbatim):\n\"ADA · NIGHT · BITCOIN\"\n\"21 de octubre de 2026 | Corte: 08:25 Europe/Madrid\"\nBloque ADA:\n\"ADA / CARDANO\"\n\"Sin nueva noticia fundamental corroborada\"\n\"Consulta: 21 oct 2026\"\n\"Resultado limitado a las fuentes accesibles\"\n\"Fuentes: Fundación Cardano y Cardano.org\"\nBloque NIGHT:\n\"NIGHT / MIDNIGHT\"\n\"Nightmode: arquitectura explicada\"\n\"Publicado: 20 oct 2026\"\n\"Según Midnight: bóvedas MPC y saldos privados\"\n\"Importes del tramo público visibles\"\n\"Despliegue general y adopción sin comprobar\"\n\"Fuente: blog oficial de Midnight\"\nBloque BTC:\n\"BTC / BITCOIN\"\n\"ETF: +23,2 millones USD netos\"\n\"Sesión: 20 oct 2026\"\n\"IBIT +29,9 · FBTC +3,6 · BITB −10,3\"\n\"Millones USD · Otros 9 fondos: 0\"\n\"Datos revisables · Fuente: Farside\"\n\"PBIT: propuesta presentada el 19 oct\"\n\"Opciones · Ganancias limitadas\"\n\"Protección parcial · Sin capital garantizado\"\n\"Fuente: folleto preliminar en SEC\"\nPie:\n\"Interpretaciones e incertidumbres en el informe completo\"\n\"Sin causalidad de precio confirmada · Sin recomendaciones de compra o venta\"\n\"cardanofoundation.org · cardano.org · midnight.network · farside.co.uk · sec.gov\"\nConstraints: signos, fechas y unidades exactos. No inventar precios, gráficos, hechos, causas o recomendaciones. No representar PBIT como lanzado o aprobado. Nightmode es descripción atribuida, no integración general auditada.",
+  "revision_prompt": "Edita únicamente los adornos que parecen gráficos de barras: elimina las tres columnas ascendentes detrás de la moneda Bitcoin en la cabecera naranja y sustitúyelas por fondo liso suave; sustituye el pequeño icono de barras junto a «ETF: +23,2 millones USD netos» por un icono de documento. Conserva exactamente todo el texto, cifras, fechas, colores, dimensiones, logos, disposición y otros iconos. No añadas gráficos, líneas de tendencia o adornos que sugieran rentabilidad.",
+  "created_date": "2026-10-21",
+  "creation_time_exact": null,
+  "archived_at": "2026-10-21T08:31:24.413430+02:00",
+  "selected_generated_path": "/Users/juancarlos/.codex/generated_images/01a0fb1b-0289-79a0-91cc-f6add3e697e9/exec-9dfa3f4b-4f99-4679-aa2d-457458175f38.png",
+  "report": "../reports/2026-10-21-informe-ada-night-bitcoin.md",
+  "sources": "../notes/2026-10-21-fuentes-informe-ada-night-bitcoin.json",
+  "sha256": "3feee5e1f118a71c89fff0b462f8a864ac7d7ea395d20d518cd469e597a359e1",
+  "bytes": 1754622,
+  "dimensions": [
+    1620,
+    971
+  ],
+  "visual_check": "Texto, signos, cifras, fechas y unidades coinciden. Retiradas barras decorativas; sin graficos financieros inventados."
+}

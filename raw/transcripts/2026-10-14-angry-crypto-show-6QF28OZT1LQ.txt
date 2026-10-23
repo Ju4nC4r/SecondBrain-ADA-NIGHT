@@ -1,0 +1,260 @@
+YouTube transcript
+Video ID: 6QF28OZT1LQ
+Language: en
+Captions: auto-generated
+
+[0:00] What is good Cardono fam? ADA gang with
+[0:02] lots of exciting updates to unpack
+[0:04] today. So, hit that subscribe, hit that
+[0:05] like. Cardona 24-hour trade volume
+[0:08] reached as high as $530 million
+[0:11] according to Coin Gecko. Coin Market Cap
+[0:13] ranks Cardono as the 11th most viewed
+[0:16] cryptocurrency, surpassing Chain Link,
+[0:18] Dogecoin, BMBB, Tron, and Monero.
+[0:22] Cardono surpasses 304,200
+[0:26] monthly active addresses, up nearly
+[0:29] 24,000 in the last 7 days, according to
+[0:32] data from Token Terminal. Blockworks
+[0:35] ranks Cardono as the fourth highest mind
+[0:37] share yet again, right behind Ethereum,
+[0:41] surpassing Zcash, BMBB, Bitensor,
+[0:43] Hyperliquid, and XRP.
+[0:46] Strike Finance integrates Realy. Users
+[0:49] can now deposit SUSDRF as collateral and
+[0:53] borrow against it while earning Real Fi
+[0:56] yield plus Strike's vault APR reaching
+[1:00] over 52% combined APR. Charles Hoskinson
+[1:05] says Realy is open for business through
+[1:07] Strike, one of the best DAPs on Cardono.
+[1:11] So great to see them integrate Realy,
+[1:13] but also the recognition from Charles on
+[1:16] Strike. Strike says Rioi is a gamecher.
+[1:20] Cardono founder Charles Hoskinson noted
+[1:23] just weeks ago that Reali is going to
+[1:25] bring a lot of TVL to Cardono.
+[1:28] Midnight has deployed over 1400 smart
+[1:31] contracts on mainet according to
+[1:33] Midnight Explorer.
+[1:35] Midnight has generated over 440,000
+[1:39] transactions on mainet a 10% increase in
+[1:42] just 24 hours.
+[1:44] Token Terminal, a leading onchain data
+[1:47] platform trusted by Binance and Robin
+[1:49] Hood, announces a data partnership with
+[1:53] Cardano's Realy, featuring comprehensive
+[1:56] analytics already live now for smart
+[1:59] contracts, TVL, fees, revenue, daily
+[2:02] active users, discovery, reporting, and
+[2:05] much more. Speaking of those analytics,
+[2:09] we can see them already in motion. Reali
+[2:12] has issued over $7.6 million in both
+[2:15] stable coins and tokenized funds on
+[2:18] Cardono, reaching over $5.1 million in
+[2:22] TVL, according to Token Terminal. Ura
+[2:25] Boros Laos advances closer to mainet now
+[2:28] surpassing 6,800 total updates. IOG is
+[2:32] targeting a mainet hardfork by the end
+[2:34] of this year. Charles Hoskinson has
+[2:36] called Laos the largest upgrade in the
+[2:39] history of Cardono.
+[2:41] Charles says, "What made computers what
+[2:43] they are today wasn't the giant main
+[2:45] frames of IBM. It was the video games.
+[2:48] Every single major computer scientist
+[2:51] grew up with Ataris, Nintendos, Segas,
+[2:54] and PlayStations.
+[2:56] They took the cold and the digital or
+[2:58] the logical, they made it real." And so
+[3:02] he used a very elegant term for it,
+[3:04] anthropomorphicized it, right? They took
+[3:08] that kind of bare metal stuff and they
+[3:10] added that human touch. They added the
+[3:13] culture to it. They transformed it. And
+[3:16] we've seen that time and time again over
+[3:18] the industries over the decades. Charles
+[3:21] on Nightframe says the most important
+[3:23] thing is you own them. They're
+[3:25] non-custodial. They work for you. It
+[3:27] means they don't waste your time. They
+[3:29] don't waste your money. And they don't
+[3:31] advertise products you don't need. It's
+[3:34] so important that they be non-custodial.
+[3:37] Charles says, "Think about how powerful
+[3:39] computers are." But isn't it a shame
+[3:42] that 99.99%
+[3:44] of the time that compute is wasted? If
+[3:48] you have all these night frames, just
+[3:50] like Uber can share your car, and he
+[3:53] said in the clip, just like how Airbnb
+[3:55] also can share your home, you can create
+[3:57] the largest compute grid in the entire
+[4:00] world. I think back to peer-to-peer. I
+[4:04] think back to different protocols and
+[4:06] applications and how you know web two
+[4:08] has been evolving and I think Charles is
+[4:11] on to something. There's definitely some
+[4:13] sort of logistics issue uh when it comes
+[4:16] to compute. There's already massive
+[4:18] amount of compute. It's just a matter of
+[4:20] coordination. Charles on data center
+[4:23] says it blows my mind because we already
+[4:26] built all the compute in the past 20
+[4:28] plus years. We just have no means of
+[4:31] harnessing it. There's a distribution
+[4:33] problem, not a production problem. This
+[4:36] solves it. This concept allows
+[4:38] everybody's computer to be that.
+[4:41] Charles says, "The crypto space is the
+[4:43] only space to save the AI space. The
+[4:46] only way AI actually realizes its
+[4:49] potential is for the agents to have
+[4:51] agency, to have identity, money, and the
+[4:54] ability to spend money.
+[4:57] What else is going on? Citadel
+[4:58] Securities and BNY complete first
+[5:01] blockchainbased tokenized US Treasury
+[5:03] transaction. I like that Robin Hood
+[5:06] chain surpasses $100 billion in total
+[5:09] trading volume just three and a half
+[5:11] months after launch. Speaking of Robin
+[5:14] Hood, they will be rolling out per
+[5:17] listing eight assets. One of them will
+[5:20] be ADA. Standard Chartered launches
+[5:23] Bitcoin and Ethereum trading directly
+[5:26] through bank accounts for eligible
+[5:27] clients in the UAE. Interpol arrests Hex
+[5:32] and PulseChain crypto founder Richard
+[5:34] Hart. Yes, in Turkey. And so this has
+[5:38] been everywhere. It first came to my
+[5:39] attention from Ivan on Tech. Take it
+[5:42] with a grain of salt. Some people are
+[5:43] like, "Hey, is this AI?" Um, but a lot
+[5:46] of outlets have been covering this. This
+[5:48] video doesn't have any audio, but let me
+[5:51] know what do you guys think. My reply
+[5:53] was ticker is ADA. It's kind of
+[5:55] interesting that this happened during
+[5:58] this crash. It's so funny how sometimes
+[6:00] I don't know if it's coincidental, but
+[6:03] you know, it is what it is. I wish the
+[6:05] best for the Pulse and Hex community uh
+[6:08] and for Richard. Um you know, it is what
+[6:10] it is at the end of the day. Speaking of
+[6:13] negativity, France considers imposing
+[6:15] 31.4% 4% tax on crypto to stable coin
+[6:18] conversions. Pretty wild. It doesn't
+[6:21] seem to be law yet, but you know,
+[6:23] they're considering it. Speaking of
+[6:25] wild, Senator Elizabeth Warren has
+[6:27] repeatedly stated that cryptocurrency is
+[6:30] used for money laundering and to avoid
+[6:32] sanctions. Just wait until she realizes
+[6:35] what fiat has been used for. Right.
+[6:37] Today, the US government fined Bank of
+[6:40] America $1.2 2 billion for violating
+[6:43] money laundering regulations and
+[6:45] sanctions laws. CZ also mentioned this,
+[6:48] how just it's just water under the
+[6:50] bridge. No one cares. It's as if like a
+[6:52] tiny little crumb happens to crypto and
+[6:54] they make it huge and then a tsunami
+[6:57] wave of illicit stuff is with fiat and
+[7:00] the politicians don't care. Well, Jim
+[7:03] Kramer says there's no stopping the
+[7:05] bears right now. So, thank you for your
+[7:07] service, Mr. Kramer. I like that. And
+[7:10] before we take a look at price, thank
+[7:12] you to the sponsor of Angry Crypto Show
+[7:15] here on YouTube. So, Angry Crypto Show
+[7:17] on YouTube. Our official sponsor is
+[7:19] Koshi. If you want to trade CFDC
+[7:22] regulated perpetual futures in the US,
+[7:26] Koshi is definitely one that I can
+[7:28] recommend because ultimately strike you
+[7:30] can't even use it in the US. So, it's
+[7:32] not available to US residents. So, Koshi
+[7:35] is available in the US across most
+[7:38] states. If you want to sign up, you can
+[7:41] check the link in the description and
+[7:42] you get a bonus 50 bucks sent your way
+[7:44] for trading $25. So, ADA Per
+[7:49] Cardono per in America only on Koshi.
+[7:53] Let's take a look at price ADA 228.
+[7:58] Bitcoin or XRP at 1.32, Bitcoin at 818,
+[8:02] and I've been seeing some important
+[8:03] levels here, right? So, there's going to
+[8:05] be a very important level, I would say.
+[8:07] Okay. And we're looking at the one-mon
+[8:08] chart, but we definitely don't want to
+[8:10] go below that 22 cent. Like if we start
+[8:12] dancing with like 22 cent. I know we got
+[8:16] out of Bikini Bottom, rock bottom. I
+[8:18] don't want to revisit rock bottom. You
+[8:20] know what I'm saying? So, we'll see what
+[8:22] happens. A lot of people have been
+[8:24] expecting such crypto crow, many others
+[8:27] have been talking about revisiting lower
+[8:29] lows and so perhaps we're going to have
+[8:31] some more rinses and shakeouts before we
+[8:33] ultimately see some more upside. But if
+[8:36] you do want to trade uh towards upside
+[8:39] or downside and leverage in both
+[8:41] directions, you can use a platform like
+[8:43] Koshi to do so. So let me know your
+[8:46] thoughts guys. What are you most excited
+[8:48] about right now? There's a lot going on.
+[8:50] There seems to be a lot just on the
+[8:52] horizon especially with politics right
+[8:55] diesel, the price of diesel, oil, uh we
+[8:58] got the midterms, right? So there's a
+[9:00] lot of like uncertainty around that. Uh,
+[9:02] but I think still there's a lot of good
+[9:04] that's happening with Cardano. I'm happy
+[9:07] to see that stable coins, tokenized
+[9:10] funds are making their way on Cardono.
+[9:13] I would say the highlight for me would
+[9:15] be Strike. This is definitely a huge
+[9:18] huge win. I really like their panel.
+[9:20] Super clean. I really like that they've
+[9:23] just integrated it. And Strike is one of
+[9:25] those projects that just like delivers
+[9:27] fast. So, good stuff. Congratulations to
+[9:30] Strike integrating Realy. And I think
+[9:33] also the other thing I'm an avid user of
+[9:35] token terminal. So I was uh extremely
+[9:38] excited to see them announce the
+[9:40] partnership and it's already live. You
+[9:43] know sometimes they announce a
+[9:44] partnership in crypto and you wait
+[9:47] forever. So good to see that this is
+[9:50] already uh live. And my last shout out
+[9:53] would I think would be to Charles. I
+[9:56] there is something here. There is a
+[9:58] massive potential here with the largest
+[10:00] compute grid in the world. I think
+[10:02] there's still a little bit of confusion
+[10:04] with people regarding night frames. I'm
+[10:06] still kind of wrapping my head around
+[10:08] the whole kind of evolution of the smart
+[10:10] contract because Charles does make a
+[10:11] good point like smart contracts are not
+[10:14] really smart, hence all the hacks. But
+[10:17] if we can take that and make it a living
+[10:19] organism as any website should be and as
+[10:22] any tech in the modern world should be,
+[10:25] there could be massive potential there
+[10:28] in a multi-chain abstract intent driven
+[10:31] world for blockchain and ultimately
+[10:35] helping with the guard rails but also
+[10:37] giving that spending power to the
+[10:39] agentic world. So I think there is a
+[10:42] convergence going on that we're
+[10:44] basically witnessing in real time with
+[10:46] Tradfi, you know, with stocks, with
+[10:48] unified marketplaces, with AI all coming
+[10:51] together. And it's exciting to see that
+[10:54] privacy is also at the forefront of this
+[10:56] as well. So let me know your thoughts,
+[10:58] guys. Smash that subscribe. Smash that
+[11:00] like.

@@ -6,7 +6,7 @@ Base de conocimiento personal para investigar Cardano (ADA) y Midnight (NIGHT) c
 
 ## Estado
 
-Última incorporación del seguimiento diario: [informe del 14 de octubre](reports/2026-10-14-seguimiento-ada-night-bitcoin.md), con cuerpo completo y procedencia en RAW. Los días anteriores se conservan.
+Última incorporación del seguimiento diario: [informe del 23 de octubre](reports/2026-10-23-seguimiento-ada-night-bitcoin.md), corte 10:22 Europe/Madrid. Ensayo Hydra publicado el 22, divulgación Midnight y salidas ETF de la sesión del 22; fechas, atribuciones y límites conservados.
 
 La estructura conserva la [guía de Karpathy](sources/llm-wiki.md) y los informes de ADA, NIGHT y Bitcoin del [5](reports/2026-10-05-seguimiento-ada-night-bitcoin.md) y [6 de octubre](reports/2026-10-06-seguimiento-ada-night-bitcoin.md), con versiones en RAW y fichas de procedencia. El primero procede de otro chat; el segundo se elaboró manualmente en este proyecto al comprobar que no había una entrega del día 6. La incorporación actualiza activos, conceptos, índices y el tema de seguimiento.
 
@@ -39,6 +39,26 @@ No se localizaron copias archivadas del 10–12 al inicio; se registra la laguna
 El [informe manual del 14](reports/2026-10-14-seguimiento-ada-night-bitcoin.md) conserva cuerpo completo e infografía con sus fuentes. [Leios](sources/2026-10-14-cardano-leios-fire.md) está en pruebas Fire; [Midnight](sources/2026-10-14-midnight-roadmap.md) presenta objetivos Q4/Q1, sin disponibilidad actual comprobada de staking. [ETF](sources/2026-10-14-farside-flujos-bitcoin.md), sesión del 13: +175,7 millones de USD. [Strive](sources/2026-10-14-strive-compras-bitcoin.md) declara el 13 compras del 5–9. No se combinan como demanda simultánea ni causa de precio.
 
 Se ejecutó por orden expresa del usuario después de no hallar archivo del 14 o mensaje de esa fecha en Enviados. No se infiere la causa de la ausencia ni se cambian programación o estado de la automatización.
+
+## Actualización del 15 de octubre
+
+La [ficha del informe](sources/2026-10-15-informe-ada-night-bitcoin.md) distingue publicación, hecho y captura posterior. [Mithril](entities/mithril.md) aporta trabajo semanal publicado el 14, sin despliegue general acreditado; [NorthStar](entities/northstar.md) aporta métricas atribuidas a SIPO del 15, sin fecha precisa del primer día o contraste directo. El IPC corresponde a septiembre y la lectura de precio de Bitcoin es del 14. La nota de ETF conserva −261,4 millones de USD para la sesión del 14; su suma se verifica localmente. Strive declara compras de 2.822 BTC del 12–13, distintas de las del 5–9 recogidas antes. Sin combinar ventanas como demanda simultánea ni atribuir causa única de precio.
+
+Los seis archivos RAW del día se conservan intactos. Las notas originales de archivo sin ingesta describen aquella operación; la incorporación posterior se registra en la wiki sin reescribirlas. El antecedente de correo se enlaza, sin nueva comprobación o envío por esta ingesta.
+
+## Actualización del 16 de octubre
+
+El [informe diario](reports/2026-10-16-seguimiento-ada-night-bitcoin.md) incorpora la [solicitud de cobre](sources/2026-10-16-cardano-propuesta-cobre.md): 22 millones ADA solicitados, sin aprobación o ejecución comprobadas. NIGHT no aporta nueva noticia fundamental corroborada en la búsqueda; NorthStar continúa pendiente de contraste. [Bitcoin](sources/2026-10-16-bitcoin-rebote-asia.md) rebota según una publicación del 16 sobre hechos históricos; [ETF](sources/2026-10-16-farside-flujos-bitcoin.md), sesión del 15, +5,1 millones USD revisables. No se atribuye causa regional o de ETF al precio.
+
+Se conserva la discrepancia del número de páginas entre SIPO y el PDF servido. La difusión de Plutus se excluye como novedad: fuente oficial de septiembre. No se reescriben las ventanas ni atribuciones anteriores.
+
+## Edición del 17 recuperada el 18
+
+[Informe](reports/2026-10-17-seguimiento-ada-night-bitcoin.md): avances semanales de Leios y límite de Hydra por snapshot; versión candidata midnight-js; MSCI con lista y aplicación futuras; ETF de la sesión del 16 −82,4 millones USD, consulta del 18. Las fuentes primarias están contrastadas documentalmente, sin pruebas propias de software o conciliación por emisor. La fecha editorial no se confunde con captura o entrega.
+
+## Actualización del 19 de octubre
+
+El [informe](reports/2026-10-19-seguimiento-ada-night-bitcoin.md) incorpora la declaración de [Intersect](sources/2026-10-19-intersect-contratos-presupuesto.md) del 17, aún no recogida en esta serie: contratos financiados, no trabajos terminados. La convocatoria sobre mínimo de ADA en UTxO sigue siendo investigación. NIGHT y BTC sin novedades relevantes nuevas corroboradas en la búsqueda; fila ETF del 19 ausente, no cero. Se preservan originales y fechas de las entregas anteriores.
 
 ## Síntesis
 
@@ -91,3 +111,71 @@ El [lote de Angry](sources/2026-10-14-lote-angry-crypto-show.md), archivado por 
 Se reutilizan CIP-0113, .ada, Leios y la roadmap; se añaden [Minswap](entities/minswap.md), [Solada](entities/solada.md), [Sig.Network](entities/sig-network.md), [previsiones y publicidad](concepts/previsiones-atribuidas-y-publicidad.md) e [interoperabilidad y custodia](concepts/interoperabilidad-custodia-y-privacidad.md). La descripción de Solada matiza liquidez unificada; los cambios de afirmación sobre OKJ no se convierten en operación comprobada. La ficha primaria de Strive complementa el contraste secundario del canal.
 
 El seguimiento empezó el 7: no constan informes recuperables del 1–6 ni 11–12, sin inferir ausencia de vídeos. El informe del 10 se preparó el 12 y se envió el 13; su imagen conserva la fecha de preparación. Es una serie adicional: ese informe del 10 no sustituye un informe faltante de Noticias diarias ADA/NIGHT/BTC. Los originales y el estado histórico pending del manifiesto permanecen intactos.
+
+El informe del 16 y su infografía se enviaron a gallegojc@gmail.com a las 07:45:53 Europe/Madrid, con cuerpos e identidad del PNG comprobados en Gmail. [Constancia de entrega](../raw/notes/2026-10-16-envio-gmail-informe-ada-night-bitcoin.json).
+
+## Ampliación de Angry Crypto Show — 16 de octubre
+
+Se incorporan los informes del [15](reports/2026-10-15-angry-crypto-show.md) y [16](reports/2026-10-16-angry-crypto-show.md): el seguimiento suma ocho informes y seis infografías conservadas. El primero se preparó y envió el 15 y se archivó el 16, sin reenvío; el segundo conserva corte 07:35 y sus hitos posteriores. Las notas RAW de estado inicial y `pending` no se reescriben.
+
+[RealFi](entities/realfi.md), [Strike](entities/strike-finance.md) y [APR, crédito y liquidez](concepts/apr-credito-y-liquidez.md) separan producto, deuda, rendimiento anunciado y salida. La aspiración atribuida de 1.000 millones no es resultado, compromiso o plazo; la integración y cifras repetidas no se duplican. La visión de Nightframes, el próximo anuncio y el panel de Midnight son declaraciones/agenda pendientes. Las métricas de agentes no son contratos o humanos; la diferencia entre 304.200 y 305.300 direcciones es 1.100 frente a 1.000 en el discurso.
+
+Se conservan los contrastes externos registrados por el autor sin presentarlos como nuevas consultas de esta ingesta; fuentes, transcripciones e imágenes permanecen intactas. La opinión condicional de VirtualBacon, los niveles históricos de ADA y el patrocinio de Kalshi se registran con sus límites, sin inferir instrucciones de inversión. [Seguimiento y preguntas abiertas](topics/seguimiento-angry-crypto-show.md).
+
+## Nightframes: intervención original incorporada el 16 de octubre
+
+Se conserva la [transcripción inglesa del vídeo original](sources/2026-10-10-hoskinson-nightframes-tokio.md) de Hoskinson publicado el 10; el enlace inicial en castellano queda registrado como doblaje derivado. La [síntesis en español](reports/2026-10-16-nightframes-presentacion-tokio.md), el concepto [Nightframes](concepts/nightframes.md) y la entidad [Midnight City](entities/midnight-city.md) reúnen identidad, intención, inteligencia, personalización y el papel de wallets/mercados.
+
+Es fuente directa de lo declarado, sin auditoría de implementación: Passport, trading, habilidades y expansión a dispositivos conservan calendario futuro del discurso. El pago sin conexión con borrado de clave, el control no custodial y las garantías criptográficas siguen sin verificación técnica propia. Se conectan los informes previos de Angry sin contarlos otra vez como nuevas noticias; las fechas de publicación, evento no confirmado y captura permanecen diferenciadas.
+
+## Angry Crypto Show: edición del 17 incorporada el 19
+
+Se añade la [síntesis del informe del 17](reports/2026-10-17-angry-crypto-show.md), preparado el 18 y enviado/archivado el 19; el vídeo es del 16. El seguimiento del canal suma nueve informes. Se conservan el corte efectivo posterior y todos los originales, sin reescribir los estados históricos de entrega o ingesta pendiente.
+
+El [benchmark de Hydra](concepts/benchmarks-locales-y-rendimiento-red.md) es local de tres nodos, con carga y tiempo definidos; no TPS de mainnet. [Fireblocks](entities/fireblocks.md) conserva marzo de 2027 como objetivo y [Nightstream](entities/nightstream.md) es una línea prevista de pruebas ZK poscuánticas. No hay acuerdo con Aztec acreditado por el intercambio cordial relatado. Las métricas y opiniones del canal mantienen atribuciones y lagunas; la integración RealFi–Strike no se duplica como novedad.
+
+## Aviso de Angry Crypto Show del 19: sin vídeos nuevos
+
+El [registro del aviso](reports/2026-10-19-angry-crypto-show-sin-videos-nuevos.md) conserva la comprobación del canal realizada por su autor a las 07:34 de Madrid, sin vídeo posterior al ya analizado en la edición del 17. Se añade como estado del seguimiento, no como otro análisis o noticia. No se genera una transcripción ni se repiten recomendaciones. El alcance temporal, las constancias separadas de entrega y los metadatos originales se mantienen en la [ficha de procedencia](sources/2026-10-19-aviso-angry-sin-videos-nuevos.md).
+
+La [edición del 17](reports/2026-10-17-seguimiento-ada-night-bitcoin.md), redactada y con imagen el 18 y archivada el 19, se envió el 19 de octubre de 2026 a las 07:40:25 Europe/Madrid. [Entrega Gmail comprobada](../raw/notes/2026-10-17-envio-gmail-informe-ada-night-bitcoin.json), con cuerpos completos e identidad del PNG verificados.
+
+El informe del 19 y su infografía se enviaron el 19 de octubre de 2026 a las 08:26:35 Europe/Madrid, con cuerpo completo y PNG idéntico al archivado. [Constancia comprobada en Gmail](../raw/notes/2026-10-19-envio-gmail-informe-ada-night-bitcoin.json).
+
+## Actualización del 20 de octubre
+
+[ETF](sources/2026-10-20-farside-flujos-bitcoin.md): fila del 19 ya publicada, +526,7 millones USD revisables, sin conciliación por emisor. [Strategy](sources/2026-10-20-strategy-compras-bitcoin.md): 267 BTC del 12–18, anuncio del 19, no cotización actual. Ventanas distintas sin suma automática o causalidad de precio. Conservados originales y estado de publicación del día anterior.
+
+## Angry Crypto Show: edición del 20 incorporada
+
+La [nueva síntesis](reports/2026-10-20-angry-crypto-show.md) corresponde a un vídeo publicado el 19 a las 23:15, después del aviso de revisión matutina sin vídeos nuevos. El canal reúne **diez análisis de vídeo y un aviso de estado**. Informe, transcripción inglesa e infografía están enlazados desde su [ficha](sources/2026-10-20-informe-angry-crypto-show.md), con originales y metadatos preservados.
+
+Strike aspira a capitalización de 1.000 millones USD en 36 meses, sin valoración alcanzada o TVL; no se suman bóveda y despliegue vía RealFi. Nightframes, conexiones y clústeres de IA para auditoría siguen como planes atribuidos, sin sistema completo o financiación aprobada comprobados. La fuente primaria de Strategy ya integrada complementa una mención del canal, sin contar otra compra. Métricas, narrativa poscuántica, opiniones y patrocinio mantienen límites; no se reescribe el resultado limitado de la serie diaria.
+
+El informe del 20 y su infografía se enviaron el 20 de octubre de 2026 a las 10:13:12 Europe/Madrid, con cuerpo completo e imagen idénticos a los archivados. [Constancia de Gmail](../raw/notes/2026-10-20-envio-gmail-informe-ada-night-bitcoin.json).
+
+## Actualización del 21 de octubre
+
+La [publicación de Midnight](sources/2026-10-21-midnight-nightmode.md) del 20 añade arquitectura de Nightmode sin verificar despliegue general, seguridad o adopción; la búsqueda sin novedades anterior conserva su alcance temporal. [ETF](sources/2026-10-21-farside-flujos-bitcoin.md), sesión del 20: +23,2 millones USD revisables. [PBIT](sources/2026-10-21-blackrock-pbit-propuesta.md), presentado el 19, no lanzamiento aprobado o capital garantizado; [JPM](sources/2026-10-21-jpmorgan-previsiones-bitcoin.md), comunicado del 19, previsiones sin asignación. ADA sin nueva noticia fundamental corroborada. Se conservan originales y el alcance general ADA/NIGHT.
+
+El informe del 21 y su infografía se enviaron el 21 de octubre de 2026 a las 08:50:23 Europe/Madrid. [Constancia Gmail](../raw/notes/2026-10-21-envio-gmail-informe-ada-night-bitcoin.json) con cuerpo completo e identidad de la imagen verificados.
+
+## Angry Crypto Show: edición del 21 incorporada
+
+La [síntesis](reports/2026-10-21-angry-crypto-show.md), sobre vídeo publicado la noche del 20, incorpora transcripción completa, imagen y [procedencia](sources/2026-10-21-informe-angry-crypto-show.md). El canal suma **once análisis de vídeo y un aviso de estado**. Nightmode y JPM se relacionan con sus fuentes ya existentes, sin duplicar anuncios o modificar otros informes.
+
+SIG mantiene stagenet, mainnet con ledger v9 y TRON futuro; activos en origen e importes/tiempos públicos de Ethereum limitan la privacidad del discurso. [Offer Files](concepts/offer-files-y-negociacion-privada.md) conserva definición y garantías pendientes; [Pogun](entities/pogun.md), enero/1.000x/compromisos blandos sin calendario, benchmark o depósitos verificados. Leios sigue como escalado condicionado, no rendimiento logrado. Se preserva la discrepancia del 31,4 % con la enmienda francesa, sin dar ley vigente por acreditada. Integraciones, métricas, opiniones y patrocinio conservan límites.
+
+## Actualización del 22 de octubre
+
+[MiCA](sources/2026-10-22-cardano-respuesta-mica.md): explicación publicada el 21 de una respuesta enviada el 30 de septiembre, no norma adoptada. [Agricultura](sources/2026-10-22-cardano-registros-agricolas-india.md): >100.000 registros declarados, sin fecha del hito o recuento auditado. [ETF](sources/2026-10-22-farside-flujos-bitcoin.md), sesión del 21: +524,8 millones USD revisables. [FINMA](sources/2026-10-22-finma-etf-bitcoin-minorista.md) confirma anuncio de aprobación del 20 y resuelve la laguna previa del canal, sin acreditar negociación o entradas. NIGHT sin novedad posterior corroborada; midnight-js inaccesible por timeout.
+
+## Actualización del 23 de octubre
+
+[Hydra](sources/2026-10-23-hydra-reensayo-glacier-drop.md): 42 a 79 reclamaciones/s en ensayo declarado, sin extrapolar a toda Cardano. [Midnight](sources/2026-10-23-midnight-freedom-fighters.md): cuatro episodios publicados el 22; sin cambio económico o despliegue corroborado. Glacier Drop es histórico de 2025, no otro reparto. [ETF](sources/2026-10-23-farside-flujos-bitcoin.md), sesión del 22: −635,6 millones USD revisables, doce cifras presentes, sin conciliación por emisor. DijkstraNet/Genius Yield pendientes de contraste primario; sin causa de precio. Originales anteriores intactos, incluida la búsqueda limitada de ayer.
+
+## Angry Crypto Show: aviso de acceso limitado del 23
+
+Incorporados el [aviso del 23](reports/2026-10-23-angry-crypto-show-acceso-limitado.md), su imagen y [procedencia](sources/2026-10-23-aviso-angry-acceso-limitado.md). Hay dos publicaciones identificadas del 22 en Madrid, una pendiente desde la ejecución interrumpida de ese día. Pistas públicas con HTTP 200 y cero bytes, sin transcripción legible o revisión audiovisual íntegra; no se incorporan titulares como hechos o recomendaciones.
+
+El [seguimiento del canal](topics/seguimiento-angry-crypto-show.md) conserva **once análisis de vídeo, dos avisos de estado y dos vídeos pendientes**. Ingesta del aviso completada; ingesta de sus contenidos pendiente. Archivo, búsqueda de correo previa y envío posterior del aviso se distinguen en la ficha, sin reenviar correo o modificar las conclusiones de los análisis anteriores.

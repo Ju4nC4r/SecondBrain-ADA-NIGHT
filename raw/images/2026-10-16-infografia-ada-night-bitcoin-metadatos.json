@@ -1,0 +1,35 @@
+{
+  "report_date": "2026-10-16",
+  "cutoff": "2026-10-16T07:23:00+02:00",
+  "capture_time": "2026-10-16T07:27:45+02:00",
+  "author": "Codex",
+  "origin_chat_title": "Informe diario de noticias de ADA y NIGHT",
+  "origin_chat_id": "01a0fb1b-0289-79a0-91cc-f6add3e697e9",
+  "report_sha256": "658125b3e239bbf1fe042527a32885873def7b01b4aae244af770f42757b52bb",
+  "external_fulltext_archived": false,
+  "tool": "image_gen.imagegen",
+  "mode": "built-in generate followed by edit",
+  "generated_on": "2026-10-16",
+  "exact_service_creation_time": null,
+  "prompt": "Use case: infographic-diagram. Generate a polished Spanish daily news infographic, landscape editorial style, three equal large panels on ivory background. Large highly legible serif headings and clear sans-serif body, restrained blue for ADA, purple for NIGHT and orange for Bitcoin. Use only the facts and explicit limitations below. No charts, price curves, trend arrows, fabricated figures, forecasts or trade recommendations. Header exactly \"ADA · NIGHT · BITCOIN\" and \"16 de octubre de 2026 | Corte: 07:23 Europe/Madrid\".\nADA panel title \"ADA / CARDANO\". Heading \"Solicitud para cobre tokenizado\". Main number \"22.000.000 ADA\". Body \"Propuesta de Toto Finance\" \"Documento: 14 oct 2026\" \"Presentación: 15 oct, según SIPO del 16\" \"Sin aprobación ni compra ejecutada comprobadas\" \"Riesgos: custodia, puente y precios\". Source \"Fuentes: Toto Finance · SIPO\". Make request/pending status very prominent; no claim that treasury already spent or approved anything.\nNIGHT panel title \"NIGHT / MIDNIGHT\". Heading \"Sin novedad fundamental nueva corroborada\". Body \"Consulta: 16 oct 2026\" \"Resultado limitado a las fuentes revisadas\" \"NorthStar: contraste directo pendiente\". Source \"Fuentes: blog de Midnight · SIPO\". No invented metrics, no implication of no global news.\nBitcoin panel title \"BTC / BITCOIN\". Heading \"Rebote y saldo de ETF positivo\". Body \"Mercado del 15, publicado el 16\" \"79.800 → 82.500 USD en dos horas\" \"Precios históricos según CoinDesk\" \"ETF, sesión 15 oct: +5,1 millones USD\" \"12 fondos; cifras revisables\". Source \"Fuentes: CoinDesk · Farside\". The arrow is ONLY a typographic separator between the two quoted historical numbers, do not draw trend charts. Footer \"Posibles impactos e incertidumbres en el informe completo\" \"Sin causalidad de precio confirmada · Sin recomendaciones de compra o venta\". Small sources footer \"totofinance.com · sipo.tokyo · midnight.network · coindesk.com · farside.co.uk\". Plenty of whitespace, impeccable exact Spanish spelling and digits, no decorative slogans implying all statements independently audited.",
+  "edit_prompt": "Edit this infographic. Change ONLY the incorrect orange warning-box line in the ADA panel which currently reads \"SIN APROBACIÓN PENDIENTE\". Replace that exact line with \"APROBACIÓN NO COMPROBADA\". Keep the line \"SOLICITUD PRESENTADA\" above it. Preserve all other text, numbers, dates, typography, layout, three panels, icons and colors exactly. Do not add slogans or any new text. The treasury request has not been independently confirmed approved; the corrected phrase must be exactly \"APROBACIÓN NO COMPROBADA\".",
+  "initial_generated_file": "/Users/juancarlos/.codex/generated_images/01a0fb1b-0289-79a0-91cc-f6add3e697e9/exec-5f178030-25c8-4e2e-97eb-534610002929.png",
+  "final_generated_file": "/Users/juancarlos/.codex/generated_images/01a0fb1b-0289-79a0-91cc-f6add3e697e9/exec-0784ffbe-27fb-4307-8c6e-64e1d5e4a186.png",
+  "edit_reason": "Etiqueta inicial ambigua: SIN APROBACIÓN PENDIENTE; sustituida por APROBACIÓN NO COMPROBADA mediante image_gen, sin alterar otros datos.",
+  "sha256": "7f85ecb539891a3d858072f46e794de22b223d429bae36c445428ff447c473b1",
+  "bytes": 1889064,
+  "dimensions": [
+    1774,
+    887
+  ],
+  "report": "../reports/2026-10-16-informe-ada-night-bitcoin.md",
+  "sources": [
+    "https://totofinance.com/cardano-treasury-proposal-strategic-tokenized-copper-reserve/Cardano_Toto-Finance_Tokenized_Copper_CuTT_Treasury_Proposal.pdf",
+    "https://sipo.tokyo/signal-20261016-d230af5d/",
+    "https://midnight.network/blog",
+    "https://sipo.tokyo/daily-intel-20261016/",
+    "https://www.coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound",
+    "https://farside.co.uk/btc/"
+  ],
+  "visual_check": "Comprobados 16 de octubre, corte 07:23, importe 22.000.000 ADA como solicitud, documento 14, presentación 15 atribuida, ausencia limitada de NIGHT, precios históricos 79.800/82.500, ETF +5,1 millones USD y 12 fondos. Etiqueta corregida inspeccionada. Elementos gráficos y lemas decorativos no son pruebas de rendimiento o adopción."
+}

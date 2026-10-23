@@ -1,0 +1,88 @@
+{
+  "author": "Codex",
+  "chat_id": "01a0fb1b-0289-79a0-91cc-f6add3e697e9",
+  "report_date": "2026-10-22",
+  "cutoff": "2026-10-22T07:32:00+02:00",
+  "captured_at": "2026-10-22T07:36:40.194487+02:00",
+  "research_window": "Marcas de reloj 07:29:55–07:31:28 Europe/Madrid; sin hora individual por URL.",
+  "sources": [
+    {
+      "url": "https://cardanofoundation.org/blog/mica-review-consultation-response",
+      "author": "Benjamin Buergi, Cardano Foundation",
+      "publication_date": "2026-10-21",
+      "event_date": "2026-09-30",
+      "type": "posicion primaria del participante en consulta",
+      "used": "Publicacion de respuesta previa; postura regulatoria, no norma adoptada"
+    },
+    {
+      "url": "https://cardanofoundation.org/case-studies/syngenta-india",
+      "author": "Cardano Foundation",
+      "publication_date": null,
+      "event_date": null,
+      "type": "ficha primaria del proyecto",
+      "used": "Más de 100.000 explotaciones en cadena; despliegue y ensayos iniciales declarados, sin auditoría o recuento propios."
+    },
+    {
+      "url": "https://midnight.network/blog",
+      "type": "listado oficial",
+      "publication_date": null,
+      "used": "Busqueda limitada, sin noticia posterior a la ya recogida"
+    },
+    {
+      "url": "https://github.com/midnightntwrk/midnight-node/releases",
+      "type": "versiones oficiales",
+      "publication_date": null,
+      "used": "Busqueda limitada NIGHT"
+    },
+    {
+      "url": "https://github.com/midnightntwrk/midnight-js/releases",
+      "type": "versiones oficiales no accesibles",
+      "error": "Timeout fetching en dos consultas"
+    },
+    {
+      "url": "https://farside.co.uk/btc/",
+      "author": "Farside Investors",
+      "type": "datos originales del proveedor",
+      "event_date": "2026-10-21",
+      "publication_time": null,
+      "used": "Doce datos presentes; suma +524,8 millones USD; resto de diez fondos +77,1 millones; cifras revisables."
+    },
+    {
+      "url": "https://www.finma.ch/en/news/2026/10/20261020-mm-finma-bitcoin-etf",
+      "author": "FINMA",
+      "publication_date": "2026-10-20",
+      "event_date": "Anuncio del 2026-10-20; fecha individual de aprobación no especificada",
+      "type": "comunicado primario regulador",
+      "used": "Primer ETF minorista con inversión directa en BTC y excepción a diversificación; inicio de negociación sin verificar."
+    },
+    {
+      "url": "https://www.sec.gov/comments/S7-2026-27/s7202627-1102859-3882366.pdf",
+      "author": "Seis organizaciones L1, incluida Cardano Foundation",
+      "publication_date": null,
+      "event_date": null,
+      "type": "carta primaria consultada para descubrimiento",
+      "used": "No incorporada al cuerpo; fecha no visible en PDF consultado"
+    },
+    {
+      "url": "https://coinness.com/en/news/68746",
+      "type": "cobertura secundaria/listado dinamico",
+      "displayed_date": "2026-10-21",
+      "used": "Descubrimiento del hito agrícola; contrastado con ficha primaria."
+    },
+    {
+      "url": "https://cryptobriefing.com/cardano-registers-100000-indian-farm-lands/",
+      "type": "descubrimiento secundario",
+      "error": "403 al abrir; no utilizado como evidencia primaria"
+    }
+  ],
+  "limitations": [
+    "Informe derivado; no se archivaron artículos o PDF completos.",
+    "MiCA: postura de la Fundación, no norma adoptada o asesoramiento jurídico.",
+    "Ficha agrícola sin fechas visibles; recuento no auditado ni resultados económicos comprobados.",
+    "midnight-js falló en dos consultas por timeout; búsqueda NIGHT limitada a canales accesibles.",
+    "Farside revisable, sin conciliación con emisores.",
+    "FINMA acredita anuncio de aprobación; no fecha individual de decisión, negociación o flujos comprobados.",
+    "Carta SEC consultada como descubrimiento, sin fecha visible en PDF y fuera del cuerpo.",
+    "Enlaces materiales consultados; no auditoría global histórica de enlaces externos."
+  ]
+}

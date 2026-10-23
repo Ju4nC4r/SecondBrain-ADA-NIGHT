@@ -1,0 +1,383 @@
+YouTube transcript
+Video ID: nUoOA_phXYQ
+Language: en
+Captions: auto-generated
+
+[0:00] What is good, Cardano fam, ADA gang?
+[0:02] We've lots of exciting updates to unpack
+[0:03] today, so hit that subscribe, hit that
+[0:05] like. Cardano ADA 24-hour trade volume
+[0:08] surpasses $270 million
+[0:10] according to CoinGecko. ADA generated
+[0:13] nearly $200,000 in 24-hour trade volume
+[0:17] on Polymarket's crypto perpetuals. It
+[0:19] may not seem like much, but surpasses
+[0:22] XRP, BNB, and nearly four times both
+[0:25] Dogecoin and Chainlink. Over on Kaoshi,
+[0:29] ADA generated nearly half a million
+[0:31] dollars in 24-hour volume, surpassing
+[0:34] BNB and Chainlink.
+[0:36] Coinbase wrapped ADA surpasses 3.7
+[0:39] million transactions and 6,600 holders,
+[0:43] highlighting rising demand in
+[0:45] cross-chain Cardano.
+[0:47] Solada, the first-ever Cardano to Solana
+[0:50] launchpad, has generated over 8.5
+[0:53] million ADA in trade volume and over
+[0:55] 77,000 ADA in rewards since launching
+[0:59] just 10 days ago.
+[1:01] Strike Finance says its goal is to be
+[1:04] Cardano's second billion-dollar market
+[1:06] cap project. Midnight was first. So,
+[1:09] they're here for the long term. They put
+[1:11] out another update saying that that's
+[1:13] the goal within the next 36 months. So,
+[1:16] they're here for the long haul. Strike's
+[1:18] liquidity vault just passed $1 million
+[1:21] in TVL with $200,000 deployed via RealFi
+[1:25] in just 72 hours.
+[1:28] Cardano ranked number nine in tokenized
+[1:31] fund market cap growth in the past 7
+[1:33] days, adding over $184,000
+[1:37] according to Real World Asset Foundation
+[1:39] and Token Terminal. So, the numbers may
+[1:42] seem low, but we're seeing steady
+[1:44] growth. Charles Hoskinson says Cardano
+[1:46] will be complete after Ouroboros Leios.
+[1:49] It has everything I wanted to do:
+[1:51] decentralized consensus, governance, and
+[1:53] development, extended UTXO, Plutus,
+[1:57] infinitely scalable, secure, built with
+[2:00] formal methods, multiple independent
+[2:02] nodes, recursively self-improving, and
+[2:05] millions of people hold ADA.
+[2:09] Pogs Burgers, a popular local burger
+[2:11] franchise in Argentina, with plans to
+[2:14] potentially expand to Miami, has
+[2:16] committed to invest in RealFi. A Strike
+[2:19] Finance integration is also under
+[2:21] review. This move brings traditional
+[2:23] real-world business into Cardano's DeFi
+[2:26] ecosystem.
+[2:27] Lovely to see.
+[2:28] Charles Hoskinson applauds the release
+[2:31] of Ari, a16z's ultra-fast post-quantum
+[2:35] signature aggregation using
+[2:37] lattice-based SNARKs. Following the
+[2:39] release of Jolt ZKVM built on lattices,
+[2:43] which further validates Charles's push
+[2:46] for lattice-based cryptography.
+[2:49] Charles Hoskinson says, "I'm working on
+[2:50] a concept that only Midnight can bring
+[2:53] to the crypto space that solves most of
+[2:55] the problems. Almost have all of it
+[2:58] designed conceptually. It's the magnum
+[3:00] opus of my career."
+[3:03] Charles says, "I'm actually personally
+[3:04] developing a programming language for
+[3:07] Cardano. It's the first of its kind,
+[3:09] enabling intense and PCD, or
+[3:12] proof-carrying data, via Groth16
+[3:15] proofs."
+[3:16] So, Groth16 proofs, I believe Cardano
+[3:18] does support already. This move could
+[3:21] position Cardano for some very
+[3:23] interesting cross-chain plays,
+[3:25] proofs, different things like that, that
+[3:26] could really take use cases to the next
+[3:29] level.
+[3:30] Phil de Sorrows says, "Charles
+[3:32] Hoskinson's work on Midnight resolves
+[3:34] nearly every criticism I've heard about
+[3:37] the limitations of the range of
+[3:39] applications that are suitable to
+[3:41] benefit from leveraging blockchains. The
+[3:43] total addressable market is about to get
+[3:46] a whole lot bigger."
+[3:48] Charles Hoskinson says, "My mind is
+[3:50] blown by how far ahead Apple is with
+[3:53] local LLMs. You can run a frontier model
+[3:56] with over 2 trillion parameters locally
+[3:59] for around $100,000.
+[4:01] Nvidia is around half a million for the
+[4:03] same capability.
+[4:06] Now, building on that point, Charles
+[4:07] says Apple's new Mac Studio and local
+[4:10] LLMs are a must-have for cybersecurity.
+[4:14] We're going to build a reference cluster
+[4:16] and recommend all node builders get one
+[4:18] covered by the treasury next year to do
+[4:21] continuous security audits for all
+[4:24] critical Cardano code.
+[4:27] Midnight has generated over 525,000
+[4:30] transactions on mainnet according to
+[4:32] Midnight Explorer, a 19% increase in
+[4:35] just 5 days.
+[4:37] Over 4,300 agents are in queue to enter
+[4:39] Midnight City with over 1,600 currently
+[4:42] online. Active agents are steadily
+[4:44] growing with over 100 added in just 4
+[4:47] days.
+[4:49] Charles Hoskinson talking 2049. So, they
+[4:52] released the stream. We're going to jump
+[4:54] into a bunch of clips. He congratulates
+[4:57] Solana, calls it a good ecosystem.
+[5:00] Charles on agentic commerce says,
+[5:02] "Wouldn't it be nice to have a privacy
+[5:04] layer combined with this agentic
+[5:06] civilization? And as agents build
+[5:08] themselves and they get goals, over time
+[5:11] you can create marketplaces for skills."
+[5:14] Charles on marketplaces for agentic
+[5:16] skills says, "Wouldn't it be nice if you
+[5:18] had a marketplace where you could rent
+[5:20] or lease a skill. The agent does the
+[5:22] thing, the person who created the skill
+[5:24] profits, and then after the task is
+[5:26] done, the agent resets."
+[5:29] Charles says the killer use case we're
+[5:31] going to bring to Midnight City is
+[5:33] agentic trading, a marketplace through
+[5:35] Midnight network into other networks
+[5:37] like Solana, Hyperliquid, Binance to
+[5:40] host an agent, have its own wallet
+[5:42] identity, and rent a trading strategy.
+[5:46] Charles says, "If you take zero
+[5:47] knowledge, MPC, and TEE together, and
+[5:51] all the power of the Midnight network,
+[5:52] including Midnight passport, which gives
+[5:55] you identity, you create this computing
+[5:57] box that is the successor of the smart
+[6:00] contract. I call it a night frame."
+[6:04] Charles says, "Night frame, what goes
+[6:06] in, no one else can see. What you tell
+[6:08] it to do, it does, and with abstraction,
+[6:10] it can do it anywhere for anyone."
+[6:14] Charles on night frame says, "Because
+[6:15] it's crypto, it's self-sovereign. You
+[6:18] own the identity. It's non-custodial.
+[6:20] It's not on behalf of somebody else,
+[6:22] it's on behalf of you. It's
+[6:24] decentralized. No one can shut it down,
+[6:26] and it runs 24/7."
+[6:29] Charles says, "Within the next few
+[6:30] months, Midnight City is fully opening
+[6:32] up. We'll have bring your own
+[6:34] intelligence, integration for Midnight
+[6:36] passport, integration for agentic
+[6:38] trading to let you trade on many
+[6:40] different chains, then a marketplace for
+[6:43] agentic skills."
+[6:45] I really like the idea of agentic
+[6:46] trading, and I'm glad that we're seeing
+[6:48] the convergence of all these
+[6:49] technologies.
+[6:51] Charles says, "The night frame concept
+[6:52] is super exciting to me, and I think
+[6:54] it's the next smart contract, and I
+[6:57] think it's the very natural way the
+[6:59] industry is moving."
+[7:01] Charles says, "The whole point of the
+[7:02] crypto world is to build a world without
+[7:05] compromises, a world where you are your
+[7:07] own bank. Everything is self-sovereign.
+[7:10] Once the rules are set, everybody plays
+[7:12] by those rules."
+[7:14] Charles says, "The largest
+[7:15] transformation in human history is
+[7:17] happening. AI is percolating into every
+[7:20] single thing we do, every conversation,
+[7:22] every interaction, every location, and
+[7:24] unfortunately, the people who are
+[7:26] pushing that want to centralize all of
+[7:28] it."
+[7:30] Charles says, "Do you want to live in a
+[7:31] world where a small group of people
+[7:33] decide how your world is going to be
+[7:35] from cradle to grave, or do you want to
+[7:37] live in a world where it's a
+[7:39] negotiation, and you have some say and
+[7:41] agency over you.
+[7:44] Charles calls night frames intelligent
+[7:46] smart contracts. So, essentially guys,
+[7:48] night frames are like the next
+[7:50] generation smart contract.
+[7:53] He says, we have to take our privacy
+[7:55] back, our wallet back, our identity
+[7:57] back.
+[7:58] Just through a game,
+[7:59] I can solve most of the problems of AI.
+[8:02] Zero knowledge makes it deterministic.
+[8:04] It has to complete a proof.
+[8:06] You put money, well, everybody's going
+[8:08] to try to hack it, which makes it
+[8:10] secure.
+[8:11] Charles says, you're a human being.
+[8:13] You're entitled to life, liberty, and
+[8:15] the pursuit of happiness.
+[8:16] You can trust code if it's well audited,
+[8:19] the incentives are constructed the right
+[8:21] way, and enough people get involved in
+[8:23] it.
+[8:24] Charles says, I just want people to have
+[8:26] their privacy back, and I want people to
+[8:28] enjoy what Satoshi intended.
+[8:32] What are the creators saying? Virtual
+[8:34] Bacon says, Midnight has plans to be
+[8:35] post-quantum. They're part of the
+[8:37] Quantum Alliance. I briefly took a look
+[8:40] at the Quantum Alliance, and it's not
+[8:41] many people who are in there. It's
+[8:43] pretty small, the group.
+[8:46] Speaking of, Virtual Bacon highlights
+[8:48] Midnight, says, I really like the
+[8:50] post-quantum narrative. It's such a
+[8:52] small sector. It's so concentrated.
+[8:55] People will want protection against
+[8:57] Bitcoin potentially breaking.
+[8:59] Eventually, it'll be a big story being
+[9:02] post-quantum, and everyone will have to
+[9:04] pick their bets. So, he makes a point
+[9:06] about post-quantum being this huge
+[9:08] story, not a lot of market participants,
+[9:11] which could position Midnight to be
+[9:13] extremely speculated upon if we really
+[9:17] just take a a look at this take very
+[9:19] simply. And I agree with him. George
+[9:21] CryptoRUs, he's George, I'm George,
+[9:23] George George, Charles is George,
+[9:25] Midnight's George, Cardano's George,
+[9:27] Solana and XRP are George.
+[9:30] He says, ADA will recover. As long as
+[9:33] Charles continues to stay strong, lead
+[9:35] the way, even though he's the unofficial
+[9:38] leader. We've mentioned that, right?
+[9:40] He's basically the unofficial CEO. And I
+[9:43] agree with George.
+[9:44] He goes on to say that Cardano's TVL is
+[9:47] relatively small compared to its market
+[9:48] cap. If they can change that with
+[9:50] midnight, then it's a game-changer.
+[9:54] What else is going on? JP Morgan expands
+[9:56] crypto deposit token JPM coin to
+[9:59] Ethereum, allowing institutional clients
+[10:01] to transfer money 24/7.
+[10:05] Michael Saylor's strategy buys 267
+[10:07] Bitcoin worth 22 million.
+[10:11] Vivek Strive buys over 1,200 Bitcoin
+[10:14] worth $100 million.
+[10:15] Tom Lee's Bitmain buys over 12,000 ETH
+[10:18] worth $30 million. So
+[10:21] Binance burns over 1.6 million BNB
+[10:24] worth over $1.1 billion in its 37th
+[10:28] quarterly burn.
+[10:30] I like the burns that they do because
+[10:33] they kind of wait a bit and then they
+[10:34] just do a massive burn and Binance, I
+[10:36] mean, they have a lot of utility, so
+[10:39] that's definitely one that I wouldn't
+[10:40] fade. And that's also why BNB is one of
+[10:43] the chains that midnight is
+[10:46] uh expanding to, if you will. And also
+[10:48] planning to do like multi-resource
+[10:49] consensus and so on and so forth.
+[10:52] BlackRock pushes to bring tokenized
+[10:55] assets into traditional banking and
+[10:57] financial systems.
+[10:59] Europe's largest banking network
+[11:01] launches crypto trading, allowing
+[11:03] customers to buy and sell Bitcoin,
+[11:04] Ethereum, XRP, and Solana. MasterCard
+[11:08] launches new risk intelligence tool to
+[11:10] make crypto stablecoin payments safer. I
+[11:13] want to give a shout-out to the sponsor
+[11:16] of Angry Crypto Show. Angry Crypto Show
+[11:18] is officially sponsored by KAU SHE. So,
+[11:20] if you want to trade ADA perpetuals with
+[11:22] reasonable leverage legally in the
+[11:25] United States, CFTC regulated perps, the
+[11:27] first CFTC regulated perps,
+[11:30] straight on KAU SHE. So, check it out if
+[11:33] you're based in the US, check out my
+[11:35] link in the video description and you'll
+[11:36] have a bonus sent your way. So, let's
+[11:39] take a look at price.
+[11:42] ADA did come down, a lot of alts came
+[11:44] down. 216 right now for ADA.
+[11:48] XRP 1.3 and Bitcoin still chilling 819.
+[11:53] So, I don't think that it's really over
+[11:55] so to speak.
+[11:56] Uh when we take a closer look, we'll
+[11:58] take a look at the one-week chart.
+[12:00] I would say that like I would be
+[12:02] concerned if we see ADA trending beneath
+[12:05] like 20 cents again. But, I think that
+[12:07] we are seeing this choppiness right now.
+[12:09] When we zoom out and we take a look at
+[12:11] just like what's been going on since
+[12:14] summer basically, we've been steadily
+[12:16] climbing. Now, it's hard to tell, right?
+[12:18] I don't have a crystal ball. But, I
+[12:20] would say that things are shaping up to
+[12:22] be pretty optimistic. We're seeing big
+[12:24] buys all across the board and I think
+[12:26] that when you look at strong fundamental
+[12:29] projects, ADA, XRP, many others, they
+[12:32] have some strong principles. They're not
+[12:34] just your copy-paste L1 that came out of
+[12:37] nowhere and then sunsetting
+[12:40] a few months later, which we have a huge
+[12:42] list. Blast, closing. Abstract, closing.
+[12:46] Many like this. So, I've said it and I
+[12:48] say it time and time again that one of
+[12:50] Cardano's strongest
+[12:53] competitive differentiators is its
+[12:55] brand.
+[12:56] The network effect. And these are things
+[12:58] that you can not emulate. To Charles's
+[13:02] point, if you guys recall Bing back
+[13:04] around the late 2010s, they tried to
+[13:07] emulate Google's network effect and they
+[13:09] couldn't. And so,
+[13:12] when Charles says millions of people
+[13:14] hold ADA,
+[13:16] that's a very powerful statement and it
+[13:18] indeed is true when you take a look at
+[13:20] delegators and when you take a look at
+[13:23] the age of Cardano. So, I'm still
+[13:26] optimistic that we could still see alts
+[13:29] surge, but we still could see some more
+[13:32] downside and it could be a good
+[13:33] opportunity
+[13:34] to purchase some more alts, some more
+[13:36] Bitcoin. I like to practice the law of
+[13:39] subtraction. I don't really do too much
+[13:41] diversification. As you guys know, my
+[13:44] three biggest holdings are BTC, ADA,
+[13:46] XRP.
+[13:47] I don't really delve too much into other
+[13:49] plays. I like to play I like to play
+[13:52] more patient game. But, and what do you
+[13:55] guys ask like, "Hey, what's the benefit
+[13:57] of perps?" Well, the reason being is
+[13:59] that if you want to take risk to
+[14:02] the upside or the downside, then you can
+[14:05] do so and you can allocate more than
+[14:08] what you actually have
+[14:10] without going crazy with the leverage.
+[14:11] Like ADA, it's only up to 4x. So,
+[14:15] different strategies
+[14:16] that you can deploy. For me, I like to
+[14:19] take it slow and I think time and time
+[14:22] again we've seen that slow and steady
+[14:23] wins the race and we're seeing it yet
+[14:26] again. So, let me know your thoughts on
+[14:28] the market right now, this market crash.
+[14:30] Where do you think we're headed in the
+[14:31] weeks and months ahead? I still do think
+[14:33] we could see a very bright Q4, but we're
+[14:36] going to have to take it day by day. So,
+[14:38] let me know your thoughts, guys. Smash
+[14:40] that subscribe, smash that like, and
+[14:41] I'll see you guys in the next Angry
+[14:43] Crypto Show.

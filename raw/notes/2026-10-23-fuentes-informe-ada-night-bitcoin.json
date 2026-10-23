@@ -1,0 +1,85 @@
+{
+  "author": "Codex",
+  "origin_chat": "01a0fb1b-0289-79a0-91cc-f6add3e697e9",
+  "report_date": "2026-10-23",
+  "cutoff": "2026-10-23T10:22:00+02:00",
+  "capture_time": "2026-10-23T10:26:55.045112+02:00",
+  "research_date": "2026-10-23",
+  "individual_access_times": null,
+  "note": "Fuentes consultadas antes del corte; fechas ausentes nulas. Notas y enlaces del informe derivado, no artículos completos.",
+  "sources": [
+    {
+      "url": "https://www.iog.io/news/hydra-v2-glacier-drop-rerun",
+      "author": "Sharan Konerira / Input Output",
+      "published": "2026-10-22",
+      "event_date": null,
+      "event_date_note": "El ensayo no muestra fecha precisa; carga histórica Glacier Drop de 2025.",
+      "status": "Fuente primaria leída directamente; ensayo declarado, no reproducido."
+    },
+    {
+      "url": "https://midnight.network/blog/watch-now-freedom-fighters-featuring-leopoldo-lopez",
+      "author": "Midnight",
+      "published": "2026-10-22",
+      "event_date": "2026-10-22",
+      "status": "Fuente primaria leída; lanzamiento de cuatro filmes declarado ese día."
+    },
+    {
+      "url": "https://farside.co.uk/btc/",
+      "author": "Farside Investors",
+      "published": null,
+      "event_date": "2026-10-22",
+      "event_date_note": "Sesión de negociación estadounidense; fila observada el 23, hora de publicación desconocida.",
+      "status": "Tabla del proveedor consultada directamente; revisable, sin conciliación por emisor."
+    },
+    {
+      "url": "https://midnight.network/blog",
+      "author": "Midnight",
+      "published": null,
+      "status": "Listado consultado, última publicación visible del 22."
+    },
+    {
+      "url": "https://github.com/midnightntwrk/midnight-node/releases",
+      "author": "midnightntwrk",
+      "published": null,
+      "status": "Listado consultado; búsqueda limitada, sin coincidencias 22/23 Oct."
+    },
+    {
+      "url": "https://github.com/midnightntwrk/midnight-js/releases",
+      "author": "midnightntwrk",
+      "published": null,
+      "status": "Listado accesible hoy; búsqueda limitada sin coincidencias 22/23 Oct; el timeout anterior se conserva en su edición."
+    },
+    {
+      "url": "https://crypto.news/cardano-dijkstra-testnet-node-11-2/",
+      "author": "Lawrence Mondal",
+      "published": "2026-10-22T16:22:00Z",
+      "status": "Pista secundaria; detalles técnicos no elevados a confirmación por falta de lectura primaria."
+    },
+    {
+      "url": "https://x.com/IntersectMBO/status/2113296715033801121",
+      "author": "Intersect",
+      "published": null,
+      "status": "Consulta 403 Forbidden; fecha original no comprobada."
+    },
+    {
+      "url": "https://coinness.com/en/news/1172574",
+      "author": "CoinNess",
+      "published": "2026-10-22",
+      "published_note": "Hora 00:52 visible sin zona horaria confirmada.",
+      "status": "Pista secundaria sobre Genius Yield; no confirmación primaria."
+    },
+    {
+      "url": "https://www.owlchart.com/journal/22-10-2026-bitcoin-spot-etfs-lose-27-2-million-on-22",
+      "author": "OwlChart",
+      "published": "2026-10-22T22:37:00Z",
+      "status": "Resultado secundario parcial; no agregado completo Farside ni hora de publicación del proveedor."
+    }
+  ],
+  "limitations": [
+    "Ensayo no reproducido; fecha exacta desconocida.",
+    "ETF revisables sin conciliación por emisor; hora de publicación desconocida.",
+    "DijkstraNet/Genius Yield sin contraste primario suficiente; X 403.",
+    "Listados limitados, no ausencia global.",
+    "Sin cotizaciones al corte o causalidad de precio."
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "channel": "Angry Crypto Show",
+  "report_date": "2026-10-20",
+  "prepared_at_utc": "2026-10-20T06:22:13.313270+00:00",
+  "archived_at_utc": "2026-10-20T06:24:48.802030+00:00",
+  "source_video": {
+    "video_id": "nUoOA_phXYQ",
+    "title": "Charles: \"The Next Smart Contract.\" Strike Targets $1B Market Cap! George: \"Cardano Will Recover.\"",
+    "publication_date": "2026-10-19",
+    "publication_timestamp": "2026-10-19T14:15:24-07:00",
+    "publication_madrid": "2026-10-19T23:15:24+02:00",
+    "source": "YouTube original, inglés automático, exportado desde Brave",
+    "review_scope": "Transcripción completa 00:00–14:43; audio y gráficas sin revisión completa",
+    "transcript_path": "outputs/transcripcion-angry-crypto-show-2026-10-19-nUoOA_phXYQ.txt",
+    "report_date": "2026-10-20",
+    "report_path": "outputs/informe-angry-crypto-show-2026-10-20.md",
+    "analysis_completed_at_utc": "2026-10-20T06:24:48.802030+00:00"
+  },
+  "files": [
+    {
+      "role": "report",
+      "path": "raw/notes/2026-10-20-informe-angry-crypto-show.md",
+      "relative_link_from_metadata": "2026-10-20-informe-angry-crypto-show.md",
+      "source_path": "/Users/juancarlos/Documents/Codex/2026-10-07/realtime-voice-chat/outputs/informe-angry-crypto-show-2026-10-20.md",
+      "sha256": "d7ae403bf11c05b92bdcb9d81d76053ebf9f827141797e4857e6996bf9c8f6c0",
+      "size_bytes": 10233
+    },
+    {
+      "role": "infographic",
+      "path": "raw/images/2026-10-20-infografia-angry-crypto-show.png",
+      "relative_link_from_metadata": "../images/2026-10-20-infografia-angry-crypto-show.png",
+      "source_path": "/Users/juancarlos/Documents/Codex/2026-10-07/realtime-voice-chat/outputs/infografia-angry-crypto-show-2026-10-20.png",
+      "sha256": "00a57a295eb1c921e8ad4e51a8780caf1516f0a86e239c659ce449de524bdb7d",
+      "size_bytes": 1840574
+    },
+    {
+      "role": "transcript",
+      "path": "raw/transcripts/2026-10-19-angry-crypto-show-nUoOA_phXYQ.txt",
+      "relative_link_from_metadata": "../transcripts/2026-10-19-angry-crypto-show-nUoOA_phXYQ.txt",
+      "source_path": "/Users/juancarlos/Documents/Codex/2026-10-07/realtime-voice-chat/outputs/transcripcion-angry-crypto-show-2026-10-19-nUoOA_phXYQ.txt",
+      "sha256": "c3070197f33035903dd4ca618fc6f18e6f90846a14cf998914f197c7b168f484",
+      "size_bytes": 15999
+    }
+  ],
+  "gmail_deliveries": [
+    {
+      "report_date": "2026-10-20",
+      "recipient": "gallegojc@gmail.com",
+      "subject": "[Codex] Angry Crypto Show — Informe diario — 2026-10-20",
+      "gmail_message_id": "1a157fb7fede6da3",
+      "gmail_thread_id": "1a157fb7fede6da3",
+      "status": "sent_verified_in_gmail",
+      "sent_at_utc": "2026-10-20T06:24:22.000Z",
+      "verified_at_utc": "2026-10-20T06:24:40.659Z",
+      "checks": {
+        "sent": true,
+        "to": true,
+        "subject": true,
+        "html": true,
+        "image": true,
+        "cid": true
+      },
+      "infographic_size_bytes": 1840574,
+      "full_body_verified": true,
+      "infographic_included": true,
+      "infographic_delivery": "inline_multipart_related_content_id_verified",
+      "infographic_path": "outputs/infografia-angry-crypto-show-2026-10-20.png",
+      "report_path": "outputs/informe-angry-crypto-show-2026-10-20-con-infografia.html",
+      "do_not_resend": true
+    }
+  ],
+  "ingestion_status": "pending",
+  "limitations": [
+    "Original íntegro sin modificar. Las frases de estado de entrega del original reflejan su preparación; los datos de Gmail en esta ficha reflejan el envío posterior verificado.",
+    "Transcripción automática completa; no revisión íntegra de audio ni gráficas.",
+    "Archivo RAW no equivale a ingesta de la wiki."
+  ]
+}

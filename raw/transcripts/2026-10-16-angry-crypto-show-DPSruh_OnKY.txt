@@ -1,0 +1,255 @@
+YouTube transcript
+Video ID: DPSruh_OnKY
+Language: en
+Captions: auto-generated
+
+[0:00] What is good, Cardano fam? ADA gang with
+[0:02] lots of exciting updates to unpack
+[0:03] today. So, hit that subscribe, hit that
+[0:05] like. Cardano ADA 24-hour trade volume
+[0:08] reached as high as $520 million
+[0:11] according to CoinGecko. CoinMarketCap
+[0:13] ranks Cardano as the 12th most viewed
+[0:15] cryptocurrency, surpassing Chainlink,
+[0:18] Dogecoin, BNB, Tron, and Monero.
+[0:22] Blockworks ranks Cardano as the fourth
+[0:24] highest mine share yet again, right
+[0:27] behind Ethereum, surpassing Zcash, BNB,
+[0:31] Hyperliquid, Bit Tensor, and XRP.
+[0:34] ADA generated over $900,000 in 24-hour
+[0:38] trade volume on Kalshi's crypto
+[0:40] perpetuals, surpassing both BNB and more
+[0:43] than double Chainlink.
+[0:46] Coinbase wrapped ADA 24-hour transfers
+[0:49] surged over 88% surpassing 12,800.
+[0:54] ADA's cexplorer launches new front end,
+[0:58] taking its user experience to the next
+[1:00] level. Now live on preview and pre-prod
+[1:02] testnet. cexplorer says mainnet release
+[1:06] and plenty of other updates will follow
+[1:09] soon.
+[1:10] Cardano is leveling up and so are we.
+[1:14] Fireblocks aims to fully support Cardano
+[1:17] native tokens by March 2027 across its
+[1:20] bank, exchange, payment, and fintech
+[1:23] clients.
+[1:25] Cardano Foundation added that CNTs slot
+[1:28] directly into Fireblocks' existing
+[1:30] policy engine and approval workflows,
+[1:33] further advancing ADA's
+[1:35] institutional-grade infrastructure. So,
+[1:38] when this integration launches, it's
+[1:40] going to be huge for Cardano.
+[1:43] Cardano's Hydra launches performance
+[1:46] upgrades, raising the snapshot
+[1:48] transaction cap from 1,000 to 4,000. In
+[1:52] a local three-node test, processing a
+[1:55] burst of 24,000 minimal self transfers
+[1:59] took 13.5 seconds down from over 37
+[2:03] seconds, according to IOG.
+[2:06] So, good updates for Hydra. They also
+[2:08] improved deposits and withdrawal
+[2:10] handling. IOG says the team corrected
+[2:13] benchmark reporting and fixed how nodes
+[2:16] distinguish deposits from fan outs,
+[2:19] which returned funds to the layer one.
+[2:21] Snapshot handling now preserves
+[2:24] withdrawals still being settled.
+[2:27] What about fast finality? Well,
+[2:29] Cardano's ledger team adds Dijkstra
+[2:32] forecasting with Paros protocol
+[2:34] parameters, advancing fast finality
+[2:37] closer to mainnet. So, essentially
+[2:39] getting a lot of the work ready ahead of
+[2:42] mainnet, ahead of Leios, to also roll
+[2:44] out Paros afterwards. Very exciting.
+[2:48] Leios advances closer to mainnet.
+[2:51] Cardano's ledger team added Dijkstra
+[2:54] forecasting for Leios as well and fixed
+[2:56] BLS key handling for stake pools. IOG is
+[2:59] targeting a mainnet hard fork by the end
+[3:02] of this year.
+[3:04] Lock-and-Load in enterprise-grade
+[3:06] real-world asset tokenization platform
+[3:09] has increased its investment in RealFi
+[3:12] by 2.5x,
+[3:14] calling it the largest enterprise
+[3:16] deployment to date. Good to see the
+[3:18] continued support and backing of RealFi.
+[3:22] Song's market cap surpasses 41 million
+[3:26] ADA following the successful sale of
+[3:28] over 30,000 NFTs on the Cardano
+[3:31] blockchain. So, shout out to Song. Shout
+[3:34] out Shout out to Nmaker. Everyone
+[3:36] involved in minting those NFTs, selling
+[3:39] them out, but also the fact that they've
+[3:40] pushed through that 41 mil.
+[3:44] Charles Hoskinson says, "Aztec does good
+[3:47] work." Zach Williamson, co-founder of
+[3:50] Aztec, the leading privacy-first layer
+[3:53] two on Ethereum, says, "That means a lot
+[3:57] coming from you.
+[3:58] I've read a lot about Midnight and its
+[4:00] architecture. Happy to share what we've
+[4:02] learned building Aztec." So, Aztec in
+[4:06] the EVM world, quantum stuff, privacy
+[4:09] stuff, I think that would be huge to see
+[4:11] some collaboration potentially. And so,
+[4:14] Night to collaborate with Aztec, well,
+[4:17] Charles Hoskinson did share Nightstream
+[4:20] with the Aztec co-founder.
+[4:22] Midnight in their recent roadmap update
+[4:24] says, "Nightstream will provide
+[4:26] post-quantum zero-knowledge proving
+[4:28] infrastructure to protect private
+[4:31] computation as computing power and
+[4:34] cryptographic threats evolve." So, there
+[4:36] could be great synergy in the Ethereum
+[4:39] world with Midnight as well when it
+[4:40] comes to post-quantum and beyond.
+[4:44] Charles says, "Let's effing go. I like
+[4:46] the pic." It's got the little sigs, got
+[4:49] the little Midnight phone going on, so I
+[4:51] like it. Let me know what you guys think
+[4:52] about the pic, the post.
+[4:54] What are some of the creators saying?
+[4:56] Jason Casper says, "I'm bullish on all
+[4:59] coins. If I had no Cardano, which I hold
+[5:02] quite a bit already, I would be buying
+[5:04] some. In fact, I think I'm actually
+[5:06] going to buy some ADA."
+[5:08] The Moon Show's Crypto Kid says, "I love
+[5:11] Cardano. I had the pleasure of meeting
+[5:13] Charles Hoskinson, catching up with him
+[5:16] last week."
+[5:17] Tim Warren says, "What if Midnight is
+[5:20] the lifeboat that Cardano needs, that
+[5:23] actually Midnight does so well, it makes
+[5:26] Cardano float back up again?"
+[5:28] Well,
+[5:30] great question. Crypto Banter Sheldon is
+[5:32] bullish on all coins, including ADA.
+[5:35] Says, "All these tokens are coming down
+[5:37] to retest the 200-day moving averages,
+[5:41] even Cardano. Nothing here is bearish. I
+[5:44] want to get the best entries in the
+[5:45] market."
+[5:47] Good stuff.
+[5:48] What else is going on? Well, everybody's
+[5:50] talking about the Tesla Roadster, which
+[5:55] I got to say, it looks really nice. It
+[5:57] looks really good. It's not very
+[5:58] practical. I don't think you could
+[6:00] really
+[6:01] start flying that thing in any
+[6:02] jurisdiction, but what do you guys think
+[6:04] about the new Roadster from a design
+[6:06] perspective? I think it's awesome. I
+[6:09] mean, I like Honda a lot. I like a lot
+[6:11] of JDM and American muscle.
+[6:13] I [snorts] like a lot of the old school
+[6:15] analog stuff. But,
+[6:18] the Roadster does look really cool. Very
+[6:20] aggressive look, very wide, and dope.
+[6:23] What a fantastic smart genius marketing
+[6:26] event this was. So,
+[6:29] tip my hat off to Elon.
+[6:32] 13 trillion-dollar Charles Schwab fully
+[6:34] launches Bitcoin and Ethereum trading to
+[6:37] its 40 million eligible retail clients.
+[6:40] Visa officially launches stablecoin
+[6:42] payments through Visa Direct, enabling
+[6:44] near instant global payouts using USDC
+[6:48] across more than 180 countries. Japan's
+[6:52] three largest banks successfully
+[6:54] complete their first international
+[6:56] crypto stablecoin payment test.
+[6:59] Pump Fun launches crypto perpetual
+[7:01] futures trading powered by HyperLiquid.
+[7:04] So, again, we saw Ripple yesterday with
+[7:07] perps,
+[7:08] Pump Fun with perps, Strike with perps.
+[7:11] Perps are clearly super popular.
+[7:14] Germany's largest bank, Deutsche Bank,
+[7:16] to launch crypto custody. Well, speaking
+[7:19] of perps, a big shoutout to the sponsor
+[7:21] of Angry Crypto Show, which is Kauri.
+[7:24] ADA perps are live for trading CFDC
+[7:27] regulated. So, if you want to trade
+[7:30] perpetual futures
+[7:31] with leverage in the United States,
+[7:34] check out Kauri. They have sponsored the
+[7:36] channel, and it's another way to support
+[7:39] Angry Crypto Show. So, So you're
+[7:40] US-based, link in the video description
+[7:42] will send a bonus your way and check it
+[7:45] out.
+[7:46] Let's take a look at price 224 for ADA,
+[7:50] but
+[7:51] I agree with Sheldon
+[7:54] that when you take a look at these
+[7:55] longer distance moving averages,
+[7:58] you kind of get a different picture. And
+[8:00] as I highlighted yesterday, it
+[8:02] definitely looks like
+[8:04] ADA's still building some momentum.
+[8:07] I would really personally only be
+[8:08] concerned if we were dropping back
+[8:10] beneath 20 cents, but things are still
+[8:12] looking good and there's a lot of
+[8:14] developments going on. So, 224 for ADA,
+[8:18] XRP 1.3, and Bitcoin at 81.5. Despite
+[8:23] dancing with 79K, it still ballooned
+[8:25] back up beyond 80 81. So, I think all in
+[8:29] all the market is looking okay, just
+[8:31] some choppy action right now.
+[8:33] Going back to some of the highlights for
+[8:36] me,
+[8:37] um really exciting to see Charles kind
+[8:39] of in his mode and just excited, very
+[8:42] energetic. Uh seems like he's very
+[8:44] excited with the developments where we
+[8:47] could see some big announcements with
+[8:48] midnight. Uh beyond that, I think there
+[8:51] could be some synergy with Aztec, with
+[8:54] other projects as well. We've seen some
+[8:56] good uh back and forth with ICP, for
+[8:59] example.
+[9:00] Uh but I would also like to see some
+[9:02] perhaps with Ripple. I mean, we haven't
+[9:04] seen any mention of like XRP Ledger or
+[9:07] the yearning to bring DeFi and program
+[9:11] programmability to XRP on the Cardano
+[9:14] side. So, there's a lot of untapped
+[9:16] opportunities. But do you guys know
+[9:17] about Aztec or is that kind of a new
+[9:19] project? Uh I was taking a look at their
+[9:21] website
+[9:23] and I think there is potential. I'm glad
+[9:25] that both Charles and Zach like one
+[9:28] another and have respect for one another
+[9:31] and why not? I think that's great. Maybe
+[9:33] we can see some sort of um
+[9:36] research exchange, if you will, when it
+[9:38] comes to collaboration. Beyond that, I
+[9:41] would say the biggest highlight for me,
+[9:43] it's great to see that RealFevr was
+[9:44] recently integrated into strike.
+[9:47] And we'll continue to watch what those
+[9:49] metrics will look like with tokenization
+[9:51] and stablecoins that have been issued
+[9:53] and how that translates to TVL with
+[9:55] Cardano. So guys, let me know your
+[9:58] thoughts in terms of the market. What do
+[10:00] you think about the new Roadster that
+[10:02] was debuted? Do you like it? Would you
+[10:04] spend 200K plus to get it? I think I'm
+[10:07] okay with the Honda. You know, if it can
+[10:09] get me from A to B safely,
+[10:12] I'll chill with that. But I do think
+[10:14] that it's genius and looks cool and I
+[10:18] think the marketing is top-notch S-tier.
+[10:21] So guys, let me know your thoughts.
+[10:23] Smash that subscribe, smash that like,
+[10:24] and I'll see you guys in the next Angy
+[10:26] Crypto Show.

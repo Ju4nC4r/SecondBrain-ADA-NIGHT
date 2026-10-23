@@ -1,0 +1,32 @@
+{
+  "report_date": "2026-10-19",
+  "cutoff": "2026-10-19T07:54:00+02:00",
+  "capture_time": "2026-10-19T08:02:13+02:00",
+  "timezone": "Europe/Madrid",
+  "author": "Codex",
+  "origin_chat_title": "Informe diario de noticias de ADA y NIGHT",
+  "origin_chat_id": "01a0fb1b-0289-79a0-91cc-f6add3e697e9",
+  "report_sha256": "3fb18fe238e43b1d5ef029c7e249a0167c1572b004c891d421c746fda0bf962b",
+  "external_fulltext_archived": false,
+  "tool": "image_gen.imagegen",
+  "mode": "built-in generate",
+  "generated_on": "2026-10-19",
+  "exact_service_creation_time": null,
+  "prompt": "Create a polished Spanish editorial infographic, landscape, three equal panels, ivory background, ADA blue, NIGHT purple, Bitcoin orange. Clear very readable exact typography. No invented charts, prices, numbers, arrows, trend bars, promotional slogans or claims of guaranteed impact. Header exactly \"ADA · NIGHT · BITCOIN\". Subtitle exactly \"19 de octubre de 2026 | Corte: 07:54 Europe/Madrid\".\nADA panel: title \"ADA / CARDANO\". Heading \"Presupuesto: contratos financiados\". Text \"Publicado: 17 oct 2026\" \"25 contratos de proveedores\" \"204.639.279 ADA, según Intersect\" \"Hecho: durante esa semana; sin día exacto\" \"Financiación no equivale a trabajos terminados\" \"Movimientos en cadena no auditados\". Small secondary text \"Investigación sobre mínimo de ADA en UTxO\" \"Plazo: 4 nov · Sin cambio aplicado\". Source \"Fuente: Intersect\".\nNIGHT panel: title \"NIGHT / MIDNIGHT\". Heading \"Sin novedad relevante nueva verificada\". Text \"Consulta: 19 oct 2026\" \"Revisión de versiones oficiales\" \"Resultado limitado a las fuentes consultadas\". Source \"Fuentes: GitHub de Midnight\".\nBTC panel: title \"BTC / BITCOIN\". Heading \"Sin nuevo hecho relevante corroborado\". Text \"Consulta: 19 oct 2026\" \"ETF: sin fila de la sesión del 19\" \"Dato ausente no significa flujo cero\". Source \"Fuente de ETF: Farside\". No repeat old ETF figures as new news.\nFooter \"Posibles impactos e incertidumbres en el informe completo\" and \"Sin causalidad de precio confirmada · Sin recomendaciones de compra o venta\". Footer small domains \"intersectmbo.org · github.com/midnightntwrk · farside.co.uk\". Large whitespace. Any icons are illustrative only. Do not claim that every milestone is complete or all funds disbursed.",
+  "generated_source": "/Users/juancarlos/.codex/generated_images/01a0fb1b-0289-79a0-91cc-f6add3e697e9/exec-a5054533-4053-414c-9c29-59cdbb503ed8.png",
+  "sha256": "937aa29db9a940ff69db6c1a5c8e4fe000de89172cbca7c45e4591da39f99e6a",
+  "bytes": 1615437,
+  "dimensions": [
+    1774,
+    887
+  ],
+  "report": "../reports/2026-10-19-informe-ada-night-bitcoin.md",
+  "sources": [
+    "https://www.intersectmbo.org/news/intersect-weekly-update-133-oct-17-2026",
+    "https://treasury.sundae.fi/budgets/51486a2f1496d4d3a688a9b111971aa9b731ed045d900b601345ca4e",
+    "https://github.com/midnightntwrk/midnight-node/releases",
+    "https://github.com/midnightntwrk/midnight-js/releases",
+    "https://farside.co.uk/btc/"
+  ],
+  "visual_check": "Revisados fecha 19, corte 07:54, publicación 17, 25 contratos, 204.639.279 ADA atribuidos a Intersect, ausencia de día exacto, limitaciones de auditoría y trabajo pendiente, plazo 4 de noviembre, ausencia limitada de novedades NIGHT/BTC y ausencia de fila ETF del 19. Paisajes y símbolos ilustrativos, sin series de precios."
+}

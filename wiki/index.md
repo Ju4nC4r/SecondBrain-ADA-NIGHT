@@ -1,6 +1,6 @@
 # 🧠 Índice de la wiki
 
-Última actualización: **14 de octubre de 2026, 10:10 (Europe/Madrid)**.
+Última actualización: **23 de octubre de 2026, 10:39 (Europe/Madrid)**.
 
 ![Cardano / ADA](../raw/images/2026-10-05-cardano-logotipo-indice.png) ![Midnight / NIGHT](../raw/images/2026-10-05-midnight-logotipo-indice.png)
 
@@ -10,6 +10,59 @@
 - [Registro de actividad](log.md): operaciones realizadas.
 
 ## 📚 Fuentes
+
+- [Angry: aviso de acceso limitado — 23 de octubre](sources/2026-10-23-aviso-angry-acceso-limitado.md): dos publicaciones identificadas, sin transcripción legible ni análisis.
+
+- [Informe archivado — 23 de octubre](sources/2026-10-23-informe-ada-night-bitcoin.md): procedencia, fechas e infografía.
+- [Hydra: reensayo del Glacier Drop](sources/2026-10-23-hydra-reensayo-glacier-drop.md): resultados declarados y contexto histórico.
+- [Midnight: Freedom Fighters](sources/2026-10-23-midnight-freedom-fighters.md): divulgación del 22, sin nueva tokenomics.
+- [Farside: sesión del 22](sources/2026-10-23-farside-flujos-bitcoin.md): doce cifras revisables y −635,6 millones USD.
+
+- [Informe archivado — 22 de octubre](sources/2026-10-22-informe-ada-night-bitcoin.md): procedencia, fechas e infografía.
+- [Fundación y MiCA](sources/2026-10-22-cardano-respuesta-mica.md): postura publicada el 21, respuesta del 30 de septiembre.
+- [Registros agrícolas en India](sources/2026-10-22-cardano-registros-agricolas-india.md): declaración primaria y fechas ausentes.
+- [Farside: sesión del 21](sources/2026-10-22-farside-flujos-bitcoin.md): doce cifras revisables, suma +524,8 millones USD.
+- [FINMA: ETF suizo minorista](sources/2026-10-22-finma-etf-bitcoin-minorista.md): aprobación anunciada el 20, negociación sin confirmar.
+
+- [Angry Crypto Show — fuente del 21](sources/2026-10-21-informe-angry-crypto-show.md): transcripción, infografía, estados de despliegue, opiniones y procedencia.
+
+- [Informe archivado — 21 de octubre](sources/2026-10-21-informe-ada-night-bitcoin.md): procedencia, fechas, infografía y límites.
+- [Midnight: explicación de Nightmode](sources/2026-10-21-midnight-nightmode.md): arquitectura atribuida y despliegue por verificar.
+- [Farside: sesión del 20](sources/2026-10-21-farside-flujos-bitcoin.md): doce cifras revisables y suma comprobada.
+- [BlackRock: propuesta PBIT](sources/2026-10-21-blackrock-pbit-propuesta.md): presentación preliminar del 19.
+- [J.P. Morgan: previsiones de BTC](sources/2026-10-21-jpmorgan-previsiones-bitcoin.md): comunicado del 19 y rango sin asignación.
+
+- [Angry Crypto Show — fuente del 20](sources/2026-10-20-informe-angry-crypto-show.md): transcripción, imagen, objetivo de Strike, planes y procedencia.
+
+- [Informe archivado — 20 de octubre](sources/2026-10-20-informe-ada-night-bitcoin.md): procedencia, infografía y búsqueda limitada.
+- [Farside: sesión del 19](sources/2026-10-20-farside-flujos-bitcoin.md): doce fondos, entradas revisables y fila posterior.
+- [Strategy: compras del 12–18](sources/2026-10-20-strategy-compras-bitcoin.md): anuncio del 19 y cifras históricas declaradas.
+- [Seguimiento — 20 de octubre](reports/2026-10-20-seguimiento-ada-night-bitcoin.md): síntesis, imagen y límites.
+
+- [Informe archivado — 19 de octubre](sources/2026-10-19-informe-ada-night-bitcoin.md): procedencia, infografía y ausencia limitada de novedades.
+- [Intersect: presupuesto y contratos](sources/2026-10-19-intersect-contratos-presupuesto.md): declaración primaria, financiación y trabajo terminado por distinguir.
+
+- [Angry: aviso sin vídeos nuevos — 19 de octubre](sources/2026-10-19-aviso-angry-sin-videos-nuevos.md): revisión del canal a las 07:34 y procedencia del estado.
+
+- [Angry Crypto Show — fuente del 17](sources/2026-10-17-informe-angry-crypto-show.md): preparación posterior, Hydra local, planes y cooperación sin confirmar.
+
+- [Informe archivado — edición del 17](sources/2026-10-17-informe-ada-night-bitcoin.md): recuperación el 18, fuentes y procedencia.
+- [Cardano: Leios e Hydra](sources/2026-10-17-cardano-desarrollo-leios-hydra.md): informe semanal y unidades del límite de snapshot.
+- [Midnight: SDK candidato](sources/2026-10-17-midnight-js-candidato.md): release oficial, compatibilidad y despliegue por distinguir.
+- [MSCI: reglas de elegibilidad](sources/2026-10-17-msci-empresas-no-operativas.md): anuncio primario y exposición empresarial atribuida.
+- [Farside: sesión del 16](sources/2026-10-17-farside-flujos-bitcoin.md): salidas netas revisables, consulta del 18.
+
+- [Hoskinson: Nightframes, original inglés](sources/2026-10-10-hoskinson-nightframes-tokio.md): discurso publicado el 10, transcripción y procedencia.
+
+- [Angry Crypto Show — fuente del 15](sources/2026-10-15-informe-angry-crypto-show.md): RealFi/Strike, transcripción, contraste del autor y archivo recuperado.
+- [Angry Crypto Show — fuente del 16](sources/2026-10-16-informe-angry-crypto-show.md): aspiración de TVL, métricas atribuidas, contexto y fechas.
+
+- [Informe archivado — 16 de octubre](sources/2026-10-16-informe-ada-night-bitcoin.md): procedencia, fuentes, infografía y límites.
+- [Cardano: solicitud de reserva de cobre](sources/2026-10-16-cardano-propuesta-cobre.md): PDF primario y presentación atribuida; aprobación no comprobada.
+- [Farside: sesión del 15](sources/2026-10-16-farside-flujos-bitcoin.md): doce valores completos y saldo revisable de +5,1 millones USD.
+- [Bitcoin: rebote y contexto asiático](sources/2026-10-16-bitcoin-rebote-asia.md): publicación del 16, precios históricos y causalidad pendiente.
+
+- [Informe archivado — 15 de octubre](sources/2026-10-15-informe-ada-night-bitcoin.md): procedencia, fechas, imagen y límites de un informe derivado.
 
 - [Lote archivado de Angry Crypto Show](sources/2026-10-14-lote-angry-crypto-show.md): seis informes, transcripciones, manifiesto y corrección de fechas del día 10.
 - [Angry Crypto Show — fuente del 7](sources/2026-10-07-informe-angry-crypto-show.md): original, metadatos, transcripción, atribuciones y límites.
@@ -60,6 +113,24 @@
 
 ## 🏷️ Entidades
 
+- [Syngenta Foundation India](entities/syngenta-foundation-india.md): datos agrícolas en Cardano y límites del recuento.
+
+- [Pogun](entities/pogun.md): Bitcoin DeFi según el canal, sin calendario, benchmark o depósitos verificados.
+
+- [PBIT — propuesta](entities/ishares-bitcoin-managed-protection-pbit.md): exposición mediante opciones, no fondo aprobado.
+
+- [Hydra](entities/hydra.md): snapshot y condiciones del ensayo local.
+- [Fireblocks](entities/fireblocks.md): soporte de tokens nativos esperado para marzo de 2027.
+- [Nightstream](entities/nightstream.md): línea prevista ZK poscuántica, sin alianza confirmada con Aztec.
+
+- [Midnight City](entities/midnight-city.md): entorno de agentes, propósito pedagógico y funciones previstas.
+
+- [RealFi](entities/realfi.md): emisión, TVL, sUSDrf y límites de las atribuciones.
+- [Strike Finance](entities/strike-finance.md): Borrow & Earn, vault y aspiración de capitalización a 36 meses.
+
+- [Mithril](entities/mithril.md): avances semanales, entorno de pruebas y límites de despliegue.
+- [NorthStar](entities/northstar.md): métricas atribuidas y contraste primario pendiente.
+
 - [Angry Crypto Show](entities/angry-crypto-show.md): canal, método y patrocinio.
 - [Minswap](entities/minswap.md): hipótesis de integración y colaboraciones relatadas.
 - [Solada](entities/solada.md): reservas bajo custodia y mercados separados.
@@ -74,6 +145,20 @@
 
 ## 💡 Conceptos
 
+- [Regulación por actividad y participación de protocolo](concepts/regulacion-por-actividad-y-participacion-protocolo.md): postura MiCA, sin norma adoptada.
+
+- [Offer Files y negociación privada](concepts/offer-files-y-negociacion-privada.md): intenciones, casación y límites de las garantías.
+
+- [Nightmode: privacidad entre redes](concepts/nightmode-privacidad-entre-redes.md): arquitectura atribuida y garantías pendientes.
+
+- [Benchmarks locales y rendimiento de una red](concepts/benchmarks-locales-y-rendimiento-red.md): carga, entorno, tiempo y unidad antes de extrapolar.
+
+- [Versiones candidatas y despliegue](concepts/versiones-candidatas-y-despliegue.md): SDK publicado frente a activación o adopción comprobadas.
+
+- [Nightframes](concepts/nightframes.md): identidad, intención, inteligencia y personalización según el ponente.
+
+- [APR anunciado, crédito y liquidez](concepts/apr-credito-y-liquidez.md): tasa anualizada, resultado, deuda y restricciones de salida.
+
 - [Previsiones atribuidas y publicidad](concepts/previsiones-atribuidas-y-publicidad.md): condiciones, campos ausentes y promoción comercial.
 - [Interoperabilidad, custodia y privacidad](concepts/interoperabilidad-custodia-y-privacidad.md): distinguir red, activo, reserva y disponibilidad.
 
@@ -87,7 +172,7 @@
 
 - [Tokens programables CIP-0113](concepts/tokens-programables-cip-0113.md): capacidad técnica, certificación y adopción por verificar.
 
-- [Gobernanza y tesorería](concepts/gobernanza-y-tesoreria.md): propuesta, aprobación y ejecución en el caso del Summit.
+- [Gobernanza y tesorería](concepts/gobernanza-y-tesoreria.md): propuesta, aprobación y ejecución, incluidos clústeres de IA propuestos.
 - [Infraestructura de acceso a la red](concepts/infraestructura-de-acceso-a-la-red.md): servicios, autenticación y límites de una revisión documental.
 - [Interés abierto en futuros](concepts/interes-abierto-en-futuros.md): uso del indicador en la fuente y metodología pendiente.
 - [Flujos de ETF de Bitcoin](concepts/flujos-etf-bitcoin.md): versiones históricas, actualización publicada y límites de interpretación.
@@ -95,11 +180,40 @@
 
 ## 🧭 Temas
 
-- [Seguimiento de Angry Crypto Show](topics/seguimiento-angry-crypto-show.md): los seis informes incorporados y sus relaciones.
+- [Seguimiento de Angry Crypto Show](topics/seguimiento-angry-crypto-show.md): once análisis de vídeo, dos avisos y dos vídeos pendientes.
 
 - [Seguimiento de mercado de ADA y NIGHT](topics/seguimiento-mercado-ada-night.md): síntesis, relaciones y preguntas abiertas.
 
 ## 📝 Informes
+
+- [Angry: dos vídeos pendientes — 23 de octubre](reports/2026-10-23-angry-crypto-show-acceso-limitado.md): aviso con infografía; sus contenidos siguen sin analizar.
+
+- [Seguimiento — 23 de octubre](reports/2026-10-23-seguimiento-ada-night-bitcoin.md): Hydra, NIGHT y ETF con infografía.
+
+- [Seguimiento — 22 de octubre](reports/2026-10-22-seguimiento-ada-night-bitcoin.md): MiCA, agricultura, NIGHT, ETF y FINMA, con infografía.
+
+- [Angry Crypto Show — síntesis del 21](reports/2026-10-21-angry-crypto-show.md): Nightmode, Pogun, Leios, DeFi y límites, con imagen original.
+
+- [Seguimiento — 21 de octubre](reports/2026-10-21-seguimiento-ada-night-bitcoin.md): Nightmode, ETF, propuestas institucionales e infografía.
+
+- [Angry Crypto Show — síntesis del 20](reports/2026-10-20-angry-crypto-show.md): capitalización aspirada, Nightframes, contexto y escenarios, con infografía.
+
+- [Seguimiento — 19 de octubre](reports/2026-10-19-seguimiento-ada-night-bitcoin.md): presupuesto, NIGHT y BTC; infografía y límites de búsqueda.
+
+- [Angry: revisión sin vídeos nuevos — 19 de octubre](reports/2026-10-19-angry-crypto-show-sin-videos-nuevos.md): aviso de estado con infografía, sin otro análisis del vídeo previo.
+
+- [Angry Crypto Show — síntesis del 17](reports/2026-10-17-angry-crypto-show.md): Hydra, Fireblocks, Nightstream, escenarios y fechas de entrega, con infografía.
+
+- [Seguimiento — edición del 17](reports/2026-10-17-seguimiento-ada-night-bitcoin.md): elaborado el 18, con infografía, desarrollo, MSCI y ETF.
+
+- [Nightframes: síntesis de la presentación de Tokio](reports/2026-10-16-nightframes-presentacion-tokio.md): ideas, componentes, calendario declarado y preguntas abiertas.
+
+- [Angry Crypto Show — síntesis del 15](reports/2026-10-15-angry-crypto-show.md): integración, APR, Nightframes y escenario de ADA, con imagen original.
+- [Angry Crypto Show — síntesis del 16](reports/2026-10-16-angry-crypto-show.md): objetivo de TVL, tesis sobre NIGHT, métricas y publicidad, con imagen original.
+
+- [Seguimiento — 16 de octubre](reports/2026-10-16-seguimiento-ada-night-bitcoin.md): cobre, NIGHT, rebote histórico de BTC y ETF; infografía y Gmail comprobados.
+
+- [Seguimiento — 15 de octubre](reports/2026-10-15-seguimiento-ada-night-bitcoin.md): Mithril, NorthStar, IPC, ETF y compra de Strive, con infografía y atribuciones.
 
 - [Angry Crypto Show — síntesis del 7 de octubre](reports/2026-10-07-angry-crypto-show.md): noticias, cifras atribuidas, opiniones y contexto.
 - [Angry Crypto Show — síntesis del 8 de octubre](reports/2026-10-08-angry-crypto-show.md): noticias, cifras atribuidas, opiniones y contexto.

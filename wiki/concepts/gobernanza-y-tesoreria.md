@@ -2,9 +2,12 @@
 title: "Gobernanza y tesorería: propuesta, aprobación y ejecución"
 type: concept
 created: "2026-10-06"
-updated: "2026-10-13"
+updated: "2026-10-20"
 tags: [cardano, gobernanza, tesoreria]
 sources:
+  - "../sources/2026-10-20-informe-angry-crypto-show.md"
+  - "../sources/2026-10-19-intersect-contratos-presupuesto.md"
+  - "../sources/2026-10-16-cardano-propuesta-cobre.md"
   - "../sources/2026-10-13-cardano-gobernanza-expiraciones.md"
   - "../sources/2026-10-06-cardano-summit-estado.md"
 ---
@@ -23,3 +26,14 @@ Esta página recoge ese caso y el criterio de verificación. No reconstruye el p
 
 El [caso de expiración](../sources/2026-10-13-cardano-gobernanza-expiraciones.md) añade una distinción: vencer sin ratificación no demuestra una mayoría de votos contrarios. SIPO reporta 44,18% y 4,0% de apoyo DRep frente 67; fichasAdaStat noaccesibles. No afirmar reducción aplicada oretiradaejecutada por esaspropuestas. FechaJSTdel 12 equivale anoche 11 Madrid.
 
+## Revisión del 16 de octubre
+
+La [solicitud de cobre](../sources/2026-10-16-cardano-propuesta-cobre.md) añade el caso de retirada de 22 millones de ADA. Leer un documento del proponente prueba el contenido solicitado; no prueba ratificación, transferencia de tesorería, compra de metal o reservas verificadas. La presentación del 15 está atribuida a SIPO y el escrutinio directo sigue pendiente.
+
+## Revisión del 19 de octubre
+
+El [caso Intersect](../sources/2026-10-19-intersect-contratos-presupuesto.md) distingue aprobación presupuestaria, financiación de contratos, hitos de trabajo y desembolso a proveedores. Declarar 25 contratos financiados no acredita que todos los trabajos estén terminados. La investigación sobre un parámetro tampoco es cambio aprobado. Movimientos en cadena sin auditoría propia.
+
+## Propuesta de clústeres de IA: informe de Angry del 20
+
+El [informe](../sources/2026-10-20-informe-angry-crypto-show.md) atribuye a Hoskinson la intención de construir un clúster de referencia y recomendar financiación por tesorería para desarrolladores de nodos «el año próximo», relativo a 2027. Sin identificador de acción, escrutinio, aprobación, compra o comprobación de eficacia. Las cifras de hardware 100.000/500.000 USD y capacidad de modelos son comparaciones no contrastadas; no presupuesto aprobado o sustitución de auditorías por IA.

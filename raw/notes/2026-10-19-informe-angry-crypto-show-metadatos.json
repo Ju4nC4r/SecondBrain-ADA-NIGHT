@@ -1,0 +1,59 @@
+{
+  "channel": "Angry Crypto Show",
+  "channel_url": "https://www.youtube.com/@AngryCryptoShow/videos",
+  "report_date": "2026-10-19",
+  "report_type": "no_new_videos_notice",
+  "prepared_at_utc": "2026-10-19T05:38:07.668207+00:00",
+  "channel_checked_at_local": "2026-10-19T07:34:00+02:00",
+  "new_video_ids": [],
+  "latest_video_id": "DPSruh_OnKY",
+  "latest_video_publication_local": "2026-10-16T23:25:40+02:00",
+  "latest_video_previously_analyzed": true,
+  "verification_method": "Sesión existente de Brave, canal público, pestaña Vídeos orden Más recientes. Descarga directa inicial agotó tiempo de espera.",
+  "transcript_source": null,
+  "transcript_limitation": "No se ha producido nueva transcripción: no hay vídeos nuevos. El último vídeo ya consta analizado.",
+  "infographic_generated_with": "image_gen built-in",
+  "infographic_review": "Texto legible y fechas revisadas; representa únicamente ausencia de vídeos nuevos.",
+  "gmail_status": "sent_verified_in_gmail",
+  "second_brain_status": "pending",
+  "ingestion_status": "pending",
+  "files": [
+    {
+      "role": "report",
+      "path": "raw/notes/2026-10-19-informe-angry-crypto-show.md",
+      "relative_link_from_metadata": "2026-10-19-informe-angry-crypto-show.md",
+      "sha256": "712077fe8c7a1c5294b678e30c07d1339e02bd31dbbf519454eeea75a9eba76d",
+      "size_bytes": 1610
+    },
+    {
+      "role": "infographic",
+      "path": "raw/images/2026-10-19-infografia-angry-crypto-show.png",
+      "relative_link_from_metadata": "../images/2026-10-19-infografia-angry-crypto-show.png",
+      "sha256": "17b693884c91e4381bf7996f51fd130095c9a22619f87b57bfa5f60cb7992b5a",
+      "size_bytes": 1528965
+    }
+  ],
+  "gmail_delivery": {
+    "report_date": "2026-10-19",
+    "report_type": "no_new_videos_notice",
+    "recipient": "gallegojc@gmail.com",
+    "subject": "[Codex] Angry Crypto Show — Aviso sin vídeos nuevos — 2026-10-19",
+    "gmail_message_id": "1a152ac22f02374c",
+    "gmail_thread_id": "1a152ac22f02374c",
+    "status": "sent_verified_in_gmail",
+    "sent_at_utc": "2026-10-19T05:39:35.000Z",
+    "verified_at_utc": "2026-10-19T05:40:12.437Z",
+    "checks": {
+      "sent": true,
+      "to": true,
+      "subject": true,
+      "html": true,
+      "image_bytes": true,
+      "cid": true
+    },
+    "infographic_size_bytes": 1528965
+  },
+  "archived_at_utc": "2026-10-19T05:40:47.220748+00:00",
+  "originals_unchanged": true,
+  "transcript": null
+}

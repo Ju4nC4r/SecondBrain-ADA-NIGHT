@@ -1,0 +1,79 @@
+{
+  "channel": "Angry Crypto Show",
+  "report_date": "2026-10-17",
+  "prepared_at_utc": "2026-10-18T21:37:26.382103+00:00",
+  "archived_at_utc": "2026-10-19T05:26:36.259806+00:00",
+  "source_video": {
+    "video_id": "DPSruh_OnKY",
+    "title": "Charles: \"LFG.\" Sheldon Is Bullish ADA! Midnight & Aztec To Collaborate? Angry Crypto Reacts",
+    "publication_date": "2026-10-16",
+    "publication_timestamp": "2026-10-16T14:25:40-07:00",
+    "publication_madrid": "2026-10-16T23:25:40+02:00",
+    "source": "YouTube original, inglés automático, exportado desde Brave",
+    "review_scope": "Transcripción completa 00:00–10:26; audio y gráficas sin revisión completa",
+    "transcript_path": "outputs/transcripcion-angry-crypto-show-2026-10-16-DPSruh_OnKY.txt",
+    "report_date": "2026-10-17",
+    "report_path": "outputs/informe-angry-crypto-show-2026-10-17.md",
+    "analysis_completed_at_utc": "2026-10-19T05:26:36.259806+00:00"
+  },
+  "files": [
+    {
+      "role": "report",
+      "path": "raw/notes/2026-10-17-informe-angry-crypto-show.md",
+      "relative_link_from_metadata": "2026-10-17-informe-angry-crypto-show.md",
+      "source_path": "/Users/juancarlos/Documents/Codex/2026-10-07/realtime-voice-chat/outputs/informe-angry-crypto-show-2026-10-17.md",
+      "sha256": "1dd8e8c1c5438a3380dc4d5733301323c74512acf48675fc07d22a041c60bb26",
+      "size_bytes": 10286
+    },
+    {
+      "role": "infographic",
+      "path": "raw/images/2026-10-17-infografia-angry-crypto-show.png",
+      "relative_link_from_metadata": "../images/2026-10-17-infografia-angry-crypto-show.png",
+      "source_path": "/Users/juancarlos/Documents/Codex/2026-10-07/realtime-voice-chat/outputs/infografia-angry-crypto-show-2026-10-17.png",
+      "sha256": "14b24dee90f6e5614c5124b9acdcaeade9b5c2c8bb9e47adf868a3c957ec8a23",
+      "size_bytes": 1728834
+    },
+    {
+      "role": "transcript",
+      "path": "raw/transcripts/2026-10-16-angry-crypto-show-DPSruh_OnKY.txt",
+      "relative_link_from_metadata": "../transcripts/2026-10-16-angry-crypto-show-DPSruh_OnKY.txt",
+      "source_path": "/Users/juancarlos/Documents/Codex/2026-10-07/realtime-voice-chat/outputs/transcripcion-angry-crypto-show-2026-10-16-DPSruh_OnKY.txt",
+      "sha256": "e913a607c1e8dfa70578e33afe3f5efc3181f85cf178d274be56f6f4d447c186",
+      "size_bytes": 10582
+    }
+  ],
+  "gmail_deliveries": [
+    {
+      "report_date": "2026-10-17",
+      "recipient": "gallegojc@gmail.com",
+      "subject": "[Codex] Angry Crypto Show — Informe diario — 2026-10-17",
+      "gmail_message_id": "1a1529f90999bf45",
+      "gmail_thread_id": "1a1529f90999bf45",
+      "status": "sent_verified_in_gmail",
+      "sent_at_utc": "2026-10-19T05:25:51.000Z",
+      "verified_at_utc": "2026-10-19T05:26:20.557Z",
+      "checks": {
+        "sent": true,
+        "recipient": true,
+        "subject": true,
+        "full_html": true,
+        "image": true,
+        "cid": true
+      },
+      "infographic_size_bytes": 1728834,
+      "delivery_note": "Informe del 17 preparado el 18 y enviado el 19 tras comprobar Gmail y reintentar el fallo de conexión.",
+      "full_body_verified": true,
+      "infographic_included": true,
+      "infographic_delivery": "inline_multipart_related_content_id_verified",
+      "infographic_path": "outputs/infografia-angry-crypto-show-2026-10-17.png",
+      "report_path": "outputs/informe-angry-crypto-show-2026-10-17-con-infografia.html",
+      "do_not_resend": true
+    }
+  ],
+  "ingestion_status": "pending",
+  "limitations": [
+    "Original íntegro sin modificar. Las frases de estado de entrega del original reflejan su preparación; los datos de Gmail en esta ficha reflejan el envío posterior verificado.",
+    "Transcripción automática completa; no revisión íntegra de audio ni gráficas.",
+    "Archivo RAW no equivale a ingesta de la wiki."
+  ]
+}

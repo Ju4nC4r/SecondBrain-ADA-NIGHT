@@ -1,0 +1,90 @@
+{
+  "edition_date": "2026-10-17",
+  "prepared_on": "2026-10-19",
+  "captured_at": "2026-10-19T07:27:50+02:00",
+  "editorial_news_cutoff": "2026-10-17T23:59:00+02:00",
+  "timezone": "Europe/Madrid",
+  "author": "Codex",
+  "origin_chat_title": "Informe diario de noticias de ADA y NIGHT",
+  "origin_chat_id": "01a0fb1b-0289-79a0-91cc-f6add3e697e9",
+  "report_sha256": "de14d9abad02baf59d106e4fa0fbb1494305ea56e480e038c5f48dfd7facdf01",
+  "recovery_edition": true,
+  "sources": [
+    {
+      "key": "ada",
+      "url": "https://www.essentialcardano.io/development-update/weekly-development-report-2026-10-16",
+      "author": "Ivan Irakoze / Input Output",
+      "published": "2026-10-16",
+      "event": "Trabajo semanal, fechas individuales no especificadas",
+      "verification": "Lectura directa del informe oficial; sin pruebas de software propias"
+    },
+    {
+      "key": "night",
+      "url": "https://github.com/midnightntwrk/midnight-js/releases/tag/v5.0.0-rc.5",
+      "author": "midnightntwrk; publicación github-actions",
+      "published": "2026-10-16",
+      "event": "Publicación de pre-release 5.0.0-rc.5",
+      "verification": "Release oficial leída directamente; hora visible 17:18 sin zona verificada, no se convierte"
+    },
+    {
+      "key": "msci",
+      "url": "https://app2.msci.com/webapp/index_ann/DocGet?format=html&lang=en&pub_key=aq0wbkjxPgo%3D",
+      "author": "MSCI",
+      "published": "2026-10-15T20:48:00Z",
+      "event": "Anuncio de reglas; lista final futura 2026-11-11 y aplicación al cierre 2026-11-30",
+      "verification": "Anuncio oficial leído; no se reconstruye evaluación individual de Strategy"
+    },
+    {
+      "key": "msci_secondary",
+      "url": "https://www.theblock.co/news/business/2026-10-15-msci-rules-could-exclude-strategy-mstr-from-indexes-418729",
+      "author": "Jason Shubnell; editor Kyle Baird",
+      "published": "2026-10-15T18:15:00-04:00",
+      "updated": "2026-10-15T22:41:00-04:00",
+      "event": "Cobertura de exposición de Strategy y otras empresas a reglas MSCI",
+      "verification": "Fuente periodística leída; identifica empresas, no acredita exclusión final"
+    },
+    {
+      "key": "etf",
+      "url": "https://farside.co.uk/btc/",
+      "author": "Farside Investors",
+      "published": null,
+      "event": "Sesión estadounidense 2026-10-16",
+      "verification": "Doce valores leídos el 18; revisables; sin reconstruir versión del 17"
+    }
+  ],
+  "capture_limit": "La investigación empezó el 17 con marca 20:54:03 Europe/Madrid y continuó el 18 con marca 22:00:07. Las fuentes primarias aquí enumeradas se leyeron el 18; sin hora individual por URL. El corte editorial no afirma una captura o entrega al cierre del 17.",
+  "farside": {
+    "session": "2026-10-16",
+    "unit": "millones de USD",
+    "funds": {
+      "IBIT": "-71.8",
+      "FBTC": "-10.6",
+      "BITB": "0.0",
+      "ARKB": "0.0",
+      "BTCO": "0.0",
+      "EZBC": "0.0",
+      "BRRR": "0.0",
+      "HODL": "0.0",
+      "BTCW": "0.0",
+      "MSBT": "0.0",
+      "GBTC": "0.0",
+      "BTC": "0.0"
+    },
+    "total": "-82.4",
+    "all_twelve_cells_present": true,
+    "revisable": true,
+    "issuer_reconciliation": false,
+    "published_version_at_editorial_cutoff_reconstructed": false
+  },
+  "limits": [
+    "Sin ejecución propia del SDK o benchmarks de Hydra.",
+    "Snapshot no equivale a TPS; versión candidata no equivale a activación general en mainnet.",
+    "MSCI no acredita exclusión final de Strategy ni venta forzosa de BTC.",
+    "No hay cotizaciones actuales sincronizadas ni causa confirmada de precio.",
+    "No se archivaron artículos externos completos."
+  ],
+  "discovery_sources": [
+    "https://sipo.tokyo/daily-intel-20261017/"
+  ],
+  "excluded_context": "No se repiten métricas atribuidas de testnet o Nightframes como despliegues nuevos; el artículo de privacidad de Midnight del 16 no se convierte en activación de protocolo."
+}

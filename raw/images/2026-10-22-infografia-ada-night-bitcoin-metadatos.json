@@ -1,0 +1,18 @@
+{
+  "tool": "image_gen.imagegen (herramienta integrada)",
+  "use_case": "infographic-diagram",
+  "prompt": "Use case: infographic-diagram\nAsset type: infografía editorial diaria en español, para chat y correo.\nPrimary request: imagen horizontal con tres bloques iguales ADA, NIGHT y Bitcoin, fondo claro y azul/violeta/naranja. Texto grande legible. Adornos simples y logos, sin gráficos, barras, curvas ni flechas financieras. Solo estos hechos y límites.\nText (verbatim):\n\"ADA · NIGHT · BITCOIN\"\n\"22 de octubre de 2026 | Corte: 07:32 Europe/Madrid\"\nBloque ADA:\n\"ADA / CARDANO\"\n\"MiCA: posición de la Fundación\"\n\"Publicado: 21 oct | Enviado: 30 sep 2026\"\n\"No es un cambio de normativa\"\n\"Proyecto agrícola: más de 100.000 registros\"\n\"Según la Fundación · Fecha del hito no indicada\"\n\"Recuento sin auditoría propia\"\n\"Fuente: Fundación Cardano\"\nBloque NIGHT:\n\"NIGHT / MIDNIGHT\"\n\"Sin novedad relevante nueva corroborada\"\n\"Consulta: 22 oct 2026\"\n\"Resultado limitado a canales accesibles\"\n\"midnight-js: consulta fallida\"\n\"Fuentes: blog oficial y nodo en GitHub\"\nBloque BTC:\n\"BTC / BITCOIN\"\n\"ETF: +524,8 millones USD netos\"\n\"Sesión: 21 oct 2026\"\n\"IBIT +235,0 · FBTC +212,7\"\n\"Millones USD · Otros 10: +77,1\"\n\"Datos revisables · Fuente: Farside\"\n\"Suiza: FINMA aprueba ETF minorista\"\n\"Anunciado: 20 oct 2026\"\n\"Inicio de negociación sin confirmar\"\n\"Sin protección frente a pérdidas de mercado\"\n\"Fuente: FINMA\"\nPie:\n\"Posibles impactos e incertidumbres en el informe completo\"\n\"Sin causalidad de precio confirmada · Sin recomendaciones de compra o venta\"\n\"cardanofoundation.org · midnight.network · github.com/midnightntwrk · farside.co.uk · finma.ch\"\nConstraints: cifras, signos, unidades y fechas exactos. La posición de MiCA no es una ley aprobada. Los registros agrícolas son una declaración atribuida. Ausencia de novedades NIGHT limitada a búsqueda. FINMA aprobó ETF, no rentabilidad o capital garantizado. No inventar gráficos, precios, hechos ni causas.",
+  "created_date": "2026-10-22",
+  "creation_time_exact": null,
+  "archived_at": "2026-10-22T07:36:40.194487+02:00",
+  "selected_generated_path": "/Users/juancarlos/.codex/generated_images/01a0fb1b-0289-79a0-91cc-f6add3e697e9/exec-7831321d-fb72-48cc-9667-de5f0b7ce2ad.png",
+  "report": "../reports/2026-10-22-informe-ada-night-bitcoin.md",
+  "sources": "../notes/2026-10-22-fuentes-informe-ada-night-bitcoin.json",
+  "sha256": "d120befca7193819299f69ab48fa7317565b630cdccb13b11efce6eaa616b0b0",
+  "bytes": 1691997,
+  "dimensions": [
+    1774,
+    887
+  ],
+  "visual_check": "Texto, cifras, signos, unidades y fechas revisados. Iconos decorativos sin series de precios o gráficos cuantitativos."
+}

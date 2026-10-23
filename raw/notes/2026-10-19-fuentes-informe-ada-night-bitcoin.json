@@ -1,0 +1,59 @@
+{
+  "report_date": "2026-10-19",
+  "cutoff": "2026-10-19T07:54:00+02:00",
+  "capture_time": "2026-10-19T08:02:13+02:00",
+  "timezone": "Europe/Madrid",
+  "author": "Codex",
+  "origin_chat_title": "Informe diario de noticias de ADA y NIGHT",
+  "origin_chat_id": "01a0fb1b-0289-79a0-91cc-f6add3e697e9",
+  "report_sha256": "3fb18fe238e43b1d5ef029c7e249a0167c1572b004c891d421c746fda0bf962b",
+  "external_fulltext_archived": false,
+  "sources": [
+    {
+      "url": "https://www.intersectmbo.org/news/intersect-weekly-update-133-oct-17-2026",
+      "author": "Intersect; colaboradores Ian H, Larisa M, Thomas L y Duncan S",
+      "published": "2026-10-17",
+      "event": "Financiación del contrato TSC durante la semana; sin día individual",
+      "verification": "Publicación primaria leída directamente. 25 contratos por 204.639.279 ADA declarados, sin auditoría de movimientos."
+    },
+    {
+      "url": "https://treasury.sundae.fi/budgets/51486a2f1496d4d3a688a9b111971aa9b731ed045d900b601345ca4e",
+      "author": null,
+      "published": null,
+      "event": null,
+      "verification": "Panel enlazado por Intersect. Página dinámica sin contenido legible en la consulta; no prueba de sumas o transferencias."
+    },
+    {
+      "url": "https://github.com/midnightntwrk/midnight-node/releases",
+      "author": "midnightntwrk",
+      "published": null,
+      "event": null,
+      "verification": "Listado oficial de releases revisado; sin anuncio fundamental nuevo corroborado respecto a edición anterior."
+    },
+    {
+      "url": "https://github.com/midnightntwrk/midnight-js/releases",
+      "author": "midnightntwrk",
+      "published": null,
+      "event": null,
+      "verification": "Listado oficial revisado; no se repite 5.0.0-rc.5 como novedad."
+    },
+    {
+      "url": "https://farside.co.uk/btc/",
+      "author": "Farside Investors",
+      "published": null,
+      "event": "No contiene fila de sesión 2026-10-19 en la consulta",
+      "verification": "Lectura directa. Ausencia no equivale a cero. Sesión del 16 ya recogida; sus cifras no se repiten como noticia nueva."
+    }
+  ],
+  "capture_limits": "Consultas de noticias durante esta ejecución; marcas de reloj registradas 07:49:23 y 07:53:59 Europe/Madrid, sin marca individual por URL. capture_time identifica conservación de la nota.",
+  "discovery_source": "https://sipo.tokyo/daily-intel-20261018/",
+  "failed_discovery_source": "https://sipo.tokyo/daily-intel-20261019/",
+  "limitations": [
+    "No reconstrucción ni auditoría de 25 contratos o pagos de proveedores.",
+    "Presupuesto financiado no demuestra trabajos terminados.",
+    "Convocatoria utxoCostPerByte no es cambio de parámetro aprobado.",
+    "Ausencia de novedades de NIGHT y BTC limitada a canales consultados; no ausencia global.",
+    "Sin cotizaciones actuales sincronizadas ni causalidad de precio.",
+    "Estado de historial comprobado por separado; no se crean informes retrospectivos o reenvíos de fechas ausentes."
+  ]
+}

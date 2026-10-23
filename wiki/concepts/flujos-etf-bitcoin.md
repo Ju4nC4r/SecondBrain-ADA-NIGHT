@@ -2,9 +2,14 @@
 title: "Flujos de ETF al contado de Bitcoin"
 type: concept
 created: "2026-10-05"
-updated: "2026-10-14"
+updated: "2026-10-23"
 tags: [bitcoin, etf, mercado]
 sources:
+  - "../sources/2026-10-23-informe-ada-night-bitcoin.md"
+  - "../sources/2026-10-19-informe-ada-night-bitcoin.md"
+  - "../sources/2026-10-17-farside-flujos-bitcoin.md"
+  - "../sources/2026-10-16-farside-flujos-bitcoin.md"
+  - "../sources/2026-10-15-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-14-farside-flujos-bitcoin.md"
   - "../sources/2026-10-13-farside-flujos-bitcoin.md"
   - "../sources/2026-10-09-farside-flujos-bitcoin.md"
@@ -58,9 +63,41 @@ La [fila del 8](../sources/2026-10-09-farside-flujos-bitcoin.md) contiene doce c
 
 La [sesión del 13](../sources/2026-10-14-farside-flujos-bitcoin.md) contiene doce cifras y suma +175,7 millones de USD. Se distingue de las [compras de Strive](../sources/2026-10-14-strive-compras-bitcoin.md): compras del 5–9, anuncio del 13; no son la misma ventana ni una medida sumable automáticamente.
 
+## Revisión del 15 de octubre
+
+La [nota del informe del 15](../sources/2026-10-15-informe-ada-night-bitcoin.md) conserva la sesión del 14: IBIT −110,9, FBTC −152,7, BITB +2,2 y nueve fondos a cero, en millones de USD. Suma recalculada **−261,4**, doce valores presentes. Es una comprobación aritmética del archivo, sin nueva consulta del proveedor ni conciliación por emisor; publicación sin hora y datos revisables. Las compras de Strive del 12–13 corresponden a otra ventana y no se suman como demanda simultánea.
+
 ## Relaciones
 
 - [Informe del 6 de octubre](../reports/2026-10-06-seguimiento-ada-night-bitcoin.md).
 - [Bitcoin / BTC](../entities/bitcoin-btc.md).
 - [Informe del 5 de octubre](../reports/2026-10-05-seguimiento-ada-night-bitcoin.md).
 - [Seguimiento de mercado](../topics/seguimiento-mercado-ada-night.md).
+
+## Revisión del 16 de octubre
+
+La [sesión del 15](../sources/2026-10-16-farside-flujos-bitcoin.md) suma +5,1 millones USD: IBIT +16,8, BTCO −4,1, BTC de Grayscale −7,6, otros nueve 0,0. Doce celdas presentes; dato completo no significa definitivo. La sesión previa negativa se mantiene como historia, sin sobrescribirla. No explica por sí sola el rebote descrito por el medio.
+
+## Edición del 17, incorporada el 18 de octubre
+
+La [fila del 16](../sources/2026-10-17-farside-flujos-bitcoin.md), leída el 18, suma −82,4 millones USD: IBIT −71,8 y FBTC −10,6. Otras diez cifras presentes a cero. Se preserva el saldo de la sesión anterior como otro periodo; el cambio de signo no es una contradicción ni causa comprobada de precio.
+
+## Revisión del 19 de octubre
+
+En la [consulta del 19](../sources/2026-10-19-informe-ada-night-bitcoin.md) no hay fila de sesión del 19. La ausencia se conserva como estado de publicación, no un flujo cero. Los datos del 16 permanecen históricos en su ficha, sin presentarlos otra vez como nuevos.
+
+## Revisión del 20 de octubre
+
+La [fila del 19, consultada el 20](../sources/2026-10-20-farside-flujos-bitcoin.md), suma +526,7 millones USD: IBIT +665,2, FBTC −83,6, GBTC −54,9 y nueve fondos a cero. Doce cifras presentes y suma comprobada. La [consulta del 19](../sources/2026-10-19-informe-ada-night-bitcoin.md) no contenía esa fila; se conserva como fotografía anterior. No se suma a compras corporativas del 12–18 ni prueba causalidad de precio.
+
+## Revisión del 21 de octubre
+
+La [fila del 20, leída el 21](../sources/2026-10-21-farside-flujos-bitcoin.md), contiene doce valores y suma +23,2 millones USD: IBIT +29,9, FBTC +3,6, BITB −10,3, otros nueve 0,0. Es otra sesión respecto al 19; no corrección de la cifra anterior. Revisable, sin conciliación por emisor, sin tendencia o causa de precio demostrada. Una propuesta como PBIT o previsión como JPM no es entrada de capital.
+
+## Revisión del 22 de octubre
+
+La [fila de la sesión del 21](../sources/2026-10-22-farside-flujos-bitcoin.md), consultada el 22, suma +524,8 millones USD; IBIT +235,0 y FBTC +212,7, otros diez +77,1. Doce celdas presentes y aritmética comprobada. Otra sesión, no corrección de la cifra del 20. Dato revisable y sin conciliación por emisor. Aprobación de ETF suizo no equivale a flujos ejecutados.
+
+## Revisión del 23 de octubre
+
+[Sesión del 22](../sources/2026-10-23-farside-flujos-bitcoin.md), consulta del 23: doce cifras presentes, suma −635,6 millones USD. La cobertura parcial de OwlChart (−27,2 a las 22:37 UTC del 22, pocos fondos) no sustituye el agregado completo ni permite fechar la publicación de Farside. Datos revisables sin conciliación por emisor. La sesión del 21 (+524,8) permanece intacta; son días distintos.

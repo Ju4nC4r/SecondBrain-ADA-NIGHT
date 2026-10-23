@@ -1,0 +1,37 @@
+{
+  "type": "constancia de envio verificado",
+  "author": "Codex",
+  "report_date": "2026-10-20",
+  "timezone": "Europe/Madrid",
+  "chat_id": "01a0fb1b-0289-79a0-91cc-f6add3e697e9",
+  "message_id": "1a1585f251329c04",
+  "thread_id": "1a1585f251329c04",
+  "to": "gallegojc@gmail.com",
+  "subject": "[Codex] Informe diario de ADA, NIGHT y Bitcoin — 2026-10-20",
+  "sent_at": "2026-10-20T10:13:12+02:00",
+  "verified_at": "2026-10-20T10:14:05.139157+02:00",
+  "gmail_internal_date": "1792483992000",
+  "sent_label": true,
+  "plain_body_exact": true,
+  "html_body_exact": true,
+  "plain_sha256": "7daf1e8c43cbf4c8c717fe7ac48045df95110e874594a07778f4341d321b7374",
+  "html_sha256": "350013d0af4f5de4562dfe3c47cd2dfcaf854a6f94bad3f687c0d375701acc06",
+  "report": {
+    "path": "../reports/2026-10-20-informe-ada-night-bitcoin.md",
+    "sha256": "7ef520d6d88fd1e4c5fb842589a81118bf1ae6c92d82336b309eb96147b3baf3"
+  },
+  "infographic": {
+    "path": "../images/2026-10-20-infografia-ada-night-bitcoin.png",
+    "mime_type": "image/png",
+    "bytes": 1753168,
+    "sha256": "2f8f0a7b74727e48e068d7a8670b14fad63a4d920075fd138f2950647514ce83",
+    "recovered_from_gmail_and_exact": true,
+    "content_id": "infografia-ada-night-bitcoin-20261020"
+  },
+  "duplicate_check": "Consultas completadas de Enviados sin coincidencias para destinatario y asunto fechado 2026-10-20; nueva comprobacion tras rechazo por cambio del catalogo de herramientas.",
+  "limitations": [
+    "El primer intento fue rechazado por cambio del catalogo de herramientas; no se atribuye a falta de autorizacion del usuario.",
+    "La verificacion acredita envio y contenido en Gmail, no lectura por el destinatario.",
+    "Archivo e ingesta completos en SecondBrain-CryptoADA, sin reenviar a otros chats."
+  ]
+}

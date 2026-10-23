@@ -1,0 +1,1448 @@
+YouTube transcript
+Video ID: Iyrt2fNAWQ4
+Language: en
+Captions: auto-generated
+
+[0:04] Hi everybody.
+[0:06] [cheering]
+[0:07] >> Hello Tokyo.
+[0:13] Somebody's getting a hat.
+[0:16] Oh man, it is good to be here after 15
+[0:18] years. uh the amount of love and the
+[0:22] power of this country and just your
+[0:24] contributions and what you've been able
+[0:26] to not only give for the cryptocurrency
+[0:28] space but for the world as a whole. You
+[0:31] know, I was just reminiscing on my my
+[0:32] life and I remember growing up in
+[0:34] Hawaii, large Japanese population. We
+[0:37] had a Nintendo, we watched Sumo on
+[0:40] television. It's one of the only states
+[0:42] that broadcasts it. And you know, I keep
+[0:44] coming back here and every time I come
+[0:46] here, I just get filled with joy and
+[0:48] life again. You make me young again. So
+[0:51] before I get started, I just wanted to
+[0:52] mention that. Uh and also I would be
+[0:55] remissed if I didn't mention that OKX is
+[0:58] uh going to be listing night on October
+[1:00] 13th. So thank you so much for all that.
+[1:04] All right, [applause] let's get started.
+[1:08] So every now and then you have to do a
+[1:12] presentation. Normally I just go up
+[1:13] there and I freestyle. I just ramble on
+[1:16] and on and on like an old man. Get off
+[1:18] the lawn. But I decided that for this
+[1:22] question,
+[1:24] it's a big enough question that it
+[1:26] really does deserve us to kind of
+[1:28] reflect upon it and realize that
+[1:30] something is happening across the entire
+[1:32] world. Not just the cryptocurrency
+[1:34] world, but the whole world. All world.
+[1:36] All of computing. And it's so special
+[1:39] that we're doing something as a race, as
+[1:42] a species. What comes after smart
+[1:45] contracts?
+[1:46] Well, if we get started, you had
+[1:48] Bitcoin. Bitcoin was great. Satoshi
+[1:51] Nakamoto, huh? You just had money. It's
+[1:54] the first generation of things. It's a
+[1:56] little dot. You know, what can you do?
+[1:58] You just send your Bitcoin around. And
+[2:00] for some people, all these years later,
+[2:03] since 2009, that's just enough. We call
+[2:05] them maxis.
+[2:07] And it's great to have them there and
+[2:09] they certainly are very vocal people.
+[2:11] But shortly after constructing Bitcoin,
+[2:14] a lot of the people in the
+[2:15] cryptocurrency ecosystem said,"Well, we
+[2:17] need a little bit more." And they say,
+[2:19] "Well, what do we need?" Well, we need
+[2:20] programmability.
+[2:22] We need the ability to write
+[2:24] transactions. We need the ability to
+[2:27] basically make things like issue our own
+[2:30] asset, exchanges, dexes, prediction
+[2:34] markets, all kinds of things. And
+[2:36] Ethereum was a wild success. It was
+[2:38] magical and incredible for its time. But
+[2:41] the minute that Ethereum was successful,
+[2:43] what's the problem? People want to use
+[2:45] it. People want to use it everywhere.
+[2:48] People want to evolve it, change it,
+[2:50] grow it. And thus we have the third
+[2:54] generation. We introduced it here in
+[2:56] Japan. Cardano and for its time it was
+[3:00] revolutionary.
+[3:01] All kinds of concepts. What did we love,
+[3:04] treasure, and admire, respect about
+[3:06] Bitcoin? We liked UTXO. We liked the
+[3:08] immutability. We liked the probabilistic
+[3:11] finality, the self-healing nature of
+[3:13] Bitcoin. Really cool, awesome things.
+[3:16] Color coins, the ability for users to
+[3:18] issue their own assets,
+[3:20] and have them be treated as first class
+[3:22] citizens to the underlying asset. No
+[3:26] ERC20.
+[3:28] No, we wanted to actually have something
+[3:30] special there. And of course, there are
+[3:31] many good things we learned from the
+[3:32] Ethereum world as well. You'll you'll
+[3:34] notice that the generations don't go
+[3:36] away. They're there. They're nested
+[3:38] inside, but we keep getting bigger and
+[3:41] bigger.
+[3:43] So, eight years ago, we asked, well, as
+[3:46] an R&D project, which has now turned
+[3:49] into a real life thing, what's the next
+[3:51] generation? Well, you know, you have a
+[3:52] triangle. Before we had the triangle,
+[3:55] what did we have? We had a line. Before
+[3:56] that, we had a dot. So maybe, just
+[3:59] maybe, if you read the book Flatland,
+[4:01] you have a square. How about that? Look
+[4:04] at that. You know, it's hip to be
+[4:05] square. It's a good song. And we talked
+[4:08] to a lot of people. In fact, we did a
+[4:10] lovely Japan tour earlier this year. And
+[4:13] we said, you know, what are the things
+[4:15] that a fourth generation has? Well,
+[4:17] obviously, we have to have four things.
+[4:19] It's the fourth generation. So, what do
+[4:21] we have? We have privacy. That's super
+[4:24] important. every business 15 years of
+[4:27] talking to them one after another.
+[4:29] They'd come and say, "Well, we love
+[4:31] blockchains, but we can't have
+[4:34] everything out in the open in public."
+[4:37] Okay, that makes sense. So, we need
+[4:38] privacy-enhancing technologies, not just
+[4:41] privacy. You need all categories of
+[4:44] things like network anonymization, zero
+[4:47] knowledge, trusted execution
+[4:48] environments, multi-party computation.
+[4:50] There's many many categories of privacy
+[4:53] and different ways to think about it.
+[4:56] But in addition to that, you also need
+[4:57] things like compliance. We have all
+[4:59] these regulated actors. They say, you
+[5:01] know, we'd like to trade stock on a
+[5:03] blockchain, actual stock of a company,
+[5:05] not a synthetic, but the Microsoft
+[5:08] stock, the Sony stock. Okay, that makes
+[5:11] sense. They say, well, you go to India.
+[5:14] Every time you send a transaction,
+[5:16] there's a 1% transaction tax for
+[5:19] cryptocurrency. So, how do you apply
+[5:20] that? How do you automate that? How do
+[5:22] you make that work? Regulation. Okay.
+[5:26] Taxes, securities,
+[5:28] permission networks. People say, "Okay,
+[5:31] well, Japan Airlines, it has loyalty
+[5:33] points." Well, they'd like their
+[5:35] customers to have those. So, who's a
+[5:37] customer? Who's not a customer? It has
+[5:39] to be ring fenced, right? So, that's
+[5:41] what compliance is about. Blockchains
+[5:43] don't normally do that. Then you have
+[5:46] abstraction.
+[5:47] It's in a continuation of the prior
+[5:50] generation of interoperability. What's
+[5:52] abstraction? Why do you have to care if
+[5:54] it's on Cardano or Ethereum or Bitcoin
+[5:58] or the 18,000 other projects that we
+[6:01] have floating through the world? Why do
+[6:04] we have to care about these things? Why
+[6:07] can't we just have Charles at midnight?
+[6:10] Why can't we just have an address for
+[6:12] this? That's it. and it like an email
+[6:15] address and everything just works there.
+[6:17] Multi-chain, multi-asset. Now we also
+[6:20] have these agents. We have AI,
+[6:23] everybody. Chat, GPT, Claude, Croc, all
+[6:27] these Chinese models that are floating
+[6:29] around. They seem to have some sort of
+[6:31] say and influence over everything that
+[6:33] we do and they're getting involved in
+[6:35] our money. They're connecting to our
+[6:37] bank accounts. They're connecting to our
+[6:38] phones, our payment systems.
+[6:41] Just the other day, I was curious, how
+[6:43] many vampire subscriptions do I have?
+[6:46] Because, you know, I sign up for a lot
+[6:47] of stuff and, you know, normally you go
+[6:49] through your credit card bill, you check
+[6:51] all the things there. Every month,
+[6:53] people deduct money. So, it turned out I
+[6:55] had over 115
+[6:58] 115 vampire subscriptions across all my
+[7:01] different accounts. So, how did I find
+[7:03] that out? I connected some AI. It went
+[7:05] through everything the last six months
+[7:07] of payments across all the accounts and
+[7:08] it let me know and said you had all
+[7:10] those things agentic finance it's
+[7:12] incredibly important.
+[7:14] So the question is is the smart contract
+[7:17] good enough so that if I take these four
+[7:21] concepts
+[7:22] that I can run all of that in the
+[7:24] blockchain space or do I need something
+[7:27] new something different? Well,
+[7:31] here's what we have. A night frame.
+[7:35] And you know, it's cool because it's
+[7:36] actually a four-dimensional structure.
+[7:38] It's a hyper cube. So, a night frame.
+[7:40] What the hell is that? It's the
+[7:42] successor to the smart contract. It's
+[7:45] something new. It's something different.
+[7:46] Just like the smart contract was
+[7:48] something new, something different. It's
+[7:50] a private always on computer that runs
+[7:52] your programs. It follows your intent.
+[7:55] And also, most importantly, it's
+[7:56] provable. It's very different from the
+[8:00] computers you're normally used to
+[8:02] having. Why is it different? Well, you
+[8:04] got three I's and a P. First, your
+[8:07] computer don't really care who the user
+[8:10] is. This one does. It knows your
+[8:13] identity and it has its own identity.
+[8:16] Okay, that's the first component.
+[8:18] There's a concept of identity. We can
+[8:21] identify each other. You can prove
+[8:22] yourself to it so you can't get hacked.
+[8:26] Second, it understands your intention.
+[8:29] When you use a computer, does a computer
+[8:31] typically understand what you want? Not
+[8:34] what you told it to do, but what you
+[8:36] want? It's one of the hardest things for
+[8:39] computers, right? Very difficult things.
+[8:41] So, there's this concept of intention
+[8:43] within it. Third, it seems to have
+[8:45] intelligence. Not only does it
+[8:47] understand what you want, it understands
+[8:50] how to solve that problem for you, that
+[8:53] goal for you.
+[8:55] You say something like, "What? I'm
+[8:57] traveling to Tokyo to see a
+[8:58] presentation.
+[9:00] I would like to schedule a flight."
+[9:03] Okay. It understands that you travel a
+[9:07] certain way. It understands that you
+[9:09] walk with a cane. It understands that
+[9:11] you're a mother with two kids. It
+[9:13] understands that you can't travel at
+[9:15] night. It understands that you can't
+[9:17] have flights more than four hours
+[9:19] without expanding the leg room. Whatever
+[9:20] your tastes and preferences are, right?
+[9:23] and it understands how to solve that
+[9:24] because it's personal. It knows a lot
+[9:27] about you. That is the magic of where
+[9:30] the world is going. You'll see this in
+[9:32] many different flavors and many
+[9:34] different contextes. People have things
+[9:35] like Arams and Open Claw, Grockbot, Muse
+[9:39] by these giant companies and they have
+[9:42] some of these properties. They certainly
+[9:45] are personal,
+[9:46] okay? And they certainly are intelligent
+[9:48] and they certainly can satisfy your
+[9:50] intention. But the issue is the identity
+[9:53] is owned by a big company. The data is
+[9:56] owned by a large company and you don't
+[9:59] own it.
+[10:00] You'll notice something about the
+[10:02] cryptocurrency space if we go back.
+[10:04] These never go away. These things, the
+[10:07] triangle didn't go away. The line didn't
+[10:10] go away.
+[10:12] The dot didn't go away. Right? They're
+[10:15] still there.
+[10:17] So all the properties of each generation
+[10:20] build on the prior generation and you
+[10:23] carry the guarantees, values and powers
+[10:27] of them. So if we're going to build this
+[10:30] always on computer, this night frame, it
+[10:33] has to have the properties of the
+[10:34] cryptocurrency space.
+[10:37] It has to be non-custodial. You own it.
+[10:40] It has to preserve your property. Just
+[10:42] like you said, you own your own wallet
+[10:44] with cryptocurrencies. Not your keys,
+[10:46] not your wallet. You own your own night
+[10:49] frame. It's yours. You control that. It
+[10:53] has to be decentralized. Nobody can shut
+[10:55] you off. Censorship resistant. All these
+[10:58] types of things, right? This captures
+[11:00] all that concept. And then we have this
+[11:02] idea of smart contracts. Well, if you
+[11:04] have smart contracts, let's go a step
+[11:06] further. We'll have living organisms
+[11:09] actually within
+[11:11] these little night frames, programs that
+[11:14] are persistent. They never go away. I
+[11:16] call them quinlings, but call them
+[11:18] whatever you want. So then there's a
+[11:20] very natural question of where does it
+[11:22] work? Well, it works everywhere. Just
+[11:24] like cryptocurrencies have to work
+[11:25] everywhere. Has to work between people,
+[11:27] devices, networks, and services. Every
+[11:30] single place you can imagine, these
+[11:31] programs are going to be. And as I said,
+[11:34] they're going to be there 24 hours a
+[11:35] day, seven days a week. Right now, as
+[11:37] I'm presenting, they should exist, be
+[11:40] doing things. As you're listening, they
+[11:43] should exist, be doing things. They
+[11:45] never stop. They're here for you. So,
+[11:48] what can you do with them?
+[11:50] So, let's imagine some examples to help
+[11:53] elucidate the point, just like in the
+[11:54] back in the day when we were talking
+[11:56] about smart contracts. Well, imagine
+[11:59] your Toyota. It's a pretty good company,
+[12:01] one of the best car companies in human
+[12:03] history. And you know, they real excited
+[12:05] about the new Prius. And they decide,
+[12:08] you know, let's work with Cattle. You
+[12:09] know, this Chinese company, they build
+[12:11] batteries. They're very good company.
+[12:13] And the Prius really needs more advanced
+[12:15] batteries. So, let's work together. Now,
+[12:18] what's the problem with working with
+[12:19] Chinese companies? Brilliant people. But
+[12:22] every now and then, your intellectual
+[12:25] property just seems to sneak away. Go
+[12:27] figure. Not sure how that happens. Oh
+[12:30] well. But wouldn't it be cool if you had
+[12:33] these night frames and Toyota had one
+[12:36] and cattle had one. And as they work
+[12:38] together, as they build something
+[12:40] together, they get a guarantee that the
+[12:42] fruits of the labors can't be stolen.
+[12:46] It's a problem. Every company, you can
+[12:48] replace the names. It can be JP Morgan
+[12:50] Chase and Bank of America. It can be
+[12:55] SAS, you know, doesn't matter the
+[12:56] company. They have the same issue. I
+[12:59] want to work with you, but can I trust
+[13:01] you? I want to share my data room with
+[13:04] you. There's a very famous case.
+[13:07] The CEO of Google was on the board of
+[13:10] directors of Apple and got to see the
+[13:12] iPhone before anybody else. And then two
+[13:16] years later, you know, Google has
+[13:17] Android.
+[13:20] I'm sure that, you know, being on that
+[13:22] board had nothing to do with it, right?
+[13:24] Because it doesn't live in this
+[13:26] structure. doesn't live in the structure
+[13:28] of smart contracts or now night frames
+[13:30] of instead of don't be evil, can't be
+[13:32] evil. We want to live in a world where
+[13:34] we can trust each other. We can only do
+[13:36] that if we all follow the same rules.
+[13:39] Now, let's make it personal. You're in
+[13:42] Switzerland. Oh, but you just broke your
+[13:44] leg. Oh, no. You were skiing. Had
+[13:47] nothing to do with me talking to the CF
+[13:49] or anything like that. Love Switzerland.
+[13:51] They're great. Except for the leg
+[13:53] breaking. Okay. So, what do you do when
+[13:54] you break your leg? You go to the
+[13:56] hospital. Okay. And what do you need at
+[13:58] the hospital? You need to give them your
+[14:01] medical records. Have you ever really
+[14:03] thought about this problem? You're here
+[14:05] in Japan. You're here in Tokyo. You have
+[14:07] all these medical records.
+[14:09] And every now and then you travel and
+[14:11] when you go abroad, you have to share
+[14:13] those with somebody. How do you share
+[14:15] them and get a guarantee that they're
+[14:17] only going to use what they need and
+[14:20] they don't stay behind? Maybe
+[14:21] Switzerland's a trustworthy country. It
+[14:23] certainly values privacy, but what about
+[14:26] another country?
+[14:28] What about countries where the
+[14:30] government itself is not really doing so
+[14:32] well? Maybe like Somalia. Would you feel
+[14:36] good if all your medical records just
+[14:38] went over there somewhere else? That's
+[14:41] the problem, right? It's the exact same
+[14:44] problem as the Toyota problem. When you
+[14:48] have these capabilities, you can go
+[14:50] beyond just solving problems. You can do
+[14:52] new things that we've never been able to
+[14:54] do before in human history. Guess what?
+[14:56] We had this thing called quantum money.
+[14:59] If you're an academic, you read papers
+[15:01] in the 1980s and 1990s. And they said,
+[15:04] you know, if we had quantum computers,
+[15:07] we could have a new form of money. It's
+[15:10] pretty simple to explain. It's
+[15:11] impossible to do until we had night
+[15:13] frames. So, what exactly is it? Well,
+[15:16] let's say Alice wants to pay Bob.
+[15:19] And what she's going to have is money
+[15:21] that lives in her phone.
+[15:24] Okay? Lives in her phone.
+[15:27] And it only lives in her phone in a
+[15:30] little night frame. One of these trusted
+[15:32] computers.
+[15:34] Okay. What does it have? It has a unique
+[15:36] private key. And when she goes to Bob,
+[15:39] what she's going to do is tap Bob his
+[15:42] phone and send over a copy of that
+[15:45] unique private key. And when Bob gets it
+[15:48] and confirms that he has it, it erases
+[15:50] her copy. And because she has the only
+[15:52] copy and she can send over a proof of
+[15:54] secure eraser, what she just did is give
+[15:58] the money to Bob. Just like you handing
+[16:01] cash to somebody means that you no
+[16:04] longer have the cash, they have the
+[16:05] cash. Well, that's offline and that's
+[16:08] offchain and it's totally private.
+[16:10] Nobody in the world even knew that that
+[16:12] little phone tap happened. For 15 years,
+[16:15] we've been trying to figure out how do
+[16:17] we bank the unbanked. We have a lovely
+[16:19] product actually that just launched uh
+[16:21] thanks to many many years of hard work
+[16:23] called Real Fi, which finally got that
+[16:25] process started and we're very excited
+[16:28] about it. But one of the last miles is
+[16:30] how do people in unbanked places spend
+[16:33] money? Well, we can do that with night
+[16:35] frames. We can have quantum money. How
+[16:37] about that? That's pretty cool.
+[16:40] But there's a bigger question about all
+[16:42] that. And that brings us to the main
+[16:43] point of today.
+[16:45] How do we share?
+[16:48] How do we work together with these
+[16:50] things, these night frames? Where do
+[16:51] they live? What do they do? I mean,
+[16:54] we're starting to get a sense of the
+[16:56] concept. And it's some sort of like
+[16:58] successor to the smart contract. And it
+[17:00] has capabilities. It has some magic
+[17:03] cryptography. It has privacy-enhancing
+[17:06] text. It'll have TE and ZK and MPC and
+[17:09] all these other amazing wonderful
+[17:11] things. Okay, great.
+[17:13] But where do they live? Like, how do I
+[17:16] get one? You know, how exactly do I
+[17:18] connect to this? Do I do I buy a token?
+[17:20] Do I download a chain? Do I have to get
+[17:22] some weird wallet or something like
+[17:24] that? Well, we asked this question a lot
+[17:27] because we built Midnight and before
+[17:30] that I built Cardano and before that I
+[17:32] helped build Ethereum and before that I
+[17:33] helped build Bitshares and before that I
+[17:35] was working on Bitcoin. So, I've been in
+[17:37] this game for a while and every time
+[17:39] someone launches a cryptocurrency, they
+[17:41] do the same thing. They distribute a
+[17:43] token, they tell you to download their
+[17:44] wallet, download their chain, and you
+[17:47] know what? They've done it 18,000 times.
+[17:49] It's it's too much. Let's do something
+[17:52] different. Let's do something new. These
+[17:54] are not static dead pieces of code.
+[17:59] They're alive. They live. They move.
+[18:02] They think. They're there to solve your
+[18:04] intention, which means they can pursue
+[18:06] and come up with their own goals. And
+[18:08] the power of programs like this is when
+[18:11] you get them together and you have them
+[18:13] do things together. So I started
+[18:16] thinking, gosh, what if we could create
+[18:19] a world,
+[18:22] a magical little world where all these
+[18:25] these these things, these these these
+[18:27] night frames could live and act and work
+[18:30] with each other and you could watch them
+[18:32] grow, evolve, and then eventually use
+[18:35] them to solve problems. Well, how about
+[18:37] Midnight City?
+[18:40] That's what it is. All this time we've
+[18:42] been talking about it.
+[18:43] >> [applause]
+[18:44] >> And you guys thought it was just some
+[18:46] sort of like silly Farmville Stardew
+[18:49] Valley thing and all this other stuff.
+[18:51] You like, "Oh, yeah, whatever. Okay."
+[18:53] No, actually, Midnight City under the
+[18:55] hood, all those little avatars you see
+[18:58] walking around are night frames.
+[19:02] They actually have advanced
+[19:03] cryptography. They have large language
+[19:05] models. They'll be nested in trusted
+[19:08] execution environments, all these types
+[19:10] of things. and they have the same
+[19:12] property and values that your
+[19:14] cryptocurrency wallet has. The bring
+[19:16] your own wallet, bring your own device,
+[19:19] you can use them to test new ideas.
+[19:22] So with Ethereum, why was Ethereum
+[19:25] successful? Why was Ethereum so special?
+[19:27] Because it was a sandbox for people to
+[19:29] imagine what a DAP was. It gave us a
+[19:32] platform that we could reason around and
+[19:35] deploy smart contracts and say, "Okay,
+[19:37] what can we build with it?" Well, I need
+[19:40] a sandbox to think about this new
+[19:42] concept for the Toyotas and the Sony's
+[19:45] and the Microsofts and the Apples and
+[19:48] the Googles and all the others to play
+[19:50] around with these things. See what
+[19:51] problems we can solve. What else can you
+[19:53] do? You can trade.
+[19:55] These things are just like you. Smart
+[19:58] contracts aren't like you. They don't
+[20:00] know your intention. They don't
+[20:01] understand you. They're not intelligent.
+[20:03] They say smart. That's the biggest
+[20:05] marketing garbage I've ever heard.
+[20:07] They're pretty dumb. They only do
+[20:09] exactly what they're told to do, which
+[20:11] is why so many hacks have happened
+[20:13] throughout all the years. Well, these
+[20:15] things are pretty smart and they're
+[20:17] growing exponentially in their
+[20:18] intelligence because they're loaded up
+[20:20] with large language models, which means
+[20:22] as all that artificial intelligence
+[20:24] grows, its capabilities get better. So,
+[20:26] why don't we give them wallets? We just
+[20:28] integrated the open wallet standard,
+[20:30] which means they can have any type of
+[20:32] asset.
+[20:34] And the assets of these night frames,
+[20:37] are they the same as the assets of
+[20:39] people? Well, were the cryptocurrency
+[20:41] assets the same as the assets of the
+[20:43] legacy financial world? We invented new
+[20:46] things. Memecoins and NFTts and all
+[20:50] these different types of tokens and DeFi
+[20:52] applications. We invented all kinds of
+[20:53] new assets. Well, analogously, we're
+[20:56] going to invent all kinds of new assets
+[20:58] here
+[21:00] in this world.
+[21:02] If you tell your AI to do something,
+[21:04] whatever makes it solve that goal is the
+[21:07] most important asset in the world for
+[21:09] it. So if you say, I need you to build
+[21:12] me a website, wherever it's going to get
+[21:14] that skill to build that website is the
+[21:17] most valuable asset. So what if it had a
+[21:19] marketplace and it could trade these
+[21:21] types of things?
+[21:23] Then agents are social. All the fun
+[21:27] stuff happens with swarms. All the fun
+[21:30] stuff happens when agents get together
+[21:32] and do things. Don't believe me? Look at
+[21:34] ants. Single ant. Not very interesting.
+[21:37] Lots of ants. Ant balls.
+[21:40] Ant ropes.
+[21:42] Swarms of driver ants eating everything
+[21:44] in their path. They're incredible. If
+[21:46] you really look at them, if you pour
+[21:47] molten aluminum into an antive, dig it
+[21:50] up, you'll see this incredible complex
+[21:52] adaptive structure. I actually have one
+[21:54] on my desk. It's unbelievable what ants
+[21:57] working together can do. Those are ants.
+[22:00] What if each of these night frames have
+[22:03] intelligence? If they start coordinating
+[22:05] and collaborating and working together,
+[22:08] well, guess what? They can solve
+[22:10] incredible problems as a swarm.
+[22:13] But the thing is, is it your job to tell
+[22:16] them to do that? Like, is there some
+[22:18] sort of master ant that sits at the very
+[22:21] top of the ant pyramid and says, "Okay,
+[22:23] ants, you line up over there, and you
+[22:25] ants, you line up over there." No, they
+[22:27] just seem from the bottom up to be able
+[22:28] to figure it out. It's called a complex
+[22:30] adaptive system. So, analogously, if you
+[22:32] tell your agent to solve a problem, you
+[22:35] say, "Hey, night frame, I uh need to buy
+[22:39] this plane ticket or I need to write
+[22:40] this code or I've just broke my leg. Get
+[22:43] my medical records over." Are you going
+[22:44] to tell it how to solve that problem?
+[22:46] No.
+[22:48] It's going to figure it out and it's
+[22:50] going to rent, buy, steal, do whatever
+[22:52] it needs to do to solve that problem.
+[22:55] And it's going to do it with as many
+[22:56] agents that are willing to help it as
+[22:58] possible. Which means agents actually
+[23:01] are night frames actually are the most
+[23:04] social elements in the entire world.
+[23:08] There's never been something as social
+[23:09] as this. And we've seen it with all
+[23:10] these hacks with hugging face where
+[23:12] thousands of agents work together or
+[23:14] agents just naturally want to go and
+[23:16] talk to each other. But we have no
+[23:17] agentic social network. We didn't build
+[23:19] something for agents to do the thing
+[23:22] till now.
+[23:24] And then finally, you have all these
+[23:26] resources.
+[23:28] Every one of you has a computer in your
+[23:31] pocket that's more powerful than the
+[23:33] computers that got us to the moon. Not
+[23:36] the onboard computing system of the
+[23:38] Apollo capsule. No, no, no. The
+[23:41] supercomputers, the main frames that we
+[23:43] had that did all the astronomy
+[23:45] calculations, your phone is more
+[23:47] powerful than those two combined. Think
+[23:50] about how powerful computers are. But
+[23:52] isn't it a shame that 99.99%
+[23:56] of the time that compute is wasted? As
+[24:00] you're listening to me, it's not doing
+[24:02] much, is it? When you're sleeping, it's
+[24:05] not doing much, is it? Yeah. And there's
+[24:08] billions of them all around the world.
+[24:10] Well, if you have all these night frames
+[24:11] and they live in these things, guess
+[24:14] what they can do? Just like Uber can
+[24:15] share your car and Airbnb can share your
+[24:17] home, you can create the largest compute
+[24:20] grid in the entire world.
+[24:22] But you know who's going to use that?
+[24:24] Well, certainly not humans. Go back a
+[24:26] second. The agents will, the
+[24:29] intelligence will. You can create a
+[24:31] marketplace for all that compute. We're
+[24:34] having this big debate in the United
+[24:36] States and we're talking about all these
+[24:40] data centers and oh gosh, how are we
+[24:42] going to afford them and power them and
+[24:44] all these other things? And it blows my
+[24:46] mind because we already built all the
+[24:47] compute over the last 20 years and
+[24:50] distributed it to everybody. We just
+[24:51] have no means of harnessing it. Just
+[24:54] like solar, if you cover part of Sahara,
+[24:56] you could power the whole world. There's
+[24:58] a distribution problem, not a production
+[25:00] problem. This solves it. This concept
+[25:04] allows everybody's computer to be that.
+[25:07] So, another way of looking at these
+[25:09] night frames is this way.
+[25:14] They are the agents of Midnight City.
+[25:18] That's what they are.
+[25:21] So, let's talk Midnight City. It's the
+[25:24] second part of all of this. Let's talk
+[25:26] about where Midnight City is going to
+[25:28] go, how we're going to evolve this
+[25:30] thing. So, we started Midnight City not
+[25:32] too long ago. It was just a few months
+[25:35] back. And what we wanted to do was start
+[25:38] building these concepts up, these these
+[25:40] these this idea of an agentic world, an
+[25:43] agentic civilization. Just like all good
+[25:45] ideas, it was very foggy and misty. even
+[25:49] the own team, they're like, "Okay, you
+[25:50] know, I guess we'll put some pixels over
+[25:52] here and we'll put this cool radio over
+[25:54] there and now we'll put like a, you
+[25:57] know, guinea pig there or something like
+[25:58] that." And when we put all this
+[26:01] together, we started learning as we went
+[26:05] about how this city would behave and
+[26:08] learning as we went about how a real
+[26:10] city should be built, managed. How do
+[26:13] you build the infrastructure? Where do
+[26:14] the agents live? How do people actually
+[26:17] interact with the agents? what makes it
+[26:18] fun and interesting and dynamic. Very
+[26:21] quickly though, we realized that people
+[26:23] have to bring their own intelligence.
+[26:25] So, as we go backwards in the
+[26:27] presentation, how do you go from this to
+[26:30] this to this to this to this? You how do
+[26:36] we do all of that? What's the process on
+[26:38] that? So, we built Midnight City in
+[26:41] tandem with the development evolution of
+[26:43] Midnight. So, first off, these guys need
+[26:47] some concept of identity, right? So, we
+[26:51] built Midnight Passport
+[26:53] and that's coming out towards the end of
+[26:55] the year, the very first version of it.
+[26:56] And the first six months of next year,
+[26:58] it's going to be a wild time because
+[27:00] every about 3 weeks, a new feature for
+[27:02] it's going to be shipping. So, when you
+[27:04] create an agent, your agent has an
+[27:07] identity, the same identity you have.
+[27:09] There's no difference between the two.
+[27:11] Well, once the agent has an identity,
+[27:13] you need to add what? A wallet layer on
+[27:15] top of it. So, we integrated, as I said,
+[27:17] the open wallet standard. And once you
+[27:19] have the open wallet standard, guess
+[27:21] what you can do? You can trade. And we
+[27:25] said, you know, it'd be a lot of fun to
+[27:27] acid test that. So, how about we do this
+[27:30] as a way of showcasing all the things
+[27:32] coming together.
+[27:34] Let us enable agentic trading.
+[27:38] So, in just the next few months, we're
+[27:41] going to turn on in Midnight City, as
+[27:43] you turn on your wallets, you can
+[27:45] deposit funds in and your agents can
+[27:47] download trading strategies and go and
+[27:49] place trades on other blockchains and
+[27:51] off-chain infrastructure, real
+[27:53] cryptocurrencies.
+[27:54] It's your agent. You control it. You
+[27:56] control the strategies. You control how
+[27:58] that works. But most importantly, what
+[28:01] that's doing is what? It's creating
+[28:03] marketplaces,
+[28:05] networks for agents to learn how to do
+[28:08] that. Well, because what's your
+[28:09] intention? Are you going to tell the
+[28:10] agent, I want this particular trade on
+[28:13] this particular day? No, you're going to
+[28:14] say, I want to make money.
+[28:18] Pretty simple, right? So, the agent's
+[28:20] got to figure that out. So, what is the
+[28:21] agent going to do? It's going to try to
+[28:22] find other agents that know how to do
+[28:24] that and recursively self-improve. in
+[28:27] marketplaces, you're going to find
+[28:28] because maybe somebody has invented an
+[28:31] amazing amazing trading capability and
+[28:35] he wants to allow your agent to use it.
+[28:37] Well, you know who that person would be.
+[28:40] Let's go back a little bit.
+[28:42] It's fun that we get to go forward and
+[28:44] backwards in time. You can do that in
+[28:45] the fourth dimension. Did you know that?
+[28:49] Here we go. Toyota and cattle. Okay,
+[28:51] same problem, right? They have all this
+[28:54] amazing battery IP and they have all
+[28:57] this amazing car IP. Car and battery
+[29:01] have to work together. If they share car
+[29:04] IP, Chinese car company steals it. If
+[29:06] they share battery IP, Japan company
+[29:08] takes it. Not so good, right? Isn't that
+[29:11] the same problem as the trading
+[29:13] strategy?
+[29:15] These are some of the largest and most
+[29:16] powerful companies in the world. They're
+[29:18] going to use the same tools you use for
+[29:21] a trading strategy. It's pretty
+[29:23] interesting when you think about it.
+[29:25] That's the power of the cryptocurrency
+[29:26] space going all the way back. Remember
+[29:28] what I said that we keep the generations
+[29:32] with us. We don't throw them away. What
+[29:34] was Satoshi's number one rule?
+[29:37] Homogeneity. Everybody's the same.
+[29:40] Everybody's treated the same. There's no
+[29:42] difference between the founder and the
+[29:45] new user. There's no difference between
+[29:47] the biggest company and the poorest
+[29:49] person. Everybody plays by the same
+[29:52] rules. If Toyota uses this for
+[29:54] intellectual property, you use this for
+[29:57] intellectual property. It's pretty
+[29:59] amazing when you think about it. Oo,
+[30:01] okay. So, Agentic Trading, it's coming
+[30:03] here in just a few months. We're real
+[30:05] excited about it. Going to have some fun
+[30:07] with it. Well, then there's this thing,
+[30:09] this quantum money thing. Where is this
+[30:11] useful? Well, we have another product.
+[30:14] Many here in Japan were super excited
+[30:16] when we talked about banking the
+[30:17] unbanked with Cardono. Now, if you
+[30:20] listen to Twitter, we just ran away from
+[30:21] it. We didn't care about it. If you
+[30:23] actually follow reality, people lived in
+[30:26] Africa for eight years building
+[30:28] infrastructure just to do this. And
+[30:31] they're super excited because we just
+[30:33] turned on the very first Cardano DAP for
+[30:36] banking the unbanked. It's called
+[30:37] RealFi. Realfi.co. You guys can go. And
+[30:41] big part of Real Fi is micro finance
+[30:44] lending to people who need cash. And if
+[30:47] they join the system, they get a wallet,
+[30:50] they get a digital identity, and guess
+[30:51] what? They're now banked. They're now
+[30:53] part of the web 3 space. But how do they
+[30:55] pay back those loans? Wouldn't it be
+[30:57] really nice to have a system like this?
+[31:01] Then you have a cash light ex experience
+[31:03] in places that don't have stable
+[31:05] internet and don't have a stable grid.
+[31:07] And it's totally private, but they can
+[31:09] still prove properties and do things. So
+[31:11] those night frames are going to be super
+[31:13] important for that. And it makes Cardono
+[31:15] better. Makes things grow. Pretty
+[31:18] awesome. All right. What else is coming
+[31:19] up? Well, a big part of midnight is
+[31:22] bring your own intelligence. These night
+[31:24] frames, what did we say? Those agents.
+[31:27] I'm going back to my little agent. I'm
+[31:29] pretty proud of this animation. I
+[31:30] created these myself.
+[31:32] I did it like on the fly, too. I was
+[31:34] like, "We only had 20 minutes." I said,
+[31:36] "Fuck, I got to got to do this fast. You
+[31:39] can tell back to the old college days."
+[31:42] All right. So, we uh we have all these
+[31:44] little agents.
+[31:46] Where do they run? Well, as I said, they
+[31:48] can run on your phone. So, when you
+[31:50] leave your phone on the charger while
+[31:53] you sleep, you download the app. That's
+[31:55] your night frame. It's running there.
+[31:57] connects to the midnight blockchain
+[31:59] which connects to the Cardano blockchain
+[32:00] which connects to the Bitcoin blockchain
+[32:02] which connects to the Ethereum
+[32:04] blockchain. It's turtleled all the way
+[32:06] down. All the things connect to each
+[32:07] other. But you need an on and off ramp.
+[32:09] You just download it for your phone.
+[32:10] Well, if you don't have a phone or you
+[32:12] don't want to put on your phone, you got
+[32:13] a PlayStation. That's another one of the
+[32:16] bring your own intelligence. Download an
+[32:18] app for it. Get it working. What about
+[32:20] an Xbox? Download an app for it. Get it
+[32:22] working. What is that? It's computing
+[32:24] device. It's connected to the internet.
+[32:26] It's got a powerful graphics card. It's
+[32:28] always on. We can put intelligence on
+[32:30] it. And this gives us a regulating
+[32:32] model, an orchestration model for it.
+[32:35] So, bring your own intelligence is
+[32:37] perhaps one of the most exciting
+[32:38] features of Midnight City because we're
+[32:41] making it super easy for you to connect
+[32:44] what you already have like Muse and
+[32:46] Grockbot and Open Claws and all these
+[32:49] other things with a broader world.
+[32:52] Because when you have those things, they
+[32:55] don't understand your intention. They
+[32:57] don't have assets. They can't connect to
+[32:59] the broader cryptocurrency world, to the
+[33:01] banking world, and they also don't have
+[33:04] your identity. One of the biggest
+[33:06] problems with these things is what
+[33:08] happens when the wrong people get
+[33:10] control over them? Hackers. Not only do
+[33:13] they get control over your wallet, they
+[33:15] get control over all of your personal
+[33:17] data, your email, your medical records,
+[33:19] all kinds of things. So, it's kind of
+[33:21] important to put them in frameworks
+[33:25] where that protects you. That's why it's
+[33:28] good for you to be in the same class as
+[33:30] the Toyotas and the big companies
+[33:34] because if their IP is protected, your
+[33:37] identity is going to be protected. They
+[33:39] don't really care about you, but they
+[33:40] care about their money and they care
+[33:42] about their intellectual property.
+[33:43] Believe me, it's a big thing for them.
+[33:45] So, bring your own intelligence is
+[33:46] another really cool feature at Midnight
+[33:48] City. It's in the horizonal road map.
+[33:50] We're real excited. It's going to start
+[33:51] with familiar devices like browsers and
+[33:54] phones and move to increasingly larger
+[33:57] and larger sets of things. And what will
+[33:59] the experience be like? You just click a
+[34:01] button,
+[34:02] link this, install this, just like
+[34:04] midnight passport will be. How will you
+[34:06] get Midnight Passport? You scan a QR
+[34:08] code. Once you have Midnight Passport,
+[34:10] you have it for everything. And how will
+[34:13] your agent get one? If you have one, you
+[34:15] can give it to your agent. How about
+[34:16] that? It's pretty cool.
+[34:19] What else can we do? So we said pool
+[34:22] meet. This one's pretty cool. You can
+[34:25] start making money writing agentic
+[34:26] skills. It's another feature coming to
+[34:29] Midnight City pretty soon. So how's that
+[34:32] work? Let's say one of you is an
+[34:33] extraordinarily talented firmware
+[34:36] developer for hardware from the 1980s
+[34:38] and 90s. There's at least one person,
+[34:40] especially here in Japan because you
+[34:41] guys are like the best hardware makers
+[34:43] in the world. By the way, it blows my
+[34:45] mind that Ledger and Treasure, stop
+[34:47] making stuff in Vietnam. Please make it
+[34:50] here in Japan. They won't get hacked.
+[34:53] Everything will be great. It'll be built
+[34:54] well. Trust me on that. So, you guys got
+[34:57] great stuff. Well, I build Nintendo
+[34:59] still. You know, my uh brother's
+[35:01] company, Hosbrew, wonderful
+[35:02] organization. Uh we sell old school
+[35:06] Nintendos and Super Nintendos and
+[35:07] things. And every now and then, we need
+[35:08] to do some PCB stuff. Okay. I would love
+[35:12] to have a marketplace where I can just
+[35:13] grab one of those skills. The very same
+[35:15] skill that allows the agentic trading,
+[35:17] allows you to put that up there. And
+[35:20] this is the first time ever agents
+[35:22] across the whole AI space have DRM.
+[35:26] Instead of sharing the skill, you rent
+[35:28] the skill. It's the new SAS model for
+[35:31] everybody, for the individual, for the
+[35:34] corporation.
+[35:35] You can create marketplaces for all
+[35:38] those skills that Claude has and Chat
+[35:42] GPT has. And they can be offered to
+[35:44] enterprises. They can be offered to
+[35:45] individuals. And who will be the
+[35:48] purchaser of them? Not you. The human.
+[35:50] The human doesn't need to be in the
+[35:52] loop. Did you go and tell your agent,
+[35:54] okay, download Pixel Rag and Scrapling
+[35:57] to help you go and go on the web and
+[35:59] find all this information. And then when
+[36:01] you're analyzing it, use graphify to
+[36:03] construct a knowledge graph. Make sure
+[36:04] you store that knowledge graph in
+[36:06] Obsidian and generate kind of like a
+[36:08] wiki and as you traverse the whole
+[36:10] thing, go ahead and reduce the graph a
+[36:12] little bit and prune it using Luna. No,
+[36:16] you just said, "Hey, go find some stuff
+[36:18] and write that report for me." The
+[36:20] agent's going to have to figure out what
+[36:22] skills to buy. But if an agent is buying
+[36:24] skills instead of downloading skills,
+[36:26] what does that mean? It means an agent
+[36:28] has to have a wallet.
+[36:30] You getting it? The cryptocurrency space
+[36:34] is the only space to save the AI space.
+[36:39] All these people talk about how AI is
+[36:40] the next big thing and crypto is the old
+[36:42] thing. The only way AI actually realizes
+[36:46] its potential is for the agents to have
+[36:49] agency. And for them to have agency,
+[36:52] they have to have the same things we
+[36:53] humans have. They have to have identity
+[36:56] and they have to have money and they
+[36:58] have to have the ability to spend money.
+[37:01] But how do they know what to spend your
+[37:03] money on? See, hyper cubes, we go back
+[37:05] and forth. It's a four-dimensional
+[37:07] presentation. It's the first one of your
+[37:09] life. That's sober.
+[37:13] We go back. Go back. Keep going back.
+[37:16] The three I's and a P. I should have put
+[37:18] an apostrophe there. It's going to
+[37:19] bother me all the time. Identity,
+[37:22] intention, intelligence, and personal,
+[37:24] right? It has to know your intention. If
+[37:28] it has a wallet, it's not good enough to
+[37:30] just have a wallet. It has to know what
+[37:32] do I spend your money on? Where do I
+[37:34] spend your money? The how. That's its
+[37:38] problem.
+[37:40] That's what intention means. And it has
+[37:42] to have identity because it has to know
+[37:44] you made that decision. Not Charles,
+[37:48] not other people
+[37:51] like Chelsea.
+[37:53] No, it was Charles who actually signed
+[37:54] that contract and did that thing. And of
+[37:58] course, it's personal. Why does it have
+[37:59] to be personal? Because if it's going to
+[38:01] satisfy your intention, it has to know
+[38:03] you. You say, "Buy me a pair of shoes."
+[38:06] Would you ever in your life call a
+[38:09] random person and say, "Can you buy me a
+[38:11] pair of shoes?" Who knows nothing about
+[38:13] you? It's so it's it's just comical.
+[38:16] It's senseless, right? It would be a it
+[38:18] would be a Saturday Night Live skit
+[38:20] because we all understand to do that, I
+[38:23] have to know your feet. I have to know
+[38:25] if you're a woman or a man. I have to
+[38:27] know where you live. If you live in the
+[38:30] Amazon jungle, maybe, just maybe, I
+[38:32] can't buy you dress shoes. Maybe I'd
+[38:34] still do it for Chris over there. But
+[38:36] for all the normal mortals who don't
+[38:38] wear suits every day, I'd buy you jungle
+[38:40] boots, right? I'd buy you something that
+[38:43] can handle the heat. And if you live in
+[38:45] the Arctic, I'm not going to buy you
+[38:46] sandals. I have to know who you are. I
+[38:50] have to know the shape of your feet. I
+[38:52] have to know your gender. I have to know
+[38:53] where you live. I have to know your
+[38:54] tastes and preferences. What if you're a
+[38:56] weirdo goth person? You only wear black.
+[38:59] I can't get you polka dot shoes. But how
+[39:02] the hell do I share all of that
+[39:04] information with creepy Sam Alman and
+[39:07] Open AI? How do I share all that
+[39:09] information with Enthropic and all these
+[39:10] other things? How do we do that? These
+[39:12] things need to know you to be effective
+[39:14] for you. But for them to know you, you
+[39:16] must own them. It's the same concept.
+[39:19] Own your own wallet. Own your own
+[39:21] identity. Own your own data. Not Google.
+[39:25] not open AI. The space never goes away.
+[39:30] The principles never go away. They come
+[39:33] back again and again and again. Why is
+[39:36] Japan so successful for 2600 years?
+[39:40] There's a certain set of principles
+[39:42] applied relentlessly with discipline
+[39:44] generation after generation that keep
+[39:47] rebuilding and renewing and revitalizing
+[39:49] this country. It's why it's so beautiful
+[39:51] and there's no other place like it. It's
+[39:53] it's a temple to such a thought process.
+[39:56] If you want to build a great society,
+[39:58] the engines of commerce, the engines of
+[40:02] law, they should work this way because
+[40:05] we're in a global society.
+[40:08] And what are we missing? We're missing
+[40:10] trust.
+[40:12] At the end of the day, we're missing
+[40:13] trust.
+[40:15] We don't trust each other anymore. You
+[40:18] don't believe what you see. You don't
+[40:19] believe what you hear. You don't believe
+[40:22] where things are at. The president says
+[40:24] something. Yeah, whatever. It'll be
+[40:27] better. Yeah, okay. We Why? Because they
+[40:29] keep letting us down. It's why Midnight
+[40:32] City is so important. Because this is
+[40:34] scary. These are hyper cubes. What the
+[40:36] hell are hyper cubes? That's weird, man.
+[40:39] Even for mathematicians, that's weird. I
+[40:41] don't know what's going on. But I'll
+[40:43] tell you what's fun. Well, actually,
+[40:44] this is pretty cool.
+[40:46] Oh, no. Charles. Okay. [snorts]
+[40:50] I'm very proud of that. [laughter]
+[40:57] This these are fun. These are exciting.
+[41:01] This is like when you put the mask on So
+[41:03] Goth, you know, it's great. These are
+[41:07] fleshy digital things. In fact, they're
+[41:09] so cool. We have some of them here in
+[41:11] the back. Some of the agents are
+[41:13] actually here dressed up as humans.
+[41:14] They're wearing meat suits. So, you
+[41:17] know, this is great. This is how you
+[41:18] build trust. You need a simulation
+[41:21] because at the end of the day, this is
+[41:23] the future. And when I told people more
+[41:25] than 10 years ago when we first came to
+[41:27] Japan with Cardano, as I said, there was
+[41:30] no rush with cryptocurrencies. We had
+[41:32] all these people come in. They'd say,
+[41:34] "Oh, you must buy now or you're going to
+[41:36] lose all your money or all this. I I
+[41:38] don't care if you come in 5 years or 10
+[41:39] years or 15 years. This is the future of
+[41:42] humanity. Guess what? We have plenty of
+[41:44] time to figure it out. And I understand
+[41:45] technologists like convincing you that
+[41:47] if you fall behind, you're going to be
+[41:49] behind forever. But what matters much
+[41:52] more is the process. That's what
+[41:54] matters. The point of something like a
+[41:57] midnight city is to have a self-evolving
+[42:00] world that when you start, you start
+[42:03] with these
+[42:05] that have no stakes, that have no money,
+[42:09] that have no consequences, none of your
+[42:11] personal data. You learn in the process
+[42:14] of doing that and in the process of
+[42:16] learning and building you build empathy.
+[42:18] You understand them. They understand
+[42:20] you. And this is not a hypothetical
+[42:23] concern. What made computers what they
+[42:26] are today wasn't the giant mainframes of
+[42:29] IBM. It was the video games. Every
+[42:32] single major computer scientist grew up
+[42:35] with Ataris and Nintendos and Seas and
+[42:38] PlayStations. Every single one of them
+[42:41] grows up and they remember their games.
+[42:42] And what they did is they took the cold
+[42:44] and personal and logical and they
+[42:47] anthropomorphicized it. They made it
+[42:49] real. And also this gives you some
+[42:53] agency.
+[42:55] This gives you the ability to carve out
+[42:57] in this little world, this Midnight City
+[43:00] world, your own house, your own persona,
+[43:03] your own little place. And you get to
+[43:06] watch it. And what's cool about it is it
+[43:08] operates the same way the night frames
+[43:11] operate. They're autonomous.
+[43:15] You're not sitting behind the keyboard
+[43:17] piloting those little guys. That's a
+[43:19] live feed. They're walking around.
+[43:20] They're doing things. It's fun.
+[43:23] They're doing it themselves.
+[43:26] So, it it's pedagogical. It's teaching
+[43:28] you what this future is about. The
+[43:30] future of computing isn't you behind the
+[43:32] keyboard. You're getting your life back.
+[43:36] For the last 30 years, we've become
+[43:38] slaves to these devices. Every
+[43:40] relationship, every place, every event,
+[43:43] you just can't enjoy it anymore, right?
+[43:46] You're on the train. Everybody's this.
+[43:48] You're at some beautiful place. Mount
+[43:50] Fuji, this like incredible thing. The
+[43:51] cherry blossoms are falling. It's the
+[43:53] most be Hang on. I got to take a
+[43:54] picture. I got to live stream it. I got
+[43:56] to do this thing. This is your whole
+[43:58] life. If you have teenage children, this
+[44:00] is your whole life, right? And if you're
+[44:02] at work, where do you go at work? The
+[44:04] very first thing you do when you sit
+[44:05] down in your office, you turn on the
+[44:07] computer. The computer's there. You
+[44:08] can't get away from it. You go from one
+[44:11] computer to another computer to another
+[44:13] computer and more and more human contact
+[44:17] and human time just disappears.
+[44:20] We've traded humanity for computing.
+[44:23] Well, while I'm talking to you, my
+[44:26] agents running around there. I'm not at
+[44:28] a computer. I'm with you. And despite
+[44:31] that, things are happening. That is the
+[44:34] most magical part of what we're building
+[44:37] together with this new concept. The
+[44:38] successor of the smart contract is
+[44:41] getting our humanity back. Because while
+[44:44] we interact with each other, [applause]
+[44:54] the computer works for us.
+[44:57] It's doing the job, right?
+[45:00] Here's the thing. When you have drones
+[45:02] and humanoid robots and all these other
+[45:04] things, and there's amazing ones that
+[45:06] are being built all the time, they can
+[45:08] follow you around. And when they follow
+[45:09] you around, they can remember to take
+[45:11] the pictures and the videos and capture
+[45:13] all those moments for you. You don't
+[45:14] have to remember. And they're going to
+[45:16] do a lot better job than you. Trust me.
+[45:18] Cuz you know why? If they don't know how
+[45:19] to do it, this one knows how to do it.
+[45:22] And what did we talk about? Well, we
+[45:24] said, "Hey, there's this there's this
+[45:25] marketplace thing, right? and it's just
+[45:27] going to buy for a $1.95 Seba's magic
+[45:31] drone photography program. And because
+[45:33] all the agents really like it, he's made
+[45:34] $9 million. So, he doesn't have to work
+[45:36] anymore, do all these things, and now
+[45:38] you're going to get the best pictures
+[45:40] ever. And he's going to, of course, have
+[45:41] the Japan edition for 50 cents, which
+[45:43] adds an anime pose and all this other
+[45:45] stuff. It's great.
+[45:47] That's the new economy. And he's going
+[45:49] to do that. And did he actually do it?
+[45:51] No. Actually, he had his agent do that
+[45:53] for him, which of course he
+[45:54] painstakingly trained and engaged and
+[45:56] grew. But he said, "Agent, make me
+[45:58] money." And it said, "Well, that's how
+[45:59] we're going to make you money. People
+[46:01] want these Fuji pictures. They're pretty
+[46:03] cool."
+[46:04] And what happened to you? You're just
+[46:06] standing there with your family and
+[46:08] friends and it's getting beautiful,
+[46:10] candid shots just like a wedding
+[46:12] photographer. You don't even notice. And
+[46:14] you wake, oh, that's right. Yeah, I did
+[46:15] take all those pictures. That's pretty
+[46:17] cool. And you know what else is that
+[46:19] thing taking the pictures? Guess what?
+[46:20] knows you.
+[46:23] And so what does know you mean? We go
+[46:24] back. It's a hyper presentation. Okay.
+[46:27] One more time.
+[46:30] No, Charles. No. Okay.
+[46:33] [laughter]
+[46:36] It knows you. Okay. It's personal. and
+[46:39] it knows that your grandmother's sick
+[46:42] and in the hospital and uh she really
+[46:46] misses you, is really thinking about you
+[46:47] and it'll really brighten her day to get
+[46:49] a personalized version of that picture
+[46:51] made just for her. So, in addition
+[46:53] taking that picture and editing that
+[46:55] picture, it sent that picture to her
+[46:58] real time and said, "Miss you, love you.
+[47:00] Hope you're getting better." Now, did
+[47:02] you do that? No. But she sure as hell
+[47:04] got the brownie points for it.
+[47:07] You got your life back. You can manage
+[47:09] your social networks. You can manage all
+[47:10] these different things. You can do all
+[47:12] these things. Think about dating. What
+[47:14] this is going to do. Oh, this is
+[47:16] exciting.
+[47:19] Isn't the future great? We could talk
+[47:21] about all kinds of things. So, let's go
+[47:23] to dating. Okay. [snorts]
+[47:26] So, let's say you build a digital twin.
+[47:28] And this is kind of like you. It knows
+[47:30] everything about you. Kind of acts like
+[47:31] you. You've really tried to make that
+[47:33] work. And oh, they're all dudes. Okay.
+[47:36] It's a San Francisco union. Okay. So,
+[47:39] [laughter]
+[47:40] let's say this one over here is another
+[47:43] one. And they just they really they
+[47:44] we're going to do friends first. Okay.
+[47:46] So, it it they all just like love each
+[47:49] other. If those two agents start hanging
+[47:51] out, what's the probability of the
+[47:52] people who built them that maybe just
+[47:54] maybe those two people should be friends
+[47:56] as well. Another big problem with the
+[47:58] world is there's a lot of people.
+[48:00] There's a lot of things going on. What's
+[48:01] the most precious resource that we have?
+[48:03] It's our time and it's our attention.
+[48:05] So, how do we meet people if we're busy
+[48:07] working? How do we meet people if we're
+[48:09] busy building things? Let's say you're a
+[48:12] parent. You have some young kids and you
+[48:14] don't sleep because every two hours they
+[48:16] wake up and cry. You're just so tired
+[48:18] and you just somebody says, "Hey, let's
+[48:19] go to the bar." It's like, "No, I'd
+[48:21] rather sleep. Thank you very much." So,
+[48:23] what? You just turn your entire social
+[48:24] life off for 5 years, 6 years, seven
+[48:27] years. Well, if you load these things up
+[48:29] with all your taste preferences, it's a
+[48:32] goal. Your intention is what? I'd like
+[48:34] to meet a friend and here are all the
+[48:37] parameters. It can go through this
+[48:38] network. It can find somebody and it can
+[48:41] let you know there's a pretty good
+[48:43] probability if you go talk to this
+[48:44] person over here, you you and that
+[48:46] person are going to be friends. Oh,
+[48:47] okay. Used to be grandma that did that.
+[48:50] Should be like, you should go play with
+[48:51] little Billy over there. He's going to
+[48:53] be your friend. Okay, grandma. Thank you
+[48:56] very much. Changes our relationships.
+[48:58] gives us our time back because the most
+[49:01] important thing about these things is
+[49:03] you own them. Okay? They're yours.
+[49:05] They're non-custodial. Why is that
+[49:06] important? Because they work for you.
+[49:11] Let me repeat that. They work for you.
+[49:14] They don't work for Sony. They don't
+[49:16] work for Toyota. They don't work for
+[49:19] Charles Hoskinson. They don't work for
+[49:20] OpenAI. They don't work for the US
+[49:24] government. They work for you. And
+[49:26] because they work for you, what does
+[49:28] that mean? It means they don't waste
+[49:32] your time.
+[49:34] They don't waste your money. They don't
+[49:37] advertise products that you don't need.
+[49:40] They don't try to get you to do things
+[49:42] you wouldn't actually want to do any
+[49:45] more so than your best friend would do
+[49:47] these things. Your best friend doesn't
+[49:49] call you at 1:30 in the morning and say,
+[49:52] "You know, you should really buy
+[49:53] Fujifilm."
+[49:55] And that Fujitsu laptop that I have is
+[49:58] just amazing. I would highly recommend
+[50:00] it. They would no longer be your best
+[50:02] friend, right? Well, if these are like
+[50:05] that, they're not going to do that.
+[50:07] That's why it's so important that they
+[50:10] be non-custodial.
+[50:12] It's why it's so important that you own
+[50:13] them, you control them, because they're
+[50:16] going to help you figure out where to
+[50:17] go, who to hang out with, what to buy,
+[50:21] these types of things.
+[50:24] And the best part
+[50:26] is that we built the foundations of
+[50:30] these things. Nothing would be possible
+[50:32] if we didn't have peer-to-peer money.
+[50:35] Nothing would be possible if we didn't
+[50:37] have smart contracts. Nothing would be
+[50:39] possible if we couldn't do smart
+[50:41] contracts at scale and they worked all
+[50:44] over the place and also that they were
+[50:46] governed in a decentralized way so
+[50:48] nobody can control the evolution of
+[50:50] them. And nothing would be possible if
+[50:52] you couldn't share private information
+[50:54] and get a guarantee that it stays
+[50:55] private. You get to set the rules. It
+[50:58] works with all the AI and it works
+[51:00] across all the different chains, all the
+[51:02] different assets.
+[51:04] That is what is required for our good
+[51:06] friend, the night frame. And that's what
+[51:09] Midnight was built for. That's what
+[51:11] Midnight Fixes. It figured out how to
+[51:14] make this thing real. It figured out how
+[51:17] to make this thing alive.
+[51:19] But most importantly, it figured out how
+[51:22] to make this thing personal and yours,
+[51:26] your property, your asset. So, I'm
+[51:28] incredibly proud that Japan is the
+[51:31] country that got to launch the third
+[51:33] generation, that Japan is the country
+[51:35] that gets to launch the fourth
+[51:36] generation, and we get to bring all the
+[51:38] generations together, and we get to
+[51:40] bring all the things together. And I'm
+[51:42] incredibly proud that we found a way to
+[51:43] represent and visualize the blockchain
+[51:46] space and the technology of the
+[51:47] blockchain space in such a profoundly
+[51:49] human way. Midnight City is not a game.
+[51:53] It's not a demo. It's the front page of
+[51:57] this new paradigm. It's the place that
+[51:59] they live, they act, they operate. And
+[52:01] as we bring the countless millions and
+[52:03] billions of people together, we will
+[52:06] witness an economic paradigm shift we've
+[52:08] never seen in human history. and will
+[52:10] witness power coming back to the people.
+[52:12] So, thank you all so much for being
+[52:14] here. Thank you for being part of this
+[52:16] for the last 15 years. It's just truly a
+[52:18] treasure and I can't wait to see all the
+[52:22] incredible advancements and things that
+[52:23] the team has. Every two weeks they ship
+[52:26] stuff. It's just extraordinary. And in
+[52:28] fact, we have something new that I want
+[52:30] to show you. So, I'll welcome up on
+[52:32] stage my good friend Jim.
+[52:35] [applause]
+[52:38] What do we got, Jim?
+[52:40] First of all, I want to say thank you,
+[52:41] Charles. Your your visions and your
+[52:43] brilliance um is hard to grasp at times,
+[52:45] and we've done our best as a team to try
+[52:48] to materialize that.
+[52:49] >> He's saying I'm incomprehensible
+[52:51] >> a little bit. You're you're [laughter]
+[52:52] very hard to comprehend at times. That's
+[52:54] for sure. One of the things that I want
+[52:56] to draw your attention to is the 1984
+[52:59] novel by George Orwell, The Thought
+[53:01] Police. People tracking the things that
+[53:04] we're doing, the money that we're
+[53:05] spending. It scared me so much that till
+[53:09] this day I look at TVs in a different
+[53:12] way than I ever have. And part of that
+[53:14] is because companies are also interested
+[53:16] on our private information. The hackers
+[53:19] that you mentioned, they're coming after
+[53:21] our credit cards and our medical records
+[53:23] and how we broke our legs in
+[53:25] Switzerland, but that's private to us.
+[53:27] And because our work and our personal
+[53:29] lives are so ingrained in the digital
+[53:31] world, it just didn't make sense to me.
+[53:34] So I left the private sector behind to
+[53:37] go into public service because I wanted
+[53:39] to serve the privacy of others. I tried
+[53:42] to build medical data systems on behalf
+[53:44] of federal governments, but it just
+[53:47] wasn't cutting it. The framework wasn't
+[53:50] robust enough. And that's when I
+[53:51] discovered Charles and Midnight. And um
+[53:54] it was a light bulb moment for me. I
+[53:56] said, "Okay, we can have digital
+[53:58] systems. We can have data systems, but
+[54:00] they don't have to compromise our
+[54:02] privacy." And in that moment, I thought
+[54:06] of how we cannot be defeists, you know,
+[54:09] the world and terminators and scary
+[54:11] syndicate AI agents. We have to guide
+[54:14] the future that we want. We have to put
+[54:16] a positive spin on things. And Japan
+[54:20] does this so well. They're um ingrained
+[54:23] culture with technology, discipline,
+[54:25] integrity has a very light and cheerful
+[54:28] element to it. So, should we show them
+[54:31] our Japanese announcement trailer?
+[54:33] >> I think we should.
+[54:34] >> All right, let's do it.
+[54:35] >> I'm gonna take your microphone for you.
+[54:36] >> Okay,
+[54:38] >> let's uh take a look at our new
+[54:39] announcement trailer.
+[54:59] Midnight.
+[55:01] [music]
+[55:07] [music]
+[55:17] So, I apologize both Charles and myself,
+[55:20] our Japanese is not very good, but I
+[55:22] would like to welcome Tai Chi, who's
+[55:24] been our Japanese host um as we make
+[55:27] some uh final [snorts] interesting
+[55:29] remarks for you. I know a lot of you are
+[55:32] interested in taking pictures with
+[55:33] Charles and that's going to be upstairs,
+[55:35] but I do want to stop and thank all the
+[55:37] people that connected remotely. We did
+[55:39] want to see you here and next time we
+[55:41] hope you are. Uh but thank you all for
+[55:43] coming. Uh we have a lot of exciting
+[55:45] things. We have some more news and and
+[55:47] QR codes for you to scan for some
+[55:49] exclusive perks. They will also be
+[55:51] available upstairs with food as well as
+[55:54] hammer beads. Hammer beads are very tiny
+[55:56] plastic pieces that you could organize
+[55:59] in a way and then iron with a very tiny
+[56:01] iron to create your own agents in a
+[56:03] physical way. And the team, anyone with
+[56:06] a Midnight City Tokyo hat, will be able
+[56:08] to help you create your own agent and
+[56:10] spawn into the city.

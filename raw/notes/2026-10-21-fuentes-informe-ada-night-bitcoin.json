@@ -1,0 +1,78 @@
+{
+  "author": "Codex",
+  "chat_id": "01a0fb1b-0289-79a0-91cc-f6add3e697e9",
+  "report_date": "2026-10-21",
+  "cutoff": "2026-10-21T08:25:00+02:00",
+  "captured_at": "2026-10-21T08:31:24.413430+02:00",
+  "research_window": "Marcas de reloj 08:21:35–08:24:51 Europe/Madrid; sin hora individual por URL.",
+  "sources": [
+    {
+      "url": "https://cardanofoundation.org/blog",
+      "type": "listado oficial consultado",
+      "publication_date": null,
+      "used": "Busqueda limitada ADA"
+    },
+    {
+      "url": "https://cardano.org/news/archive/",
+      "type": "archivo oficial consultado",
+      "publication_date": null,
+      "used": "Busqueda ADA; articulo testnet del 20 octubre pertenece a seccion 2025, descartado como novedad"
+    },
+    {
+      "url": "https://midnight.network/blog/nightmode-enables-cross-chain-privacy",
+      "author": "Midnight",
+      "publication_date": "2026-10-20",
+      "event_date": null,
+      "type": "descripcion primaria del proyecto",
+      "used": "Arquitectura MPC y saldos representados; importes publicos visibles; sin despliegue general o auditoria comprobados"
+    },
+    {
+      "url": "https://farside.co.uk/btc/",
+      "author": "Farside Investors",
+      "type": "datos originales del proveedor",
+      "event_date": "2026-10-20",
+      "publication_time": null,
+      "used": "Doce columnas presentes; suma +23.2 millones USD revisable"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526425335/0001193125-26-425335-index.htm",
+      "author": "iShares Trust; registro SEC",
+      "event_date": "2026-10-19",
+      "publication_date": "2026-10-19",
+      "type": "registro primario de presentacion",
+      "used": "Formulario485APOS, accession0001193125-26-425335"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526425335/d144515d485apos.htm",
+      "author": "iShares Trust / BlackRock",
+      "publication_date": "2026-10-19",
+      "type": "folleto preliminar original",
+      "used": "PBIT opciones/renta fija; ganancias limitadas/proteccion parcial; no inversion directa BTC o ETP ni garantia de capital; no aprobacion"
+    },
+    {
+      "url": "https://am.jpmorgan.com/us/en/asset-management/adv/about-us/media/press-releases/jp-morgan-releases-2027-long-term-capital-market-assumptions/",
+      "author": "J.P. Morgan Asset Management",
+      "publication_date": "2026-10-19",
+      "event_date": "2026-10-19",
+      "type": "comunicado primario",
+      "used": "Introduce rango previsiones BTC, no asignacion cartera; no se reproducen cifras de medios sin verificar en comunicado"
+    },
+    {
+      "url": "https://decrypt.co/381464/jpmorgan-bitcoin-forecast-first-time-stocks-gold",
+      "author": "Decrypt Staff; editor Guillermo Jimenez",
+      "publication_date": "2026-10-20",
+      "type": "cobertura secundaria",
+      "used": "Fecha de difusion del informe JPM, contrastada con comunicado19"
+    }
+  ],
+  "limitations": [
+    "Fuentes web consultadas; no se archivan artículos ni documentos completos.",
+    "ADA sin novedad corroborada en fuentes accesibles; no ausencia global.",
+    "Indice Intersect no legible por longitud; no se declara enlace roto definitivo.",
+    "Noticia de parametros testnet 20 octubre pertenece a seccion 2025 del archivo Cardano; excluida como nueva.",
+    "Nightmode es descripcion primaria atribuida; no despliegue, adopcion o seguridad auditada comprobados.",
+    "Farside revisable sin conciliacion con emisores.",
+    "PBIT preliminar, no lanzamiento aprobado o capital garantizado; JPM previsiones no asignacion de cartera.",
+    "Enlaces materiales consultados; sin auditoria global de enlaces externos historicos."
+  ]
+}

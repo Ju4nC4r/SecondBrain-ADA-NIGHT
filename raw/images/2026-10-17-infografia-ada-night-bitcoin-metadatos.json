@@ -1,0 +1,33 @@
+{
+  "edition_date": "2026-10-17",
+  "prepared_on": "2026-10-19",
+  "captured_at": "2026-10-19T07:27:50+02:00",
+  "editorial_news_cutoff": "2026-10-17T23:59:00+02:00",
+  "timezone": "Europe/Madrid",
+  "author": "Codex",
+  "origin_chat_title": "Informe diario de noticias de ADA y NIGHT",
+  "origin_chat_id": "01a0fb1b-0289-79a0-91cc-f6add3e697e9",
+  "report_sha256": "de14d9abad02baf59d106e4fa0fbb1494305ea56e480e038c5f48dfd7facdf01",
+  "recovery_edition": true,
+  "tool": "image_gen.imagegen",
+  "mode": "built-in generate",
+  "prompt": "Create a Spanish editorial infographic with three equal vertical panels, ivory background, blue ADA, purple NIGHT and orange Bitcoin accents. Large exact readable typography, restrained and professional, no decorative slogans, no charts, no invented values. Header \"ADA · NIGHT · BITCOIN — EDICIÓN 17 OCT 2026\". Subtitle \"Elaborado el 18 oct | Corte editorial: 17 oct, 23:59 Europe/Madrid\". Three panels text exactly:\nPanel ADA / CARDANO: \"Desarrollo de Leios y Hydra\". \"Publicación: 16 oct 2026\". \"Hydra: 1.000 → 4.000 transacciones por snapshot\". \"No es una medida de TPS\". \"Leios: trabajo de desarrollo\". \"Sin despliegue de mainnet acreditado\". \"Fuente: Essential Cardano / IOG\".\nPanel NIGHT / MIDNIGHT: \"midnight-js 5.0.0-rc.5\". \"Publicación: 16 oct 2026\". \"VERSIÓN CANDIDATA\". \"Cambios incompatibles en la API\". \"No acredita activación general en mainnet\". \"Fuente: GitHub oficial de Midnight\".\nPanel BTC / BITCOIN: \"MSCI y salidas de ETF\". \"MSCI anuncia reglas: 15 oct\". \"Lista final prevista: 11 nov\". \"Entrada en vigor: 30 nov\". \"ETF, sesión 16 oct: −82,4 millones USD\". \"12 fondos; dato revisable\". \"Consulta de ETF: 18 oct\". \"Fuentes: MSCI · Farside\".\nFooter \"Publicaciones y hechos históricos | Consulta posterior declarada\" and \"Sin causalidad de precio confirmada · Sin recomendaciones de compra o venta\". Do not claim Strategy is already excluded or is forced to sell Bitcoin. The Hydra number counts transactions per snapshot, never transactions per second. Keep edition17 and creation18 distinction unambiguous. Do not add statistics, opinions or promotional slogans.",
+  "generated_on": "2026-10-19",
+  "exact_service_creation_time": null,
+  "generated_source": "/Users/juancarlos/.codex/generated_images/01a0fb1b-0289-79a0-91cc-f6add3e697e9/exec-a7985acb-bea0-4864-a5d0-c46f41fe9bd6.png",
+  "file_sha256": "bebe0e08b51d27496351c82a79962d9272f06f5ae9b3b290d6684a8aa4d59fa5",
+  "bytes": 1635385,
+  "dimensions": [
+    1536,
+    1024
+  ],
+  "report": "../reports/2026-10-17-informe-ada-night-bitcoin.md",
+  "sources": [
+    "https://www.essentialcardano.io/development-update/weekly-development-report-2026-10-16",
+    "https://github.com/midnightntwrk/midnight-js/releases/tag/v5.0.0-rc.5",
+    "https://app2.msci.com/webapp/index_ann/DocGet?format=html&lang=en&pub_key=aq0wbkjxPgo%3D",
+    "https://www.theblock.co/news/business/2026-10-15-msci-rules-could-exclude-strategy-mstr-from-indexes-418729",
+    "https://farside.co.uk/btc/"
+  ],
+  "visual_check": "Inspección visual de edición 17, elaboración 18, corte editorial 23:59, Hydra 1.000 a 4.000 por snapshot y no TPS, midnight-js 5.0.0-rc.5 candidato, MSCI fechas 15 oct/11 nov/30 nov, ETF -82,4 millones USD, 12 fondos y consulta 18. Los iconos son ilustrativos, no series de datos."
+}

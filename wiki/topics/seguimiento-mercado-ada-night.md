@@ -2,9 +2,20 @@
 title: "Seguimiento de mercado de ADA y NIGHT"
 type: topic
 created: "2026-10-05"
-updated: "2026-10-14"
+updated: "2026-10-23"
 tags: [ada, night, mercado, seguimiento]
 sources:
+  - "../sources/2026-10-23-informe-ada-night-bitcoin.md"
+  - "../sources/2026-10-21-informe-angry-crypto-show.md"
+  - "../sources/2026-10-20-informe-angry-crypto-show.md"
+  - "../sources/2026-10-19-informe-ada-night-bitcoin.md"
+  - "../sources/2026-10-17-informe-angry-crypto-show.md"
+  - "../sources/2026-10-17-informe-ada-night-bitcoin.md"
+  - "../sources/2026-10-10-hoskinson-nightframes-tokio.md"
+  - "../sources/2026-10-15-informe-angry-crypto-show.md"
+  - "../sources/2026-10-16-informe-angry-crypto-show.md"
+  - "../sources/2026-10-16-informe-ada-night-bitcoin.md"
+  - "../sources/2026-10-15-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-14-lote-angry-crypto-show.md"
   - "../sources/2026-10-14-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-13-informe-ada-night-bitcoin.md"
@@ -20,13 +31,22 @@ sources:
 
 ## Síntesis actual
 
-El informe más reciente es el [del 14 de octubre](../reports/2026-10-14-seguimiento-ada-night-bitcoin.md): Leios en pruebas, hoja de ruta de Midnight, entradas de ETF y compras corporativas declaradas. El [del 13](../reports/2026-10-13-seguimiento-ada-night-bitcoin.md) conserva sus ventanas y límites. Sin planes convertidos en ejecución ni causalidad de precio.
+La edición actual es el [informe del 22](../reports/2026-10-22-seguimiento-ada-night-bitcoin.md), corte 07:32: postura MiCA publicada el 21, registros agrícolas declarados sin fecha del hito, ETF de sesión del 21 y aprobación FINMA anunciada el 20. NIGHT sin novedad corroborada en canales accesibles. No auditoría de registros, norma modificada, flujos suizos o causa de precio acreditados.
+
+El [informe del 21](../reports/2026-10-21-seguimiento-ada-night-bitcoin.md), corte 08:25, añade explicación de Nightmode del 20 y ETF del 20, además de propuestas/previsiones institucionales del 19. Arquitectura no auditada, datos revisables y propuestas no aprobadas; ADA sin nueva noticia fundamental corroborada en búsqueda limitada.
+
+El antecedente del [20](../reports/2026-10-20-seguimiento-ada-night-bitcoin.md), corte 08:19, incorpora ETF de la sesión del 19 y compras históricas declaradas por Strategy. ADA y NIGHT sin nueva noticia fundamental corroborada en búsqueda limitada. La fila ausente ayer ya está publicada, sin reescribir aquella consulta.
+
+El antecedente es el [informe del 19 de octubre](../reports/2026-10-19-seguimiento-ada-night-bitcoin.md), corte 07:54: contratos financiados de Intersect y convocatoria de investigación, sin novedad relevante nueva corroborada para NIGHT o BTC. La declaración presupuestaria no equivale a trabajo terminado y la fila ausente de ETF no es cero. La [edición del 17](../reports/2026-10-17-seguimiento-ada-night-bitcoin.md) conserva su recuperación y fechas.
 
 La primera fuente integrada, el [informe del 5](../reports/2026-10-05-seguimiento-ada-night-bitcoin.md), conserva su repunte de ADA y retroceso de NIGHT como cifras históricas atribuidas. Bitcoin permanece como contexto solicitado por el usuario. Las ventanas de precio de distintas publicaciones no se combinan como lecturas simultáneas.
 
 El documento no identifica causas fundamentales confirmadas de los movimientos. Su lectura de la exposición en derivados de ADA y los flujos de ETF de Bitcoin se conserva como interpretación atribuida, no como causalidad establecida. [Fuente archivada](../sources/2026-10-05-informe-ada-night-bitcoin.md).
 
 ## Referencias de seguimiento
+
+- [Mithril](../entities/mithril.md): actualización técnica semanal y alcance de testing-preview.
+- [NorthStar](../entities/northstar.md): cifras atribuidas y contraste pendiente.
 
 - [Leios: testnet y mainnet](../concepts/leios-testnet-y-mainnet.md).
 - [Roadmap y staking de NIGHT](../concepts/roadmap-midnight-y-staking-night.md).
@@ -43,6 +63,8 @@ El documento no identifica causas fundamentales confirmadas de los movimientos. 
 - [Fundamentos científicos de Midnight](midnight-fundamentos-cientificos.md): investigación y documentación del protocolo; sus resultados no establecen las causas de los movimientos de mercado del informe.
 
 ## Preguntas abiertas
+
+- ¿Qué fuente primaria y datos reproducibles confirman la fecha y las métricas del primer día de NorthStar? La [ficha del 15](../sources/2026-10-15-informe-ada-night-bitcoin.md) conserva el bloqueo de X y la atribución secundaria.
 
 - ¿Qué resultados empíricos aportarán las series de negociación y uso? Las fuentes y el método ya están identificados en el [informe de fuentes](../reports/2026-10-05-fuentes-mercado-adopcion-uso.md).
 - ¿Qué datos originales confirman las lecturas de precio y derivados del informe?
@@ -61,6 +83,30 @@ Las capturas del 5 y 6 de Farside conservan el dato antes ausente y su publicaci
 
 ## Fuente complementaria: Angry Crypto Show
 
-El [seguimiento del canal](seguimiento-angry-crypto-show.md) incorpora seis informes de opinión con transcripciones de los días 7, 8, 9, 10, 13 y 14. Mantiene separadas las noticias documentadas, métricas no reproducidas, previsiones condicionales y patrocinio. Complementa la serie de Noticias diarias ADA/NIGHT/BTC; el informe del 10 de Angry no rellena la laguna del 10 de esa otra serie.
+El [seguimiento del canal](seguimiento-angry-crypto-show.md) incorpora once informes de opinión con transcripciones de los días 7, 8, 9, 10, 13, 14, 15, 16, 17, 20 y 21. Mantiene separadas las noticias documentadas, métricas no reproducidas, previsiones condicionales y patrocinio. Complementa la serie de Noticias diarias ADA/NIGHT/BTC; el informe del 10 de Angry no rellena la laguna del 10 de esa otra serie.
 
 Las lecturas del canal no sustituyen series compatibles de mercado o uso. Los niveles de inversión y plazos ausentes no se reconstruyen desde títulos, gráficos no revisados o intervenciones anteriores. [Previsiones y publicidad](../concepts/previsiones-atribuidas-y-publicidad.md) · [Interoperabilidad y custodia](../concepts/interoperabilidad-custodia-y-privacidad.md).
+
+## Angry Crypto Show: ampliación local del 16
+
+Los informes del [15](../reports/2026-10-15-angry-crypto-show.md) y [16](../reports/2026-10-16-angry-crypto-show.md) añaden RealFi/Strike, rendimiento anunciado y una aspiración de TVL. No son cotizaciones actuales o causas de precio confirmadas. La hipótesis de rotación a NIGHT depende de ADA y conserva campos operativos ausentes; no sustituye la [serie diaria](../reports/index.md) ni su contraste documental.
+
+## Fuente técnica de declaraciones: Nightframes
+
+La [síntesis del original de Hoskinson](../reports/2026-10-16-nightframes-presentacion-tokio.md) añade contexto sobre agentes, identidad y [Midnight City](../entities/midnight-city.md). No aporta cotizaciones, causas de precio o métricas de adopción comprobadas. Los planes del discurso del 10 mantienen sus fechas originales y se relacionan con los informes posteriores sin duplicar noticias.
+
+## Angry Crypto Show: edición del 17 incorporada el 19
+
+La [síntesis del canal](../reports/2026-10-17-angry-crypto-show.md) conserva benchmark local y planes, sin atribuir capacidad general, alianza Midnight–Aztec o causa de precio. Las opiniones de Casper y Sheldon y el umbral de preocupación de 0,20 USD no forman una estrategia operativa completa. Se mantiene separada la edición de [Noticias diarias del 17](../reports/2026-10-17-seguimiento-ada-night-bitcoin.md), sus fuentes y sus fechas.
+
+## Angry Crypto Show: edición del 20
+
+La [síntesis](../reports/2026-10-20-angry-crypto-show.md) distingue objetivo de capitalización de Strike/36 meses, saldos no sumables y planes de Nightframes. Las métricas del canal no sustituyen series compatibles o causas de precio. La [compra de Strategy ya documentada](../sources/2026-10-20-strategy-compras-bitcoin.md) se enlaza sin duplicarla o trasladar su contraste a otras empresas. La narrativa de NIGHT, recuperación condicional de ADA, posibles compras en caídas y patrocinio mantienen atribuciones; no completan las lagunas de la serie diaria.
+
+## Angry Crypto Show: edición del 21
+
+La [síntesis del canal](../reports/2026-10-21-angry-crypto-show.md) complementa el seguimiento diario sin duplicar el anuncio Nightmode o el comunicado JPM ya incorporados. Planes y privacidad por tramo, multiplicadores no reproducidos, compromisos blandos y métricas sin series no prueban despliegue general, capital captado o causa de precio. El optimismo de Q4 y elogios no forman una estrategia completa; la enmienda francesa no acredita el 31,4 % o ley vigente del titular.
+
+## Revisión del 23 de octubre
+
+La [edición del 23](../reports/2026-10-23-seguimiento-ada-night-bitcoin.md), corte 10:22, añade ensayo de Hydra publicado el 22, divulgación de Midnight y salidas ETF de la sesión del 22. [Benchmarks](../concepts/benchmarks-locales-y-rendimiento-red.md), reparto histórico NIGHT de 2025 y demanda de fondos son unidades/ventanas distintas, sin causa de precio confirmada. DijkstraNet y Genius Yield quedan pendientes de fuente primaria; no se cambia el alcance general ADA/NIGHT.

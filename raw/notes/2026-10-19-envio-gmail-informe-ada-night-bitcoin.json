@@ -1,0 +1,37 @@
+{
+  "type": "constancia de envio verificado",
+  "author": "Codex",
+  "report_date": "2026-10-19",
+  "timezone": "Europe/Madrid",
+  "chat_id": "01a0fb1b-0289-79a0-91cc-f6add3e697e9",
+  "message_id": "1a152d72c00ce5bc",
+  "thread_id": "1a152d72c00ce5bc",
+  "to": "gallegojc@gmail.com",
+  "subject": "[Codex] Informe diario de ADA, NIGHT y Bitcoin — 2026-10-19",
+  "sent_at": "2026-10-19T08:26:35+02:00",
+  "verified_at": "2026-10-19T08:27:43.034359+02:00",
+  "gmail_internal_date": "1792391195000",
+  "sent_label": true,
+  "plain_body_exact": true,
+  "html_body_exact": true,
+  "plain_sha256": "a5ae8950179fe6118f1ba0792f5a3f7ceed8322602c0b8cebdc4939bf64d1a67",
+  "html_sha256": "ebaa8bc30bc2d350ae8c1797da6eabf3fa65519d4efe6b8045f4f9475e11e1c5",
+  "report": {
+    "path": "../reports/2026-10-19-informe-ada-night-bitcoin.md",
+    "sha256": "3fb18fe238e43b1d5ef029c7e249a0167c1572b004c891d421c746fda0bf962b"
+  },
+  "infographic": {
+    "path": "../images/2026-10-19-infografia-ada-night-bitcoin.png",
+    "mime_type": "image/png",
+    "bytes": 1615437,
+    "sha256": "937aa29db9a940ff69db6c1a5c8e4fe000de89172cbca7c45e4591da39f99e6a",
+    "recovered_from_gmail_and_exact": true,
+    "content_id": "infografia-ada-night-bitcoin-20261019"
+  },
+  "duplicate_check": "Dos consultas completadas de Enviados tras interrupcion: ninguna coincidencia de destinatario y asunto con fecha 2026-10-19. Un envio posterior confirmado.",
+  "limitations": [
+    "El primer intento quedo interrumpido sin respuesta; no constaba en Enviados en las dos comprobaciones antes del envio confirmado.",
+    "La verificacion acredita envio y contenido en Gmail, no lectura por el destinatario.",
+    "No se archivan articulos externos completos."
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "channel": "Angry Crypto Show",
+  "report_date": "2026-10-15",
+  "prepared_at_utc": "2026-10-15T06:34:38.517614+00:00",
+  "archived_at_utc": "2026-10-16T05:46:51.653193+00:00",
+  "source_video": {
+    "video_id": "6QF28OZT1LQ",
+    "title": "\"RealFi Is A Game-Changer.\" Strike Integrates RealFi! Angry Crypto Reacts",
+    "publication_date": "2026-10-14",
+    "publication_timestamp": "2026-10-14T14:34:07-07:00",
+    "publication_madrid": "2026-10-14T23:34:07+02:00",
+    "source": "Transcripción original completa de YouTube, inglés automático exportado desde Brave y resumido en español; audio y gráficos no revisados íntegramente.",
+    "review_scope": "00:00–11:00; vídeo de11:02",
+    "transcript_path": "outputs/transcripcion-angry-crypto-show-2026-10-14-6QF28OZT1LQ.txt",
+    "report_date": "2026-10-15",
+    "report_path": "outputs/informe-angry-crypto-show-2026-10-15.md",
+    "analysis_completed_at_utc": "2026-10-15T06:34:42.116590+00:00"
+  },
+  "files": [
+    {
+      "role": "report",
+      "path": "raw/notes/2026-10-15-informe-angry-crypto-show.md",
+      "relative_link_from_metadata": "2026-10-15-informe-angry-crypto-show.md",
+      "source_path": "/Users/juancarlos/Documents/Codex/2026-10-07/realtime-voice-chat/outputs/informe-angry-crypto-show-2026-10-15.md",
+      "sha256": "61a20e90886559b0e345fdd88477ce56ff69c058ec1fe26ed85cfa763ee89929",
+      "size_bytes": 13129
+    },
+    {
+      "role": "infographic",
+      "path": "raw/images/2026-10-15-infografia-angry-crypto-show.png",
+      "relative_link_from_metadata": "../images/2026-10-15-infografia-angry-crypto-show.png",
+      "source_path": "/Users/juancarlos/Documents/Codex/2026-10-07/realtime-voice-chat/outputs/infografia-angry-crypto-show-2026-10-15.png",
+      "sha256": "8c094fe25103abfe65127e8222b69f005e013c3f0816bd84e830a872cdc26b82",
+      "size_bytes": 1921312
+    },
+    {
+      "role": "transcript",
+      "path": "raw/transcripts/2026-10-14-angry-crypto-show-6QF28OZT1LQ.txt",
+      "relative_link_from_metadata": "../transcripts/2026-10-14-angry-crypto-show-6QF28OZT1LQ.txt",
+      "source_path": "/Users/juancarlos/Documents/Codex/2026-10-07/realtime-voice-chat/outputs/transcripcion-angry-crypto-show-2026-10-14-6QF28OZT1LQ.txt",
+      "sha256": "5f8f0bec737324b8fb6e5cb8978a1856a763041cb06c7d0fba9c248add6d74d6",
+      "size_bytes": 11452
+    }
+  ],
+  "gmail_deliveries": [
+    {
+      "report_date": "2026-10-15",
+      "recipient": "gallegojc@gmail.com",
+      "subject": "[Codex] Angry Crypto Show — Informe diario — 2026-10-15",
+      "gmail_message_id": "1a13f09c318446c9",
+      "gmail_thread_id": "1a13f09c318446c9",
+      "status": "sent_verified_in_gmail",
+      "sent_at_utc": "2026-10-15T10:09:26.000Z",
+      "verified_at_utc": "2026-10-15T10:12:25.358Z",
+      "full_body_verified": true,
+      "infographic_included": true,
+      "infographic_path": "outputs/infografia-angry-crypto-show-2026-10-15.png",
+      "infographic_size_bytes": 1921312,
+      "infographic_delivery": "inline_multipart_related_content_id_verified",
+      "report_path": "outputs/informe-angry-crypto-show-2026-10-15-con-infografia.html",
+      "delivery_type": "explicitly_confirmed_recipient_delivery",
+      "do_not_resend": true
+    }
+  ],
+  "ingestion_status": "pending",
+  "limitations": [
+    "Original íntegro sin modificar. Las frases de estado de entrega del original reflejan su preparación; los datos de Gmail en esta ficha reflejan el envío posterior verificado.",
+    "Transcripción automática completa; no revisión íntegra de audio ni gráficas.",
+    "Archivo RAW no equivale a ingesta de la wiki."
+  ]
+}

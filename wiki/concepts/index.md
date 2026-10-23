@@ -1,8 +1,26 @@
 # Conceptos
 
-Última actualización: **14 de octubre de 2026, 10:10 (Europe/Madrid)**.
+Última actualización: **23 de octubre de 2026, 10:26 (Europe/Madrid)**.
+
+- [Regulación por actividad y participación de protocolo](regulacion-por-actividad-y-participacion-protocolo.md): postura atribuida, norma y servicios por distinguir.
+
+- [Offer Files y negociación privada](offer-files-y-negociacion-privada.md): intenciones, casación y garantías pendientes.
+
+- [Nightmode: privacidad entre redes](nightmode-privacidad-entre-redes.md): bóvedas, saldos y visibilidad pública por distinguir.
 
 [Volver al índice general](../index.md).
+
+- [Benchmarks locales y rendimiento de una red](benchmarks-locales-y-rendimiento-red.md): distinguir carga, reclamaciones/s, límite por snapshot, tiempo y capacidad de mainnet.
+
+
+- [Versiones candidatas y despliegue](versiones-candidatas-y-despliegue.md): distinguir release, compatibilidad y activación.
+
+
+- [Nightframes](nightframes.md): agentes persistentes, identidad, intención y personalización.
+
+
+- [APR anunciado, crédito y liquidez](apr-credito-y-liquidez.md): rendimiento anunciado frente a resultado y restricciones de salida.
+
 
 - [Previsiones atribuidas y publicidad](previsiones-atribuidas-y-publicidad.md): autores, condiciones, campos ausentes y patrocinio.
 - [Interoperabilidad, custodia y privacidad](interoperabilidad-custodia-y-privacidad.md): redes, activos, reservas y etapas de despliegue distintas.
@@ -21,5 +39,5 @@
 - [Flujos de ETF de Bitcoin](flujos-etf-bitcoin.md): capturas históricas, actualización publicada y conciliación metodológica pendiente.
 - [Modelo token-recurso](modelo-token-recurso.md): relación NIGHT/DUST y parámetros iniciales contrastados.
 - [Métricas de uso y adopción](metricas-de-uso-y-adopcion.md): definiciones y límites de medición.
-- [Gobernanza y tesorería](gobernanza-y-tesoreria.md): propuesta, aprobación y ejecución en el caso del Cardano Summit.
+- [Gobernanza y tesorería](gobernanza-y-tesoreria.md): propuesta, aprobación y ejecución; eventos, contratos y clústeres de IA propuestos.
 - [Infraestructura de acceso a la red](infraestructura-de-acceso-a-la-red.md): servicios, entorno, autenticación y límites frente a una medición en vivo.

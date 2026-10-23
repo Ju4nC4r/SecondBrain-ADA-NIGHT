@@ -1,0 +1,96 @@
+{
+  "report_date": "2026-10-16",
+  "cutoff": "2026-10-16T07:23:00+02:00",
+  "capture_time": "2026-10-16T07:27:45+02:00",
+  "author": "Codex",
+  "origin_chat_title": "Informe diario de noticias de ADA y NIGHT",
+  "origin_chat_id": "01a0fb1b-0289-79a0-91cc-f6add3e697e9",
+  "report_sha256": "658125b3e239bbf1fe042527a32885873def7b01b4aae244af770f42757b52bb",
+  "external_fulltext_archived": false,
+  "sources": [
+    {
+      "key": "copper",
+      "url": "https://totofinance.com/cardano-treasury-proposal-strategic-tokenized-copper-reserve/Cardano_Toto-Finance_Tokenized_Copper_CuTT_Treasury_Proposal.pdf",
+      "author": "Toto Finance",
+      "publication": null,
+      "document_date": "2026-10-14",
+      "event": "Solicitud de retirada de 22.000.000 ADA; sin aprobación ni ejecución contrastadas",
+      "status": "PDF primario leído directamente; captura visual del PDF falló, texto disponible"
+    },
+    {
+      "key": "copper_date",
+      "url": "https://sipo.tokyo/signal-20261016-d230af5d/",
+      "author": "SIPO",
+      "publication": "2026-10-16",
+      "event": "Presentación de la acción el 2026-10-15 según cobertura secundaria",
+      "status": "Fecha atribuida; GovTool y Cexplorer no accesibles"
+    },
+    {
+      "key": "night",
+      "url": "https://midnight.network/blog",
+      "author": "Midnight",
+      "publication": null,
+      "event": null,
+      "status": "Listado oficial consultado; última entrada visible del 1 de octubre; resultado de búsqueda no ausencia global"
+    },
+    {
+      "key": "night_secondary",
+      "url": "https://sipo.tokyo/daily-intel-20261016/",
+      "author": "SIPO",
+      "publication": "2026-10-16",
+      "event": "Nuevas referencias a métricas de NorthStar sin contraste primario",
+      "status": "No se incluyen los recuentos como datos confirmados ni se comparan con los del primer día"
+    },
+    {
+      "key": "btc_market",
+      "url": "https://www.coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound",
+      "author": "Shaurya Malwa",
+      "publication": "2026-10-16T00:14:00-04:00",
+      "event": "Caída del jueves 15 a unos 79.800 USD, recuperación a unos 82.500 en dos horas; horas concretas no identificadas",
+      "status": "Precios históricos periodísticos; no cotización al corte ni causalidad asiática demostrada"
+    },
+    {
+      "key": "etf",
+      "url": "https://farside.co.uk/btc/",
+      "author": "Farside Investors",
+      "publication": null,
+      "event": "Sesión estadounidense 2026-10-15",
+      "status": "Doce columnas presentes; cifras revisables; consulta directa del proveedor"
+    }
+  ],
+  "capture_limit": "Consulta durante esta ejecución, con marca de reloj inicial 07:20:45 y otra a las 07:23:00 Europe/Madrid; no hay una hora individual por URL. capture_time fecha la nota de conservación.",
+  "farside": {
+    "session": "2026-10-15",
+    "unit": "millones de USD",
+    "funds": {
+      "IBIT": "16.8",
+      "FBTC": "0.0",
+      "BITB": "0.0",
+      "ARKB": "0.0",
+      "BTCO": "-4.1",
+      "EZBC": "0.0",
+      "BRRR": "0.0",
+      "HODL": "0.0",
+      "BTCW": "0.0",
+      "MSBT": "0.0",
+      "GBTC": "0.0",
+      "BTC": "-7.6"
+    },
+    "total": "5.1",
+    "all_twelve_values_present": true,
+    "revisable": true,
+    "issuer_reconciliation": false
+  },
+  "verification_gaps": [
+    "GovTool, Cexplorer y post X de nuevas métricas NorthStar no accesibles.",
+    "Commit de propuestas de Midnight enlazado por SIPO no accesible; no se presenta como cambio ejecutado.",
+    "La difusión de Plutus del 15 remite a un anuncio oficial de 17 de septiembre con transición desde el 1 de octubre; excluida como novedad diaria.",
+    "SIPO describe 54 páginas del documento de cobre, pero el PDF servido y consultado tiene 29; no se repite el número de páginas como hecho de la propuesta.",
+    "Sin cotizaciones simultáneas de tres activos; no causalidad de precio confirmada."
+  ],
+  "excluded_old_plutus_sources": [
+    "https://www.iog.io/news/plutus-moves-to-midgard-labs",
+    "https://cardano.org/news/2026-09-17-plutus-midgard-labs/"
+  ],
+  "blocked_northstar_reference": "https://x.com/adaorca1/status/2110676822426112511"
+}

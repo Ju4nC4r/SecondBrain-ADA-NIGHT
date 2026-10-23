@@ -2,9 +2,13 @@
 title: "iShares Bitcoin Trust ETF / IBIT"
 type: entity
 created: "2026-10-05"
-updated: "2026-10-14"
+updated: "2026-10-23"
 tags: [ibit, blackrock, bitcoin, etf]
 sources:
+  - "../sources/2026-10-23-informe-ada-night-bitcoin.md"
+  - "../sources/2026-10-17-farside-flujos-bitcoin.md"
+  - "../sources/2026-10-16-farside-flujos-bitcoin.md"
+  - "../sources/2026-10-15-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-14-farside-flujos-bitcoin.md"
   - "../sources/2026-10-13-farside-flujos-bitcoin.md"
   - "../sources/2026-10-09-farside-flujos-bitcoin.md"
@@ -48,3 +52,30 @@ IBIT figura con -65,4 millonesUSD en la [sesión del12](../sources/2026-10-13-fa
 
 IBIT figura con +65,9 millones de USD en la [sesión del 13](../sources/2026-10-14-farside-flujos-bitcoin.md); total de fondos +175,7. Dato completo y revisable, sin conciliación con emisor ni resolución de la discrepancia histórica NAV/participaciones.
 
+## Revisión del 15 de octubre
+
+La [nota incorporada con el informe](../sources/2026-10-15-informe-ada-night-bitcoin.md) conserva **−110,9 millones de USD** para IBIT en la sesión del 14 y **−261,4** para el conjunto de doce fondos. La suma interna se comprueba; no se vuelve a consultar Farside ni se concilia con BlackRock. Hora de publicación desconocida y datos revisables; no resuelve la discrepancia histórica de NAV y participaciones.
+
+## Revisión del 16 de octubre
+
+IBIT figura con +16,8 millones de USD en la [sesión del 15](../sources/2026-10-16-farside-flujos-bitcoin.md); total de fondos +5,1. Doce valores completos, suma comprobada, revisables. No se concilia con el emisor ni se resuelve la discrepancia histórica de NAV y participaciones.
+
+## Edición del 17, incorporada el 18 de octubre
+
+[Farside](../sources/2026-10-17-farside-flujos-bitcoin.md) muestra −71,8 millones USD para IBIT en la sesión del 16; total de fondos −82,4. Leído el 18, sin conciliar con emisor o reconstruir publicación al cierre del 17. No resuelve la discrepancia histórica con NAV y participaciones.
+
+## Revisión del 20 de octubre
+
+[Farside](../sources/2026-10-20-farside-flujos-bitcoin.md) publica para IBIT +665,2 millones USD en la sesión del 19; conjunto +526,7. Consulta del 20, datos revisables y sin conciliación con BlackRock. No resuelve discrepancias históricas de NAV/participaciones.
+
+## Revisión del 21 de octubre
+
+[Farside](../sources/2026-10-21-farside-flujos-bitcoin.md) muestra +29,9 millones USD de IBIT en la sesión del 20 y +23,2 para el conjunto. Datos revisables, sin conciliación con BlackRock. [PBIT](ishares-bitcoin-managed-protection-pbit.md) es otra propuesta de exposición mediante opciones, no IBIT o tenencia directa de BTC.
+
+## Revisión del 22 de octubre
+
+[Farside](../sources/2026-10-22-farside-flujos-bitcoin.md) muestra IBIT +235,0 millones USD en la sesión del 21; conjunto +524,8. Doce cifras presentes y suma comprobada; revisable, sin conciliación con BlackRock. No resuelve la discrepancia histórica NAV/participaciones.
+
+## Revisión del 23 de octubre
+
+[Farside, sesión del 22](../sources/2026-10-23-farside-flujos-bitcoin.md): IBIT −254,1 millones USD dentro del total −635,6. Dato revisable del proveedor, no cálculo conciliado con participaciones/NAV del emisor o demostración de ventas spot simultáneas.

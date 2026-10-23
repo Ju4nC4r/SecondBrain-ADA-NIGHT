@@ -1,0 +1,18 @@
+{
+  "tool": "image_gen.imagegen (herramienta integrada)",
+  "use_case": "infographic-diagram",
+  "prompt": "Use case: infographic-diagram\nAsset type: infografía en español para informe diario y correo.\nPrimary request: diseño editorial claro, horizontal, tres bloques iguales ADA/Cardano, NIGHT/Midnight y BTC/Bitcoin; fondo claro, azul/violeta/naranja, tipografía grande legible. Ilustraciones decorativas discretas. No gráficos de precios.\nText (verbatim):\nTítulo: \"ADA · NIGHT · BITCOIN\"\nSubtítulo: \"20 de octubre de 2026 | Corte: 08:19 Europe/Madrid\"\nBloque ADA:\n\"ADA / CARDANO\"\n\"Sin nueva noticia fundamental corroborada\"\n\"Consulta: 20 oct 2026\"\n\"Resultado limitado a las fuentes accesibles\"\n\"Fuente: Fundación Cardano\"\nBloque NIGHT:\n\"NIGHT / MIDNIGHT\"\n\"Sin novedad relevante nueva verificada\"\n\"Consulta: 20 oct 2026\"\n\"Blog y versiones oficiales revisados\"\n\"Resultado limitado a las fuentes consultadas\"\n\"Fuentes: Midnight y GitHub\"\nBloque BTC:\n\"BTC / BITCOIN\"\n\"ETF: +526,7 millones USD netos\"\n\"Sesión: 19 oct 2026\"\n\"IBIT +665,2 · FBTC −83,6 · GBTC −54,9\"\n\"Millones USD · Otros 9 fondos: 0\"\n\"Datos revisables · Fuente: Farside\"\n\"Strategy: compras de 267 BTC\"\n\"Hechos: 12–18 oct | Publicado: 19 oct\"\n\"22,1 millones USD · Declaración de Strategy\"\nPie: \"Interpretaciones e incertidumbres en el informe completo\"\n\"Sin causalidad de precio confirmada · Sin recomendaciones de compra o venta\"\n\"cardanofoundation.org · midnight.network · github.com/midnightntwrk · farside.co.uk · strategy.com\"\nConstraints: reproducir exactamente texto, fechas, signos, unidades y cifras. No inventar precios, gráficos, tendencias ni causas. Presentar ausencia de novedades como resultado limitado de búsqueda; no estado global. En BTC distinguir flujo de ETF revisable de compras históricas atribuidas a Strategy, sin sumarlas.",
+  "creation_date": "2026-10-20",
+  "creation_time_exact": null,
+  "archived_at": "2026-10-20T08:21:58.806719+02:00",
+  "original_generated_path": "/Users/juancarlos/.codex/generated_images/01a0fb1b-0289-79a0-91cc-f6add3e697e9/exec-14d7f15a-c381-4172-80fd-741306a6d7a6.png",
+  "report": "../reports/2026-10-20-informe-ada-night-bitcoin.md",
+  "sources": "../notes/2026-10-20-fuentes-informe-ada-night-bitcoin.json",
+  "sha256": "2f8f0a7b74727e48e068d7a8670b14fad63a4d920075fd138f2950647514ce83",
+  "bytes": 1753168,
+  "dimensions": [
+    1774,
+    887
+  ],
+  "visual_check": "Fechas, unidades, signos, texto y cifras coinciden con el informe. Ilustraciones decorativas; no graficos de precio."
+}

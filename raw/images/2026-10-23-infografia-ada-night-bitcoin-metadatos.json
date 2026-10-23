@@ -1,0 +1,17 @@
+{
+  "tool": "image_gen.imagegen",
+  "mode": "integrada",
+  "prompt": "Use case: infographic-diagram.\nAsset type: Infografía editorial para informe y correo en español.\nPrimary request: crea una infografía horizontal limpia y muy legible, fondo marfil, tres columnas independientes de igual ancho: azul ADA, violeta NIGHT, naranja BITCOIN. Diseño profesional de periódico financiero, tipografía sans serif grande, márgenes amplios. Todo el texto debe ser EXACTO como abajo, sin añadir cifras. Usa solo iconos pequeños decorativos de red, privacidad y documento. No gráficos, barras, velas, curvas, flechas de precio, recomendaciones, monedas fotográficas o logotipos falsos. Distingue etiquetas ENSAYO, DIVULGACIÓN, DATOS REVISABLES.\n\nCabecera:\n\"ADA · NIGHT · BITCOIN\"\n\"23 de octubre de 2026 | Corte: 10:22 Europe/Madrid (08:22 UTC)\"\n\nColumna 1:\n\"ADA / CARDANO\"\n\"ENSAYO · Publicado el 22/10/2026\"\n\"Hydra: 42 → 79 reclamaciones/s\"\n\"≈ 1,9 veces en esta prueba\"\n\"Fecha del ensayo: no indicada\"\n\"No mide toda Cardano\"\n\"Fuente: Input Output\"\n\"iog.io/news/hydra-v2-glacier-drop-rerun\"\n\nColumna 2:\n\"NIGHT / MIDNIGHT\"\n\"DIVULGACIÓN · Hecho y publicación: 22/10/2026\"\n\"Freedom Fighters: cuatro episodios\"\n\"Sin nueva actualización económica o de despliegue corroborada\"\n\"Glacier Drop: contexto histórico de 2025\"\n\"Fuente: Midnight\"\n\"midnight.network/blog\"\n\nColumna 3:\n\"BITCOIN / BTC\"\n\"DATOS REVISABLES · Sesión: 22/10/2026\"\n\"ETF al contado de EE. UU.\"\n\"−635,6 millones USD netos\"\n\"Consulta: 23/10/2026\"\n\"IBIT: −254,1 | FBTC: −217,5\"\n\"Millones USD\"\n\"Sin conciliación por emisor\"\n\"Fuente: Farside Investors\"\n\"farside.co.uk/btc/\"\n\nPie:\n\"Las implicaciones son interpretaciones; no causas de precio confirmadas.\"\n\"Sin cotizaciones al corte ni recomendaciones de compra o venta.\"\n\nConstraints: reproduce acentos, signos menos y unidades fielmente; mantén separación de fecha de hecho y publicación. La flecha entre 42 y 79 compara rendimiento del ensayo, nunca precio. No debe haber otra flecha. Sin texto inventado. Legibilidad prioritaria.",
+  "creation_date": "2026-10-23",
+  "exact_generation_time": null,
+  "archive_time": "2026-10-23T10:26:55.045112+02:00",
+  "original_generated_path": "/Users/juancarlos/.codex/generated_images/01a0fb1b-0289-79a0-91cc-f6add3e697e9/exec-6517cee7-8666-4ea4-a50d-b68aee95de0f.png",
+  "report": "../reports/2026-10-23-informe-ada-night-bitcoin.md",
+  "sources": "../notes/2026-10-23-fuentes-informe-ada-night-bitcoin.json",
+  "sha256": "8a1bdea22a9dc0666db51135211c131836de86955ad15385c9bcaa31bd9fb32d",
+  "dimensions": [
+    1774,
+    887
+  ],
+  "visual_check": "Textos, fecha/corte, 42 a 79 reclamaciones/s, 1,9x, referencia histórica 2025, −635,6 millones USD, IBIT −254,1 y FBTC −217,5 comprobados visualmente. Sin cotizaciones o gráficos de precio."
+}

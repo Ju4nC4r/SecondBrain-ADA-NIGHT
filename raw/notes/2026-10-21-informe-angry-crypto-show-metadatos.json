@@ -1,0 +1,80 @@
+{
+  "channel": "Angry Crypto Show",
+  "report_date": "2026-10-21",
+  "prepared_at_utc": "2026-10-21T06:45:55.591157+00:00",
+  "archived_at_utc": "2026-10-21T06:52:24.709043+00:00",
+  "source_cutoff_local": "2026-10-21T08:38:00+02:00",
+  "source_video": {
+    "video_id": "xAN5CosBIx8",
+    "title": "Strike: \"Building A Behemoth.\" Charles: \"Pogun—1,000x More Efficient Than BitVM.\"",
+    "publication_date": "2026-10-20",
+    "publication_timestamp": "2026-10-20T13:49:01-07:00",
+    "publication_madrid": "2026-10-20T22:49:01+02:00",
+    "source": "YouTube original, inglés automático, exportado desde Brave",
+    "review_scope": "Transcripción completa 00:00–10:42; audio y gráficas sin revisión íntegra",
+    "transcript_path": "outputs/transcripcion-angry-crypto-show-2026-10-20-xAN5CosBIx8.txt",
+    "report_date": "2026-10-21",
+    "report_path": "outputs/informe-angry-crypto-show-2026-10-21.md",
+    "analysis_completed_at_utc": "2026-10-21T06:52:24.709043+00:00"
+  },
+  "video_url": "https://www.youtube.com/watch?v=xAN5CosBIx8",
+  "files": [
+    {
+      "role": "report",
+      "path": "raw/notes/2026-10-21-informe-angry-crypto-show.md",
+      "relative_link_from_metadata": "2026-10-21-informe-angry-crypto-show.md",
+      "source_path": "/Users/juancarlos/Documents/Codex/2026-10-07/realtime-voice-chat/outputs/informe-angry-crypto-show-2026-10-21.md",
+      "sha256": "ba432b2b1ad3431b2ae57d2991bf5119f20ef10c73bfdac693aa507961151d9d",
+      "size_bytes": 9754
+    },
+    {
+      "role": "infographic",
+      "path": "raw/images/2026-10-21-infografia-angry-crypto-show.png",
+      "relative_link_from_metadata": "../images/2026-10-21-infografia-angry-crypto-show.png",
+      "source_path": "/Users/juancarlos/Documents/Codex/2026-10-07/realtime-voice-chat/outputs/infografia-angry-crypto-show-2026-10-21.png",
+      "sha256": "0568d7391b49e3748f8b2860bfb8d78042104b597bebe1af01d1abe6d9183864",
+      "size_bytes": 1678062
+    },
+    {
+      "role": "transcript",
+      "path": "raw/transcripts/2026-10-20-angry-crypto-show-xAN5CosBIx8.txt",
+      "relative_link_from_metadata": "../transcripts/2026-10-20-angry-crypto-show-xAN5CosBIx8.txt",
+      "source_path": "/Users/juancarlos/Documents/Codex/2026-10-07/realtime-voice-chat/outputs/transcripcion-angry-crypto-show-2026-10-20-xAN5CosBIx8.txt",
+      "sha256": "d382c00017dcbfa37b7e7701ef2273cc729a65dbe059bd84bacefe48a544778e",
+      "size_bytes": 11071
+    }
+  ],
+  "gmail_deliveries": [
+    {
+      "report_date": "2026-10-21",
+      "recipient": "gallegojc@gmail.com",
+      "subject": "[Codex] Angry Crypto Show — Informe diario — 2026-10-21",
+      "gmail_message_id": "1a15d39525dcb5ef",
+      "gmail_thread_id": "1a15d39525dcb5ef",
+      "status": "sent_verified_in_gmail",
+      "sent_at_utc": "2026-10-21T06:50:00.000Z",
+      "verified_at_utc": "2026-10-21T06:50:47.586Z",
+      "checks": {
+        "sent": true,
+        "to": true,
+        "subject": true,
+        "html": true,
+        "image": true,
+        "cid": true
+      },
+      "infographic_size_bytes": 1678062,
+      "full_body_verified": true,
+      "infographic_included": true,
+      "infographic_delivery": "inline_multipart_related_content_id_verified",
+      "infographic_path": "outputs/infografia-angry-crypto-show-2026-10-21.png",
+      "report_path": "outputs/informe-angry-crypto-show-2026-10-21-con-infografia.html",
+      "do_not_resend": true
+    }
+  ],
+  "ingestion_status": "pending",
+  "limitations": [
+    "Transcripción original automática completa 00:00–10:42; posibles errores en nombres y cifras. Audio y gráficas sin revisión íntegra.",
+    "Los estados futuros de despliegue y las afirmaciones no contrastadas permanecen atribuidos.",
+    "Archivo RAW no equivale a ingesta terminada."
+  ]
+}

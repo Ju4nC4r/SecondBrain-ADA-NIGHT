@@ -1,0 +1,266 @@
+YouTube transcript
+Video ID: xAN5CosBIx8
+Language: en
+Captions: auto-generated
+
+[0:00] What is good, Cardano fam? ADA gang with
+[0:02] lots of exciting updates to unpack
+[0:03] today. So, hit that subscribe, hit that
+[0:05] like. ADA generated over half a million
+[0:08] dollars in 24-hour trade volume on
+[0:10] Kashi's crypto perpetuals, surpassing
+[0:13] Chainlink at $300,000,
+[0:15] and more than double BNB at $240,000.
+[0:19] Strike Finance has generated over $1.8
+[0:23] billion
+[0:24] in total trade volume. Also, they're
+[0:27] launching a new hackathon tomorrow,
+[0:29] Wednesday, October 21st at 10:00 a.m.
+[0:32] Eastern with a 48-hour coding
+[0:35] competition and $3,000 in prizes. Strike
+[0:39] says, "We are building a behemoth of
+[0:41] builders and traders, and it's time to
+[0:44] take that to the next level."
+[0:46] SundaeSwap integrates direct swaps from
+[0:50] ADA into yield-bearing sUSD RF. RealFi
+[0:54] calls it another big step for Cardano
+[0:57] DeFi.
+[0:58] RealFi has issued over $8.3 million
+[1:02] in stablecoins and tokenized funds on
+[1:05] Cardano, up $700,000
+[1:08] in 1 week, according to Token Terminal.
+[1:11] Indigo's iUSD can now be swapped
+[1:14] one-to-one for USDRF through Indigo's
+[1:17] PSM, or peg stabilization module,
+[1:21] featuring zero slippage, zero bridges.
+[1:24] RealFi says, "Indigo's native
+[1:26] integration enables more liquidity,
+[1:29] greater composability, a stronger
+[1:31] Cardano DeFi ecosystem."
+[1:34] So, a lot of great integrations with
+[1:35] RealFi. Again, BlockFi, an
+[1:39] enterprise-grade, real-world asset
+[1:41] tokenization platform, has allocated a
+[1:43] portion of its sUSD RF to Strike Finance
+[1:47] to explore the growing potential of
+[1:49] Cardano DeFi, following its increased
+[1:52] investment in RealFi.
+[1:55] IOG says Ouroboros Leios aims to start
+[1:58] at a three to five x today's throughput
+[2:01] and 10 to 15 x as mainnet results allow.
+[2:05] Any increases after that will depend on
+[2:07] demand, what builders need, and the
+[2:10] economics of running the network.
+[2:12] Charles Hoskinson said recently that
+[2:15] Cardano is infinitely scalable. Now, it
+[2:17] doesn't mean that the numbers will be
+[2:19] very low, but they're going about it
+[2:21] with a lot of method. [clears throat]
+[2:22] They're being very deliberate to make
+[2:24] sure they get it right when it comes to
+[2:26] economic demand, network SPOs, ensuring
+[2:30] that there's balance. Of course, the
+[2:32] performance ceiling is actually much
+[2:34] higher than this, but they're taking
+[2:36] their steps carefully, which I think is
+[2:38] the right move.
+[2:39] IOG says the next Cardano hard fork
+[2:42] carries Leios alongside nested
+[2:45] transactions, accounts enhancements,
+[2:48] guard scripts, Plutus V4, and freely
+[2:51] withdrawable staking rewards. So, a lot
+[2:54] of great updates
+[2:56] around the corner when it comes to
+[2:58] Cardano.
+[2:59] Cardano founder Charles Hoskinson says
+[3:01] Bitcoin DeFi is launching in January on
+[3:04] Pogen. It's 1,000 times more efficient
+[3:08] than BitVM.
+[3:10] Midnight's night mode. We discussed this
+[3:13] earlier with Singularity NET. Well,
+[3:15] Midnight has introduced it with a full
+[3:17] blog and more detail. And so, it will
+[3:20] connect Midnight smart contracts to real
+[3:23] accounts on Ethereum, enabling private
+[3:26] ETH and private trading natively in
+[3:28] Ethereum's ecosystem, including Uniswap.
+[3:31] So, this is set to launch on Midnight
+[3:33] mainnet with the Ledger V9 update in Q4.
+[3:37] And it's not just Ethereum. Also, it
+[3:40] will be bringing privacy to Tron and
+[3:42] anyone doing payments on Tron in
+[3:44] December of this year. It's private and
+[3:47] more importantly, it's compliant. You
+[3:49] can use industry standard screening
+[3:51] tools that centralized exchanges use,
+[3:54] according to the SIG Network CEO. So,
+[3:57] building on that, the night mode extends
+[4:00] Midnight's privacy and selective
+[4:02] disclosure to public blockchains,
+[4:04] including Bitcoin, Ethereum, Solana,
+[4:07] Tron, and many more. Night mode could
+[4:09] unlock new use cases, including shielded
+[4:12] trading, confidential lending,
+[4:14] institutional payments, and private RWA
+[4:18] settlement.
+[4:20] Midnight Foundation President Fahmi Syed
+[4:22] at Token 2049 in Singapore says Midnight
+[4:25] will bring always-on privacy across all
+[4:28] chains. We're going to unlock the future
+[4:31] of on-chain finance.
+[4:33] He says night mode is about how Midnight
+[4:35] extends privacy to other chains, like
+[4:38] Bitcoin, Ethereum, Solana, and many
+[4:40] others.
+[4:41] Night mode can extend Midnight's privacy
+[4:44] to other chains, Ethereum, Bitcoin,
+[4:46] etc., through a multi-signature MPC.
+[4:50] You're able to bridge those tokens into
+[4:52] a private vault in Midnight. You get all
+[4:54] the shielded privacy and all the dis-
+[4:57] selective disclosure benefits that
+[4:59] Midnight offers.
+[5:01] Midnight's collateral warehouse creates
+[5:04] one single private vault for holding all
+[5:07] of your assets, both on-chain and
+[5:09] off-chain. It gives you control. You get
+[5:12] to decide how to utilize that for
+[5:14] private lending, or sorry, private
+[5:16] trading, private clearing, well, private
+[5:18] lending and borrowing, and many other
+[5:20] features. So, there's a lot of use cases
+[5:23] that could really be
+[5:25] unlocked. A huge a flood of features and
+[5:29] a lot of capital that's just sitting
+[5:31] that needs the privacy. Offer files
+[5:34] enables Z swap transactions on Midnight.
+[5:37] Swaps on other networks are fully
+[5:39] public. With offer files, you can have a
+[5:42] trade that doesn't go on-chain until it
+[5:45] matches. It's a private intent. Only
+[5:48] partial matches or full matches come on
+[5:51] chain. So,
+[5:53] he finished saying that nobody can
+[5:54] front-run you. Nobody can trade against
+[5:57] you. And this will unlock not only more
+[6:00] primary use cases, but also secondary
+[6:02] markets. So, whether that's RWAs,
+[6:05] whether that's hedge funds, whether
+[6:07] that's different types of stuff that is
+[6:09] just sitting on the sidelines that needs
+[6:12] selective disclosure.
+[6:14] Midnight aims to bring together TradFi
+[6:16] and DeFi closer. The large institutions
+[6:19] control liquidity. And to to attract
+[6:22] that, you need solutions with privacy,
+[6:24] selective disclosure, the ability to
+[6:27] trade privately, dark pools. Offer files
+[6:30] on Midnight gives you dark pool trading
+[6:32] solutions in crypto. So, I'm glad that
+[6:36] he touched base on that. That Offer
+[6:38] Files is actually playing a critical
+[6:40] role, whether it's dark pool trading or
+[6:43] whether it's just the Z swap
+[6:45] transactions. I think both are extremely
+[6:47] important.
+[6:49] What else is going on? Banking giant
+[6:51] Citi says Ave represents one of the most
+[6:54] important real-world use cases for
+[6:56] tokenized finance. Michael Saylor says
+[6:58] Bitcoin is definitely moving back into
+[7:01] six figures. I think it's inevitable.
+[7:04] JPMorgan predicts Bitcoin will
+[7:06] outperform US stocks, gold, and real
+[7:09] estate over the next 10 years.
+[7:12] Switzerland officially approves its
+[7:14] first spot Bitcoin ETF for retail
+[7:17] investors. Now, for a little bit of
+[7:19] contrast, a la carnaval, France's
+[7:23] parliament advances legislation to
+[7:25] impose 31.4% capital gains tax on crypto
+[7:29] to stablecoin transactions.
+[7:32] If it couldn't get any worse, there you
+[7:34] have.
+[7:35] So,
+[7:37] I I don't know. Like I I have a lot of
+[7:39] things to say about this.
+[7:42] Wow.
+[7:43] Anyways, speaking of wow, I want to give
+[7:46] a big shout-out to the sponsor of Angry
+[7:48] Crypto Show here on YouTube, Kauri.
+[7:52] The first CFTC regulated crypto
+[7:54] perpetuals. They have 19 crypto perps.
+[7:58] One of them is ADA, so it's great that
+[8:00] ADA made it on that short list, and
+[8:02] there's lots of volume with ADA, so it's
+[8:04] great to see that. If you guys want to
+[8:06] trade crypto perps with reasonable
+[8:08] leverage, check out my link in the video
+[8:11] description if you're based in the
+[8:12] United States. So, this is open to US
+[8:15] users. So, big shout-out to Kauri for
+[8:18] sponsoring the channel. Hopping over to
+[8:20] their site, you can see there's not a
+[8:22] lot. I counted 19. I think it was 18
+[8:25] when they first launched. We can already
+[8:27] see $800,000
+[8:29] for ADA
+[8:30] compared to less than 400 for BNB. And
+[8:33] so, these perps markets are almost, in
+[8:36] my opinion, like a micro niche market
+[8:39] that showcases a different angle of
+[8:41] demand. And it's good to see that there
+[8:43] is still strong demand for ADA when it
+[8:46] comes to perps platforms.
+[8:48] Jumping to price, ADA 22 cents, so we
+[8:50] picked up a little bit. Alts did get
+[8:52] pulled back. Stocks are doing really
+[8:54] well right now, a surge in stocks. XRP
+[8:57] 1.32, and Bitcoin at 82.6. I think all
+[9:01] in all, this is expected.
+[9:03] I've been expecting some choppiness in
+[9:05] the markets, but I do think that Q4,
+[9:08] we've only just begun. Q4, we're not
+[9:10] even 3 weeks in, so I think that still
+[9:13] there's a lot of weeks, months ahead for
+[9:14] Q4. We could see some good movement when
+[9:18] it comes to altcoins.
+[9:19] A couple of shout-outs, uh one being,
+[9:21] you know, all the movement and focus on
+[9:25] RealFi. It's great to see it percolating
+[9:27] into different projects, different types
+[9:30] of companies getting involved, big or
+[9:31] small. Beyond that, I also want to give
+[9:34] a big shout-out to Strike.
+[9:36] They've been sharing so many posts,
+[9:38] they've been cooking, and they're just
+[9:40] one of those great projects that just
+[9:42] grabs a shovel, keeps building, and
+[9:44] they're not focused or on drama or ad
+[9:46] hominem. So, I really commend that. I
+[9:49] applaud that. So, good for them for
+[9:51] passing 6,600 unique traders and the 1.8
+[9:55] billion in total volume. Beyond that, I
+[9:57] want to give a shout-out to Charles, I
+[9:59] think Pogen.
+[10:01] They do have, I think last I recall,
+[10:03] $600 million plus in soft commitments.
+[10:07] So, there could be a lot of potential
+[10:09] there when it comes to institutional and
+[10:11] retail, especially institutional. So,
+[10:14] with the efficiencies boosts that
+[10:16] they've made when it comes to
+[10:17] transaction fees and proofs, I think
+[10:19] that there is potential there to
+[10:20] leverage Cardano's technology extended
+[10:23] UTXO to UTXO
+[10:26] to get some yield-bearing instruments,
+[10:28] to get some yield going on. So, let me
+[10:30] know, guys, what do you think about
+[10:31] Pogen
+[10:32] launching in January? And what are your
+[10:35] thoughts also on Strike and the efforts
+[10:37] with RealFi? Let me know your thoughts,
+[10:39] smash that subscribe, smash that like,
+[10:41] and I'll see you guys in the next Angry
+[10:42] Crypto Show.

@@ -1,0 +1,63 @@
+{
+  "title": "What comes after the smart contract? Welcome to Nightframes",
+  "primary_source": {
+    "url": "https://www.youtube.com/watch?v=Iyrt2fNAWQ4",
+    "video_id": "Iyrt2fNAWQ4",
+    "channel": "Charles Hoskinson",
+    "channel_url": "https://www.youtube.com/@charleshoskinsoncrypto",
+    "speaker": "Charles Hoskinson; intervención final presentada como Jim, sin identificación completa comprobada",
+    "source_role": "Fuente directa del discurso del ponente, no verificación de todas las capacidades que describe",
+    "publication_timestamp_as_observed": "2026-10-10T07:39:51-07:00",
+    "publication_madrid": "2026-10-10T16:39:51+02:00",
+    "upload_timestamp_as_observed": "2026-10-10T07:39:51-07:00",
+    "metadata_duration": "PT56M47S",
+    "player_duration": "56:46",
+    "event_location_attributed": "Midnight City Tokyo, según descripción del canal",
+    "event_date": null,
+    "event_date_limitation": "No se deduce una fecha independiente de celebración a partir de la fecha de publicación."
+  },
+  "captured_at": "2026-10-16T09:12:22.031574+02:00",
+  "capture_timezone": "Europe/Madrid",
+  "method": "Navegación de YouTube en Brave mediante cua_repl; lectura de descripción expandida y etiquetas meta DOM; exportYouTubeTranscript de la pestaña del original inglés.",
+  "transcript": {
+    "path": "raw/transcripts/2026-10-10-hoskinson-nightframes-transcripcion-en.txt",
+    "language": "en",
+    "captions": "auto-generated",
+    "source_video_id": "Iyrt2fNAWQ4",
+    "sha256": "f747e33e549f7001a82498a0c20939feaf1ecfa30df11e6eb1309834913b9675",
+    "bytes": 64152,
+    "timestamped_segments": 1443,
+    "first_timestamp": "0:04",
+    "last_timestamp": "56:10",
+    "preservation": "Copia byte por byte del TXT exportado; sin corregir subtítulos ni traducirlos en RAW.",
+    "read_scope": "Texto exportado leído íntegramente; audio y gráficos no revisados íntegramente.",
+    "coverage_limit": "Último segmento a 56:10 frente a duración 56:46/56:47; música, tráiler, diapositivas y contenido sin subtitular no se reconstruyen."
+  },
+  "description_excerpt_as_observed": "What comes after smart contracts?\n\nCharles Hoskinson takes the stage at Midnight City Tokyo to explore the evolution of blockchain—and what comes next.\n\nFrom Bitcoin’s digital money to Ethereum’s programmable transactions and Cardano’s third-generation design, Charles reflects on how each generation builds on the last. He asks what the next leap could mean for cryptocurrency and the wider world of computing.\n\nThis recording begins with Charles’s opening remarks, following a short animated Input | Output intro.\n\nLearn more about Input | Output:",
+  "description_related_url": "https://iog.io/",
+  "related_dub": {
+    "url": "https://www.youtube.com/watch?v=jQyzh2nLxS4",
+    "video_id": "jQyzh2nLxS4",
+    "channel": "Cardano Castellano",
+    "title": "¿Qué viene después de los contratos inteligentes? Bienvenidos a Nightframes | CH 10 Oct 2026",
+    "publication_timestamp_as_observed": "2026-10-11T15:57:04-07:00",
+    "publication_madrid": "2026-10-12T00:57:04+02:00",
+    "relationship": "Doblaje que enlaza este original inglés en su descripción; referencia secundaria del enlace inicial del usuario.",
+    "primary_for_ingestion": false,
+    "transcript_archived": false,
+    "description_excerpt_as_observed": "Doblaje al español de \"What comes after the smart contract? Welcome to Nightframes\"\n\nPublicado en el canal de Youtube de Charles Hoskinson el 10 de Octubre de 2026",
+    "limitation": "Se consultó inicialmente y se exportaron sus subtítulos a un temporal; no se archivan ni se presentan como transcripción inglesa. La ingesta se basa en el original inglés por indicación del usuario."
+  },
+  "media_file_archived": false,
+  "media_preservation": "Se conserva la URL del vídeo original y sus subtítulos; no se ha descargado un archivo audiovisual completo.",
+  "limitations": [
+    "Subtítulos automáticos con nombres y términos ambiguos; se mantienen intactos en RAW.",
+    "Una presentación del promotor documenta declaraciones y planes; no certifica implementación, disponibilidad actual, garantías criptográficas o adopción.",
+    "Sin contraste de código, hardware, pruebas de borrado seguro, SDK, versiones o endpoints de Nightframes.",
+    "El material conserva un calendario relativo a la presentación de octubre; no se actualiza como promesa nueva al 16.",
+    "El final incluye tráiler/música y contenido no reconstruido desde el texto."
+  ],
+  "wiki_ingestion_record": "wiki/log.md; la operación posterior se registra allí sin reescribir este original.",
+  "license": "Licencia específica de la publicación no comprobada; se conserva la atribución a la fuente y no se le aplica una licencia nueva.",
+  "user_scope": "Archivo local e ingesta semántica, sin commit, push, mensajes, instalaciones o transacciones."
+}

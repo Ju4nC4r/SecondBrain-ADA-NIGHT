@@ -2,9 +2,20 @@
 title: "Midnight / NIGHT"
 type: entity
 created: "2026-10-05"
-updated: "2026-10-14"
+updated: "2026-10-23"
 tags: [midnight, night]
 sources:
+  - "../sources/2026-10-23-informe-ada-night-bitcoin.md"
+  - "../sources/2026-10-21-informe-angry-crypto-show.md"
+  - "../sources/2026-10-20-informe-angry-crypto-show.md"
+  - "../sources/2026-10-19-informe-ada-night-bitcoin.md"
+  - "../sources/2026-10-17-informe-angry-crypto-show.md"
+  - "../sources/2026-10-17-midnight-js-candidato.md"
+  - "../sources/2026-10-10-hoskinson-nightframes-tokio.md"
+  - "../sources/2026-10-15-informe-angry-crypto-show.md"
+  - "../sources/2026-10-16-informe-angry-crypto-show.md"
+  - "../sources/2026-10-16-informe-ada-night-bitcoin.md"
+  - "../sources/2026-10-15-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-14-lote-angry-crypto-show.md"
   - "../sources/2026-10-14-midnight-roadmap.md"
   - "../sources/2026-10-13-night-okj.md"
@@ -80,6 +91,10 @@ El [informe del 9](../sources/2026-10-09-informe-ada-night-bitcoin.md) no encuen
 
 La [roadmap primaria](../sources/2026-10-14-midnight-roadmap.md) prevé Q4 2026 para migración por etapas/recompensas por bloques y Q1 2027 para staking y apertura a SPO de Cardano. Planes futuros, no consenso nuevo o staking disponibles hoy. La fotografía histórica AURA/GRANDPA y los límites de mainnet se conservan. [Staking, DUST y ejecución](../concepts/roadmap-midnight-y-staking-night.md).
 
+## Revisión del 15 de octubre
+
+El [informe archivado](../sources/2026-10-15-informe-ada-night-bitcoin.md) añade a [NorthStar](northstar.md) según SIPO del 15: 1.014 transacciones, 283 intercambios y mediana de liquidación de 6 segundos en un primer día de beta sin fecha precisa. X fue inaccesible al autor; no hay verificación en cadena. No generalizar esas métricas a usuarios, demanda de NIGHT o rendimiento de toda la red. Se preserva el alcance limitado de las búsquedas anteriores.
+
 ## Relaciones
 
 - [Informe integrado del 6 de octubre](../reports/2026-10-06-seguimiento-ada-night-bitcoin.md).
@@ -99,3 +114,61 @@ Los episodios del [lote](../sources/2026-10-14-lote-angry-crypto-show.md) citan 
 El [informe del 13](../sources/2026-10-13-informe-angry-crypto-show.md) recoge el anuncio de OKJ y el [del 14](../sources/2026-10-14-informe-angry-crypto-show.md) una afirmación de operación activa. Ninguno verifica la operación efectiva. El [comunicado primario ya incorporado](../sources/2026-10-13-night-okj.md) documenta el horario previsto y conserva sus límites.
 
 [Sig.Network](sig-network.md) y las hipótesis sobre [Minswap](minswap.md) se conectan con [interoperabilidad, custodia y privacidad](../concepts/interoperabilidad-custodia-y-privacidad.md). Ledger v9, disponibilidad de una función de wallets, staking y consenso son estados distintos; la fotografía histórica del código se mantiene.
+
+## Revisión del 16 de octubre
+
+El [informe del 16](../sources/2026-10-16-informe-ada-night-bitcoin.md) no corrobora una novedad fundamental nueva en los canales revisados. Las nuevas referencias a [NorthStar](northstar.md) carecen de contraste primario y no se convierten en métricas confirmadas. La conclusión de búsqueda no prueba ausencia global ni invalida los hechos atribuidos del 15.
+
+## Angry Crypto Show: informes del 15 y 16, incorporados el 16
+
+El [informe del 15](../sources/2026-10-15-informe-angry-crypto-show.md) cita >1.400 contratos y >440.000 transacciones acumuladas, sin reproducción; los contratos no son los agentes de Midnight City. El [del 16](../sources/2026-10-16-informe-angry-crypto-show.md) cita 1.537 agentes conectados, >4.200 en cola y un crecimiento de actividad >9.000 % sin bases/ventanas reconstruidas. Agentes no se cuentan como humanos, contratos o validadores.
+
+Nightframes, anuncio próximo y panel del 22 se conservan como visión, declaración y agenda pendiente, no funciones entregadas o una nueva alianza con IBM confirmada. La relación histórica con CertiK no valida ese panel. El experimento cuántico citado no demuestra ruptura de Cardano o resistencia completa de Midnight; las colaboraciones específicas de Nightstream siguen sin verificar en el informe. La tesis de VirtualBacon sobre NIGHT depende de un repunte de ADA, sin entrada, stop o plazo, y no prueba estructura societaria común o correlación garantizada. [Planes y ejecución](../concepts/roadmap-midnight-y-staking-night.md).
+
+## Fuente directa de Nightframes incorporada el 16 de octubre
+
+La [presentación original de Hoskinson publicada el 10](../sources/2026-10-10-hoskinson-nightframes-tokio.md) precisa [Nightframes](../concepts/nightframes.md) y [Midnight City](midnight-city.md): identidad, intención, inteligencia, personalización, wallets y coordinación. Se incorpora el texto inglés como fuente directa de declaraciones, sin convertir privacidad, no custodia o ejecución demostrable en garantías verificadas.
+
+Passport, trading y habilidades conservan calendarios futuros relativos al discurso. La mención automática inicial «OKX» no se fusiona con la fuente existente de OKJ; audio/diapositiva pendientes. Se preservan el consenso histórico, tokenomics y las métricas atribuidas anteriores. [Síntesis del vídeo](../reports/2026-10-16-nightframes-presentacion-tokio.md).
+
+## Edición del 17, incorporada el 18 de octubre
+
+[midnight-js 5.0.0-rc.5](../sources/2026-10-17-midnight-js-candidato.md), publicación del 16 y lectura directa el 18. SDK candidato con cambios incompatibles, distinto de mainnet o staking. La anterior búsqueda limitada sin novedades se conserva; la ampliación a repositorios aporta una fuente adicional. [Versión y despliegue](../concepts/versiones-candidatas-y-despliegue.md).
+
+## Angry Crypto Show: Nightstream y Aztec en la edición del 17
+
+El [informe preparado el 18](../sources/2026-10-17-informe-angry-crypto-show.md) atribuye a la roadmap una línea de pruebas ZK poscuánticas, [Nightstream](nightstream.md), sin protección total ya desplegada verificada. El intercambio cordial entre Hoskinson y Zach Williamson y la expectativa del presentador no confirman un acuerdo con Aztec o producto conjunto. Ripple aparece como posibilidad deseada, sin anuncio confirmado.
+
+La pregunta de Tim Warren sobre si Midnight podría impulsar ADA es una hipótesis, sin acción operativa o causalidad comprobada. Se preservan la fotografía histórica del consenso, las limitaciones de los planes anteriores y la distinción entre desarrollo y ejecución.
+
+## Revisión del 19 de octubre
+
+El [informe del 19](../sources/2026-10-19-informe-ada-night-bitcoin.md) revisa listados de node y midnight-js sin corroborar novedad fundamental posterior a la versión candidata ya recogida. Conclusión limitada a canales consultados; no prueba de ausencia global, despliegue o precio.
+
+## Revisión del 20 de octubre
+
+El [informe del 20](../sources/2026-10-20-informe-ada-night-bitcoin.md) revisa blog oficial y releases de nodo y midnight-js sin nueva noticia fundamental corroborada. Resultado limitado a fuentes consultadas; las versiones candidatas previas no se repiten como nuevas.
+
+## Angry Crypto Show: informe del 20
+
+El [nuevo informe](../sources/2026-10-20-informe-angry-crypto-show.md) retoma [Nightframes](../concepts/nightframes.md), Passport y mercados de agentes, con conexiones propuestas y apertura futura. Los clips no verifican sistema completo, privacidad absoluta, ejecución infalible o resistencia total a apagado/ataques cuánticos. No se modifican la fotografía histórica del consenso o los hitos de staking.
+
+>525.000 transacciones/+19 % en cinco días y >1.600 agentes de City son atribuciones sin base/captura reproducidas. La narrativa poscuántica de VirtualBacon es tesis especulativa, sin entrada, objetivo o plazo; no protección de inversión comprobada. [Síntesis](../reports/2026-10-20-angry-crypto-show.md).
+
+## Revisión del 21 de octubre
+
+La [explicación oficial de Nightmode del 20](../sources/2026-10-21-midnight-nightmode.md) añade descripción primaria de bóvedas MPC y saldos privados representados; los importes del tramo público siguen visibles. No es verificación de disponibilidad general, adopción o seguridad auditada. La búsqueda limitada del informe anterior se conserva como fotografía, sin negar esta publicación posterior. [Nightmode](../concepts/nightmode-privacidad-entre-redes.md).
+
+## Angry Crypto Show: informe del 21
+
+La [nueva síntesis del canal](../reports/2026-10-21-angry-crypto-show.md) enlaza Nightmode con la fuente oficial ya incorporada; no otro anuncio que contar. El contraste del autor con SIG conserva stagenet, mainnet con ledger v9 y TRON en diciembre de 2026 como estados/planes declarados, no disponibilidad universal.
+
+Activos en origen y saldos representados no son el mismo objeto; importes/tiempos públicos de Ethereum permanecen visibles. [Offer Files](../concepts/offer-files-y-negociacion-privada.md), Collateral Warehouse Q1 de 2027 y liquidez institucional son descripción/planes, sin todas las funciones entregadas o capital captado. El screening y la promesa contra front-running no garantizan cumplimiento universal o privacidad absoluta. Se preservan consenso y staking históricos.
+
+## Revisión del 22 de octubre
+
+El [informe del 22](../sources/2026-10-22-informe-ada-night-bitcoin.md) no corrobora noticia fundamental posterior a lo ya recogido. Blog y nodo revisados; midnight-js falló dos veces por timeout. No ausencia global ni nuevo anuncio de Nightmode; impacto adicional no establecido.
+
+## Revisión del 23 de octubre
+
+[Freedom Fighters](../sources/2026-10-23-midnight-freedom-fighters.md), publicación y lanzamiento declarados del 22: cuatro episodios divulgativos, sin nueva tokenomics o despliegue. La publicación es posterior al corte anterior y no invalida la búsqueda limitada de ayer. El [reensayo de Hydra](../sources/2026-10-23-hydra-reensayo-glacier-drop.md) utiliza carga del Glacier Drop de 2025; no nuevo reparto NIGHT. Blog y repositorios consultados sin otra novedad relevante corroborada, sin afirmar ausencia global.

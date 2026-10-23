@@ -1,0 +1,32 @@
+{
+  "edition_date": "2026-10-17",
+  "redaction_and_image_date": "2026-10-18",
+  "archive_date": "2026-10-19",
+  "sent_at": "2026-10-19T07:40:25+02:00",
+  "verified_at": "2026-10-19T07:45:12+02:00",
+  "gmail_message_id": "1a152ace732317e9",
+  "gmail_thread_id": "1a152ace732317e9",
+  "headers": {
+    "to": "gallegojc@gmail.com",
+    "subject": "[Codex] Informe diario de ADA, NIGHT y Bitcoin — 2026-10-17",
+    "date": "Sun, 18 Oct 2026 22:40:25 -0700",
+    "message_id": "<CANZA1bRBSgpfMJ7-S-_Sd2C+u4HYvb41UjRvM8apc-8o+kczXw@mail.gmail.com>"
+  },
+  "sent_label_verified": true,
+  "recipient_verified": true,
+  "subject_verified": true,
+  "body_plain_exact_match": true,
+  "body_html_exact_match": true,
+  "body_plain_sha256": "9f1cb9bece90df54a7abc93f97a0f78326d035a0603e6e9536f8f450ad7cd799",
+  "body_html_sha256": "0e53c063885d6a5236c0b9b3d1c8cfff8a85cb9f55beb27239e642758c776fd3",
+  "report": "../reports/2026-10-17-informe-ada-night-bitcoin.md",
+  "report_sha256": "de14d9abad02baf59d106e4fa0fbb1494305ea56e480e038c5f48dfd7facdf01",
+  "image": "../images/2026-10-17-infografia-ada-night-bitcoin.png",
+  "image_bytes": 1635385,
+  "image_sha256": "bebe0e08b51d27496351c82a79962d9272f06f5ae9b3b290d6684a8aa4d59fa5",
+  "image_retrieved_from_gmail_and_identical": true,
+  "image_content_id": "infografia-ada-night-bitcoin-20261017",
+  "duplicate_check": "Consultas completadas de Enviados sin coincidencias; una consulta intermedia falló por transporte y se repitió correctamente antes del único envío.",
+  "recovery_limit": "Entrega tardía del 19 para edición del 17; no acredita lectura ni entrega en fecha programada.",
+  "date_clarification": "2026-10-17-aclaracion-fechas-edicion-informe.md"
+}

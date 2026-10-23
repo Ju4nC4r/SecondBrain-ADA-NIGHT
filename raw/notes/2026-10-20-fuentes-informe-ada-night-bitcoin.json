@@ -1,0 +1,79 @@
+{
+  "author": "Codex",
+  "chat_id": "01a0fb1b-0289-79a0-91cc-f6add3e697e9",
+  "report_date": "2026-10-20",
+  "cutoff": "2026-10-20T08:19:00+02:00",
+  "capture_at": "2026-10-20T08:21:58.806719+02:00",
+  "research_window": "Marcas de reloj 08:17:44–08:18:47 Europe/Madrid; sin hora individual por URL.",
+  "sources": [
+    {
+      "url": "https://cardanofoundation.org/blog",
+      "type": "listado oficial",
+      "publication_date": null,
+      "used": "Búsqueda limitada ADA"
+    },
+    {
+      "url": "https://midnight.network/blog",
+      "type": "listado oficial",
+      "publication_date": null,
+      "used": "Búsqueda limitada NIGHT"
+    },
+    {
+      "url": "https://github.com/midnightntwrk/midnight-node/releases",
+      "type": "versiones oficiales",
+      "publication_date": null,
+      "used": "Búsqueda limitada NIGHT"
+    },
+    {
+      "url": "https://github.com/midnightntwrk/midnight-js/releases",
+      "type": "versiones oficiales",
+      "publication_date": null,
+      "used": "Búsqueda limitada NIGHT"
+    },
+    {
+      "url": "https://farside.co.uk/btc/",
+      "author": "Farside Investors",
+      "type": "datos originales del proveedor",
+      "event_date": "2026-10-19",
+      "publication_time": null,
+      "used": "Fila doce fondos suma 526.7 millones USD; datos revisables"
+    },
+    {
+      "url": "https://www.strategy.com/press/strategy-repurchases-193-million-of-strc-acquires-267-btc-and-increases-digital-credit-securities-repurchase-program-to-3-billion_10-19-2026",
+      "author": "Strategy",
+      "type": "declaración primaria del emisor",
+      "publication_date": "2026-10-19",
+      "event_interval": [
+        "2026-10-12",
+        "2026-10-18"
+      ]
+    },
+    {
+      "url": "https://assets.contentstack.io/v3/assets/bltf8d808d9b8cebd37/blt075438553ed3641e/6ad5860b04e8526be47d2cab/form-8-k_10-19-2026.pdf",
+      "author": "Strategy; firmado Thomas C. Chow",
+      "publication_date": "2026-10-19",
+      "type": "formulario 8-K consultado en web, no archivado completo",
+      "used": "Tabla página 2; 267 BTC,22.1mUSD,82900USD/BTC,848517BTC"
+    },
+    {
+      "url": "https://crypto.news/cardano-project-catalyst-selects-12-projects-for-2-million-ada-pilot-fund/",
+      "author": "Rony Roy",
+      "publication_date": "2026-10-19T12:15:00Z",
+      "used": "Descartada como noticia nueva: remite a anuncio original del 24 septiembre"
+    },
+    {
+      "url": "https://projectcatalyst.io/blog/meet-the-12-teams-selected-for-the-catalyst-pilot-2026",
+      "author": "Catalyst Team",
+      "publication_date": "2026-09-24",
+      "used": "Contraste de fecha: selección antigua no repetida como novedad"
+    }
+  ],
+  "limitations": [
+    "Busqueda limitada a fuentes accesibles; no prueba ausencia global de noticias.",
+    "Yahoo devolvio 429; X devolvio 403; SIPO no ofrecio contenido legible.",
+    "No se archivan articulos ni PDF completos.",
+    "Tabla Farside transcrita; suma propia verificada, sin conciliacion por emisor.",
+    "8-K consultado como declaracion del emisor; no auditoria de reservas.",
+    "No cotizaciones actuales ni causalidad de precio comprobada."
+  ]
+}
