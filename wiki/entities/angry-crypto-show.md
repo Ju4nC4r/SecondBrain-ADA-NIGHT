@@ -53,8 +53,14 @@ El [nuevo análisis](../sources/2026-10-21-informe-angry-crypto-show.md), sobre 
 
 Nightmode se relaciona con la fuente primaria ya incorporada y los antecedentes de SIG sin duplicar anuncio. Pogun y los multiplicadores de Leios mantienen benchmark/calendario pendientes; capital blando no es depósito. La enmienda francesa ya recogida no acredita 31,4 % o ley vigente. Opiniones y Kalshi conservan atribuciones y lagunas.
 
-## Aviso del 23: dos vídeos sin contenido accesible
+## Aviso del 23: estado histórico de las 10:18, luego resuelto
 
 La [ficha del aviso](../sources/2026-10-23-aviso-angry-acceso-limitado.md) conserva dos publicaciones del 22 en Madrid: qhIpkbPM_jc, 23:13:57, y SCSBS7rDNKk, 00:20:46, esta última pendiente de la ejecución interrumpida del 22. Según los registros de origen, ambas pistas públicas devolvieron HTTP 200 y cero bytes; no hay transcripción legible o revisión audiovisual íntegra.
 
 Se incorpora el aviso y su imagen, sin añadir noticias o recomendaciones desde títulos, repetir el análisis del 21 o marcar estos vídeos como analizados. El seguimiento mantiene **once análisis de vídeo y dos avisos de estado**, con **dos vídeos pendientes**. Entrega del aviso del 23 registrada separadamente del archivo y de la ingesta; no se reenvía correo.
+
+## Revisión completa del 23: acceso recuperado
+
+La [misma ficha del 23](../sources/2026-10-23-aviso-angry-acceso-limitado.md) incorpora dos TXT ingleses completos, SCSBS7rDNKk 00:00–11:30 y qhIpkbPM_jc 00:00–12:21, informe completo y nueva imagen. El aviso de acceso limitado y su entrega siguen como historial; no se crean otras fichas para esos mismos vídeos.
+
+Estado actual: **trece vídeos analizados, dos avisos históricos conservados y los dos pendientes del aviso inicial resueltos**. La revisión completa **no figura enviada** y permanece local. Audio/gráficas sin revisión íntegra; los contrastes externos son del autor del informe, sin nueva auditoría por la ingesta. Se distinguen solicitud SEC, recuento agrícola declarado, Dynamic anterior, CNT futuro, planes y métricas/opiniones atribuidas.

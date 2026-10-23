@@ -5,6 +5,7 @@ created: "2026-10-05"
 updated: "2026-10-23"
 tags: [metricas, cardano, midnight]
 sources:
+  - "../sources/2026-10-23-aviso-angry-acceso-limitado.md"
   - "../sources/2026-10-23-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-21-informe-angry-crypto-show.md"
   - "../sources/2026-10-20-informe-angry-crypto-show.md"
@@ -101,3 +102,11 @@ El [caso agrícola de India](../sources/2026-10-22-cardano-registros-agricolas-i
 ## Revisión del 23 de octubre
 
 El [ensayo de Hydra](../sources/2026-10-23-hydra-reensayo-glacier-drop.md) cuenta reclamaciones/s de una carga, no humanos nuevos o demanda de tokens. Los [cuatro episodios de Midnight](../sources/2026-10-23-midnight-freedom-fighters.md) son producción divulgativa, no usuarios o actividad de cadena medidos. Los [flujos ETF](../sources/2026-10-23-farside-flujos-bitcoin.md) son millones USD por sesión y revisables; no cotizaciones ni capacidad de protocolo.
+
+## Revisión completa de Angry del 23: población, redes y liquidez
+
+La [revisión](../sources/2026-10-23-aviso-angry-acceso-limitado.md) separa >100.000 explotaciones declaradas por Syngenta de 50.000 agricultores del relato, sin equivalencia de población o suma. La fuente agrícola es la ya incorporada; no se registra otro hito por repetición.
+
+ADA hasta 310 millones USD, Polymarket >3,2 millones y Kalshi >570.000 frente a >740.000 en A son capturas/ventanas no reproducidas, sin suma o crecimiento continuo probado. Strike >260.000 vía sUSDrf y Solada >11 millones ADA/≈100.000 de recompensas no son pagos auditados o beneficio neto. >1,4 millones de transacciones del token NIGHT en Cardano no es actividad privada de la red Midnight o personas.
+
+La proyección de 1.000 millones USD de liquidez por Aave difiere del objetivo de capitalización a 36 meses: no saldo captado o compromiso. Mindshare, bases potenciales y escenarios masivos no prueban adopción económica.

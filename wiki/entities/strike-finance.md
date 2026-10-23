@@ -2,9 +2,10 @@
 title: "Strike Finance"
 type: entity
 created: "2026-10-16"
-updated: "2026-10-21"
+updated: "2026-10-23"
 tags: [strike, cardano, defi]
 sources:
+  - "../sources/2026-10-23-aviso-angry-acceso-limitado.md"
   - "../sources/2026-10-21-informe-angry-crypto-show.md"
   - "../sources/2026-10-20-informe-angry-crypto-show.md"
   - "../sources/2026-10-15-informe-angry-crypto-show.md"
@@ -32,3 +33,9 @@ El canal cita >1 millón USD de TVL de la bóveda y 200.000 USD desplegados medi
 El [canal](../sources/2026-10-21-informe-angry-crypto-show.md) cita >1.800 millones USD de volumen acumulado y >6.600 operadores únicos, sin series o definición reproducidas. No capitalización, TVL o personas comprobadas. Anuncia hackathon el 21, 48 horas y 3.000 USD; bases, celebración y premios pagados no verificados. Su hora Eastern no se convierte sin aclaración.
 
 La asignación empresarial de sUSDrf conserva la discrepancia BlockFi/Blockenfy, sin identidad o transacciones contrastadas; no se atribuye al antiguo prestamista. El elogio del desarrollo no es orden de depósito ni actualiza APR. Las rutas de SundaeSwap/Indigo se relacionan con [RealFi](realfi.md), sin ejecución propia comprobada.
+
+## Revisión completa del 23: proyección por Aave
+
+El [vídeo A](../sources/2026-10-23-aviso-angry-acceso-limitado.md) atribuye hasta **1.000 millones USD de liquidez potencial** a Aave, sin capital captado, plazo, compromiso o operación contrastados. Es distinto del **objetivo de capitalización en 36 meses** del informe del 20; no se sustituye una magnitud por otra o se suman.
+
+B cita >260.000 USD mediante sUSDrf en menos de dos semanas y listados DOGE/LIT hasta 20x, sin series o condiciones actuales verificadas. Elogio, integración narrada y liquidez potencial no acreditan retorno o depósito recomendado; los riesgos del apalancamiento permanecen.

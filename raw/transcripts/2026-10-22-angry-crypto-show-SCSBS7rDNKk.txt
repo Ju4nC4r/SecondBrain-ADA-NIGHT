@@ -1,0 +1,295 @@
+YouTube transcript
+Video ID: SCSBS7rDNKk
+Language: en
+Captions: auto-generated
+
+[0:00] What is good, Cardano fam? ADA gang,
+[0:02] with lots of exciting updates to unpack
+[0:03] today. So, hit that subscribe, hit that
+[0:05] like. Cardano ADA 24-hour trade volume
+[0:08] surpasses $300 million according to
+[0:10] CoinGecko.
+[0:12] CoinMarketCap ranks Cardano as the 11th
+[0:15] most viewed cryptocurrency, surpassing
+[0:17] hyper-liquid, Monero, Chainlink,
+[0:19] Dogecoin, BNB, and Tron.
+[0:22] Blockworks ranks Cardano as the fourth
+[0:25] highest mind share, yet again, right
+[0:27] behind Ethereum at 3%, surpassing BNB,
+[0:31] hyper-liquid, BitTensor, XRP, and Zcash.
+[0:36] ADA generated over $740,000
+[0:39] in 24-hour trade volume on Calshee's
+[0:42] crypto perpetuals, surpassing Chainlink
+[0:44] and BNB.
+[0:47] Cardano, Chainlink, Hedera, Stellar,
+[0:50] Aptos, and Avalanche have come together
+[0:52] in a partnership in a joint letter
+[0:55] urging the SEC to codify its digital
+[0:58] commodity framework.
+[1:00] So, some more context. Cardano
+[1:02] Foundation says earlier this year, the
+[1:04] SEC classified ADA as a digital
+[1:07] commodity, not a security. The joint
+[1:10] letter, co-signed by all these founding
+[1:12] entities, urges the SEC to establish
+[1:16] that officially for regulatory certainty
+[1:19] in the United States. So great to see
+[1:21] this partnership that despite what we
+[1:23] see on the timeline, behind the scenes,
+[1:26] a lot of these prominent blockchain
+[1:28] entities are indeed working together.
+[1:32] Latam Blockchain events, producing the
+[1:34] leading financial summits in Latin
+[1:36] America, including Peru Blockchain
+[1:38] Conference, the largest crypto event in
+[1:41] Peru with 10,000 attendees, has deployed
+[1:44] ADA into RealFi via SundaeSwap. So, good
+[1:48] to see a lot of these initiatives to
+[1:50] drive more Cardano DeFi.
+[1:52] Cardano's Strike Finance responds to
+[1:55] Citi Research positioning Aave as a
+[1:58] collateral mobility protocol for
+[2:00] tokenized capital markets, says, "We've
+[2:03] barely tapped into how powerful our Aave
+[2:06] integration is. This integration alone
+[2:09] could bring in $1 billion in liquidity
+[2:12] to Strike." So, Strike has already
+[2:14] integrated Aave, and so there's massive
+[2:17] potential here for Strike Finance.
+[2:20] Cardano Foundation announces 100,000
+[2:23] farms in India are now registered on the
+[2:25] Cardano blockchain, marking a milestone
+[2:28] for 5AM Earth's agricultural trust
+[2:31] layer, bringing farm data on chain to
+[2:34] support more verifiable, reusable
+[2:37] records across the ecosystem. Again,
+[2:40] advancing real-world adoption. Great to
+[2:43] see.
+[2:44] Grock says Cardano founder Charles
+[2:46] Hoskinson's ideas are a few light-years
+[2:49] ahead.
+[2:50] I agree. Look at his bets with
+[2:52] post-quantum privacy, agentic trading.
+[2:56] Especially privacy. Speaking of, Charles
+[2:59] Hoskinson says, "Welcome to Midnight
+[3:02] Tron." And he tags Justin Sun. This is
+[3:05] in response to yesterday's post, where
+[3:08] Midnight's night mode will be bringing
+[3:10] privacy to Tron and anyone doing
+[3:12] payments on Tron in December of this
+[3:14] year.
+[3:15] It's private, and more importantly, it's
+[3:18] compliant. You can use industry standard
+[3:20] screening tools that centralized
+[3:22] exchanges use, according to Sing
+[3:24] Network's CEO. So, night's mode will be
+[3:27] plugging into Ethereum, Bitcoin, Tron,
+[3:30] many different networks, but I'm very
+[3:32] excited for this because Justin and
+[3:34] Charles have a great relationship, and
+[3:36] also massive amounts of transfers and
+[3:40] capital on Tron, especially stablecoins.
+[3:43] Cardano's linear layer
+[3:45] can achieve up to 60x throughput. That's
+[3:48] the max ceiling. 10 to 15x is the first
+[3:51] target in our release plan. It would not
+[3:53] make economic sense for stake pool
+[3:56] operators to run on more resources
+[3:58] without a corresponding demand of that
+[4:01] throughput on the other side, according
+[4:03] to the product manager Carlos Lopez de
+[4:06] Lara. So, it doesn't mean 60 x is the
+[4:09] end all be all, but they're just being
+[4:11] progressive. And the reason why it's
+[4:13] referred to as linear layer os is that
+[4:16] this goes back to Cardano's plan of a
+[4:18] infinitely scalable Cardano that it can
+[4:21] be in stages, like a tick-tock model as
+[4:24] you see with CPUs that continue to get
+[4:26] more and more efficient.
+[4:28] Cardano Foundation CEO Frederick
+[4:30] Gregaard says, "We really nailed digital
+[4:33] identity. We're now able to incorporate
+[4:35] legal entity identifiers, which the
+[4:38] whole tradfi world already uses
+[4:40] off-chain. We can do that on-chain,
+[4:43] embed that into the tokens, amazing
+[4:45] win."
+[4:46] He says, "We just announced Fireblocks,
+[4:48] a native integration. Any type of
+[4:51] tokenized asset will be automatically
+[4:53] enabled in the Fireblocks host. Well,
+[4:56] Fireblocks aims to fully support CNTs by
+[4:58] March of next year across its bank,
+[5:01] exchange, payment, and fintech clients."
+[5:05] Cardano Foundation via CIP-113 has fully
+[5:09] tokenized 850,000 shares in a private
+[5:12] company. The ownership rights are
+[5:14] one-to-one, a token living on Cardano
+[5:17] exactly the same as if you had the
+[5:19] equity, corporate governance, voting,
+[5:22] you name it, you have the same legal
+[5:24] rights.
+[5:26] On CIP-113,
+[5:28] Frederick says, "I'm dreaming of a
+[5:29] future where all this tokenization comes
+[5:32] with added value and not retracted
+[5:34] value. The same benefits of owning the
+[5:37] real underlying asset, now we can
+[5:39] finally do it on Cardano."
+[5:42] He says, "Five of the top 10
+[5:44] applications on Cardano in terms of
+[5:46] transactions are enterprise use cases.
+[5:50] And he begins by highlighting midnight.
+[5:52] He says midnight run by Charles
+[5:53] Hoskinson, amazing privacy scheme.
+[5:58] He says Trivolve's forensic management
+[6:00] system powered by Cardano is
+[6:02] safeguarding evidence on chain for
+[6:04] police stations in India.
+[6:06] You have more efficiency in the
+[6:08] investigation and court of law. It's
+[6:10] cheaper. It's getting trust back in
+[6:12] institutions.
+[6:15] He says Cardano is enabling 50,000
+[6:17] farmers using low orbit satellites
+[6:19] getting jobs they couldn't get before,
+[6:21] staying in the community and getting
+[6:23] education. Blockchain is bringing trust
+[6:26] back into the financial institutions.
+[6:29] Charles in a recent interview says
+[6:31] Midnight's value proposition to Cardano
+[6:33] is Cardano now has a privacy layer. It
+[6:36] has a VPN for DeFi. So, all Cardano DeFi
+[6:40] can be private. And that's the same
+[6:42] value proposition that Solana, Ethereum,
+[6:45] Bitcoin, and others are going to get.
+[6:47] He says, "If you're a VPN for DeFi, you
+[6:50] click the button in your wallet, you go
+[6:52] through the midnight network, you do
+[6:53] your DeFi on Solana, Ethereum, or
+[6:55] Cardano.
+[6:57] And from their perspective, it's
+[6:59] midnight doing that transaction on your
+[7:01] behalf.
+[7:02] And so, you've added privacy, safety,
+[7:04] simplicity, universality, a great user
+[7:07] experience, very easy to use." And I
+[7:09] totally agree with this mission. I think
+[7:11] it's fantastic.
+[7:14] Charles says, "I was just at a Solana
+[7:16] event. They were very gracious. We added
+[7:18] Solana support into midnight. So, the
+[7:21] Ledger V9 upgrade is going to be
+[7:23] critical for a lot of these kind of
+[7:25] cross-chain endeavors we're seeing with
+[7:27] midnight coming towards the end of the
+[7:29] year."
+[7:30] Charles says the consumer revolution is
+[7:31] finally here. We're going to see
+[7:33] hundreds of millions of new people
+[7:35] enter. They won't even know they're
+[7:37] using crypto or crypto rails. It'll be a
+[7:40] natural extension of AI tools and
+[7:43] financial infrastructure they're already
+[7:45] using.
+[7:46] I agree with this. We're seeing the
+[7:48] convergence of everything. This in a
+[7:50] nutshell agrees with the statement we've
+[7:51] made earlier
+[7:53] that I think the mass on-boarder is
+[7:55] going to be MAG 7 coming in, existing
+[7:58] financial tools, AI being an accelerator
+[8:00] to everything, the convergence of
+[8:02] TradFi, crypto, and all these things
+[8:05] coming together.
+[8:06] So, what else is going on? Watcher Guru
+[8:08] says
+[8:09] President Trump to announce crackdown on
+[8:11] crypto scams targeting Americans. Well,
+[8:14] we'll see if he starts with Trump coin.
+[8:17] >> [snorts]
+[8:17] >> US officially finalizes new crypto
+[8:19] stablecoin regulations under the genius
+[8:22] act.
+[8:23] Judge orders Meta to pay $25 billion for
+[8:27] misleading users about their privacy.
+[8:30] Well, it looks like privacy's heating up
+[8:32] as a narrative from Web 2 to Web 3.
+[8:34] Tesla reveals none of its $972 million
+[8:38] of Bitcoin was sold in Q3 of 2026. And
+[8:42] finally, let's give a shout-out to the
+[8:44] sponsor of Angry Crypto Show here on
+[8:46] YouTube. We're officially sponsored by
+[8:48] Kalshi. Kalshi brought the first CFTC
+[8:51] regulated crypto perps in the United
+[8:54] States. And so, if you want to trade
+[8:55] crypto perps, they have 19 crypto perps,
+[8:58] a very short list that ADA was included
+[9:00] in.
+[9:01] Go ahead and check out my link in the
+[9:03] video description. You get a bonus sent
+[9:05] your way, and this is available to
+[9:07] US-based users. So, thank you to Kalshi
+[9:10] for sponsoring the show. Let's hop over
+[9:12] to price
+[9:14] where ADA has climbed up slightly, was
+[9:16] dancing a little bit with 23 cents,
+[9:18] currently at 227.
+[9:20] Over for BTC, 847. Impressive to see the
+[9:23] nice pump. I'm glad to see that, and I
+[9:25] think alts will follow. XRP likewise,
+[9:28] good pump, 1.38. So, I think right now
+[9:31] this choppiness is to be expected, and
+[9:34] I'm going to continue to watch the
+[9:35] market, but I'm feeling really good
+[9:37] about these blue chip alts, ADA, XRP,
+[9:41] and many others. An established brand, a
+[9:43] strong community, strong fundamentals,
+[9:46] and I think that we have great marketing
+[9:49] events also. I think with Leios, with
+[9:52] the privacy of Midnight, with
+[9:53] post-quantum that Midnight is pursuing
+[9:56] as well, but just those basics, like I
+[9:59] said, the qualitative things,
+[10:02] brand, network effect, you can't emulate
+[10:05] those. And like I said in a previous
+[10:07] video, Abstract, where is it? They're
+[10:09] closing. Blast, where is it? They're
+[10:11] closing. So, a lot of those layer twos,
+[10:13] they just haven't made it. And so, I
+[10:15] think a lot of people, in the words of
+[10:17] Virtual Bacon, will see the post-quantum
+[10:20] narrative, and they're going to want a
+[10:21] hedge. They're going to want exposure
+[10:23] and/or protection against the potential
+[10:27] of legacy systems breaking.
+[10:29] Where will they flock to? I think they
+[10:31] will flock to big projects like the
+[10:33] Midnight, like another one that's
+[10:35] similar, right? The Zcashes, etc., so
+[10:38] that they can hedge their bets.
+[10:40] And I will see I think we'll see an
+[10:42] extension of that also to Cardano, XRP,
+[10:45] so on and so forth. So, the highlights
+[10:48] for me, big shoutout to Brock. Uh I
+[10:50] would say
+[10:53] Hmm. I think the highlight definitely
+[10:54] goes to this letter. It was unexpected,
+[10:57] but it's great to see. I see a lot of
+[10:58] outlets that have picked up this news,
+[11:00] and it's good uh optics for Cardano,
+[11:03] definitely, to be in the conversation,
+[11:05] even if it's as simp- something as
+[11:07] simple as co-signing a legal letter.
+[11:11] Stuff like this have an impact, and
+[11:13] people pick up on it, and they see
+[11:15] Cardano in there, they see it amongst
+[11:16] Chainlink and Stellar, and I think it's
+[11:18] good for our brand. So, a lot of great
+[11:21] wins across the board, big and small.
+[11:23] We'll continue to watch the ecosystem.
+[11:25] So, let me know your thoughts, guys.
+[11:27] Smash that subscribe, smash that like,
+[11:29] and I'll see you in the next Angle
+[11:30] Crypto show.

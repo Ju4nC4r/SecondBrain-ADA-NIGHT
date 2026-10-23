@@ -2,9 +2,10 @@
 title: "Solada: reservas, custodia y mercados separados"
 type: entity
 created: "2026-10-14"
-updated: "2026-10-20"
+updated: "2026-10-23"
 tags: [solada, cardano, solana, custodia]
 sources:
+  - "../sources/2026-10-23-aviso-angry-acceso-limitado.md"
   - "../sources/2026-10-20-informe-angry-crypto-show.md"
   - "../sources/2026-10-14-informe-angry-crypto-show.md"
 ---
@@ -22,3 +23,7 @@ El autor propone conocer el proyecto; no expresa una orden de comprar SOLADA. La
 ## Métricas atribuidas en el informe del 20
 
 El [canal](../sources/2026-10-20-informe-angry-crypto-show.md) cita 8,5 millones ADA de volumen y 77.000 ADA de recompensas en diez días, sin series o pagos reproducidos. No son beneficio neto, personas o seguridad demostrados; no modifican por sí solos los límites de custodia y mercados separados descritos antes.
+
+## Cifras de la revisión completa del 23
+
+B [según el informe](../sources/2026-10-23-aviso-angry-acceso-limitado.md) cita >11 millones ADA de volumen, cerca de 100.000 ADA en recompensas e incorporación de NIGHT para recompensas dobles. Sin series, pagos o despliegue reproducidos; no beneficio neto, nueva liquidez, seguridad o cambio de custodia verificados. No se reconstruye crecimiento uniforme desde episodios previos.

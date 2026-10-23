@@ -2,9 +2,10 @@
 title: "Nightmode: arquitectura y privacidad entre redes"
 type: concept
 created: "2026-10-21"
-updated: "2026-10-21"
+updated: "2026-10-23"
 tags: [midnight, nightmode, privacidad, interoperabilidad]
 sources:
+  - "../sources/2026-10-23-aviso-angry-acceso-limitado.md"
   - "../sources/2026-10-21-informe-angry-crypto-show.md"
 ---
 
@@ -23,3 +24,9 @@ Los [antecedentes de SIG Network](../entities/sig-network.md) ya describían dem
 El [informe derivado](../sources/2026-10-21-informe-angry-crypto-show.md) añade la lectura del proveedor SIG: **stagenet ahora, mainnet con ledger v9, TRON en diciembre de 2026**. Son estado/calendario declarados; no prueba nueva de disponibilidad general. El anuncio oficial del 20 se enlaza con su ficha existente, sin duplicarlo.
 
 Los activos nativos permanecen en origen; los saldos privados representados en Midnight no hacen invisibles importes o tiempos públicos en Ethereum. La frase del vídeo sobre llevar tokens a una bóveda en Midnight simplifica esa distinción. Screening no es prueba de cumplimiento universal; faltan auditorías de seguridad, custodia y ejecución. [Offer Files](offer-files-y-negociacion-privada.md) y [roadmap](roadmap-midnight-y-staking-night.md) conservan funciones y ventanas futuras sin garantías absolutas.
+
+## Revisión completa del 23: planes y confirmación pendiente
+
+Los [dos vídeos recuperados](../sources/2026-10-23-aviso-angry-acceso-limitado.md) retoman stagenet/Ethereum, v9 y TRON previsto en diciembre de 2026. B reconoce no haber visto confirmación de TRON/Justin Sun: no prueba de acuerdo bilateral o despliegue actual. La metáfora VPN para DeFi no elimina la visibilidad de importes/tiempos en la cadena pública ni certifica cumplimiento universal por screening.
+
+La integración anterior de [Dynamic](../entities/dynamic.md) y las funciones futuras de Passport son componentes distintos, sin garantías transferibles por asociación. Se mantiene el anuncio oficial del 20 como referencia, sin otro lanzamiento que contar.

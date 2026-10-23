@@ -1,6 +1,8 @@
 # Entidades: proyectos, organizaciones, personas y activos
 
-Última actualización: **23 de octubre de 2026, 10:39 (Europe/Madrid)**.
+Última actualización: **23 de octubre de 2026, 11:59 (Europe/Madrid)**.
+
+- [Dynamic](dynamic.md): integración de wallets anterior, distinta del soporte CNT futuro.
 
 - [Syngenta Foundation India](syngenta-foundation-india.md): infraestructura agrícola y registros declarados en Cardano.
 

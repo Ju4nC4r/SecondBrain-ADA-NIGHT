@@ -1,0 +1,70 @@
+{
+  "channel": "Angry Crypto Show",
+  "report_date": "2026-10-23",
+  "revision_id": "complete-after-transcript-access",
+  "report_type": "complete_report_revision",
+  "prepared_at_utc": "2026-10-23T09:49:55.591887+00:00",
+  "archived_at_utc": "2026-10-23T09:49:55.591887+00:00",
+  "source_cutoff_local": "2026-10-23T11:49:00+02:00",
+  "publication_copy_of_original_sha256": "280096232b308ac620bb8a43888604cb767ec6138778647d0ecb923174a3be97",
+  "publication_scope": "Copia para publicación: análisis y fuentes públicas; excluidos identificadores de correo y rutas locales. Original íntegro conservado localmente.",
+  "source_videos": [
+    {
+      "video_id": "SCSBS7rDNKk",
+      "video_url": "https://www.youtube.com/watch?v=SCSBS7rDNKk",
+      "title": "Midnight To Unlock Private TRON! Grok: \"Charles Is Light-Years Ahead.\" Angry Crypto Reacts",
+      "publication_timestamp": "2026-10-21T15:20:46-07:00",
+      "publication_madrid": "2026-10-22T00:20:46+02:00",
+      "review_scope": "Transcripción completa 00:00–11:30; inglés automático de YouTube"
+    },
+    {
+      "video_id": "qhIpkbPM_jc",
+      "video_url": "https://www.youtube.com/watch?v=qhIpkbPM_jc",
+      "title": "ADA Perps Volume Skyrockets! Charles Officially Welcomes TRON! Angry Crypto Reacts",
+      "publication_timestamp": "2026-10-22T14:13:57-07:00",
+      "publication_madrid": "2026-10-22T23:13:57+02:00",
+      "review_scope": "Transcripción completa 00:00–12:21; inglés automático de YouTube"
+    }
+  ],
+  "source_recorded_limitations": [
+    "Subtítulos automáticos completos traducidos; posibles errores en nombres y cifras.",
+    "Audio y gráficas sin revisión íntegra.",
+    "Las declaraciones no cotejadas permanecen atribuidas.",
+    "Archivo no equivale a ingesta terminada."
+  ],
+  "supersedes_access_limitation_of": {
+    "path": "raw/notes/2026-10-23-informe-angry-crypto-show.md",
+    "sha256": "024714121eead47ee2542ea0e6720387c7e73cdcc5ae222ea31ba5f2278d661f",
+    "original_preserved": true
+  },
+  "files": [
+    {
+      "role": "report",
+      "path": "raw/notes/2026-10-23-informe-angry-crypto-show-revision-completa-publicacion.md",
+      "relative_link_from_metadata": "2026-10-23-informe-angry-crypto-show-revision-completa-publicacion.md",
+      "sha256": "0e7c414151b71846845d4d0cf504f78109ae4f1383a624187b824df4eb23ce54",
+      "size_bytes": 11523
+    },
+    {
+      "role": "infographic",
+      "path": "raw/images/2026-10-23-infografia-angry-crypto-show-revision-completa.png",
+      "relative_link_from_metadata": "../images/2026-10-23-infografia-angry-crypto-show-revision-completa.png",
+      "sha256": "b3b1d04cd86f57cf88497988c7fd4f06f0e05c599626260d452041b3588dfd48",
+      "size_bytes": 1673524
+    },
+    {
+      "role": "transcript",
+      "path": "raw/transcripts/2026-10-22-angry-crypto-show-SCSBS7rDNKk.txt",
+      "relative_link_from_metadata": "../transcripts/2026-10-22-angry-crypto-show-SCSBS7rDNKk.txt",
+      "sha256": "baf746835b62fc35be27dc1a5fbfe41c0cbf5d05cc43de4a63b0a9d5d544b212",
+      "size_bytes": 12307
+    },
+    {
+      "role": "transcript",
+      "path": "raw/transcripts/2026-10-22-angry-crypto-show-qhIpkbPM_jc.txt",
+      "relative_link_from_metadata": "../transcripts/2026-10-22-angry-crypto-show-qhIpkbPM_jc.txt",
+      "sha256": "c02c4737204af86a01fc0927358b95f925daca6c2af3d4e3b71807399241480a",
+      "size_bytes": 12973
+    }
+  ]
+}

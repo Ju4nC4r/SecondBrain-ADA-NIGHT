@@ -2,9 +2,10 @@
 title: "Midnight: roadmap y staking de NIGHT"
 type: concept
 created: "2026-10-14"
-updated: "2026-10-21"
+updated: "2026-10-23"
 tags: [ada, night, bitcoin, seguimiento]
 sources:
+  - "../sources/2026-10-23-aviso-angry-acceso-limitado.md"
   - "../sources/2026-10-21-informe-angry-crypto-show.md"
   - "../sources/2026-10-20-informe-angry-crypto-show.md"
   - "../sources/2026-10-17-informe-angry-crypto-show.md"
@@ -60,3 +61,7 @@ La [explicación de Nightmode del 20](../sources/2026-10-21-midnight-nightmode.m
 El [informe](../sources/2026-10-21-informe-angry-crypto-show.md) conserva la documentación de SIG como stagenet disponible, mainnet con ledger v9 y TRON previsto para diciembre de 2026. Collateral Warehouse se sitúa en Q1 de 2027 y varias capacidades de ofertas privadas entre Q4 de 2026 y Q1 de 2027, según la roadmap consultada por el autor; no se aplica la ventana a todo el sistema.
 
 La fuente oficial de Nightmode ya incorporada no demuestra todas esas entregas. [Offer Files](offer-files-y-negociacion-privada.md), dark pools y casos institucionales mantienen límites y capital potencial sin captar; no alteran por sí solos staking o la fotografía del consenso.
+
+## Revisión completa de Angry del 23
+
+El [autor](../sources/2026-10-23-aviso-angry-acceso-limitado.md) documenta Nightstream y Passport SDK v1 para Q4 de 2026 y Collateral Warehouse para Q1 de 2027 como objetivos. No resistencia poscuántica total o protección completa frente a agentes ya entregadas. SIG mantiene stagenet/Ethereum, mainnet con v9 y TRON previsto para diciembre, sin confirmación bilateral encontrada por el presentador. La publicación anterior de Dynamic no cambia CNT de Fireblocks, staking o la fotografía histórica del consenso.

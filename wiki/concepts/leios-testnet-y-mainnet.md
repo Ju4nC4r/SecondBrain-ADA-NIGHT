@@ -2,9 +2,10 @@
 title: "Leios: testnet, resultados y mainnet"
 type: concept
 created: "2026-10-14"
-updated: "2026-10-21"
+updated: "2026-10-23"
 tags: [ada, night, bitcoin, seguimiento]
 sources:
+  - "../sources/2026-10-23-aviso-angry-acceso-limitado.md"
   - "../sources/2026-10-21-informe-angry-crypto-show.md"
   - "../sources/2026-10-20-informe-angry-crypto-show.md"
   - "../sources/2026-10-17-informe-angry-crypto-show.md"
@@ -51,3 +52,7 @@ El [canal atribuye a Hoskinson](../sources/2026-10-20-informe-angry-crypto-show.
 El [canal](../sources/2026-10-21-informe-angry-crypto-show.md) atribuye a IOG 3–5x del throughput actual como inicio y 10–15x sujeto a resultados en mainnet, con aumentos posteriores según demanda y economía de operar la red. El autor enlaza CIP-164 y el sitio técnico para diseño/pruebas, sin cotejar el hilo original o reproducir multiplicadores.
 
 La enumeración de Leios, nested transactions, cuentas, guard scripts, Plutus V4 y recompensas retirables es plan de hard fork, no activación comprobada. El escalado gradual matiza la valoración de «infinito» del episodio anterior, sin convertir ninguna expresión en benchmark o TPS garantizados.
+
+## Discrepancia conservada: revisión completa de Angry del 23
+
+A [según la revisión](../sources/2026-10-23-aviso-angry-acceso-limitado.md) atribuye a Carlos López de Lara hasta **60x** como techo y **10–15x** como primera meta, según demanda/costes. El [informe del 21](../sources/2026-10-21-informe-angry-crypto-show.md) había recogido **3–5x inicial y 10–15x posterior**. Sin declaraciones originales cotejadas o benchmark, se mantienen ambas versiones y sus atribuciones; no se resuelve como cambio oficial, error o rendimiento ya entregado. Tampoco «infinito» se convierte en un dato experimental.

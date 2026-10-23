@@ -1,6 +1,6 @@
 # Conceptos
 
-Última actualización: **23 de octubre de 2026, 10:26 (Europe/Madrid)**.
+Última actualización: **23 de octubre de 2026, 11:59 (Europe/Madrid)**.
 
 - [Regulación por actividad y participación de protocolo](regulacion-por-actividad-y-participacion-protocolo.md): postura atribuida, norma y servicios por distinguir.
 

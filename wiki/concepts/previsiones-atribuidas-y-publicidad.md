@@ -2,9 +2,10 @@
 title: "Previsiones atribuidas, recomendaciones y publicidad"
 type: concept
 created: "2026-10-14"
-updated: "2026-10-21"
+updated: "2026-10-23"
 tags: [medios, previsiones, publicidad, ada]
 sources:
+  - "../sources/2026-10-23-aviso-angry-acceso-limitado.md"
   - "../sources/2026-10-21-informe-angry-crypto-show.md"
   - "../sources/2026-10-20-informe-angry-crypto-show.md"
   - "../sources/2026-10-17-informe-angry-crypto-show.md"
@@ -64,3 +65,9 @@ El [presentador](../sources/2026-10-21-informe-angry-crypto-show.md) conserva op
 Pogun ofrece potencial según el autor, sujeto a lanzamiento/eficiencia sin contrastar y sin producto, tasa o importe recomendado. Saylor y la comparación de JPM a diez años son previsiones, no certezas; la fuente primaria de JPM ya archivada no valida toda la comparación del vídeo.
 
 Kalshi aparece como patrocinador de perpetuos para estadounidenses, con unos 19 mercados y apalancamiento calificado de razonable por el canal. Términos/eligibilidad actuales no verificados íntegramente; no recomendación propia para España. El riesgo de apalancamiento no desaparece con la promoción.
+
+## Revisión completa del 23: preferencias sin plan operativo
+
+Los [textos A/B](../sources/2026-10-23-aviso-angry-acceso-limitado.md) recogen preferencia ADA/XRP, recuperación de altcoins y horizonte genérico Q4/semanas-meses, sin orden, asignación, entrada, objetivo, stop o probabilidad. En B **0,20 USD es preocupación del presentador, no stop o venta indicada**; cerca de 0,21 es referencia de grabación, no cotización actual. No se heredan condiciones de otros episodios.
+
+Exposición poscuántica mediante Midnight/Zcash es expectativa del autor, sin eficacia de cobertura o beneficios demostrados. Liquidez potencial de Strike no es capital captado o recomendación de depósito. Kalshi sigue como patrocinio para usuarios de EE. UU., sin términos completos o elegibilidad del lector verificados. Los titulares externos no cotejados no se convierten en hechos o señales de inversión.

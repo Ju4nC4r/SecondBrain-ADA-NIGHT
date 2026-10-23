@@ -1,6 +1,6 @@
 # 🧠 Índice de la wiki
 
-Última actualización: **23 de octubre de 2026, 10:39 (Europe/Madrid)**.
+Última actualización: **23 de octubre de 2026, 11:59 (Europe/Madrid)**.
 
 ![Cardano / ADA](../raw/images/2026-10-05-cardano-logotipo-indice.png) ![Midnight / NIGHT](../raw/images/2026-10-05-midnight-logotipo-indice.png)
 
@@ -11,7 +11,7 @@
 
 ## 📚 Fuentes
 
-- [Angry: aviso de acceso limitado — 23 de octubre](sources/2026-10-23-aviso-angry-acceso-limitado.md): dos publicaciones identificadas, sin transcripción legible ni análisis.
+- [Angry: revisión completa del 23 e historial](sources/2026-10-23-aviso-angry-acceso-limitado.md): dos textos originales recuperados, contraste y aviso inicial conservado.
 
 - [Informe archivado — 23 de octubre](sources/2026-10-23-informe-ada-night-bitcoin.md): procedencia, fechas e infografía.
 - [Hydra: reensayo del Glacier Drop](sources/2026-10-23-hydra-reensayo-glacier-drop.md): resultados declarados y contexto histórico.
@@ -113,6 +113,8 @@
 
 ## 🏷️ Entidades
 
+- [Dynamic](entities/dynamic.md): wallets de Midnight, publicación del 1 de octubre y diferencia respecto a CNT de Fireblocks.
+
 - [Syngenta Foundation India](entities/syngenta-foundation-india.md): datos agrícolas en Cardano y límites del recuento.
 
 - [Pogun](entities/pogun.md): Bitcoin DeFi según el canal, sin calendario, benchmark o depósitos verificados.
@@ -180,13 +182,13 @@
 
 ## 🧭 Temas
 
-- [Seguimiento de Angry Crypto Show](topics/seguimiento-angry-crypto-show.md): once análisis de vídeo, dos avisos y dos vídeos pendientes.
+- [Seguimiento de Angry Crypto Show](topics/seguimiento-angry-crypto-show.md): trece vídeos analizados y dos avisos históricos; pendientes del aviso resueltos.
 
 - [Seguimiento de mercado de ADA y NIGHT](topics/seguimiento-mercado-ada-night.md): síntesis, relaciones y preguntas abiertas.
 
 ## 📝 Informes
 
-- [Angry: dos vídeos pendientes — 23 de octubre](reports/2026-10-23-angry-crypto-show-acceso-limitado.md): aviso con infografía; sus contenidos siguen sin analizar.
+- [Angry: revisión de dos vídeos — 23 de octubre](reports/2026-10-23-angry-crypto-show-acceso-limitado.md): síntesis completa y nueva infografía; aviso previo histórico.
 
 - [Seguimiento — 23 de octubre](reports/2026-10-23-seguimiento-ada-night-bitcoin.md): Hydra, NIGHT y ETF con infografía.
 

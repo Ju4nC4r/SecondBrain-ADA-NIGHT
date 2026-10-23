@@ -15,3 +15,7 @@ La Fundación afirma que las acciones de [Veridian](../entities/veridian.md) fue
 ## Repasos de Angry Crypto Show
 
 Los informes del [8](../sources/2026-10-08-informe-angry-crypto-show.md) y [9](../sources/2026-10-09-informe-angry-crypto-show.md) reutilizan el anuncio del 7 como contexto. Las expectativas de adopción institucional y precio son valoraciones del canal; no constituyen un segundo lanzamiento ni evidencia adicional de emisión o adopción. La denominación ambigua de un subtítulo se resuelve en el informe por contexto y mantiene acceso a la transcripción original.
+
+## Acciones y derechos en la revisión completa del 23
+
+La [revisión de Angry](../sources/2026-10-23-aviso-angry-acceso-limitado.md) reutiliza el anuncio oficial del 7 y CMTA. No verifica las 850.000 acciones del relato, su emisor, documentos legales, derechos de voto o equivalencia económica con las acciones subyacentes. Anuncio de una capacidad de protocolo no acredita por sí solo cada emisión o validez jurídica general. Casos empresariales y forenses del canal también conservan falta de contraste primario.

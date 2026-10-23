@@ -27,12 +27,14 @@ Seguimiento añadido por petición expresa del usuario a partir del [lote archiv
 
 ## Avisos de estado y contenido pendiente
 
-- [23 de octubre: acceso limitado](../reports/2026-10-23-angry-crypto-show-acceso-limitado.md): dos publicaciones identificadas sin texto legible; ambas pendientes de análisis.
+- [23 de octubre: revisión completa e historial](../reports/2026-10-23-angry-crypto-show-acceso-limitado.md): textos recuperados; aviso de acceso limitado conservado.
 - [19 de octubre: revisión sin vídeos nuevos](../reports/2026-10-19-angry-crypto-show-sin-videos-nuevos.md): ausencia limitada a la revisión de aquella hora.
 
-Estado actual: **once análisis de vídeo, dos avisos de estado y dos vídeos pendientes**. Los avisos no cuentan como análisis ni incorporan noticias desde títulos.
+Estado actual: **trece vídeos analizados, dos avisos históricos conservados y los dos pendientes del aviso inicial resueltos**. Los análisis nuevos proceden de los textos completos; los títulos no se tratan como prueba.
 
 ## Informes incorporados
+
+- [23 de octubre: revisión de dos vídeos](../reports/2026-10-23-angry-crypto-show-acceso-limitado.md): transcripciones completas y límites; actualiza el aviso existente.
 
 - [21 de octubre](../reports/2026-10-21-angry-crypto-show.md): Nightmode/stagenet, Pogun, Leios, DeFi y escenarios.
 
@@ -103,8 +105,14 @@ Nightmode enlaza el anuncio oficial ya incorporado y los antecedentes de SIG, si
 
 La enmienda francesa I-CF1826 se repite del informe del 15, sin 31,4 % en el texto consultado o ley vigente acreditada. JPM se relaciona con su fuente primaria previa sin validar toda la comparación del canal. Integraciones y métricas DeFi, escenario de Q4 y publicidad mantienen atribución y campos ausentes.
 
-## Aviso del 23: interrupción previa y acceso limitado
+## Aviso del 23: estado histórico de las 10:18, limitación superada
 
 El [aviso único del 23](../reports/2026-10-23-angry-crypto-show-acceso-limitado.md), corte 10:18 Madrid, reúne un vídeo publicado el 22 a las 23:13:57 y otro publicado el 22 a las 00:20:46, pendiente desde la ejecución interrumpida del 22. La [ficha](../sources/2026-10-23-aviso-angry-acceso-limitado.md) separa metadatos verificados por el autor de contenido no examinado; conserva 11:31 de metadatos frente a 11:32 de la tarjeta para el segundo.
 
 Las dos descargas públicas de subtítulos dieron HTTP 200 y cero bytes, sin transcripción que archivar. La limitación no prueba ausencia universal de subtítulos; no se repite el acceso bloqueado del conector o cambia permisos aquí. No se deducen noticias o recomendaciones de títulos y no se reutilizan análisis anteriores. No se encontró entrega del 22 en la búsqueda descrita; el envío del aviso del 23 es un hito posterior distinto. Se ingiere el aviso, **no los contenidos de los dos vídeos**, que continúan pendientes.
+
+## Revisión completa del 23, posterior al aviso matutino
+
+La [misma ficha](../sources/2026-10-23-aviso-angry-acceso-limitado.md) y [síntesis](../reports/2026-10-23-angry-crypto-show-acceso-limitado.md) incorporan el informe completo, dos TXT originales y nueva imagen. Corte 11:49; preparación/archivo 11:49:55. La autorización posterior del panel permitió recuperar A 00:00–11:30 y B 00:00–12:21. Se conservan las respuestas públicas vacías y el aviso como historia, sin duplicar las fuentes.
+
+Estado actual: **trece vídeos analizados**, **dos avisos históricos conservados**, y **los dos pendientes del aviso inicial resueltos**. No todas las declaraciones se verifican por disponer de subtítulos. Solicitud SEC sin aprobación, Syngenta ya documentado sin auditoría, Dynamic anterior, Fireblocks CNT futuro y Nightmode/TRON como plan mantienen sus límites. Leios conserva versiones distintas; capitalización/liquidez potencial no son el mismo objetivo de Strike. La revisión completa no se ha enviado y esta operación es local.

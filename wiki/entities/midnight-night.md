@@ -5,6 +5,7 @@ created: "2026-10-05"
 updated: "2026-10-23"
 tags: [midnight, night]
 sources:
+  - "../sources/2026-10-23-aviso-angry-acceso-limitado.md"
   - "../sources/2026-10-23-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-21-informe-angry-crypto-show.md"
   - "../sources/2026-10-20-informe-angry-crypto-show.md"
@@ -172,3 +173,9 @@ El [informe del 22](../sources/2026-10-22-informe-ada-night-bitcoin.md) no corro
 ## Revisión del 23 de octubre
 
 [Freedom Fighters](../sources/2026-10-23-midnight-freedom-fighters.md), publicación y lanzamiento declarados del 22: cuatro episodios divulgativos, sin nueva tokenomics o despliegue. La publicación es posterior al corte anterior y no invalida la búsqueda limitada de ayer. El [reensayo de Hydra](../sources/2026-10-23-hydra-reensayo-glacier-drop.md) utiliza carga del Glacier Drop de 2025; no nuevo reparto NIGHT. Blog y repositorios consultados sin otra novedad relevante corroborada, sin afirmar ausencia global.
+
+## Angry del 23: Nightmode y agentes en los textos recuperados
+
+La [revisión completa](../sources/2026-10-23-aviso-angry-acceso-limitado.md) conserva SIG stagenet/Ethereum, mainnet con ledger v9 y TRON previsto en diciembre de 2026. El presentador reconoce no haber visto confirmación de TRON/Justin Sun: no acuerdo bilateral o funcionamiento actual acreditados. Activos en origen y metadatos públicos limitan la metáfora de VPN universal; screening no garantiza cumplimiento.
+
+[Dynamic](dynamic.md) se anunció el 1 de octubre, sin novedad de ayer por repetirlo. Roadmap de Nightstream/Passport SDK v1 Q4 de 2026 y Collateral Warehouse Q1 de 2027 siguen como objetivos; protección completa de agentes/privacidad y adopción masiva no están demostradas. Transacciones del token NIGHT en Cardano no se cuentan como actividad privada de Midnight. Se conservan los estados históricos de consenso/staking y las fuentes previas.

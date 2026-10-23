@@ -1,8 +1,8 @@
 # Informes elaborados a partir de las fuentes
 
-Última actualización: **23 de octubre de 2026, 10:39 (Europe/Madrid)**.
+Última actualización: **23 de octubre de 2026, 11:59 (Europe/Madrid)**.
 
-- [Angry — acceso limitado, 23 de octubre](2026-10-23-angry-crypto-show-acceso-limitado.md): dos vídeos pendientes; aviso de estado con infografía.
+- [Angry — revisión completa, 23 de octubre](2026-10-23-angry-crypto-show-acceso-limitado.md): análisis de los dos vídeos recuperados e historial del aviso.
 
 - [Seguimiento — 23 de octubre](2026-10-23-seguimiento-ada-night-bitcoin.md): Hydra, NIGHT, ETF e infografía.
 

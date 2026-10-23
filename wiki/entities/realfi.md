@@ -2,9 +2,10 @@
 title: "RealFi"
 type: entity
 created: "2026-10-16"
-updated: "2026-10-21"
+updated: "2026-10-23"
 tags: [realfi, cardano, defi]
 sources:
+  - "../sources/2026-10-23-aviso-angry-acceso-limitado.md"
   - "../sources/2026-10-21-informe-angry-crypto-show.md"
   - "../sources/2026-10-20-informe-angry-crypto-show.md"
   - "../sources/2026-10-17-informe-angry-crypto-show.md"
@@ -40,3 +41,7 @@ El [informe de Angry](../sources/2026-10-20-informe-angry-crypto-show.md) cita 2
 El [informe](../sources/2026-10-21-informe-angry-crypto-show.md) atribuye >8,3 millones USD emitidos y +700.000 en una semana a datos de Token Terminal no reproducidos: emisión, no TVL o capitalización de Strike. No se reconstruye crecimiento desde cortes anteriores incompatibles.
 
 Swaps ADA→sUSDrf en SundaeSwap y canje nominal iUSD/USDrf 1:1 en el PSM de Indigo quedan como integraciones narradas sin condiciones/rutas actuales o transacciones verificadas. Sin deslizamiento no implica sin comisiones, profundidad ilimitada, solvencia o rescate garantizado. La asignación empresarial BlockFi/Blockenfy sigue ambigua; no se suman fondos por esa mención. [APR y liquidez](../concepts/apr-credito-y-liquidez.md).
+
+## Revisión completa del 23: depósitos y unidades
+
+El [canal](../sources/2026-10-23-aviso-angry-acceso-limitado.md) relata despliegue de ADA de una organización latinoamericana de eventos mediante SundaeSwap y >260.000 USD de Strike vía sUSDrf en menos de dos semanas, sin transacciones o series reproducidas. No se infieren entradas netas desde cifras anteriores con cortes distintos. La integración repetida no es otro anuncio o rendimiento realizado; tampoco la proyección de liquidez de Strike es TVL de RealFi.

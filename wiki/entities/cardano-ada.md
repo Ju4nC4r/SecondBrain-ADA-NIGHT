@@ -5,6 +5,7 @@ created: "2026-10-05"
 updated: "2026-10-23"
 tags: [cardano, ada]
 sources:
+  - "../sources/2026-10-23-aviso-angry-acceso-limitado.md"
   - "../sources/2026-10-23-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-21-informe-angry-crypto-show.md"
   - "../sources/2026-10-20-informe-angry-crypto-show.md"
@@ -146,3 +147,9 @@ La [posición sobre MiCA](../sources/2026-10-22-cardano-respuesta-mica.md), publ
 ## Revisión del 23 de octubre
 
 La [fuente primaria de Hydra publicada el 22](../sources/2026-10-23-hydra-reensayo-glacier-drop.md) declara 42 frente a 79 reclamaciones/s en una carga concreta; no TPS de toda mainnet ni demanda de ADA. Fecha exacta del ensayo desconocida. DijkstraNet y Genius Yield quedan como pistas sin contraste primario suficiente en el [informe del día](../reports/2026-10-23-seguimiento-ada-night-bitcoin.md).
+
+## Angry del 23: revisión completa posterior al aviso
+
+La [revisión](../sources/2026-10-23-aviso-angry-acceso-limitado.md) incorpora dos vídeos antes inaccesibles. La carta conjunta alojada en SEC es una solicitud de los firmantes, sin aprobación o nueva clasificación jurídica de ADA acreditadas por ella. [Regulación y decisiones](../concepts/regulacion-por-actividad-y-participacion-protocolo.md). El caso [Syngenta](syngenta-foundation-india.md) ya documentado declara >100.000 explotaciones; no se cuenta otro logro ni se suma a 50.000 agricultores del relato.
+
+Leios hasta 60x/primera meta 10–15x es otra declaración, distinta del 3–5x inicial/10–15x posterior del 21, ambas sin benchmark o declaración original cotejados. CNT de Fireblocks es futuro; CIP-0113 no verifica las 850.000 acciones o equivalencia de derechos que cita el canal. Volúmenes y preferencia ADA/XRP mantienen límites. [Síntesis actualizada](../reports/2026-10-23-angry-crypto-show-acceso-limitado.md).

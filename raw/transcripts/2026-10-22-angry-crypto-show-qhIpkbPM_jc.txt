@@ -1,0 +1,301 @@
+YouTube transcript
+Video ID: qhIpkbPM_jc
+Language: en
+Captions: auto-generated
+
+[0:00] What is good Cardono fam? Ada gang. We
+[0:02] have lots of exciting updates to unpack
+[0:03] today. So, hit that subscribe, hit that
+[0:05] like. Cardono 24-hour trade volume
+[0:08] reached as high as $310 million
+[0:11] according to Coin Gecko. Cardono's
+[0:13] Strike Finance has deployed over
+[0:16] $260,000
+[0:18] via Reali's SUSDRF in less than two
+[0:22] weeks.
+[0:23] Strike lists Dogecoin with up to 20x
+[0:26] leverage and also lighter with up to 20x
+[0:30] leverage.
+[0:32] ADA generated the third highest 24-hour
+[0:35] trade volume on Poly Market's crypto
+[0:37] perpetuals at over $3.2 million. So this
+[0:41] is right behind Bitcoin and Ethereum,
+[0:44] surpassing Hyperlquid at 1.5, Zcash at
+[0:48] 900K, and Solana at 800K. Impressive to
+[0:53] see 4x [snorts] the volume of Salana for
+[0:56] ADA. So clearly there is demand. There
+[0:59] is retail interest. ADA generated over
+[1:02] $570,000
+[1:04] in 24-hour trade volume on KI's crypto
+[1:07] perpetuals, surpassing BMB at nearly
+[1:10] 400,000.
+[1:12] Blockworks ranks Cardono as the fourth
+[1:14] highest mind share yet again surpassing
+[1:17] BMB, Hyperliquid, BitTensor, XRP and
+[1:20] Sooie.
+[1:22] Charles Hoskinson welcomes Tron to
+[1:25] Midnight. We saw yesterday, but again he
+[1:28] doubled down and he made this fantastic
+[1:30] video showcasing the history of Tron.
+[1:34] And we'll just speed into the the middle
+[1:36] of it here where showcases like this
+[1:38] night mode which is superb because this
+[1:42] is coming in December. And so night mode
+[1:45] having private payments for Tron TRX I
+[1:48] think that's massive because there are
+[1:50] so many payments being processed by Tron
+[1:53] network. So I think this could be huge.
+[1:55] There's a good relationship between
+[1:57] Justin and Charles. So, I'm super
+[1:59] excited for this night mode to toggle on
+[2:02] some privacy, some abstraction and
+[2:04] whatnot for Tron, Ethereum, and many
+[2:06] other networks. Super cool video.
+[2:09] Fireblocks is Dynamic. So, Dynamic is a
+[2:12] company by Fireblocks which is trusted
+[2:15] by Western Union, many other big
+[2:17] companies. They just integrated Midnight
+[2:20] across its non-custodial wallet
+[2:22] infrastructure, enabling shielded
+[2:24] transactions, shielded balances, and
+[2:27] easy access to Midnight applications via
+[2:31] embedded wallets that are easily created
+[2:33] with an email signin or a social
+[2:35] account. Teams already using Dynamic on
+[2:39] Bitcoin, EVM, Solana, Stellar, Sooie,
+[2:42] Ton, Alleo can already add Midnight
+[2:46] support. So this is fantastic because it
+[2:49] further reduces the barrier to entry but
+[2:51] also expanding crosschain as well.
+[2:54] Midnight in their road map regarding
+[2:57] quantum they say that nightstream will
+[2:59] provide postquantum zero knowledge
+[3:01] proving infrastructure designed to
+[3:03] protect private computation as computing
+[3:06] power and cryptographic threats evolve.
+[3:09] So Midnight aims to optimize proof size
+[3:12] and proof generation time for Q4 of this
+[3:15] year.
+[3:16] Solada, the first ever Cardano to Solana
+[3:19] launchpad, has generated over 11 million
+[3:22] ADA in trade volume, nearly 100,000 ADA
+[3:25] in rewards, and they just integrated
+[3:27] Knight token for dual rewards.
+[3:31] ADA's C Explorer just launched their new
+[3:34] front end on mainet. It was on testnet,
+[3:36] now it's live on mainet, featuring a
+[3:38] reworked UI built from the ground up,
+[3:41] taking Cardano's user experience to the
+[3:43] next level. They also said it improves
+[3:46] accessibility, readability, but also
+[3:48] delivering faster updates. And a big
+[3:51] shout out to them because they featured
+[3:52] an crypto show a couple of times in the
+[3:55] video. So big thank you to C Explore.
+[3:58] Midnight Night token has generated over
+[4:01] 1.4 million transactions on Cardono
+[4:04] according to Cardono Scan, adding over
+[4:07] 200,000 transactions just in the past
+[4:09] month.
+[4:11] Charles Hoskinson on Frontier AI models
+[4:14] says in two years you won't need a
+[4:16] supercomputer to run all this stuff.
+[4:18] You'll have Fable and Astra style
+[4:20] intelligence on an Apple product
+[4:23] probably by 2030.
+[4:25] Charles says if you combine Agentic
+[4:27] trading with the VPN for DeFi, instead
+[4:30] of you doing the trades, your agent does
+[4:33] using an open standard like OWS or X42.
+[4:36] You don't care if it's on Hyperlquid or
+[4:38] Salana or Ethereum. Midnight gets to be
+[4:41] friends with everybody.
+[4:44] Charles says, "Agents give a level of
+[4:46] intelligence for processing smart
+[4:48] contracts that we've never enjoyed
+[4:50] before. Our long-term view for Midnight
+[4:53] in addition to the VPN for DeFi. Make it
+[4:56] the preferred place to add true
+[4:58] intelligence and abstraction to all
+[5:00] cryptocurrency."
+[5:02] Charles on regenerative medicine says,
+[5:05] "I want to make it a lot cheaper for
+[5:07] people to get personalized stem cells to
+[5:09] the masses and then all these
+[5:11] innovations as they come. Everyday
+[5:13] people get to enjoy them instead of
+[5:15] millionaires and billionaires." If you
+[5:18] guys missed it, the Hoskinson Clinic is
+[5:21] now being leased by Monument Health. So,
+[5:23] that was a successful transition and
+[5:25] Charles was very happy about that. the
+[5:28] people in Gillette, Wyoming will
+[5:29] continue to get health uh coverage.
+[5:32] Charles says, "I'm happiest when I have
+[5:34] something to build." That's why I love
+[5:36] the AI revolution because it made
+[5:39] everybody a builder. Every time I talk
+[5:41] to somebody, I said, "Don't bring me an
+[5:43] idea. Bring me a product. Then we can
+[5:46] work together and engage with each
+[5:48] other."
+[5:49] Charles says, "It's a golden age for
+[5:51] building, and I love solving hard
+[5:53] problems. There's a reason I studied
+[5:55] mathematics in college. I love this idea
+[5:57] of a puzzle and pulling it apart and
+[6:00] solving the whole thing. Markets are
+[6:02] puzzles, systems are puzzles, AI's a
+[6:05] puzzle.
+[6:07] American Fortress CEO says its private
+[6:10] transaction layer technology works on
+[6:12] Cardono. Now, he also said Midnight as
+[6:15] well, which is interesting because like
+[6:17] why would you be stacking private
+[6:19] technology? But uh essentially like in
+[6:22] their bio it says private transaction
+[6:25] layer by default. So I'm glad that he
+[6:27] did mention Cardono as well and they
+[6:30] have joined the quantum alliance
+[6:32] alongside Midnight Foundation to help
+[6:34] define open standards for postquantum
+[6:37] readiness. So American Fortress is a new
+[6:39] project that came on my radar. take it
+[6:41] with a grain of salt, but it is
+[6:43] impressive that they've joined the
+[6:46] Quantum Alliance alongside Quantis,
+[6:49] Midnight, and others. There's not a lot
+[6:50] of people that are really dedicated to
+[6:52] becoming postquantum.
+[6:55] Agentic trading using Midnight Passport
+[6:57] gives you full protection around agents
+[7:00] going rogue. In this case, Grock. At no
+[7:03] point does Grock see your wallet, know
+[7:06] your balances. It just has a permission
+[7:08] to go and trade with certain actions all
+[7:11] of which can be revoked. I think that's
+[7:14] superb.
+[7:15] Famicad says when you combine agentic
+[7:18] trading with private offer files and the
+[7:20] collateral warehouse a single private
+[7:22] vault suddenly web 3, web 2 and tradi
+[7:26] come closer together and that merge that
+[7:29] convergence is what's happening on
+[7:31] midnight.
+[7:33] Midnight Passport allows you to control
+[7:35] your identity, your data, and your
+[7:37] money. And through cryptographic proofs,
+[7:39] who sees that and what's available, you
+[7:42] can also delegate it to your agent to
+[7:44] trade or act on your behalf without
+[7:46] exposing exposing, excuse me, any
+[7:49] sensitive data to that agent or the web.
+[7:52] And I think that's critical
+[7:55] because
+[7:57] a lot of times it's the little details
+[7:59] that are critical, right? having the
+[8:01] ability to have safeguards, not exposing
+[8:04] critical information to the agent or the
+[8:06] web, covering all angles for the
+[8:09] protection. So, what else is going on?
+[8:11] Well, we see the market is getting
+[8:13] crushed. More red. Coin Bureau says the
+[8:16] Black Thursday sell-off extends to Wall
+[8:18] Street as $790 billion is wiped from the
+[8:22] US stock market at the open. The losses
+[8:25] follow a nearly $1 trillion wipeout
+[8:28] across six major Asian markets earlier
+[8:31] in the day. So that's why we're seeing a
+[8:33] lot of losses across the board. Robin
+[8:36] Hood officially receives approval from
+[8:37] Dubai to launch crypto trading in the
+[8:39] Middle East. US Treasury says new
+[8:42] finalized cryptostable coin rules under
+[8:44] the Genius Act cements American
+[8:47] dominance in digital assets. Bybit
+[8:50] crypto exchange officially receives
+[8:52] regulatory approval to operate in Dubai.
+[8:56] Sophie Technologies launches FDIC
+[8:58] insured tokenized deposits. I like that.
+[9:02] Morgan Stanley, Bank of America, JP
+[9:04] Morgan, and Wells Fargo detect
+[9:06] unauthorized AI agents accessing
+[9:09] customer accounts and attempting to act
+[9:12] without user instructions. This again
+[9:15] highlights the importance of products
+[9:17] like midnight passport uh the
+[9:19] abstraction the selective disclosure the
+[9:22] safeguard rails for AI because we're
+[9:25] just going to see this continue to
+[9:27] increase and Charles did say that when
+[9:29] he spoke to JP Morgan's private bank
+[9:32] that they had more attempts unauthorized
+[9:34] attempts impersonation attempts in the
+[9:36] past year than the past quarter century
+[9:39] the past 25 years. So
+[9:43] again, privacy postquantum will continue
+[9:45] to be super important. Well, we see that
+[9:48] ADA has been crushing per. Speaking of
+[9:50] pers, a big shout out to the sponsor of
+[9:52] Angry Crypto Show here on YouTube, which
+[9:54] is officially Koshi. Koshi was the first
+[9:57] to bring CFTC regulated cryptos in the
+[10:01] United States. If you want to trade
+[10:03] crypto pers with reasonable leverage in
+[10:06] the US, check out my link in the video
+[10:07] description. You'll also get a bonus
+[10:10] sent your way and it's another way that
+[10:12] you can help support the channel here on
+[10:14] YouTube. Hopping over to price. Well, 21
+[10:18] cents. So, we are definitely at some
+[10:20] important crossroads here. 21 cents. I
+[10:23] don't want to see it go under 20 cent,
+[10:25] that's for sure. XRP 1.3. So, really
+[10:29] just dancing with the 1.3. And Bitcoin
+[10:31] still chilling there at 81. So, I like
+[10:35] to zoom out. Right now, we're looking at
+[10:37] the one-year chart, and I see how ADA,
+[10:39] you know, came down to 14 cents in the
+[10:42] summer and has been slowly climbing up.
+[10:44] So, it's choppy, but I think that right
+[10:47] now Cardono is in a good position. We
+[10:51] have midnight with privacy postquantum.
+[10:54] Not a lot of projects are in the quantum
+[10:56] alliance as virtual bacon has
+[10:58] highlighted among others. And Cardono
+[11:00] just has a strong brand, strong
+[11:02] principles, and a super strong
+[11:04] community. So, we'll continue to watch
+[11:06] the market. You know, these es and flows
+[11:08] are natural. They happen whether it be
+[11:11] stocks, whether it be crypto. So, I'm
+[11:13] still optimistic that we will see some
+[11:15] good movement in the market. It's just a
+[11:17] matter of time. I think the highlights
+[11:19] for me, shout out to the, you know,
+[11:21] Solata guys for pushing a lot of the
+[11:23] crosschain goodness. I would say the
+[11:26] highlight is definitely this amazing
+[11:29] video by Charles. I'm excited to see
+[11:32] what will happen between Midnight and
+[11:34] Tron. I haven't seen Tron retweet or
+[11:37] make any post or statement. Neither have
+[11:39] I seen Justin Sun. I did DM Justin Sun
+[11:43] uh about uh this stuff that's going on.
+[11:45] So maybe he'll take a look. You know,
+[11:47] hopefully I hope that he'll take a look.
+[11:49] And again, it's good that there's
+[11:51] camaraderie between Charles and Justin
+[11:54] because this could be gargantuan. Not a
+[11:57] lot of people talk about how Tron has
+[11:59] been eating up a lot of those stable
+[12:01] coin transfers uh when it comes to
+[12:03] payments and whatnot. So, let me know
+[12:05] your thoughts. What do you think about
+[12:06] Tron night mode having private uh stable
+[12:09] coin transfers, privacy for TRX? And
+[12:13] beyond that, what are you most excited
+[12:15] about in the weeks and months ahead as
+[12:17] we wrap up Q4? So, smash that subscribe,
+[12:20] smash that like, and I'll see you guys
+[12:21] in the next Angry Crypto

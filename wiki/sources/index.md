@@ -1,8 +1,8 @@
 # Resúmenes de fuentes
 
-Última actualización: **23 de octubre de 2026, 10:39 (Europe/Madrid)**.
+Última actualización: **23 de octubre de 2026, 11:59 (Europe/Madrid)**.
 
-- [Angry — aviso del 23 de acceso limitado](2026-10-23-aviso-angry-acceso-limitado.md): metadatos, limitaciones, imagen y entrega del aviso.
+- [Angry — revisión completa del 23](2026-10-23-aviso-angry-acceso-limitado.md): dos TXT, revisión, nueva imagen y procedencia; aviso anterior conservado.
 
 - [Informe archivado — 23 de octubre](2026-10-23-informe-ada-night-bitcoin.md): procedencia, fechas e infografía.
 - [Hydra: reensayo del Glacier Drop](2026-10-23-hydra-reensayo-glacier-drop.md): resultados declarados y contexto histórico.

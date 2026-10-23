@@ -174,8 +174,14 @@ SIG mantiene stagenet, mainnet con ledger v9 y TRON futuro; activos en origen e 
 
 [Hydra](sources/2026-10-23-hydra-reensayo-glacier-drop.md): 42 a 79 reclamaciones/s en ensayo declarado, sin extrapolar a toda Cardano. [Midnight](sources/2026-10-23-midnight-freedom-fighters.md): cuatro episodios publicados el 22; sin cambio económico o despliegue corroborado. Glacier Drop es histórico de 2025, no otro reparto. [ETF](sources/2026-10-23-farside-flujos-bitcoin.md), sesión del 22: −635,6 millones USD revisables, doce cifras presentes, sin conciliación por emisor. DijkstraNet/Genius Yield pendientes de contraste primario; sin causa de precio. Originales anteriores intactos, incluida la búsqueda limitada de ayer.
 
-## Angry Crypto Show: aviso de acceso limitado del 23
+## Angry Crypto Show: aviso del 23 al corte histórico de las 10:18
 
 Incorporados el [aviso del 23](reports/2026-10-23-angry-crypto-show-acceso-limitado.md), su imagen y [procedencia](sources/2026-10-23-aviso-angry-acceso-limitado.md). Hay dos publicaciones identificadas del 22 en Madrid, una pendiente desde la ejecución interrumpida de ese día. Pistas públicas con HTTP 200 y cero bytes, sin transcripción legible o revisión audiovisual íntegra; no se incorporan titulares como hechos o recomendaciones.
 
 El [seguimiento del canal](topics/seguimiento-angry-crypto-show.md) conserva **once análisis de vídeo, dos avisos de estado y dos vídeos pendientes**. Ingesta del aviso completada; ingesta de sus contenidos pendiente. Archivo, búsqueda de correo previa y envío posterior del aviso se distinguen en la ficha, sin reenviar correo o modificar las conclusiones de los análisis anteriores.
+
+## Angry Crypto Show: revisión completa posterior al aviso del 23
+
+Actualizadas la [ficha existente](sources/2026-10-23-aviso-angry-acceso-limitado.md) y [síntesis](reports/2026-10-23-angry-crypto-show-acceso-limitado.md), con informe completo, dos transcripciones originales inglesas y nueva imagen, corte 11:49. La limitación de las 10:18 queda superada; originales y texto histórico conservados. **Trece vídeos analizados, dos avisos históricos y los dos pendientes del aviso inicial resueltos.** La revisión completa no figura enviada y permanece local.
+
+La carta SEC es solicitud sin aprobación; Syngenta reutiliza recuento oficial declarado sin auditoría. [Dynamic](entities/dynamic.md) ya se publicó el 1 de octubre; CNT Fireblocks sigue para marzo de 2027 y TRON como plan para diciembre, sin confirmación bilateral del relato. Leios conserva sus multiplicadores distintos; liquidez proyectada de Strike difiere de capitalización objetivo y no es dinero captado. Opiniones, 0,20 USD como preocupación y titulares sin contraste mantienen límites.

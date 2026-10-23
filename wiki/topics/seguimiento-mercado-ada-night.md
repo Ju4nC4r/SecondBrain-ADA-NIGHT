@@ -5,6 +5,7 @@ created: "2026-10-05"
 updated: "2026-10-23"
 tags: [ada, night, mercado, seguimiento]
 sources:
+  - "../sources/2026-10-23-aviso-angry-acceso-limitado.md"
   - "../sources/2026-10-23-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-21-informe-angry-crypto-show.md"
   - "../sources/2026-10-20-informe-angry-crypto-show.md"
@@ -110,3 +111,9 @@ La [síntesis del canal](../reports/2026-10-21-angry-crypto-show.md) complementa
 ## Revisión del 23 de octubre
 
 La [edición del 23](../reports/2026-10-23-seguimiento-ada-night-bitcoin.md), corte 10:22, añade ensayo de Hydra publicado el 22, divulgación de Midnight y salidas ETF de la sesión del 22. [Benchmarks](../concepts/benchmarks-locales-y-rendimiento-red.md), reparto histórico NIGHT de 2025 y demanda de fondos son unidades/ventanas distintas, sin causa de precio confirmada. DijkstraNet y Genius Yield quedan pendientes de fuente primaria; no se cambia el alcance general ADA/NIGHT.
+
+## Angry del 23: revisión completa y unidades preservadas
+
+La [revisión de los dos vídeos](../reports/2026-10-23-angry-crypto-show-acceso-limitado.md) supera la falta de texto, sin convertir todas las declaraciones en hechos corroborados. Carta SEC es solicitud; Syngenta y CIP-0113 se relacionan con fuentes previas, Dynamic con el 1 de octubre y CNT con marzo de 2027, sin nuevas entregas por repetición. Leios mantiene multiplicadores distintos sin resolverlos como rendimiento mainnet.
+
+Liquidez potencial de Strike no es capital captado o la capitalización a 36 meses citada antes. Capturas de volumen no sumables, NIGHT en Cardano distinto de uso privado de Midnight, y preferencias ADA/XRP sin plan operativo conservan atribuciones. Los dos pendientes del aviso están analizados; el aviso inicial permanece histórico y no se reenvía correo.
