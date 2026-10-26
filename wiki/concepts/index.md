@@ -1,6 +1,10 @@
 # Conceptos
 
-Última actualización: **23 de octubre de 2026, 11:59 (Europe/Madrid)**.
+Última actualización: **26 de octubre de 2026, 08:18 (Europe/Madrid)**.
+
+- [Verificación formal y supuestos](verificacion-formal-y-supuestos.md): propiedades demostradas, versiones y garantías limitadas.
+
+- [Confianza en servidores y transacciones sin confirmar](confianza-servidores-transacciones-sin-confirmar.md): firmas y alcance del cliente ligero.
 
 - [Regulación por actividad y participación de protocolo](regulacion-por-actividad-y-participacion-protocolo.md): postura atribuida, norma y servicios por distinguir.
 

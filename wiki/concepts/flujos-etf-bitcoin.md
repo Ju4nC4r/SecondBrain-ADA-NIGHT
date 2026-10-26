@@ -2,9 +2,10 @@
 title: "Flujos de ETF al contado de Bitcoin"
 type: concept
 created: "2026-10-05"
-updated: "2026-10-23"
+updated: "2026-10-26"
 tags: [bitcoin, etf, mercado]
 sources:
+  - "../sources/2026-10-26-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-23-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-19-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-17-farside-flujos-bitcoin.md"
@@ -101,3 +102,7 @@ La [fila de la sesión del 21](../sources/2026-10-22-farside-flujos-bitcoin.md),
 ## Revisión del 23 de octubre
 
 [Sesión del 22](../sources/2026-10-23-farside-flujos-bitcoin.md), consulta del 23: doce cifras presentes, suma −635,6 millones USD. La cobertura parcial de OwlChart (−27,2 a las 22:37 UTC del 22, pocos fondos) no sustituye el agregado completo ni permite fechar la publicación de Farside. Datos revisables sin conciliación por emisor. La sesión del 21 (+524,8) permanece intacta; son días distintos.
+
+## Revisión del 26 de octubre
+
+[Sesión del 23](../sources/2026-10-26-farside-flujos-bitcoin.md), observada del 24 al 26: HODL mantiene guion. Once valores suman −137,9 millones USD, subtotal provisional; un faltante no es cero. Ni total diario ni semana definitivos, aunque medios publiquen agregados. Sin conciliación por emisor o causalidad de precio.

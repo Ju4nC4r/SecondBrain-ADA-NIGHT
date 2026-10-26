@@ -1,6 +1,8 @@
 # Entidades: proyectos, organizaciones, personas y activos
 
-Última actualización: **23 de octubre de 2026, 11:59 (Europe/Madrid)**.
+Última actualización: **26 de octubre de 2026, 08:18 (Europe/Madrid)**.
+
+- [Electrum](electrum.md): wallet Bitcoin y aviso de seguridad del 24.
 
 - [Dynamic](dynamic.md): integración de wallets anterior, distinta del soporte CNT futuro.
 

@@ -1,6 +1,10 @@
 # Informes elaborados a partir de las fuentes
 
-Última actualización: **23 de octubre de 2026, 11:59 (Europe/Madrid)**.
+Última actualización: **26 de octubre de 2026, 08:18 (Europe/Madrid)**.
+
+- [Angry — edición del 24, entrega del 26](2026-10-24-angry-crypto-show.md): unidades de escalado, MiCA e intención provisional sobre cobre.
+
+- [Seguimiento — 26 de octubre](2026-10-26-seguimiento-ada-night-bitcoin.md): DijkstraNet, Electrum, NIGHT y ETF con infografía.
 
 - [Angry — revisión completa, 23 de octubre](2026-10-23-angry-crypto-show-acceso-limitado.md): análisis de los dos vídeos recuperados e historial del aviso.
 

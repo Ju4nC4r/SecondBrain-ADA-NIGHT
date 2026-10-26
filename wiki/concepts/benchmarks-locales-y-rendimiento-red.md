@@ -2,9 +2,10 @@
 title: "Benchmarks locales y rendimiento de una red"
 type: concept
 created: "2026-10-19"
-updated: "2026-10-23"
+updated: "2026-10-26"
 tags: [benchmarks, metricas, hydra, cardano]
 sources:
+  - "../sources/2026-10-24-informe-angry-crypto-show.md"
   - "../sources/2026-10-23-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-21-informe-angry-crypto-show.md"
   - "../sources/2026-10-17-informe-angry-crypto-show.md"
@@ -28,3 +29,7 @@ El [informe de Angry del 21](../sources/2026-10-21-informe-angry-crypto-show.md)
 ## Revisión del 23 de octubre
 
 El [nuevo reensayo de Hydra](../sources/2026-10-23-hydra-reensayo-glacier-drop.md) publicado el 22 usa reclamaciones con tres scripts, firmas reales y asignaciones generadas: 24.576 por ejecución, tres por versión en el mismo host. 42 a 79 reclamaciones/s (~1,9x) no se compara directamente con la ráfaga de autotransferencias o el límite por snapshot. Fecha de ejecución no indicada, sin reproducción independiente; no capacidad global o adopción.
+
+## Angry: edición del 24 completada el 26
+
+El [informe](../sources/2026-10-24-informe-angry-crypto-show.md) contrapone TPS narrados de Leios/Hydra a bytes/s, tamaño medio y escenarios documentales de CIP-0164. Aproximadamente 100–200 TPS bajo esos supuestos no es un límite universal. El millón en simulación no se reprodujo; Hydra por aplicación y la cadena base no son niveles sumables. Mantener unidad, versión, carga y entorno evita convertir una proyección en capacidad de producción.

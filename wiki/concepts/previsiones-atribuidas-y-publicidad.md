@@ -2,9 +2,10 @@
 title: "Previsiones atribuidas, recomendaciones y publicidad"
 type: concept
 created: "2026-10-14"
-updated: "2026-10-23"
+updated: "2026-10-26"
 tags: [medios, previsiones, publicidad, ada]
 sources:
+  - "../sources/2026-10-24-informe-angry-crypto-show.md"
   - "../sources/2026-10-23-aviso-angry-acceso-limitado.md"
   - "../sources/2026-10-21-informe-angry-crypto-show.md"
   - "../sources/2026-10-20-informe-angry-crypto-show.md"
@@ -71,3 +72,7 @@ Kalshi aparece como patrocinador de perpetuos para estadounidenses, con unos 19 
 Los [textos A/B](../sources/2026-10-23-aviso-angry-acceso-limitado.md) recogen preferencia ADA/XRP, recuperación de altcoins y horizonte genérico Q4/semanas-meses, sin orden, asignación, entrada, objetivo, stop o probabilidad. En B **0,20 USD es preocupación del presentador, no stop o venta indicada**; cerca de 0,21 es referencia de grabación, no cotización actual. No se heredan condiciones de otros episodios.
 
 Exposición poscuántica mediante Midnight/Zcash es expectativa del autor, sin eficacia de cobertura o beneficios demostrados. Liquidez potencial de Strike no es capital captado o recomendación de depósito. Kalshi sigue como patrocinio para usuarios de EE. UU., sin términos completos o elegibilidad del lector verificados. Los titulares externos no cotejados no se convierten en hechos o señales de inversión.
+
+## Angry: edición del 24 completada el 26
+
+El [episodio](../sources/2026-10-24-informe-angry-crypto-show.md) mantiene optimismo ADA/XRP y frase de CZ sin entrada, objetivo, stop, asignación o recuperación fechada. ADA >0,21 USD pertenece a la grabación. El 99 % de inclinación del presentador a votar NO al cobre no es probabilidad comunitaria o voto confirmado. Kalshi es patrocinio con condiciones y elegibilidad no comprobadas; no estrategia o recomendación propia.

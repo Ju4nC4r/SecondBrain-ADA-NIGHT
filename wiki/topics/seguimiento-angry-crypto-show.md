@@ -2,9 +2,10 @@
 title: "Seguimiento de Angry Crypto Show: ADA, Midnight y contexto Bitcoin"
 type: topic
 created: "2026-10-14"
-updated: "2026-10-23"
+updated: "2026-10-26"
 tags: [angry-crypto-show, ada, night, bitcoin]
 sources:
+  - "../sources/2026-10-24-informe-angry-crypto-show.md"
   - "../sources/2026-10-23-aviso-angry-acceso-limitado.md"
   - "../sources/2026-10-21-informe-angry-crypto-show.md"
   - "../sources/2026-10-20-informe-angry-crypto-show.md"
@@ -30,9 +31,11 @@ Seguimiento añadido por petición expresa del usuario a partir del [lote archiv
 - [23 de octubre: revisión completa e historial](../reports/2026-10-23-angry-crypto-show-acceso-limitado.md): textos recuperados; aviso de acceso limitado conservado.
 - [19 de octubre: revisión sin vídeos nuevos](../reports/2026-10-19-angry-crypto-show-sin-videos-nuevos.md): ausencia limitada a la revisión de aquella hora.
 
-Estado actual: **trece vídeos analizados, dos avisos históricos conservados y los dos pendientes del aviso inicial resueltos**. Los análisis nuevos proceden de los textos completos; los títulos no se tratan como prueba.
+Estado actual: **catorce vídeos analizados, dos avisos históricos conservados y los dos pendientes del aviso inicial resueltos**. Los análisis nuevos proceden de los textos completos; los títulos no se tratan como prueba.
 
 ## Informes incorporados
+
+- [Edición del 24, completada y entregada el 26](../reports/2026-10-24-angry-crypto-show.md): un vídeo del 23, escalado, MiCA y cobre; no revisión del canal del 25/26.
 
 - [23 de octubre: revisión de dos vídeos](../reports/2026-10-23-angry-crypto-show-acceso-limitado.md): transcripciones completas y límites; actualiza el aviso existente.
 
@@ -116,3 +119,7 @@ Las dos descargas públicas de subtítulos dieron HTTP 200 y cero bytes, sin tra
 La [misma ficha](../sources/2026-10-23-aviso-angry-acceso-limitado.md) y [síntesis](../reports/2026-10-23-angry-crypto-show-acceso-limitado.md) incorporan el informe completo, dos TXT originales y nueva imagen. Corte 11:49; preparación/archivo 11:49:55. La autorización posterior del panel permitió recuperar A 00:00–11:30 y B 00:00–12:21. Se conservan las respuestas públicas vacías y el aviso como historia, sin duplicar las fuentes.
 
 Estado actual: **trece vídeos analizados**, **dos avisos históricos conservados**, y **los dos pendientes del aviso inicial resueltos**. No todas las declaraciones se verifican por disponer de subtítulos. Solicitud SEC sin aprobación, Syngenta ya documentado sin auditoría, Dynamic anterior, Fireblocks CNT futuro y Nightmode/TRON como plan mantienen sus límites. Leios conserva versiones distintas; capitalización/liquidez potencial no son el mismo objetivo de Strike. La revisión completa no se ha enviado y esta operación es local.
+
+## Angry: edición del 24 completada el 26
+
+Un vídeo adicional, IltXg8rmF-8, eleva el total a **catorce análisis de vídeo**. La [ficha](../sources/2026-10-24-informe-angry-crypto-show.md) conserva publicación del 23, edición del 24 y corte/preparación/envío/archivo del 26, con el cambio UTC+2 a UTC+1. No duplica la revisión completa del 23 ni acredita revisión del canal del 25/26. Unidades Leios, simulación Hydra, pruebas formales, MiCA repetida e intención provisional sobre cobre mantienen límites.

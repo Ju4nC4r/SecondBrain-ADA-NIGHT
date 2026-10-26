@@ -2,9 +2,11 @@
 title: "Cardano / ADA"
 type: entity
 created: "2026-10-05"
-updated: "2026-10-23"
+updated: "2026-10-26"
 tags: [cardano, ada]
 sources:
+  - "../sources/2026-10-24-informe-angry-crypto-show.md"
+  - "../sources/2026-10-26-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-23-aviso-angry-acceso-limitado.md"
   - "../sources/2026-10-23-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-21-informe-angry-crypto-show.md"
@@ -153,3 +155,11 @@ La [fuente primaria de Hydra publicada el 22](../sources/2026-10-23-hydra-reensa
 La [revisión](../sources/2026-10-23-aviso-angry-acceso-limitado.md) incorpora dos vídeos antes inaccesibles. La carta conjunta alojada en SEC es una solicitud de los firmantes, sin aprobación o nueva clasificación jurídica de ADA acreditadas por ella. [Regulación y decisiones](../concepts/regulacion-por-actividad-y-participacion-protocolo.md). El caso [Syngenta](syngenta-foundation-india.md) ya documentado declara >100.000 explotaciones; no se cuenta otro logro ni se suma a 50.000 agricultores del relato.
 
 Leios hasta 60x/primera meta 10–15x es otra declaración, distinta del 3–5x inicial/10–15x posterior del 21, ambas sin benchmark o declaración original cotejados. CNT de Fireblocks es futuro; CIP-0113 no verifica las 850.000 acciones o equivalencia de derechos que cita el canal. Volúmenes y preferencia ADA/XRP mantienen límites. [Síntesis actualizada](../reports/2026-10-23-angry-crypto-show-acceso-limitado.md).
+
+## Revisión del 26 de octubre
+
+[Intersect 134](../sources/2026-10-26-intersect-dijkstranet-tesoreria.md), publicado el 24, verifica la declaración de testnet pública: protocolo 11/node 11.1.3, salto a 12 pendiente. Resuelve la laguna primaria del 23, sin reescribirla. El original discrepa entre martes y reinicialización el 21. Devolución declarada 115.172 ADA del 20–21, sin auditoría. [Desarrollo](../sources/2026-10-26-cardano-desarrollo.md) integra componentes Leios en main del código, no mainnet.
+
+## Angry: edición del 24 completada el 26
+
+El [nuevo informe](../sources/2026-10-24-informe-angry-crypto-show.md) distingue los TPS extremos atribuidos a Hoskinson de los escenarios documentales en bytes/s y del rendimiento mainnet. [Verificación formal](../concepts/verificacion-formal-y-supuestos.md) depende de propiedades/supuestos; Hades y el parche reciente no tienen release comprobada. La respuesta MiCA se repite del 21, sin reforma aprobada. Sobre cobre, el presentador expresa inclinación provisional al NO, sin voto emitido o resultado acreditados.

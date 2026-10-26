@@ -2,9 +2,10 @@
 title: "Bitcoin / BTC — contexto de los informes"
 type: entity
 created: "2026-10-05"
-updated: "2026-10-23"
+updated: "2026-10-26"
 tags: [bitcoin, btc, contexto]
 sources:
+  - "../sources/2026-10-26-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-23-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-21-informe-angry-crypto-show.md"
   - "../sources/2026-10-20-informe-angry-crypto-show.md"
@@ -117,3 +118,7 @@ Saylor y la comparación de JPM a diez años son previsiones atribuidas; la [fue
 ## Revisión del 23 de octubre
 
 [Farside](../sources/2026-10-23-farside-flujos-bitcoin.md), sesión del 22: −635,6 millones USD, doce cifras revisables presentes; suma comprobada, sin conciliación con emisores. Contrasta con la sesión anterior, sin corregirla o probar causa de precio. No cotización al corte.
+
+## Revisión del 26 de octubre
+
+[Electrum](../sources/2026-10-26-electrum-seguridad.md) publicó el 24 un parche frente a un ataque activo declarado: fallo de wallet, sin ruptura del protocolo acreditada. [Farside](../sources/2026-10-26-farside-flujos-bitcoin.md), sesión del 23, subtotal −137,9 millones USD con HODL ausente; no total cerrado ni causa de precio.

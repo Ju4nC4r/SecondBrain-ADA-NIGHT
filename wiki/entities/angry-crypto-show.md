@@ -2,9 +2,10 @@
 title: "Angry Crypto Show"
 type: entity
 created: "2026-10-14"
-updated: "2026-10-23"
+updated: "2026-10-26"
 tags: [angry-crypto-show, medios, ada, night]
 sources:
+  - "../sources/2026-10-24-informe-angry-crypto-show.md"
   - "../sources/2026-10-23-aviso-angry-acceso-limitado.md"
   - "../sources/2026-10-21-informe-angry-crypto-show.md"
   - "../sources/2026-10-20-informe-angry-crypto-show.md"
@@ -64,3 +65,7 @@ Se incorpora el aviso y su imagen, sin añadir noticias o recomendaciones desde 
 La [misma ficha del 23](../sources/2026-10-23-aviso-angry-acceso-limitado.md) incorpora dos TXT ingleses completos, SCSBS7rDNKk 00:00–11:30 y qhIpkbPM_jc 00:00–12:21, informe completo y nueva imagen. El aviso de acceso limitado y su entrega siguen como historial; no se crean otras fichas para esos mismos vídeos.
 
 Estado actual: **trece vídeos analizados, dos avisos históricos conservados y los dos pendientes del aviso inicial resueltos**. La revisión completa **no figura enviada** y permanece local. Audio/gráficas sin revisión íntegra; los contrastes externos son del autor del informe, sin nueva auditoría por la ingesta. Se distinguen solicitud SEC, recuento agrícola declarado, Dynamic anterior, CNT futuro, planes y métricas/opiniones atribuidas.
+
+## Angry: edición del 24 completada el 26
+
+Se incorpora [un vídeo adicional](../sources/2026-10-24-informe-angry-crypto-show.md), IltXg8rmF-8, publicado el 23 a las 23:38:51 Madrid; edición del 24 completada y entregada el 26. El seguimiento alcanza **catorce vídeos analizados**, con dos avisos históricos, sin duplicar la revisión completa del 23. Esta edición no acredita revisión del canal del 25/26. Leios/Hydra son declaraciones y escenarios distintos; el probable NO al cobre es intención provisional. [Síntesis](../reports/2026-10-24-angry-crypto-show.md).

@@ -1,0 +1,145 @@
+{
+  "author": "Codex",
+  "report_date": "2026-10-26",
+  "trigger_date": "2026-10-24",
+  "cutoff": "2026-10-26T06:24:00+01:00",
+  "capture_time": "2026-10-26T07:50:05.727242+01:00",
+  "sources": [
+    {
+      "url": "https://www.intersectmbo.org/news/intersect-weekly-update-134-oct-24-2026",
+      "author": "Intersect; Ian H, Larisa M, Thomas L, Duncan S",
+      "publication_date": "2026-10-24",
+      "consultation_dates": [
+        "2026-10-25"
+      ],
+      "event_dates": [
+        "2026-10-20",
+        "2026-10-21"
+      ],
+      "limits": "Discordancia Tuesday/21 para reinicialización. Devoluciones declaradas sin auditoría independiente; testnet no mainnet."
+    },
+    {
+      "url": "https://www.essentialcardano.io/development-update/weekly-development-report-2026-10-23",
+      "author": "Ivan Irakoze",
+      "publication_date": "2026-10-23",
+      "consultation_dates": [
+        "2026-10-25"
+      ],
+      "event_date": null,
+      "limits": "Resumen semanal; merges individuales sin fecha exacta, no despliegue."
+    },
+    {
+      "url": "https://github.com/spesmilo/electrum/security/advisories/GHSA-6jp4-8v48-cc5v",
+      "author": "SomberNight / Electrum",
+      "publication_date": "2026-10-24",
+      "consultation_dates": [
+        "2026-10-25"
+      ],
+      "event_dates": [
+        "2026-10-11",
+        "2026-10-18",
+        "2026-10-23",
+        "2026-10-24"
+      ],
+      "limits": "Pérdida declarada sin cuantía; no auditoría propia."
+    },
+    {
+      "url": "https://raw.githubusercontent.com/spesmilo/electrum/master/RELEASE-NOTES",
+      "author": "Electrum",
+      "publication_date": "2026-10-23",
+      "consultation_dates": [
+        "2026-10-25"
+      ],
+      "limits": "Fecha de versión, binarios 24 según aviso."
+    },
+    {
+      "url": "https://farside.co.uk/btc/",
+      "author": "Farside Investors",
+      "publication_date": null,
+      "consultation_dates": [
+        "2026-10-24",
+        "2026-10-25",
+        "2026-10-26"
+      ],
+      "event_date": "2026-10-23",
+      "limits": "HODL sin dato; once cifras subtotal −137,9 millones USD. Revisable y sin conciliación."
+    },
+    {
+      "url": "https://midnight.network/blog",
+      "author": "Midnight / midnightntwrk",
+      "publication_date": null,
+      "consultation_dates": [
+        "2026-10-25",
+        "2026-10-26"
+      ],
+      "limits": "Listado público limitado; no conclusión de ausencia global."
+    },
+    {
+      "url": "https://github.com/midnightntwrk/midnight-node/releases",
+      "author": "Midnight / midnightntwrk",
+      "publication_date": null,
+      "consultation_dates": [
+        "2026-10-25",
+        "2026-10-26"
+      ],
+      "limits": "Listado público limitado; no conclusión de ausencia global."
+    },
+    {
+      "url": "https://github.com/midnightntwrk/midnight-js/releases",
+      "author": "Midnight / midnightntwrk",
+      "publication_date": null,
+      "consultation_dates": [
+        "2026-10-25",
+        "2026-10-26"
+      ],
+      "limits": "Listado público limitado; no conclusión de ausencia global."
+    }
+  ],
+  "individual_capture_times": null,
+  "note": "Fechas de consulta por fuente; horas individuales desconocidas. No artículos completos archivados. Informe derivado con enlaces y fila ETF transcrita.",
+  "limitations": [
+    "Entrega posterior a activación, sin informes retroactivos fabricados.",
+    "Discordancia Tuesday/21 en Intersect; devolución declarada sin auditoría.",
+    "Código/testnet no mainnet.",
+    "Electrum sin cuantía de pérdida publicada.",
+    "HODL ausente; subtotal provisional y sin conciliación.",
+    "NIGHT búsqueda limitada; sin cotizaciones o causalidad."
+  ],
+  "publication_scope": "Metadatos y consultas derivados para publicación, sin identificadores de correo, chat o rutas personales; originales íntegros conservados en local.",
+  "original_metadata_sha256": [
+    "b34a7793cbb9553714e0056af1f4de5e1a8b76bb0ef3b88a74f6968ddc2dc416",
+    "8d4569d580f4c54f5a03484aa616994e49b1292fb0e48ffbadf9b2944d0953b8",
+    "79bd92a3a0b8a773b2973ba747641ca445090e66aeac39d845064f07e5fd73b1"
+  ],
+  "infographic": {
+    "tool": "image_gen.imagegen",
+    "mode": "integrada",
+    "prompt": "Use case: infographic-diagram.\nInfografía editorial horizontal en español, tres bloques de igual ancho, fondo marfil, azul ADA, violeta NIGHT y naranja Bitcoin. Tipografía sans serif grande y legible. Usa iconos decorativos simples, sin gráficos financieros, velas, curvas, recomendaciones de inversión o datos añadidos. Reproduce exactamente:\nCabecera:\n\"ADA · NIGHT · BITCOIN\"\n\"26 de octubre de 2026\"\n\"Corte: 06:24 Europe/Madrid (05:24 UTC)\"\nBloque azul:\n\"ADA / CARDANO\"\n\"ANUNCIO OFICIAL · 24/10/2026\"\n\"DijkstraNet pública\"\n\"Protocolo 12: paso pendiente\"\n\"Devolución declarada: 115.172 ADA\"\n\"Operaciones: 20 y 21/10/2026\"\n\"Sin auditoría independiente\"\n\"Fuente: Intersect · boletín 134\"\n\"intersectmbo.org\"\nBloque violeta:\n\"NIGHT / MIDNIGHT\"\n\"REVISIÓN · 26/10/2026\"\n\"Sin novedades relevantes corroboradas\"\n\"Blog y releases consultados\"\n\"Conclusión limitada a esas fuentes\"\n\"Sin impacto adicional verificado\"\n\"Fuente: Midnight y repositorios oficiales\"\n\"midnight.network/blog\"\nBloque naranja:\n\"BITCOIN / BTC\"\n\"SEGURIDAD · Aviso: 24/10/2026\"\n\"Electrum 4.8.3 corrige un fallo explotado\"\n\"Fuente: Electrum · GHSA-6jp4-8v48-cc5v\"\n\"ETF · Sesión: 23/10/2026\"\n\"−137,9 millones USD\"\n\"SUBTOTAL PROVISIONAL\"\n\"HODL: sin dato, no cero\"\n\"Consulta: 26/10/2026\"\n\"Fuente: Farside · farside.co.uk/btc/\"\nPie:\n\"Fechas de hechos y publicaciones diferenciadas en el informe.\"\n\"Interpretaciones sin causalidad de precio confirmada.\"\n\"Sin cotizaciones al corte ni recomendaciones de compra o venta.\"\nConstraints: No arrow or financial chart; number −137,9 is only provisional subtotal, never final total. 115.172 ADA is returned budget declared by Intersect, not token price. Every accent, minus sign, date and unit exact.",
+    "creation_date": "2026-10-26",
+    "exact_generation_time": null,
+    "archived_at": "2026-10-26T07:50:05.727242+01:00",
+    "sha256": "69a928958f7799b3901409dab5f0af7a016873289bf68d09f4d0642be95e3750",
+    "dimensions": [
+      1774,
+      887
+    ],
+    "visual_check": "Fecha 26/corte 06:24 CET, anuncio 24, 115.172 ADA y operaciones 20/21, Electrum 4.8.3 y aviso 24, −137,9 millones USD subtotal provisional y HODL sin dato comprobados visualmente."
+  },
+  "files": [
+    {
+      "path": "raw/reports/2026-10-26-informe-ada-night-bitcoin.md",
+      "sha256": "3412683e015f1c51d9cf2c287316ab08e016eace259fe75049a52eba583fa94f",
+      "size_bytes": 3866
+    },
+    {
+      "path": "raw/images/2026-10-26-infografia-ada-night-bitcoin.png",
+      "sha256": "69a928958f7799b3901409dab5f0af7a016873289bf68d09f4d0642be95e3750",
+      "size_bytes": 1687155
+    },
+    {
+      "path": "raw/data/2026-10-26-farside-bitcoin-sesion-2026-10-23.csv",
+      "sha256": "e0fcf8fcdc9b55f779a667273c7a30afca6af3a2599c3f48e3433a45a641d6ca",
+      "size_bytes": 256
+    }
+  ]
+}

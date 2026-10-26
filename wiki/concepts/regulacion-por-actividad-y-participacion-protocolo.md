@@ -2,9 +2,10 @@
 title: "Regulación por actividad y participación de protocolo"
 type: concept
 created: "2026-10-22"
-updated: "2026-10-23"
+updated: "2026-10-26"
 tags: [cardano, mica, regulacion, staking]
 sources:
+  - "../sources/2026-10-24-informe-angry-crypto-show.md"
   - "../sources/2026-10-23-aviso-angry-acceso-limitado.md"
 ---
 
@@ -21,3 +22,7 @@ Se conserva como postura atribuida en una consulta, no como norma nueva, criteri
 La [carta conjunta recogida por el autor](../sources/2026-10-23-aviso-angry-acceso-limitado.md), alojada en el expediente de SEC, solicita tratamiento de digital commodities, reglas de mercado secundario y voluntariedad de Rule 400. Son posiciones de los seis firmantes; alojar un documento en SEC no prueba aprobación del regulador o nueva clasificación de ADA por esa carta.
 
 Este caso estadounidense y la consulta europea anterior tienen jurisdicciones y trámites distintos; ninguno autoriza inferir una norma universal o asesoramiento al lector. Fecha exacta de publicación de la carta no consignada en la revisión; no se copia la del episodio.
+
+## Angry: edición del 24 completada el 26
+
+El [episodio](../sources/2026-10-24-informe-angry-crypto-show.md) vuelve sobre la respuesta MiCA presentada el 30 de septiembre y publicada el 21 de octubre, ya recogida en la [ficha del 22](../sources/2026-10-22-cardano-respuesta-mica.md). Proporcionalidad, funciones/riesgos y distinción entre staking directo y servicios de custodia son posiciones de consulta. No otra noticia nueva, reforma o exención aprobadas, ni decisión de la Comisión.

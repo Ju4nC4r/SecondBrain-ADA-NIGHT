@@ -2,9 +2,10 @@
 title: "Hydra: snapshot y benchmark local"
 type: entity
 created: "2026-10-19"
-updated: "2026-10-23"
+updated: "2026-10-26"
 tags: [hydra, cardano, escalado]
 sources:
+  - "../sources/2026-10-24-informe-angry-crypto-show.md"
   - "../sources/2026-10-23-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-17-informe-angry-crypto-show.md"
   - "../sources/2026-10-17-cardano-desarrollo-leios-hydra.md"
@@ -21,3 +22,7 @@ Las correcciones de reporting, depósitos/fanouts y retiradas en liquidación se
 ## Revisión del 23 de octubre
 
 El [reensayo publicado el 22](../sources/2026-10-23-hydra-reensayo-glacier-drop.md) compara 0.22.4 y Hydra actual sobre 24.576 reclamaciones: tres ejecuciones por versión en la misma máquina, 42 frente a 79 reclamaciones/s (~1,9x). Es otro entorno y carga que las autotransferencias del ensayo previo; no cifras contradictorias ni rendimiento de toda mainnet. El equipo operativo firma el resultado; no reproducido independientemente. El reparto de NIGHT es histórico de 2025.
+
+## Angry: edición del 24 completada el 26
+
+El [vídeo](../sources/2026-10-24-informe-angry-crypto-show.md) atribuye más de un millón de TPS a una simulación y decenas de miles por aplicación, sin ensayo reproducido o entrevista completa cotejada. No es capacidad global de mainnet ni se suma a Leios. Los ensayos previos de autotransferencias y reclamaciones siguen con sus cargas y unidades propias. [Comparación de benchmarks](../concepts/benchmarks-locales-y-rendimiento-red.md).

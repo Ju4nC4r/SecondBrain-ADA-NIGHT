@@ -1,0 +1,55 @@
+{
+  "channel": "Angry Crypto Show",
+  "report_date": "2026-10-24",
+  "prepared_at_utc": "2026-10-26T06:55:37.079676+00:00",
+  "source_cutoff_local": "2026-10-26T07:52:00+01:00",
+  "prepared_date_madrid": "2026-10-26",
+  "delayed_delivery": true,
+  "delay_reason": "Tiempos de espera de revisión automática de navegador y desconexión, sin rechazo definitivo de seguridad.",
+  "scope": "Vídeo identificado durante la revisión iniciada el 24; no sustituye revisiones de los días 25/26.",
+  "transcript_source": "YouTube original, inglés automático, exportado desde Brave con permiso explícito del usuario",
+  "review_scope": "Transcripción completa 00:00–10:35; audio y gráficas sin revisión íntegra",
+  "archived_at_utc": "2026-10-26T07:03:58.654819+00:00",
+  "limitations": [
+    "Transcripción automática completa; audio y gráficas sin revisión íntegra.",
+    "Informe24 completado26; no se retrodata preparación ni entrega.",
+    "Archivo RAW no equivale a ingesta terminada."
+  ],
+  "source_video": {
+    "video_id": "IltXg8rmF-8",
+    "title": "Charles: \"Cardano—Infinitely Scalable. Unbelievable Innovations Coming.\" Angry Crypto Reacts",
+    "publication_date": "2026-10-23",
+    "publication_timestamp": "2026-10-23T14:38:51-07:00",
+    "publication_madrid": "2026-10-23T23:38:51+02:00",
+    "source": "YouTube original, inglés automático, exportado desde Brave con permiso explícito del usuario",
+    "review_scope": "Transcripción completa 00:00–10:35; audio y gráficas sin revisión íntegra",
+    "report_date": "2026-10-24",
+    "analysis_completed_at_utc": "2026-10-26T07:03:58.654819+00:00",
+    "transcript": "raw/transcripts/2026-10-23-angry-crypto-show-IltXg8rmF-8.txt"
+  },
+  "publication_scope": "Metadatos derivados para publicación, sin identificadores de correo ni rutas personales; original íntegro conservado en local.",
+  "original_metadata_sha256": "bc8a8b48f75caa32bce40a4e9abd9fbe909fb0ae9c471085cf05fd72789cf2f4",
+  "files": [
+    {
+      "role": "report",
+      "path": "raw/notes/2026-10-24-informe-angry-crypto-show.md",
+      "relative_link_from_metadata": "2026-10-24-informe-angry-crypto-show.md",
+      "sha256": "5ee2526b25b9e6112b6f8b919008c0aad7fcdc0a365b479397657acba3c779a1",
+      "size_bytes": 8874
+    },
+    {
+      "role": "infographic",
+      "path": "raw/images/2026-10-24-infografia-angry-crypto-show.png",
+      "relative_link_from_metadata": "../images/2026-10-24-infografia-angry-crypto-show.png",
+      "sha256": "e31970fb343805f90787d5568336986523f58664cf682cd7459d62f9141d93e1",
+      "size_bytes": 1729616
+    },
+    {
+      "role": "transcript",
+      "path": "raw/transcripts/2026-10-23-angry-crypto-show-IltXg8rmF-8.txt",
+      "relative_link_from_metadata": "../transcripts/2026-10-23-angry-crypto-show-IltXg8rmF-8.txt",
+      "sha256": "b5282f995f6fa1e9e5498f00ccfe230dab96e161fd1536a90ea516e65b64fe9b",
+      "size_bytes": 11433
+    }
+  ]
+}

@@ -2,9 +2,10 @@
 title: "RealFi"
 type: entity
 created: "2026-10-16"
-updated: "2026-10-23"
+updated: "2026-10-26"
 tags: [realfi, cardano, defi]
 sources:
+  - "../sources/2026-10-24-informe-angry-crypto-show.md"
   - "../sources/2026-10-23-aviso-angry-acceso-limitado.md"
   - "../sources/2026-10-21-informe-angry-crypto-show.md"
   - "../sources/2026-10-20-informe-angry-crypto-show.md"
@@ -45,3 +46,7 @@ Swaps ADA→sUSDrf en SundaeSwap y canje nominal iUSD/USDrf 1:1 en el PSM de Ind
 ## Revisión completa del 23: depósitos y unidades
 
 El [canal](../sources/2026-10-23-aviso-angry-acceso-limitado.md) relata despliegue de ADA de una organización latinoamericana de eventos mediante SundaeSwap y >260.000 USD de Strike vía sUSDrf en menos de dos semanas, sin transacciones o series reproducidas. No se infieren entradas netas desde cifras anteriores con cortes distintos. La integración repetida no es otro anuncio o rendimiento realizado; tampoco la proyección de liquidez de Strike es TVL de RealFi.
+
+## Angry: edición del 24 completada el 26
+
+El [canal](../sources/2026-10-24-informe-angry-crypto-show.md) atribuye más de 8,4 millones USD emitidos y +100.000 en 72 horas a Token Terminal, sin serie reproducida. Emisión no es TVL o beneficio; diferencias frente a episodios anteriores con otros cortes no prueban flujos nuevos. Los >6.900 holders de ADA envuelta son otro contador, sin contrato/red identificados o equivalencia a personas.

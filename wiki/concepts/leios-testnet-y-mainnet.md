@@ -2,9 +2,11 @@
 title: "Leios: testnet, resultados y mainnet"
 type: concept
 created: "2026-10-14"
-updated: "2026-10-23"
+updated: "2026-10-26"
 tags: [ada, night, bitcoin, seguimiento]
 sources:
+  - "../sources/2026-10-24-informe-angry-crypto-show.md"
+  - "../sources/2026-10-26-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-23-aviso-angry-acceso-limitado.md"
   - "../sources/2026-10-21-informe-angry-crypto-show.md"
   - "../sources/2026-10-20-informe-angry-crypto-show.md"
@@ -56,3 +58,11 @@ La enumeración de Leios, nested transactions, cuentas, guard scripts, Plutus V4
 ## Discrepancia conservada: revisión completa de Angry del 23
 
 A [según la revisión](../sources/2026-10-23-aviso-angry-acceso-limitado.md) atribuye a Carlos López de Lara hasta **60x** como techo y **10–15x** como primera meta, según demanda/costes. El [informe del 21](../sources/2026-10-21-informe-angry-crypto-show.md) había recogido **3–5x inicial y 10–15x posterior**. Sin declaraciones originales cotejadas o benchmark, se mantienen ambas versiones y sus atribuciones; no se resuelve como cambio oficial, error o rendimiento ya entregado. Tampoco «infinito» se convierte en un dato experimental.
+
+## Revisión del 26 de octubre
+
+[Boletín del 24](../sources/2026-10-26-intersect-dijkstranet-tesoreria.md): DijkstraNet pública en pv11/node 11.1.3; pv12 pendiente. El [informe de desarrollo del 23](../sources/2026-10-26-cardano-desarrollo.md) declara componentes Leios integrados en main del código, no activación mainnet. La fecha interna martes/21 del boletín no se resuelve por inferencia; no se cierran aquí las discrepancias de multiplicadores del canal.
+
+## Angry: edición del 24 completada el 26
+
+El [contraste del autor](../sources/2026-10-24-informe-angry-crypto-show.md) cita CIP-0164 como propuesta y escenarios de 140.000–300.000 bytes de transacciones/s, aproximadamente 100–200 TPS para transacciones medias bajo sus condiciones. No equivalen a cientos de miles de TPS o a una conversión universal. Las cifras del discurso, multiplicadores previos y simulaciones Hydra no se igualan sin versión, carga y entorno comparables; no rendimiento mainnet demostrado.

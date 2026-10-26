@@ -6,7 +6,7 @@ Base de conocimiento personal para investigar Cardano (ADA) y Midnight (NIGHT) c
 
 ## Estado
 
-Última incorporación del seguimiento diario: [informe del 23 de octubre](reports/2026-10-23-seguimiento-ada-night-bitcoin.md), corte 10:22 Europe/Madrid. Ensayo Hydra publicado el 22, divulgación Midnight y salidas ETF de la sesión del 22; fechas, atribuciones y límites conservados.
+Última incorporación del seguimiento diario: [informe del 26 de octubre](reports/2026-10-26-seguimiento-ada-night-bitcoin.md), corte 06:24 CET. Ejecución del 24 completada el 26: DijkstraNet, devolución declarada, desarrollo, Electrum y ETF provisionales; NIGHT sin novedad corroborada.
 
 La estructura conserva la [guía de Karpathy](sources/llm-wiki.md) y los informes de ADA, NIGHT y Bitcoin del [5](reports/2026-10-05-seguimiento-ada-night-bitcoin.md) y [6 de octubre](reports/2026-10-06-seguimiento-ada-night-bitcoin.md), con versiones en RAW y fichas de procedencia. El primero procede de otro chat; el segundo se elaboró manualmente en este proyecto al comprobar que no había una entrega del día 6. La incorporación actualiza activos, conceptos, índices y el tema de seguimiento.
 
@@ -92,9 +92,7 @@ El usuario solicitó incluir una infografía en cada entrega diaria. La configur
 
 ## Entrega por correo configurada el 9 de octubre
 
-Por autorización expresa del usuario, la automatización enviará cada informe terminado e infografía a gallegojc@gmail.com, con asunto que comienza por [Codex]. Se conserva el horario de las 07:00 Europe/Madrid. El [envío del informe de hoy](sources/2026-10-09-informe-ada-night-bitcoin.md) está confirmado en Gmail; las entregas futuras se comprobarán individualmente. La configuración exige evitar duplicados y registrar el identificador del mensaje, sin sobrescribir los originales.
 
-El informe del 13 y su infografía se enviaron a gallegojc@gmail.com a las 08:10:08 de Madrid, con asunto que comienza por [Codex]. [Constancia verificable](../raw/notes/2026-10-13-envio-gmail-informe-ada-night-bitcoin.json): mensaje 1a133e1f5f7e22d5, etiqueta SENT y encabezados comprobados. No acredita lectura por el destinatario.
 
 La entrega manual del 14 se completó a las 08:50:43 de Madrid con [envío comprobado por Gmail](sources/2026-10-14-informe-ada-night-bitcoin.md): cuerpo HTML y texto idénticos al preparado, imagen recuperada con SHA-256 coincidente. Programación diaria conservada; no se atribuye una causa a la ausencia de la entrega previa.
 
@@ -112,7 +110,6 @@ Se reutilizan CIP-0113, .ada, Leios y la roadmap; se añaden [Minswap](entities/
 
 El seguimiento empezó el 7: no constan informes recuperables del 1–6 ni 11–12, sin inferir ausencia de vídeos. El informe del 10 se preparó el 12 y se envió el 13; su imagen conserva la fecha de preparación. Es una serie adicional: ese informe del 10 no sustituye un informe faltante de Noticias diarias ADA/NIGHT/BTC. Los originales y el estado histórico pending del manifiesto permanecen intactos.
 
-El informe del 16 y su infografía se enviaron a gallegojc@gmail.com a las 07:45:53 Europe/Madrid, con cuerpos e identidad del PNG comprobados en Gmail. [Constancia de entrega](../raw/notes/2026-10-16-envio-gmail-informe-ada-night-bitcoin.json).
 
 ## Ampliación de Angry Crypto Show — 16 de octubre
 
@@ -158,7 +155,6 @@ El informe del 20 y su infografía se enviaron el 20 de octubre de 2026 a las 10
 
 La [publicación de Midnight](sources/2026-10-21-midnight-nightmode.md) del 20 añade arquitectura de Nightmode sin verificar despliegue general, seguridad o adopción; la búsqueda sin novedades anterior conserva su alcance temporal. [ETF](sources/2026-10-21-farside-flujos-bitcoin.md), sesión del 20: +23,2 millones USD revisables. [PBIT](sources/2026-10-21-blackrock-pbit-propuesta.md), presentado el 19, no lanzamiento aprobado o capital garantizado; [JPM](sources/2026-10-21-jpmorgan-previsiones-bitcoin.md), comunicado del 19, previsiones sin asignación. ADA sin nueva noticia fundamental corroborada. Se conservan originales y el alcance general ADA/NIGHT.
 
-El informe del 21 y su infografía se enviaron el 21 de octubre de 2026 a las 08:50:23 Europe/Madrid. [Constancia Gmail](../raw/notes/2026-10-21-envio-gmail-informe-ada-night-bitcoin.json) con cuerpo completo e identidad de la imagen verificados.
 
 ## Angry Crypto Show: edición del 21 incorporada
 
@@ -180,8 +176,18 @@ Incorporados el [aviso del 23](reports/2026-10-23-angry-crypto-show-acceso-limit
 
 El [seguimiento del canal](topics/seguimiento-angry-crypto-show.md) conserva **once análisis de vídeo, dos avisos de estado y dos vídeos pendientes**. Ingesta del aviso completada; ingesta de sus contenidos pendiente. Archivo, búsqueda de correo previa y envío posterior del aviso se distinguen en la ficha, sin reenviar correo o modificar las conclusiones de los análisis anteriores.
 
+
 ## Angry Crypto Show: revisión completa posterior al aviso del 23
 
 Actualizadas la [ficha existente](sources/2026-10-23-aviso-angry-acceso-limitado.md) y [síntesis](reports/2026-10-23-angry-crypto-show-acceso-limitado.md), con informe completo, dos transcripciones originales inglesas y nueva imagen, corte 11:49. La limitación de las 10:18 queda superada; originales y texto histórico conservados. **Trece vídeos analizados, dos avisos históricos y los dos pendientes del aviso inicial resueltos.** La revisión completa no figura enviada y permanece local.
 
 La carta SEC es solicitud sin aprobación; Syngenta reutiliza recuento oficial declarado sin auditoría. [Dynamic](entities/dynamic.md) ya se publicó el 1 de octubre; CNT Fireblocks sigue para marzo de 2027 y TRON como plan para diciembre, sin confirmación bilateral del relato. Leios conserva sus multiplicadores distintos; liquidez proyectada de Strike difiere de capitalización objetivo y no es dinero captado. Opiniones, 0,20 USD como preocupación y titulares sin contraste mantienen límites.
+
+## Actualización del 26 de octubre
+
+[Intersect](sources/2026-10-26-intersect-dijkstranet-tesoreria.md) aporta fuente primaria de DijkstraNet que faltaba en la edición del 23; transición a pv12 pendiente y discordancia de fecha interna conservada. Devolución declarada 115.172 ADA del 20–21 sin auditoría. [Desarrollo](sources/2026-10-26-cardano-desarrollo.md): main del código no mainnet. [Electrum](sources/2026-10-26-electrum-seguridad.md): aviso del 24 y parche 4.8.3 frente a ataque activo declarado. [ETF](sources/2026-10-26-farside-flujos-bitcoin.md): sesión del 23, subtotal −137,9 millones USD, HODL ausente, sin total cerrado. NIGHT sin nueva noticia corroborada en fuentes limitadas. No se fabrican entregas del 24/25; originales anteriores intactos.
+
+
+## Angry: edición del 24 completada el 26
+
+La [edición retrasada](reports/2026-10-24-angry-crypto-show.md) incorpora un vídeo publicado el 23 y alcanza **catorce vídeos analizados**. Corte y entrega reales del 26 conservados; no revisión del canal del 25/26. Bytes/s y TPS de Leios no se equiparan; simulación Hydra no acredita mainnet. [Pruebas formales](concepts/verificacion-formal-y-supuestos.md) dependen de propiedades/supuestos, sin release reciente Hades comprobada. MiCA repite una postura de consulta ya documentada. El NO al cobre es intención provisional del presentador, sin voto o resultado confirmados. Métricas RealFi/holders, planes SIG y publicidad mantienen atribución y límites.

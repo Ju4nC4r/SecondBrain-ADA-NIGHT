@@ -2,9 +2,10 @@
 title: "Nightmode: arquitectura y privacidad entre redes"
 type: concept
 created: "2026-10-21"
-updated: "2026-10-23"
+updated: "2026-10-26"
 tags: [midnight, nightmode, privacidad, interoperabilidad]
 sources:
+  - "../sources/2026-10-24-informe-angry-crypto-show.md"
   - "../sources/2026-10-23-aviso-angry-acceso-limitado.md"
   - "../sources/2026-10-21-informe-angry-crypto-show.md"
 ---
@@ -30,3 +31,7 @@ Los activos nativos permanecen en origen; los saldos privados representados en M
 Los [dos vídeos recuperados](../sources/2026-10-23-aviso-angry-acceso-limitado.md) retoman stagenet/Ethereum, v9 y TRON previsto en diciembre de 2026. B reconoce no haber visto confirmación de TRON/Justin Sun: no prueba de acuerdo bilateral o despliegue actual. La metáfora VPN para DeFi no elimina la visibilidad de importes/tiempos en la cadena pública ni certifica cumplimiento universal por screening.
 
 La integración anterior de [Dynamic](../entities/dynamic.md) y las funciones futuras de Passport son componentes distintos, sin garantías transferibles por asociación. Se mantiene el anuncio oficial del 20 como referencia, sin otro lanzamiento que contar.
+
+## Angry: edición del 24 completada el 26
+
+La [consulta documental del autor del 26](../sources/2026-10-24-informe-angry-crypto-show.md) mantiene stagenet, mainnet con ledger v9 y TRON previsto en diciembre. No se retrodata el despliegue al 24. Screening no garantiza cumplimiento universal; relación con Filecoin e importes potenciales siguen sin acuerdo o captación primarios acreditados. No se cuenta como otro lanzamiento el anuncio previo.

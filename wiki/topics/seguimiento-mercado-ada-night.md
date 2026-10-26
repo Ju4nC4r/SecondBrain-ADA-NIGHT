@@ -2,9 +2,10 @@
 title: "Seguimiento de mercado de ADA y NIGHT"
 type: topic
 created: "2026-10-05"
-updated: "2026-10-23"
+updated: "2026-10-26"
 tags: [ada, night, mercado, seguimiento]
 sources:
+  - "../sources/2026-10-26-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-23-aviso-angry-acceso-limitado.md"
   - "../sources/2026-10-23-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-21-informe-angry-crypto-show.md"
@@ -84,7 +85,7 @@ Las capturas del 5 y 6 de Farside conservan el dato antes ausente y su publicaci
 
 ## Fuente complementaria: Angry Crypto Show
 
-El [seguimiento del canal](seguimiento-angry-crypto-show.md) incorpora once informes de opinión con transcripciones de los días 7, 8, 9, 10, 13, 14, 15, 16, 17, 20 y 21. Mantiene separadas las noticias documentadas, métricas no reproducidas, previsiones condicionales y patrocinio. Complementa la serie de Noticias diarias ADA/NIGHT/BTC; el informe del 10 de Angry no rellena la laguna del 10 de esa otra serie.
+El [seguimiento del canal](seguimiento-angry-crypto-show.md) incorpora catorce vídeos analizados: ediciones del 7, 8, 9, 10, 13, 14, 15, 16, 17, 20, 21, 23 (dos vídeos) y 24 (completada el 26). Mantiene separadas las noticias documentadas, métricas no reproducidas, previsiones condicionales y patrocinio. Complementa la serie de Noticias diarias ADA/NIGHT/BTC; el informe del 10 de Angry no rellena la laguna del 10 de esa otra serie.
 
 Las lecturas del canal no sustituyen series compatibles de mercado o uso. Los niveles de inversión y plazos ausentes no se reconstruyen desde títulos, gráficos no revisados o intervenciones anteriores. [Previsiones y publicidad](../concepts/previsiones-atribuidas-y-publicidad.md) · [Interoperabilidad y custodia](../concepts/interoperabilidad-custodia-y-privacidad.md).
 
@@ -117,3 +118,11 @@ La [edición del 23](../reports/2026-10-23-seguimiento-ada-night-bitcoin.md), co
 La [revisión de los dos vídeos](../reports/2026-10-23-angry-crypto-show-acceso-limitado.md) supera la falta de texto, sin convertir todas las declaraciones en hechos corroborados. Carta SEC es solicitud; Syngenta y CIP-0113 se relacionan con fuentes previas, Dynamic con el 1 de octubre y CNT con marzo de 2027, sin nuevas entregas por repetición. Leios mantiene multiplicadores distintos sin resolverlos como rendimiento mainnet.
 
 Liquidez potencial de Strike no es capital captado o la capitalización a 36 meses citada antes. Capturas de volumen no sumables, NIGHT en Cardano distinto de uso privado de Midnight, y preferencias ADA/XRP sin plan operativo conservan atribuciones. Los dos pendientes del aviso están analizados; el aviso inicial permanece histórico y no se reenvía correo.
+
+## Revisión del 26 de octubre
+
+La [edición del 26](../reports/2026-10-26-seguimiento-ada-night-bitcoin.md), ejecución empezada el 24, añade DijkstraNet y devolución declarada de fondos con boletín primario del 24, desarrollo Leios, aviso Electrum y subtotal ETF con HODL ausente. NIGHT sin novedad corroborada en fuentes limitadas. No se fabrican entregas del 24/25 ni causas de precio; Bitcoin sigue por petición expresa.
+
+## Angry: edición del 24 completada el 26
+
+La [síntesis](../reports/2026-10-24-angry-crypto-show.md) separa métricas atribuidas, escenarios técnicos y opinión de hechos operativos. No cubre las revisiones del canal del 25/26 ni sustituye el informe diario independiente.

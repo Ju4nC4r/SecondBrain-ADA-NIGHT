@@ -2,9 +2,10 @@
 title: "Midnight: roadmap y staking de NIGHT"
 type: concept
 created: "2026-10-14"
-updated: "2026-10-23"
+updated: "2026-10-26"
 tags: [ada, night, bitcoin, seguimiento]
 sources:
+  - "../sources/2026-10-24-informe-angry-crypto-show.md"
   - "../sources/2026-10-23-aviso-angry-acceso-limitado.md"
   - "../sources/2026-10-21-informe-angry-crypto-show.md"
   - "../sources/2026-10-20-informe-angry-crypto-show.md"
@@ -65,3 +66,7 @@ La fuente oficial de Nightmode ya incorporada no demuestra todas esas entregas. 
 ## Revisión completa de Angry del 23
 
 El [autor](../sources/2026-10-23-aviso-angry-acceso-limitado.md) documenta Nightstream y Passport SDK v1 para Q4 de 2026 y Collateral Warehouse para Q1 de 2027 como objetivos. No resistencia poscuántica total o protección completa frente a agentes ya entregadas. SIG mantiene stagenet/Ethereum, mainnet con v9 y TRON previsto para diciembre, sin confirmación bilateral encontrada por el presentador. La publicación anterior de Dynamic no cambia CNT de Fireblocks, staking o la fotografía histórica del consenso.
+
+## Angry: edición del 24 completada el 26
+
+El [informe de edición del 24](../sources/2026-10-24-informe-angry-crypto-show.md), preparado el 26, conserva etapas SIG y TRON futuro. No acredita servicio activo el 24, captación de activos potenciales, acuerdo con Filecoin o cambios entregados de staking/consenso. Mantiene separados anuncio, consulta documental y funcionamiento probado.

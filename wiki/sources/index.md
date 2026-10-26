@@ -1,6 +1,14 @@
 # Resúmenes de fuentes
 
-Última actualización: **23 de octubre de 2026, 11:59 (Europe/Madrid)**.
+Última actualización: **26 de octubre de 2026, 08:18 (Europe/Madrid)**.
+
+- [Angry — edición del 24, completada el 26](2026-10-24-informe-angry-crypto-show.md): transcripción, fechas reales y límites.
+
+- [Informe archivado — 26 de octubre](2026-10-26-informe-ada-night-bitcoin.md): procedencia, fecha real e infografía.
+- [Intersect 134](2026-10-26-intersect-dijkstranet-tesoreria.md): testnet y devolución declarada; fechas y límites.
+- [Cardano: desarrollo del 23](2026-10-26-cardano-desarrollo.md): código integrado, no mainnet.
+- [Electrum 4.8.3](2026-10-26-electrum-seguridad.md): aviso primario del 24, fechas y alcance.
+- [Farside: sesión del 23](2026-10-26-farside-flujos-bitcoin.md): subtotal provisional; HODL ausente.
 
 - [Angry — revisión completa del 23](2026-10-23-aviso-angry-acceso-limitado.md): dos TXT, revisión, nueva imagen y procedencia; aviso anterior conservado.
 

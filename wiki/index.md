@@ -1,6 +1,6 @@
 # 🧠 Índice de la wiki
 
-Última actualización: **23 de octubre de 2026, 11:59 (Europe/Madrid)**.
+Última actualización: **26 de octubre de 2026, 08:32 (Europe/Madrid)**.
 
 ![Cardano / ADA](../raw/images/2026-10-05-cardano-logotipo-indice.png) ![Midnight / NIGHT](../raw/images/2026-10-05-midnight-logotipo-indice.png)
 
@@ -10,6 +10,14 @@
 - [Registro de actividad](log.md): operaciones realizadas.
 
 ## 📚 Fuentes
+
+- [Angry — edición del 24, completada el 26](sources/2026-10-24-informe-angry-crypto-show.md): transcripción, fechas reales, unidades e intenciones de voto.
+
+- [Informe archivado — 26 de octubre](sources/2026-10-26-informe-ada-night-bitcoin.md): procedencia, fecha real e infografía.
+- [Intersect 134](sources/2026-10-26-intersect-dijkstranet-tesoreria.md): testnet y devolución declarada; fechas y límites.
+- [Cardano: desarrollo del 23](sources/2026-10-26-cardano-desarrollo.md): código integrado, no mainnet.
+- [Electrum 4.8.3](sources/2026-10-26-electrum-seguridad.md): aviso primario del 24, fechas y alcance.
+- [Farside: sesión del 23](sources/2026-10-26-farside-flujos-bitcoin.md): subtotal provisional; HODL ausente.
 
 - [Angry: revisión completa del 23 e historial](sources/2026-10-23-aviso-angry-acceso-limitado.md): dos textos originales recuperados, contraste y aviso inicial conservado.
 
@@ -113,6 +121,8 @@
 
 ## 🏷️ Entidades
 
+- [Electrum](entities/electrum.md): wallet Bitcoin y aviso de seguridad.
+
 - [Dynamic](entities/dynamic.md): wallets de Midnight, publicación del 1 de octubre y diferencia respecto a CNT de Fireblocks.
 
 - [Syngenta Foundation India](entities/syngenta-foundation-india.md): datos agrícolas en Cardano y límites del recuento.
@@ -146,6 +156,10 @@
 - [iShares Bitcoin Trust ETF / IBIT](entities/ishares-bitcoin-trust-ibit.md): fondo de BlackRock, dato publicado y conciliación metodológica pendiente.
 
 ## 💡 Conceptos
+
+- [Verificación formal y supuestos](concepts/verificacion-formal-y-supuestos.md): propiedades, versiones y límites de las pruebas.
+
+- [Confianza en servidores y transacciones sin confirmar](concepts/confianza-servidores-transacciones-sin-confirmar.md): firmas y límites de un cliente ligero.
 
 - [Regulación por actividad y participación de protocolo](concepts/regulacion-por-actividad-y-participacion-protocolo.md): postura MiCA, sin norma adoptada.
 
@@ -182,11 +196,15 @@
 
 ## 🧭 Temas
 
-- [Seguimiento de Angry Crypto Show](topics/seguimiento-angry-crypto-show.md): trece vídeos analizados y dos avisos históricos; pendientes del aviso resueltos.
+- [Seguimiento de Angry Crypto Show](topics/seguimiento-angry-crypto-show.md): catorce vídeos analizados y dos avisos históricos; pendientes del aviso resueltos.
 
 - [Seguimiento de mercado de ADA y NIGHT](topics/seguimiento-mercado-ada-night.md): síntesis, relaciones y preguntas abiertas.
 
 ## 📝 Informes
+
+- [Angry — edición del 24, entrega del 26](reports/2026-10-24-angry-crypto-show.md): Leios/Hydra, MiCA, métricas atribuidas y cobre sin voto confirmado.
+
+- [Seguimiento — 26 de octubre](reports/2026-10-26-seguimiento-ada-night-bitcoin.md): ADA, NIGHT, Electrum y ETF, con infografía.
 
 - [Angry: revisión de dos vídeos — 23 de octubre](reports/2026-10-23-angry-crypto-show-acceso-limitado.md): síntesis completa y nueva infografía; aviso previo histórico.
 
