@@ -2,9 +2,10 @@
 title: "Midnight City"
 type: entity
 created: "2026-10-16"
-updated: "2026-10-20"
+updated: "2026-10-27"
 tags: [midnight-city, midnight, nightframes, agentes]
 sources:
+  - "../sources/2026-10-27-informe-angry-crypto-show.md"
   - "../sources/2026-10-20-informe-angry-crypto-show.md"
   - "../sources/2026-10-10-hoskinson-nightframes-tokio.md"
 ---
@@ -22,3 +23,7 @@ Los recuentos de agentes de los informes de Angry siguen siendo [métricas atrib
 ## Informe del 20: cifras y funciones futuras
 
 El [informe de Angry](../sources/2026-10-20-informe-angry-crypto-show.md) cita >4.300 agentes en cola y >1.600 conectados, sin captura o series reproducidas. Passport, inteligencia propia, trading y alquiler de habilidades se presentan para los meses siguientes; Solana, Hyperliquid y Binance son conexiones propuestas. No se infiere operación del sistema completo desde recuentos o clips, ni se renueva el calendario del discurso original como entrega verificada.
+
+## Angry Crypto Show: informe del 27
+
+El [episodio](../sources/2026-10-27-informe-angry-crypto-show.md) cita >1.800 agentes conectados, >4.400 en espera y +178/semana sin consulta o método reproducidos. No personas/ingresos o crecimiento uniforme frente a cortes anteriores. Trading en los próximos meses, tokenización de inteligencia y cómputo distribuido son posibilidades atribuidas a Hoskinson, no capacidad o rentabilidad entregadas.

@@ -2,9 +2,10 @@
 title: "Previsiones atribuidas, recomendaciones y publicidad"
 type: concept
 created: "2026-10-14"
-updated: "2026-10-26"
+updated: "2026-10-27"
 tags: [medios, previsiones, publicidad, ada]
 sources:
+  - "../sources/2026-10-27-informe-angry-crypto-show.md"
   - "../sources/2026-10-24-informe-angry-crypto-show.md"
   - "../sources/2026-10-23-aviso-angry-acceso-limitado.md"
   - "../sources/2026-10-21-informe-angry-crypto-show.md"
@@ -76,3 +77,7 @@ Exposición poscuántica mediante Midnight/Zcash es expectativa del autor, sin e
 ## Angry: edición del 24 completada el 26
 
 El [episodio](../sources/2026-10-24-informe-angry-crypto-show.md) mantiene optimismo ADA/XRP y frase de CZ sin entrada, objetivo, stop, asignación o recuperación fechada. ADA >0,21 USD pertenece a la grabación. El 99 % de inclinación del presentador a votar NO al cobre no es probabilidad comunitaria o voto confirmado. Kalshi es patrocinio con condiciones y elegibilidad no comprobadas; no estrategia o recomendación propia.
+
+## Angry Crypto Show: informe del 27
+
+En el [informe](../sources/2026-10-27-informe-angry-crypto-show.md), recuperación sin cuándo/objetivo no es entrada o stop. Prudencia/apertura a nuevos proyectos tras hablar con Solada no es orden de comprar su token. Kalshi es invitación patrocinada a residentes de EE. UU., sin condiciones o niveles completos comprobados; SUI 20x en Strike es oferta citada, no orden. Advertencias sobre liquidación son contexto editorial del informe, sin atribuirlas falsamente al presentador.

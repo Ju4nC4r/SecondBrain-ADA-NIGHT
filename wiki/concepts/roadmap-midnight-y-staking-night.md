@@ -2,9 +2,10 @@
 title: "Midnight: roadmap y staking de NIGHT"
 type: concept
 created: "2026-10-14"
-updated: "2026-10-26"
+updated: "2026-10-27"
 tags: [ada, night, bitcoin, seguimiento]
 sources:
+  - "../sources/2026-10-27-informe-angry-crypto-show.md"
   - "../sources/2026-10-24-informe-angry-crypto-show.md"
   - "../sources/2026-10-23-aviso-angry-acceso-limitado.md"
   - "../sources/2026-10-21-informe-angry-crypto-show.md"
@@ -70,3 +71,7 @@ El [autor](../sources/2026-10-23-aviso-angry-acceso-limitado.md) documenta Night
 ## Angry: edición del 24 completada el 26
 
 El [informe de edición del 24](../sources/2026-10-24-informe-angry-crypto-show.md), preparado el 26, conserva etapas SIG y TRON futuro. No acredita servicio activo el 24, captación de activos potenciales, acuerdo con Filecoin o cambios entregados de staking/consenso. Mantiene separados anuncio, consulta documental y funcionamiento probado.
+
+## Angry Crypto Show: informe del 27
+
+El [informe](../sources/2026-10-27-informe-angry-crypto-show.md) repite Passport v1 Q4 de 2026 y composición/interoperabilidad de la roadmap, sin nueva entrega que contar. Trading por agentes, inteligencia tokenizada, cómputo y ventajas poscuánticas son escenarios atribuidos sin capacidad/rentabilidad certificadas. No actualizan staking, consenso o disponibilidad de v9 por la sola mención del vídeo.

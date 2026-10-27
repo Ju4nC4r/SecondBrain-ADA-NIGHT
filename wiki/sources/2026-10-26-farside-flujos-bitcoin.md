@@ -2,7 +2,7 @@
 title: "Farside: sesión del 23 con HODL ausente"
 type: source
 created: "2026-10-26"
-updated: "2026-10-26"
+updated: "2026-10-27"
 tags: [bitcoin, etf, provisional]
 ---
 
@@ -13,3 +13,7 @@ tags: [bitcoin, etf, provisional]
 Millones USD: IBIT −110,3; FBTC −31,8; BITB 0; ARKB 0; BTCO 0; EZBC 0; BRRR 0; HODL ausente (guion); BTCW 0; MSBT +4,2; GBTC 0; BTC 0. Once valores suman −137,9, coincide con el subtotal mostrado. HODL no se convierte en cero; total diario y semanal no cerrados. Revisable y sin conciliación por emisor.
 
 No corrige el [dato del 22](2026-10-23-farside-flujos-bitcoin.md): es otra sesión. Tampoco las cifras semanales de terceros completan el dato faltante del proveedor. No se deduce causa del precio o tendencia. [ETF](../concepts/flujos-etf-bitcoin.md) · [IBIT](../entities/ishares-bitcoin-trust-ibit.md) · [Informe](../reports/2026-10-26-seguimiento-ada-night-bitcoin.md).
+
+## Actualización del 27
+
+La [captura nueva](2026-10-27-farside-flujos-bitcoin.md) muestra HODL23 a cero, doce valores y total −137,9 sin cambio numérico. Se cierra la ausencia para la nueva consulta; esta ficha y su RAW conservan la observación histórica del 26.

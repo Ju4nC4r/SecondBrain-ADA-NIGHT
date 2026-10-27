@@ -2,9 +2,11 @@
 title: "Cardano / ADA"
 type: entity
 created: "2026-10-05"
-updated: "2026-10-26"
+updated: "2026-10-27"
 tags: [cardano, ada]
 sources:
+  - "../sources/2026-10-27-informe-angry-crypto-show.md"
+  - "../sources/2026-10-27-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-24-informe-angry-crypto-show.md"
   - "../sources/2026-10-26-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-23-aviso-angry-acceso-limitado.md"
@@ -163,3 +165,11 @@ Leios hasta 60x/primera meta 10–15x es otra declaración, distinta del 3–5x 
 ## Angry: edición del 24 completada el 26
 
 El [nuevo informe](../sources/2026-10-24-informe-angry-crypto-show.md) distingue los TPS extremos atribuidos a Hoskinson de los escenarios documentales en bytes/s y del rendimiento mainnet. [Verificación formal](../concepts/verificacion-formal-y-supuestos.md) depende de propiedades/supuestos; Hades y el parche reciente no tienen release comprobada. La respuesta MiCA se repite del 21, sin reforma aprobada. Sobre cobre, el presentador expresa inclinación provisional al NO, sin voto emitido o resultado acreditados.
+
+## Revisión del 27 de octubre
+
+El [informe del 27](../reports/2026-10-27-seguimiento-ada-night-bitcoin.md) no corrobora hecho nuevo relevante en fuentes accesibles; listado Intersect falla por tamaño. Notas secundarias sobre Leios repiten el desarrollo ya incorporado. Conclusión limitada, sin ausencia global o impacto adicional de precio establecido.
+
+## Angry Crypto Show: informe del 27
+
+El [informe](../sources/2026-10-27-informe-angry-crypto-show.md) conserva la contradicción de [ChatterPay](chatterpay.md): disponibilidad de staking/voto anunciada frente a Preprod y funciones planificadas en documentación. No prueba mainnet. Leios 5 % sin denominador no es red activada o fecha. [Peras](peras.md) se interpreta de subtítulos y trata asentamiento bajo supuestos, sin segundos universales. Métricas cbADA/volumen siguen atribuidas, sin compras netas o usuarios demostrados.

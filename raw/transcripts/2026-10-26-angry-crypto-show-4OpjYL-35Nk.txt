@@ -1,0 +1,294 @@
+YouTube transcript
+Video ID: 4OpjYL-35Nk
+Language: en
+Captions: auto-generated
+
+[0:00] What is good, Cardano fam? ADA gang,
+[0:02] with lots of exciting updates to unpack
+[0:03] today. So, hit that subscribe, hit that
+[0:05] like. Cardano ADA 24-hour trade volume
+[0:08] surpasses $220 million,
+[0:10] according to CoinGecko.
+[0:12] ADA generated over $300,000 in 24-hour
+[0:16] trade volume on Polymarket's crypto
+[0:18] perpetuals, surpassing XRP at 200,000,
+[0:22] Monero at 142, Dogecoin at 107, BNB at
+[0:26] 73, and Chainlink at a mere $14,000.
+[0:30] So, despite all the numbers being lower,
+[0:33] still ADA driving a lot of perp interest
+[0:36] and volume.
+[0:38] Again, ADA generating the 10th highest
+[0:41] 24-hour trade volume on Kwashi's crypto
+[0:43] perpetuals at over $730,000,
+[0:47] surpassing both BNB and Chainlink, more
+[0:50] than both combined.
+[0:52] Blockworks ranks Cardano as the fourth
+[0:55] highest mind share yet again, right
+[0:57] behind Ethereum at 3.11%,
+[1:00] surpassing BNB, Hyperliquid, XRP,
+[1:03] BitTensor, and Sui.
+[1:06] Coinbase wrapped ADA's total supply now
+[1:09] surpasses 60 million CBADA, a 2.7
+[1:13] million increase just in the past 30
+[1:16] days, highlighting rising interest in
+[1:18] cross-chain Cardano.
+[1:20] Solada, the first ever Cardano to Solana
+[1:24] launchpad, has generated over 13 million
+[1:27] ADA in trade volume, over 115,000
+[1:31] ADA in rewards, and they've applied to
+[1:34] list Solada on both CoinGecko and
+[1:37] CoinMarketCap.
+[1:39] RWA Foundation says Cardano added over
+[1:42] $231,000
+[1:44] in tokenized funds just in the past
+[1:47] week.
+[1:48] Strike lists Sui with up to 20x
+[1:52] leverage, so following their listing of
+[1:54] lighter and Dogecoin, good to see some
+[1:57] more listings. WhatsApp's 3 billion
+[2:00] monthly active users can now stake ADA
+[2:03] and participate in Cardano's governance
+[2:07] in addition to sending and receiving to
+[2:09] any WhatsApp user globally. Fully
+[2:12] permissionless, powered by Chatter Pay,
+[2:14] which is a user-friendly non-custodial
+[2:17] wallets with abstraction for WhatsApp.
+[2:20] Moves like this tap right into the
+[2:22] existing user base. I think it's genius.
+[2:25] We spoke about Chatter Pay about a month
+[2:27] ago, and so they continue to add more
+[2:30] features, more chains. I think it's a
+[2:33] step in the right direction when it
+[2:34] comes to boosting adoption and making
+[2:37] things easy.
+[2:39] Cardano's Ouroboros Leios advances
+[2:42] closer to mainnet. So, the hard fork has
+[2:45] begun development. Right now, it's 5%,
+[2:48] so still some ways to go, but the hard
+[2:50] fork development is under progress.
+[2:53] Jason Casper says, "You hate Cardano?
+[2:56] That's exactly why I'm bullish on it."
+[3:00] Midnight has generated over 970,000
+[3:04] transactions on mainnet, according to
+[3:06] Midnight Explorer, an 85% increase in
+[3:09] just 7 days. So, closing in on that 1
+[3:12] million. Great to see. Over 4,400 agents
+[3:16] are in queue to enter Midnight City,
+[3:18] with over 1,800 currently online. Active
+[3:21] agents are steadily growing, with 178
+[3:25] added in just 1 week.
+[3:27] Cardano's Song Market Cap launches daily
+[3:30] news coverage for Midnight. Great to
+[3:33] see, because again, Song Market Cap,
+[3:35] they do a bunch of stuff, but a lot of
+[3:37] their news insights, sometimes they find
+[3:40] a lot of fresh content, and I think
+[3:41] that's great. Big shout-out to their
+[3:43] community.
+[3:44] Midnight Foundation CTO is happy that
+[3:47] Midnight has already been transitioning
+[3:49] everything even more over to formal
+[3:52] verification these past months. It's
+[3:55] already paying off and even more
+[3:57] accelerations are coming.
+[3:59] This is great given the AI revolution.
+[4:02] You want to have formal verification.
+[4:05] Elon Musk says, "A genetic demand is
+[4:08] growing faster than I've ever seen
+[4:10] anything grow."
+[4:11] This is in direct alignment with Cardano
+[4:14] founder Charles Hoskinson who called a
+[4:16] genetic finance incredibly important
+[4:19] highlighting a genetic trading as a
+[4:20] killer use case coming to Midnight City
+[4:23] in the months ahead.
+[4:26] Charles Hoskinson and David Gochstein, a
+[4:28] great interview. He says, "You have to
+[4:30] be an open ecosystem and work with
+[4:32] people, even people you don't like. You
+[4:35] have to integrate with everybody and be
+[4:37] neutral because liquidity wants to flow.
+[4:40] This is the age of abstraction."
+[4:43] Charles says, "In 5 or 10 years, you're
+[4:45] going to have quantum computers, the AI
+[4:48] revolution changing everything. There's
+[4:50] going to be a time, I predict, where
+[4:52] there's more value in metaverses and
+[4:54] digital spaces than there is in the
+[4:56] physical space.
+[4:58] It's hard to envision that, but things
+[5:00] change really quick. I don't think most
+[5:03] people would have expected the level of
+[5:05] AI tools and the valuations as we saw
+[5:07] with Anthropic and others
+[5:10] even like a couple of decades ago."
+[5:12] Charles says, "Paros takes Cardano's
+[5:15] settlement time down from minutes to
+[5:17] seconds.
+[5:18] If hits the fan, it regresses back
+[5:21] to the protocol that we launched with,
+[5:23] which is self-healing. It's been running
+[5:25] for 8 years. So, you don't have
+[5:27] consensus stalls or liveness stalls."
+[5:30] Charles says, "I would have done the
+[5:32] Chainlink integration myself if it was
+[5:34] an open ecosystem. I don't have to call
+[5:37] up Anatoly or Justin Sun to integrate
+[5:39] with their
+[5:40] their networks or others.
+[5:42] Most of crypto is open by design. The
+[5:45] real value is the best user experience
+[5:48] in linking it all together with safety.
+[5:51] So, Charles also did highlight this when
+[5:54] it came to airdropping to XRPL, the
+[5:58] calls he had with David Schwartz, but
+[6:01] again, XRPL that integration was
+[6:03] permissionless.
+[6:04] Doesn't seem to be the case with
+[6:06] Chainlink, but you know, it is what it
+[6:08] is. Maybe one day we'll have a proper
+[6:11] Chainlink integration.
+[6:13] Charles says Zcash is great. There's
+[6:15] nothing wrong with it.
+[6:17] Just like there's nothing wrong with
+[6:18] Bitcoin if you treat it as digital gold.
+[6:21] It's just important to understand that
+[6:23] they don't have programming yet.
+[6:25] The programmability isn't there yet. We
+[6:28] do. So again, that's what separates
+[6:30] Midnight and Zcash.
+[6:32] Charles on Zcash and Midnight says it's
+[6:34] like Bitcoin to Ethereum. We have a
+[6:36] programming language with it. We took
+[6:39] the best of both worlds. We learned a
+[6:41] lot.
+[6:42] Charles says Midnight has a much faster
+[6:45] path to post-quantum than Zcash. And
+[6:47] when we get there, we'll have the full
+[6:50] ZK-VM stack.
+[6:52] All these regulatory things, and
+[6:54] identity system, so you can do both
+[6:56] regulated and unregulated commerce on
+[6:59] the same rail.
+[7:01] Charles says we can add a DeFi layer to
+[7:03] Zcash. Zcash can't add a DeFi layer to
+[7:06] Midnight. Thus, Midnight is a superset
+[7:09] of Zcash. It's not a subset.
+[7:13] Charles says I like the Zcash team a
+[7:15] lot. They're good people. They do good
+[7:17] things.
+[7:19] Charles says proofs are the only way to
+[7:22] fulfill Satoshi's vision.
+[7:24] What Satoshi believed in is this concept
+[7:27] of inclusive accountability. It's why
+[7:29] everything was a full node in the
+[7:31] beginning. So, what he means here again
+[7:33] is like that ability for you to check
+[7:35] the numbers yourself to verify on your
+[7:38] own accord.
+[7:39] Charles says the transaction is going to
+[7:41] carry its own proof of correctness.
+[7:44] So, that's the way the industries are
+[7:46] headed. Charles says Midnight City could
+[7:48] tokenize intelligence and create
+[7:51] decentralized compute and build the
+[7:53] largest data center in the world for
+[7:55] hire. And with Nightframes, it's
+[7:57] private. That is really huge in terms of
+[8:00] potential.
+[8:02] So, what else is going on? $13 trillion
+[8:04] Vanguard purchases seven seven and a
+[8:07] half million dollars worth of shares in
+[8:10] Japanese Bitcoin treasury company
+[8:12] Metaplanet. Interesting. Tom Lee's
+[8:15] Bitmain buys over 10,000 ETH worth $24
+[8:18] million.
+[8:20] Ripple launches 24/7 AI-powered money
+[8:23] management for businesses.
+[8:25] A shout-out to our sponsor, the official
+[8:27] sponsor for Angry Crypto Show here on
+[8:29] YouTube is Kalshi. So, Kalshi brought
+[8:32] the first CFTC-regulated crypto perps in
+[8:36] the United States. If you want to trade
+[8:38] crypto perps including ADA and others
+[8:41] with reasonable leverage,
+[8:43] have a very smooth user experience,
+[8:46] check out my link in the video
+[8:47] description. You'll get a bonus sent
+[8:49] your way once you begin trading.
+[8:51] Check it out if you're based in the US.
+[8:54] So, let's take a look at price. ADA,
+[8:57] 204.
+[8:58] You know, right now alts are hurting
+[9:00] really bad. We see
+[9:03] pretty much XRP and others all really
+[9:05] dumping. Bitcoin has broken beneath 80K
+[9:08] as well. 1.28 for XRP and Bitcoin just
+[9:12] under 80K.
+[9:13] So, the midterms are coming, right? We
+[9:15] see in Brazil the elections and the
+[9:17] dumps in their market as well. So,
+[9:20] there's a lot that's going on right now
+[9:22] that's fueling the fire, in my opinion,
+[9:24] when it comes to
+[9:26] negative price volatility. But, I do
+[9:29] think that the time will come ultimately
+[9:32] where this price suppression will
+[9:34] evaporate. When exactly, nobody truly
+[9:37] knows. but again, things are very
+[9:39] cyclical with humans, the novelty. And I
+[9:42] say it time and time again that we have
+[9:44] to capitulate to catapult. That's just
+[9:47] the way it is when it comes to markets.
+[9:49] There's certain fundamentals that are
+[9:51] just always consistent.
+[9:54] I would say the highlight for me, big
+[9:55] shout out to Song Market Cap, the
+[9:57] Midnight Daily News, why not, a
+[9:59] dedicated news section, Strike is
+[10:01] crushing it, a lot of great updates.
+[10:03] Also Solada. I actually had a call with
+[10:06] the team and really awesome
+[10:09] conversation. I'm still learning more
+[10:12] and more about what they're doing and it
+[10:13] was just to touch base and see, you
+[10:15] know, what they're building and what
+[10:16] they're up to, but I was impressed. I
+[10:18] would say like a lot of passion is
+[10:20] behind this and you know, it's hard
+[10:22] because there's a lot of new projects
+[10:24] that come to fruition and you want to be
+[10:26] both careful, have vigilance,
+[10:28] discernment, but at the same time, you
+[10:31] also want to give like a hand and you
+[10:33] know, give that a baton, so to speak, to
+[10:37] young people coming in, starting
+[10:39] something fresh. Sometimes we have this,
+[10:42] you know, humans are resistant to change
+[10:43] and sometimes in communities in Cardano
+[10:46] or otherwise, we see a new project and
+[10:48] we immediately think, oh, like bad or we
+[10:51] should be careful or something, but I
+[10:53] think we can still be careful, but still
+[10:55] be friendly
+[10:57] and give projects a chance and so far it
+[10:59] looks like they're bringing a lot of
+[11:00] excitement and making Cardano fun, so
+[11:02] that's cool.
+[11:04] Other than that, not a whole lot going
+[11:06] on. I'm just excited to see that we're
+[11:08] about to pass the 1 million for
+[11:11] Midnight. Ever since the deployment of
+[11:13] smart contracts,
+[11:15] transactions are surging and I can only
+[11:16] imagine with that composability update,
+[11:19] Ledger V9 around the corner, there's a
+[11:22] lot of great stuff that we have, night
+[11:24] mode, Solana cross-chain stuff with
+[11:27] wallets and whatnot. So, a lot of great
+[11:29] features that can unlock
+[11:31] uh that V9 ledger update from midnight.
+[11:34] So, let me know your thoughts, guys.
+[11:36] Smash that subscribe, smash that like,
+[11:38] and I'll see you guys in the next Angry
+[11:39] Crypto show.

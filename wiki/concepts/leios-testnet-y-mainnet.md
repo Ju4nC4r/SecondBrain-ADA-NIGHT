@@ -2,9 +2,10 @@
 title: "Leios: testnet, resultados y mainnet"
 type: concept
 created: "2026-10-14"
-updated: "2026-10-26"
+updated: "2026-10-27"
 tags: [ada, night, bitcoin, seguimiento]
 sources:
+  - "../sources/2026-10-27-informe-angry-crypto-show.md"
   - "../sources/2026-10-24-informe-angry-crypto-show.md"
   - "../sources/2026-10-26-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-23-aviso-angry-acceso-limitado.md"
@@ -66,3 +67,7 @@ A [según la revisión](../sources/2026-10-23-aviso-angry-acceso-limitado.md) at
 ## Angry: edición del 24 completada el 26
 
 El [contraste del autor](../sources/2026-10-24-informe-angry-crypto-show.md) cita CIP-0164 como propuesta y escenarios de 140.000–300.000 bytes de transacciones/s, aproximadamente 100–200 TPS para transacciones medias bajo sus condiciones. No equivalen a cientos de miles de TPS o a una conversión universal. Las cifras del discurso, multiplicadores previos y simulaciones Hydra no se igualan sin versión, carga y entorno comparables; no rendimiento mainnet demostrado.
+
+## Angry Crypto Show: informe del 27
+
+El [vídeo](../sources/2026-10-27-informe-angry-crypto-show.md) da 5 % al desarrollo del hard fork; denominador no reproducido. La página oficial, según la consulta del autor, describe implementación/pruebas y garantías en marcha, evaluación interna sin fechas comprometidas. No 5 % de la red activada, capacidad o lanzamiento inminente. [Peras](../entities/peras.md) aborda asentamiento, otra dimensión distinta de capacidad.

@@ -1,6 +1,16 @@
 # Resúmenes de fuentes
 
-Última actualización: **26 de octubre de 2026, 08:18 (Europe/Madrid)**.
+Última actualización: **27 de octubre de 2026, 09:18 (Europe/Madrid)**.
+
+- [Angry — 27 de octubre](2026-10-27-informe-angry-crypto-show.md): originales, contradicción ChatterPay y procedencia.
+
+- [Informe archivado — 27 de octubre](2026-10-27-informe-ada-night-bitcoin.md): procedencia, fechas e infografía.
+- [Midnight: PR2326](2026-10-27-midnight-transicion-consenso.md): código integrado, sin mainnet verificada.
+- [Farside: sesión26 y actualización23](2026-10-27-farside-flujos-bitcoin.md): entradas revisables y HODL23 ya cero.
+- [Strategy: pausa BTC](2026-10-27-strategy-sin-compras-bitcoin.md): declaración del26 sobre19–25.
+- [Strive: compras BTC](2026-10-27-strive-compras-bitcoin.md): declaración del26 sobre17–23.
+
+- [Angry — Aviso del 26: procedencia y fechas](2026-10-26-aviso-angry-sin-videos-nuevos.md): estado del canal a las 08:07:43, sin nuevo análisis.
 
 - [Angry — edición del 24, completada el 26](2026-10-24-informe-angry-crypto-show.md): transcripción, fechas reales y límites.
 

@@ -2,9 +2,11 @@
 title: "Angry Crypto Show"
 type: entity
 created: "2026-10-14"
-updated: "2026-10-26"
+updated: "2026-10-27"
 tags: [angry-crypto-show, medios, ada, night]
 sources:
+  - "../sources/2026-10-27-informe-angry-crypto-show.md"
+  - "../sources/2026-10-26-aviso-angry-sin-videos-nuevos.md"
   - "../sources/2026-10-24-informe-angry-crypto-show.md"
   - "../sources/2026-10-23-aviso-angry-acceso-limitado.md"
   - "../sources/2026-10-21-informe-angry-crypto-show.md"
@@ -69,3 +71,11 @@ Estado actual: **trece vídeos analizados, dos avisos históricos conservados y 
 ## Angry: edición del 24 completada el 26
 
 Se incorpora [un vídeo adicional](../sources/2026-10-24-informe-angry-crypto-show.md), IltXg8rmF-8, publicado el 23 a las 23:38:51 Madrid; edición del 24 completada y entregada el 26. El seguimiento alcanza **catorce vídeos analizados**, con dos avisos históricos, sin duplicar la revisión completa del 23. Esta edición no acredita revisión del canal del 25/26. Leios/Hydra son declaraciones y escenarios distintos; el probable NO al cobre es intención provisional. [Síntesis](../reports/2026-10-24-angry-crypto-show.md).
+
+## Aviso del 26: revisión sin vídeos nuevos
+
+El [aviso del 26](../sources/2026-10-26-aviso-angry-sin-videos-nuevos.md) documenta la comprobación a las 08:07:43 CET: IltXg8rmF-8 sigue como último vídeo visible, ya analizado en la edición del 24 completada el 26. No se repiten transcripción, análisis, recomendaciones o correo. Catorce vídeos analizados y tres avisos de estado; ausencia limitada a aquella pestaña y hora. No acredita revisión del 25. La ingesta de este aviso queda solo en local.
+
+## Angry Crypto Show: informe del 27
+
+[Un nuevo vídeo](../sources/2026-10-27-informe-angry-crypto-show.md), 4OpjYL-35Nk publicado el 26 a las 22:48:41, lleva el seguimiento a **quince vídeos analizados y tres avisos de estado conservados**. El aviso del 26 a las 08:07:43 era anterior a esa publicación. ChatterPay mantiene contradicción documental; métricas atribuidas, expectativas y patrocinio conservan límites. TXT completo, informe y PNG verificados; no duplicado de episodios previos.

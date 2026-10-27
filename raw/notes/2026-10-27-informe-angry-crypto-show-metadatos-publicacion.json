@@ -1,0 +1,53 @@
+{
+  "channel": "Angry Crypto Show",
+  "report_date": "2026-10-27",
+  "prepared_at_utc": "2026-10-27T08:11:53.080999+00:00",
+  "prepared_date_madrid": "2026-10-27",
+  "source_cutoff_local": "2026-10-27T09:09:17+01:00",
+  "scope": "Un vídeo nuevo desde revisión del 26 de octubre; contenido completo en transcripción automática.",
+  "transcript_source": "YouTube original, inglés automático, exportado desde Brave con autorización explícita del usuario",
+  "review_scope": "Transcripción completa 00:00–11:39; audio y gráficas sin revisión íntegra",
+  "archived_at_utc": "2026-10-27T08:14:18.379896+00:00",
+  "limitations": [
+    "Subtítulos automáticos: nombres y cifras sujetos a errores.",
+    "Staking/voto Cardano anunciado por el vídeo contradice disponibilidad documentada por ChatterPay: Preprod y planificado.",
+    "Métricas de Midnight, agentes, cbADA y Solada no reproducidas de forma independiente.",
+    "Archivo RAW no equivale a ingesta terminada."
+  ],
+  "publication_scope": "Copia derivada para publicación: fuentes y análisis sin identificadores de correo o rutas personales. Original íntegro conservado localmente.",
+  "original_metadata_sha256": "63a721d802c3584a575edcbd3f92162e5f78230b8a727ac0a764aae71fb26283",
+  "source_video": {
+    "video_id": "4OpjYL-35Nk",
+    "title": "ADA Staking Now On WhatsApp! Charles: \"Agentic Trading—Killer Use Case.\" Angry Crypto Reacts",
+    "publication_date": "2026-10-26",
+    "publication_timestamp": "2026-10-26T14:48:41-07:00",
+    "publication_madrid": "2026-10-26T22:48:41+01:00",
+    "source": "YouTube original, inglés automático, exportado desde Brave con autorización explícita del usuario",
+    "review_scope": "Transcripción completa 00:00–11:39; audio y gráficas sin revisión íntegra",
+    "report_date": "2026-10-27",
+    "analysis_completed_at_utc": "2026-10-27T08:14:18.379896+00:00"
+  },
+  "files": [
+    {
+      "role": "report",
+      "path": "raw/notes/2026-10-27-informe-angry-crypto-show.md",
+      "relative_link_from_metadata": "2026-10-27-informe-angry-crypto-show.md",
+      "sha256": "eb1bb0242edc9e7cbfd038c7769ed5b7a2ef8054e4b848fc0d0234a15042f23c",
+      "size_bytes": 9039
+    },
+    {
+      "role": "infographic",
+      "path": "raw/images/2026-10-27-infografia-angry-crypto-show.png",
+      "relative_link_from_metadata": "../images/2026-10-27-infografia-angry-crypto-show.png",
+      "sha256": "b6b1e904f3f5b7f0012fcaa5ae4adcc0645947738a0d7da705e29080735ea305",
+      "size_bytes": 1736946
+    },
+    {
+      "role": "transcript",
+      "path": "raw/transcripts/2026-10-26-angry-crypto-show-4OpjYL-35Nk.txt",
+      "relative_link_from_metadata": "../transcripts/2026-10-26-angry-crypto-show-4OpjYL-35Nk.txt",
+      "sha256": "0aeb577931bec68ecafc4f0bb7c9e4ceba4a48bf07307420253c6bb16884a128",
+      "size_bytes": 12149
+    }
+  ]
+}

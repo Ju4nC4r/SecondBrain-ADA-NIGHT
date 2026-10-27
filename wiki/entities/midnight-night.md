@@ -2,9 +2,11 @@
 title: "Midnight / NIGHT"
 type: entity
 created: "2026-10-05"
-updated: "2026-10-26"
+updated: "2026-10-27"
 tags: [midnight, night]
 sources:
+  - "../sources/2026-10-27-informe-angry-crypto-show.md"
+  - "../sources/2026-10-27-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-24-informe-angry-crypto-show.md"
   - "../sources/2026-10-26-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-23-aviso-angry-acceso-limitado.md"
@@ -189,3 +191,11 @@ El [informe del 26](../reports/2026-10-26-seguimiento-ada-night-bitcoin.md) actu
 ## Angry: edición del 24 completada el 26
 
 El [informe](../sources/2026-10-24-informe-angry-crypto-show.md), contrastado el 26, conserva SIG en stagenet, mainnet con v9 y TRON previsto en diciembre. No acredita operación el 24, cumplimiento universal o acuerdo con Filecoin; los 10 billones USD de activos potenciales y 2,2 billones de transferencias trimestrales atribuidas no son activos captados por Midnight. Los planes no actualizan por sí solos el consenso o staking.
+
+## Revisión del 27 de octubre
+
+[PR 2326](../sources/2026-10-27-midnight-transicion-consenso.md), integrada en main el 26: aplaza AURA→BABE si coincide rotación, según autor. Se amplía a PR una búsqueda previa limitada a blog/releases; no se invalida la fotografía anterior. No despliegue mainnet, migración completa, ejecución propia de pruebas o efecto de precio/demanda comprobados. [Migración y comités](../concepts/migracion-consenso-y-rotacion-comites.md).
+
+## Angry Crypto Show: informe del 27
+
+El [canal](../sources/2026-10-27-informe-angry-crypto-show.md) atribuye >970.000 transacciones y +85 %/7 días sin instantánea, corte, red exacta o método reproducidos. No actualiza por sí solo la fotografía del consenso o demuestra usuarios/ingresos. Agentes, cómputo e inteligencia tokenizada son escenarios; roadmap Passport Q4 no acredita entrega. Poscuántica y comparación Zcash son opiniones sin comparación técnica completa.

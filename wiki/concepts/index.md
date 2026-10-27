@@ -1,6 +1,8 @@
 # Conceptos
 
-Última actualización: **26 de octubre de 2026, 08:18 (Europe/Madrid)**.
+Última actualización: **27 de octubre de 2026, 09:18 (Europe/Madrid)**.
+
+- [Migración de consenso y rotación de comités](migracion-consenso-y-rotacion-comites.md): código integrado frente a activación de red.
 
 - [Verificación formal y supuestos](verificacion-formal-y-supuestos.md): propiedades demostradas, versiones y garantías limitadas.
 

@@ -11,3 +11,7 @@ El [recorrido científico](../topics/midnight-fundamentos-cientificos.md) reúne
 El [contraste del 5 de octubre](../reports/2026-10-05-midnight-fundamentos-implementacion.md) añade evidencia de código versionado para generación de DUST, transcripciones y costes por recurso. Distingue parámetros iniciales de valores vivos y documenta un consenso diferente de Minotaur. La revisión no certifica el estado de mainnet ni las garantías formales de los artículos.
 
 [Seguimiento de mercado de Midnight / NIGHT](midnight-night.md) · [Índice de entidades](index.md).
+
+## Revisión del 27 de octubre
+
+La [PR del 26](../sources/2026-10-27-midnight-transicion-consenso.md) prepara coordinación de una transición AURA→BABE, sin demostrar cuál es el consenso activo hoy en mainnet o completar la migración. Se conserva el [contraste histórico del 5](../reports/2026-10-05-midnight-fundamentos-implementacion.md) como fotografía fechada. [Estados de migración](../concepts/migracion-consenso-y-rotacion-comites.md).

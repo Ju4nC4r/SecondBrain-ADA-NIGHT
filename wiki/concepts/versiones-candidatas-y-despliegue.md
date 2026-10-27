@@ -2,9 +2,11 @@
 title: "Versiones candidatas y despliegue efectivo"
 type: concept
 created: "2026-10-19"
-updated: "2026-10-26"
+updated: "2026-10-27"
 tags: [ada, night, bitcoin, seguimiento]
 sources:
+  - "../sources/2026-10-27-informe-angry-crypto-show.md"
+  - "../sources/2026-10-27-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-24-informe-angry-crypto-show.md"
   - "../sources/2026-10-26-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-17-informe-angry-crypto-show.md"
@@ -30,3 +32,11 @@ El caso de [Fireblocks](../entities/fireblocks.md), soporte de tokens nativos es
 ## Angry: edición del 24 completada el 26
 
 El [informe](../sources/2026-10-24-informe-angry-crypto-show.md) documenta artículos de IO sobre Blaster/Lean 4 y High Assurance. Documentar herramientas, propiedades o fases no prueba el parche reciente, tiempos mejorados o primera versión de Hades sin release/commit específico. [Verificación formal y supuestos](verificacion-formal-y-supuestos.md) añade el alcance de una demostración a la distinción entre versión y despliegue.
+
+## Revisión del 27 de octubre
+
+[Midnight PR 2326](../sources/2026-10-27-midnight-transicion-consenso.md) tiene estado Merged el 26 y merge 583af85. Estado del código no acredita release contenedora, activación o migración mainnet. Pruebas descritas por el autor no reproducidas aquí. [Rotación y consenso](migracion-consenso-y-rotacion-comites.md).
+
+## Angry Crypto Show: informe del 27
+
+[ChatterPay](../entities/chatterpay.md), según el [contraste del 27](../sources/2026-10-27-informe-angry-crypto-show.md), conserva Cardano Preprod y staking/voto planificados frente a un vídeo que los anuncia disponibles. Faltan versión/entorno y prueba de operación; posibles pilotos no se presuponen. Leios 5 % de desarrollo y Peras propuesta tampoco certifican activación. No se modifica el original para resolver silenciosamente la contradicción.

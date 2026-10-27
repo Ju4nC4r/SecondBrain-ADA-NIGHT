@@ -2,9 +2,11 @@
 title: "Métricas de uso y adopción de blockchain"
 type: concept
 created: "2026-10-05"
-updated: "2026-10-26"
+updated: "2026-10-27"
 tags: [metricas, cardano, midnight]
 sources:
+  - "../sources/2026-10-27-informe-angry-crypto-show.md"
+  - "../sources/2026-10-27-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-24-informe-angry-crypto-show.md"
   - "../sources/2026-10-23-aviso-angry-acceso-limitado.md"
   - "../sources/2026-10-23-informe-ada-night-bitcoin.md"
@@ -115,3 +117,11 @@ La proyección de 1.000 millones USD de liquidez por Aave difiere del objetivo d
 ## Angry: edición del 24 completada el 26
 
 El [informe](../sources/2026-10-24-informe-angry-crypto-show.md) conserva emisión RealFi >8,4 millones USD, variación +100.000/72 h y >6.900 holders de ADA envuelta como atribuciones sin series/contrato reproducidos. No TVL, personas o demanda nueva. KuCoin en el TXT, >1,1 millones y puesto 9, queda sin plataforma/ventana verificadas; no se corrige por intuición a Kalshi/Polymarket ni se suman mercados. Importes potenciales de Midnight/TRON no son capital captado.
+
+## Revisión del 27 de octubre
+
+[Strategy](../sources/2026-10-27-strategy-sin-compras-bitcoin.md): cero compras/ventas BTC del 19–25 y recompra STRC por 204,9 millones USD son medidas diferentes. [Strive](../sources/2026-10-27-strive-compras-bitcoin.md): 6.182 BTC del 17–23. [ETF](../sources/2026-10-27-farside-flujos-bitcoin.md): millones USD de la sesión del 26. No sumarlos como compras simultáneas, actividad de cadena o causa de precio.
+
+## Angry Crypto Show: informe del 27
+
+El [informe](../sources/2026-10-27-informe-angry-crypto-show.md) mantiene >970.000 transacciones/+85 % en siete días y agentes >1.800/>4.400 como atribuciones sin consulta/corte/método reproducidos. No personas, ingresos o serie uniforme. cbADA >60 millones/+2,7 millones en 30 días es oferta envuelta atribuida, no compras netas. Volumen, recompensas Solada y fondos tokenizados no se intercambian ni suman entre ventanas. El alcance potencial de WhatsApp no es adopción de ChatterPay/ADA.

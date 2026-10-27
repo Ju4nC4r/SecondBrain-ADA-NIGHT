@@ -1,6 +1,9 @@
 # Entidades: proyectos, organizaciones, personas y activos
 
-Última actualización: **26 de octubre de 2026, 08:18 (Europe/Madrid)**.
+Última actualización: **27 de octubre de 2026, 09:18 (Europe/Madrid)**.
+
+- [ChatterPay](chatterpay.md): entorno de pruebas y disponibilidad por verificar.
+- [Peras](peras.md): propuesta de asentamiento y condiciones de cuórum.
 
 - [Electrum](electrum.md): wallet Bitcoin y aviso de seguridad del 24.
 

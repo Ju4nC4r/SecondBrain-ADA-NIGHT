@@ -1,6 +1,6 @@
 # 🧠 Índice de la wiki
 
-Última actualización: **26 de octubre de 2026, 08:32 (Europe/Madrid)**.
+Última actualización: **27 de octubre de 2026, 09:21 (Europe/Madrid)**.
 
 ![Cardano / ADA](../raw/images/2026-10-05-cardano-logotipo-indice.png) ![Midnight / NIGHT](../raw/images/2026-10-05-midnight-logotipo-indice.png)
 
@@ -10,6 +10,16 @@
 - [Registro de actividad](log.md): operaciones realizadas.
 
 ## 📚 Fuentes
+
+- [Angry — informe del 27](sources/2026-10-27-informe-angry-crypto-show.md): vídeo nuevo, contradicción ChatterPay, métricas y planes con límites.
+
+- [Informe archivado — 27 de octubre](sources/2026-10-27-informe-ada-night-bitcoin.md): procedencia, fechas e infografía.
+- [Midnight: PR2326](sources/2026-10-27-midnight-transicion-consenso.md): código integrado, sin mainnet verificada.
+- [Farside: sesión26 y actualización23](sources/2026-10-27-farside-flujos-bitcoin.md): entradas revisables y HODL23 ya cero.
+- [Strategy: pausa BTC](sources/2026-10-27-strategy-sin-compras-bitcoin.md): declaración del26 sobre19–25.
+- [Strive: compras BTC](sources/2026-10-27-strive-compras-bitcoin.md): declaración del26 sobre17–23.
+
+- [Angry — aviso del 26 sin vídeos nuevos](sources/2026-10-26-aviso-angry-sin-videos-nuevos.md): revisión a las 08:07:43, procedencia y fechas.
 
 - [Angry — edición del 24, completada el 26](sources/2026-10-24-informe-angry-crypto-show.md): transcripción, fechas reales, unidades e intenciones de voto.
 
@@ -121,6 +131,9 @@
 
 ## 🏷️ Entidades
 
+- [ChatterPay](entities/chatterpay.md): Preprod y staking/voto planificados frente al anuncio del canal.
+- [Peras](entities/peras.md): asentamiento por votos, cuórum y garantías limitadas.
+
 - [Electrum](entities/electrum.md): wallet Bitcoin y aviso de seguridad.
 
 - [Dynamic](entities/dynamic.md): wallets de Midnight, publicación del 1 de octubre y diferencia respecto a CNT de Fireblocks.
@@ -156,6 +169,8 @@
 - [iShares Bitcoin Trust ETF / IBIT](entities/ishares-bitcoin-trust-ibit.md): fondo de BlackRock, dato publicado y conciliación metodológica pendiente.
 
 ## 💡 Conceptos
+
+- [Migración de consenso y rotación de comités](concepts/migracion-consenso-y-rotacion-comites.md): coordinación de cambios, código y red por distinguir.
 
 - [Verificación formal y supuestos](concepts/verificacion-formal-y-supuestos.md): propiedades, versiones y límites de las pruebas.
 
@@ -196,11 +211,17 @@
 
 ## 🧭 Temas
 
-- [Seguimiento de Angry Crypto Show](topics/seguimiento-angry-crypto-show.md): catorce vídeos analizados y dos avisos históricos; pendientes del aviso resueltos.
+- [Seguimiento de Angry Crypto Show](topics/seguimiento-angry-crypto-show.md): quince vídeos analizados y tres avisos de estado conservados; pendientes del aviso resueltos.
 
 - [Seguimiento de mercado de ADA y NIGHT](topics/seguimiento-mercado-ada-night.md): síntesis, relaciones y preguntas abiertas.
 
 ## 📝 Informes
+
+- [Angry — 27 de octubre](reports/2026-10-27-angry-crypto-show.md): contraste ChatterPay, Leios/Peras, agentes y recomendaciones atribuidas.
+
+- [Seguimiento — 27 de octubre](reports/2026-10-27-seguimiento-ada-night-bitcoin.md): ADA, PR Midnight, ETF y declaraciones corporativas, con infografía.
+
+- [Angry — revisión del canal del 26](reports/2026-10-26-angry-crypto-show-sin-videos-nuevos.md): aviso con imagen, sin otro análisis del vídeo anterior.
 
 - [Angry — edición del 24, entrega del 26](reports/2026-10-24-angry-crypto-show.md): Leios/Hydra, MiCA, métricas atribuidas y cobre sin voto confirmado.
 

@@ -461,3 +461,33 @@ Comprobación: 182 páginas, 2658 enlaces locales, cero rotos y cero huérfanas;
 ## [2026-10-26] publish | Versión de las últimas ingestas
 
 Publicación solicitada directamente por el usuario para GitHub y Gitea: seguimiento diario del 26 y edición de Angry del 24 completada el 26. Metadatos derivados sin constancias privadas de correo; originales locales intactos. Configuración de Obsidian y archivos ajenos al encargo excluidos. El aviso independiente del canal del 26 se tramita solo en local. Validación del árbol publicable y comprobación de referencias remotas registradas en la revisión de esta operación.
+
+## 2026-10-26T08:36:46.198446+01:00 — ingest | Aviso Angry del 26 sin vídeos nuevos
+
+Informe original y metadatos leídos; imagen 1024 × 1536 inspeccionada. Dos archivos declarados coinciden en bytes/SHA-256. Corte del canal 08:07:43 CET; preparación 08:11:32, envío registrado 08:13:26, verificación 08:14:51 y archivo 08:15:00 separados de esta ingesta. Gmail/imagen verificados por origen, sin nueva consulta o reenvío. Catorce vídeos analizados, tres avisos de estado (dos históricos); sin TXT, análisis o recomendaciones nuevos. No duplica edición24 ni revisióncompleta23, ni acredita revisión25. Originales intactos con estado histórico pending. Operación solo local, sin commit/push.
+
+Páginas afectadas: [angry-crypto-show](entities/angry-crypto-show.md), [index](index.md), [overview](overview.md), [2026-10-26-angry-crypto-show-sin-videos-nuevos](reports/2026-10-26-angry-crypto-show-sin-videos-nuevos.md), [index](reports/index.md), [2026-10-26-aviso-angry-sin-videos-nuevos](sources/2026-10-26-aviso-angry-sin-videos-nuevos.md), [index](sources/index.md), [index](topics/index.md), [seguimiento-angry-crypto-show](topics/seguimiento-angry-crypto-show.md), [seguimiento-mercado-ada-night](topics/seguimiento-mercado-ada-night.md).
+
+- 2026-10-26T08:37:12.444124+01:00: Auditoría del aviso completada: 187 páginas, 3194 referencias locales válidas, cero enlaces rotos o huérfanas. Los 227 archivos RAW previos y los archivos fuera de alcance permanecen idénticos; staging vacío y HEAD sin nuevo commit tras la publicación c3da100. No duplicado de análisis o transcripción.
+
+## 2026-10-27T09:06:22.800575+01:00 — Informe diario del 27: archivo e integración
+
+[Cuerpo/síntesis](reports/2026-10-27-seguimiento-ada-night-bitcoin.md), metadatos, fuentes, PNG/prompt y dos filas ETF archivados. Cinco fichas sources, concepto migración de consenso y síntesis nuevos. Actualizadas nueve páginas de entidades/conceptos/seguimiento, fuente Farside26 con actualización explícita, overview e índices; alcance general ADA/NIGHT, BTC solicitado.
+
+PR2326 leída directamente como código integrado, no mainnet/pruebas propias. Declaraciones Strategy/Strive verificadas en8K, ventanas distintas sin auditoría de custodia o suma causal. HODL23 ahora0 cierra faltante sin cambiar −137,9; RAW26 intacto. ETF26 +110,3 millones USD revisables, sin conciliación. ADA búsqueda limitada, Intersect listado falla dos veces por tamaño. No artículos/PR/formularios íntegros archivados; sin cotizaciones. Infografía revisada; punto decimal +110.3 equivalente al +110,3 del cuerpo. Gmail pendiente, constancia aparte.
+
+Auditoría: 194 páginas, 2876 enlaces locales, cero rotos y cero huérfanas; 227 RAW previos intactos y 233 protegidos sin cambios. Cuerpo y PNG exactos. Sin modificaciones de Obsidian, docs, governance, pallets, remotos o automatización; sin commit/push.
+
+## 2026-10-27T09:18:50.799824+01:00 — ingest | Angry Crypto Show del 27
+
+Leídos completos informe, metadatos y TXT inglés automático 00:00–11:39; inspeccionado PNG 1024 × 1536. Tres tamaños/SHA-256 comprobados. Publicación26 22:48:41 CET, corte27 09:09:17, preparación09:11:53, archivo09:14:18 separados de esta ingesta. Gmail e imagen según origen; sin nuevo acceso o reenvío. RAW histórico pending intacto. Un vídeo nuevo, quince analizados y tres avisos; no duplicado o invalidación del aviso26 anterior.
+
+ChatterPay: contradicción disponibilidad anunciada/Preprod y staking-voto planificados preservada, sin mainnet o piloto inferidos. Leios5 % sin denominador; Peras interpretado de Paros y propuesta condicionada. Métricas/agentes sin reproducir; planes, opiniones, publicidad y advertencias editoriales separados. Contrastes documentales del autor, sin nuevas consultas externas aquí. Ingesta inicialmente local; publicación posterior requiere encargo específico, recibido por separado para GitHub.
+
+Páginas afectadas: [index](concepts/index.md), [leios-testnet-y-mainnet](concepts/leios-testnet-y-mainnet.md), [metricas-de-uso-y-adopcion](concepts/metricas-de-uso-y-adopcion.md), [nightframes](concepts/nightframes.md), [previsiones-atribuidas-y-publicidad](concepts/previsiones-atribuidas-y-publicidad.md), [roadmap-midnight-y-staking-night](concepts/roadmap-midnight-y-staking-night.md), [verificacion-formal-y-supuestos](concepts/verificacion-formal-y-supuestos.md), [versiones-candidatas-y-despliegue](concepts/versiones-candidatas-y-despliegue.md), [angry-crypto-show](entities/angry-crypto-show.md), [cardano-ada](entities/cardano-ada.md), [chatterpay](entities/chatterpay.md), [index](entities/index.md), [midnight-city](entities/midnight-city.md), [midnight-night](entities/midnight-night.md), [peras](entities/peras.md), [solada](entities/solada.md), [index](index.md), [overview](overview.md), [2026-10-27-angry-crypto-show](reports/2026-10-27-angry-crypto-show.md), [index](reports/index.md), [2026-10-27-informe-angry-crypto-show](sources/2026-10-27-informe-angry-crypto-show.md), [index](sources/index.md), [index](topics/index.md), [seguimiento-angry-crypto-show](topics/seguimiento-angry-crypto-show.md), [seguimiento-mercado-ada-night](topics/seguimiento-mercado-ada-night.md).
+
+Auditoría: 198 páginas y 3401 referencias locales válidas, cero enlaces rotos o huérfanas; 238 RAW previos intactos, archivos fuera de alcance y prefijo del registro conservados. Tres tamaños/SHA-256 y marcas temporales comprobados. Cuatro páginas nuevas, 22 actualizadas; un solo nuevo vídeo. HEAD sin nuevo commit durante esta ingesta, sin correo o publicación por esta operación.
+
+## [2026-10-27] publish | Informes pendientes para GitHub
+
+Encargo expreso posterior a la comprobación de lectura: publicar ADA/NIGHT/BTC del 27, Angry del 27 y aviso pendiente del 26, con fuentes, infografías y transcripción. Contradicción ChatterPay conservada; metadatos públicos derivados y originales íntegros locales. Cava no localizado en el proyecto al preparar esta versión; no se espera o inventa su archivo. Cambios ajenos y constancias privadas de correo excluidos. Destino solicitado: GitHub; Gitea no se publica por esta operación.

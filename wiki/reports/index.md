@@ -1,6 +1,12 @@
 # Informes elaborados a partir de las fuentes
 
-Última actualización: **26 de octubre de 2026, 08:18 (Europe/Madrid)**.
+Última actualización: **27 de octubre de 2026, 09:18 (Europe/Madrid)**.
+
+- [Angry — 27 de octubre](2026-10-27-angry-crypto-show.md): un vídeo nuevo, contraste y límites con infografía.
+
+- [Seguimiento — 27 de octubre](2026-10-27-seguimiento-ada-night-bitcoin.md): PR Midnight, ETF, Strategy y Strive con infografía.
+
+- [Angry — Revisión del 26: sin vídeos nuevos](2026-10-26-angry-crypto-show-sin-videos-nuevos.md): estado del canal a las 08:07:43, sin nuevo análisis.
 
 - [Angry — edición del 24, entrega del 26](2026-10-24-angry-crypto-show.md): unidades de escalado, MiCA e intención provisional sobre cobre.
 

@@ -2,9 +2,10 @@
 title: "Nightframes: identidad, intención e inteligencia personal"
 type: concept
 created: "2026-10-16"
-updated: "2026-10-23"
+updated: "2026-10-27"
 tags: [nightframes, midnight, agentes, privacidad]
 sources:
+  - "../sources/2026-10-27-informe-angry-crypto-show.md"
   - "../sources/2026-10-23-aviso-angry-acceso-limitado.md"
   - "../sources/2026-10-20-informe-angry-crypto-show.md"
   - "../sources/2026-10-10-hoskinson-nightframes-tokio.md"
@@ -39,3 +40,7 @@ Invisibilidad de datos, ejecución determinista, imposibilidad de apagado y solu
 ## Agentes y Passport en la revisión completa del 23
 
 La [nueva evidencia del discurso](../sources/2026-10-23-aviso-angry-acceso-limitado.md) atribuye a Passport delegación limitada/revocable y protección frente a agentes descontrolados. Esa promesa no verifica protección completa: faltan pruebas de permisos, revocación, contratos, filtraciones y modelo de amenazas. IA de consumo hacia 2030 y adopción de cientos de millones son escenarios, no capacidades o usuarios actuales. Roadmap y relación con Offer Files/Collateral Warehouse no certifican el conjunto.
+
+## Angry Crypto Show: informe del 27
+
+El [episodio](../sources/2026-10-27-informe-angry-crypto-show.md) relaciona Nightframes con privacidad para inteligencia tokenizada y cómputo distribuido. Son posibilidades de producto atribuidas a Hoskinson; no prueba de privacidad total, centro de datos desplegado o rentabilidad. Los recuentos de agentes no validan esas garantías ni equivalen a usuarios humanos.

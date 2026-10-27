@@ -1,0 +1,125 @@
+{
+  "author": "Codex",
+  "report_date": "2026-10-27",
+  "cutoff": "2026-10-27T09:02:00+01:00",
+  "capture_time": "2026-10-27T09:06:22.800575+01:00",
+  "consultation_date": "2026-10-27",
+  "individual_consultation_times": null,
+  "sources": [
+    {
+      "url": "https://github.com/midnightntwrk/midnight-node/pull/2326",
+      "author": "Klapeyron / Tomasz Bartos",
+      "publication_date": "2026-10-26",
+      "event_date": "2026-10-26",
+      "event": "Merged into main, 583af85",
+      "limits": "Hora de merge no reconstruida; no ejecución propia de pruebas ni despliegue/migración mainnet verificados."
+    },
+    {
+      "url": "https://farside.co.uk/btc/",
+      "author": "Farside Investors",
+      "publication_date": null,
+      "event_dates": [
+        "2026-10-26",
+        "2026-10-23"
+      ],
+      "limits": "Sesión 26 +110,3 millones USD doce cifras; HODL23 ahora0 y total−137,9. Revisables, sin conciliación por emisor; publicación exacta desconocida."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526431146/mstr-20261026.htm",
+      "author": "Strategy Inc.",
+      "publication_date": "2026-10-26",
+      "event_start": "2026-10-19",
+      "event_end": "2026-10-25",
+      "limits": "Declaración primaria; sin auditoría independiente de custodia o ejecución. No operaciones BTC; recompra STRC 204,9 millones USD."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1920406/000162828026067141/asst-20261026.htm",
+      "author": "Strive Inc. / Matthew Cole",
+      "publication_date": "2026-10-26",
+      "event_start": "2026-10-17",
+      "event_end": "2026-10-23",
+      "limits": "6.182 BTC y saldo43.000 al23 declarados; no auditoría de custodia. Se evita importe monetario divergente de titulares secundarios."
+    },
+    {
+      "url": "https://cardanofoundation.org/blog",
+      "author": "Cardano Foundation",
+      "publication_date": null,
+      "limits": "Listado accesible revisado, sin nueva noticia relevante corroborada."
+    },
+    {
+      "url": "https://www.iog.io/news?type=article",
+      "author": "Input Output",
+      "publication_date": null,
+      "limits": "Listado accesible; publicaciones anteriores no repetidas como nuevas."
+    },
+    {
+      "url": "https://www.intersectmbo.org/news",
+      "author": "Intersect",
+      "publication_date": null,
+      "limits": "Fallo por exceso de tamaño >4 MiB; intento sin www también falla."
+    },
+    {
+      "url": "https://midnight.network/blog",
+      "author": "Midnight",
+      "publication_date": null,
+      "limits": "Listado revisado; ampliación posterior a PR aporta noticia."
+    },
+    {
+      "url": "https://songmarketcap.com/midnightnews/midnight-fixes-validator-rotation-risk-in-babe-migration-code",
+      "author": "SongMarketCap",
+      "publication_date": "2026-10-26",
+      "limits": "Pista secundaria; sustituida por lectura directa PR2326 para afirmaciones técnicas."
+    },
+    {
+      "url": "https://www.kucoin.com/news/flash/strive-buys-6-182-btc-for-51m-pushing-corporate-bitcoin-purchases-to-510m-in-a-week",
+      "author": "KuCoin / Odaily",
+      "publication_date": "2026-10-26",
+      "limits": "Titular51M versustexto510M; no se usa su cifra monetaria o ventana19–26 frente8K17–23."
+    }
+  ],
+  "note": "Consultas antes del corte; fechas desconocidas nulas. Solo informe derivado con enlaces/filas, no originales web completos.",
+  "limitations": [
+    "ADA búsqueda limitada e Intersect listado inaccesible.",
+    "PR merged, sin pruebas propias/release o mainnet verificados.",
+    "ETF revisables sin conciliación por emisor.",
+    "Custodia y operaciones corporativas declaradas sin auditoría.",
+    "Ventanas distintas, sin cotizaciones o causa única del precio."
+  ],
+  "publication_scope": "Metadatos y consultas derivados para publicación, sin datos privados de correo, identificadores de chat o rutas personales. Originales conservados localmente.",
+  "original_metadata_sha256": [
+    "cc43d642d3a6a637e60461ef563e3826f2b963c402245fa0cb6106f6363cca4b",
+    "a36aaf48ff5819dbb95badf86e7637f2d6fd3387cf5d92a51e2d07126ca4eea2",
+    "e199895e14abbf574432e6010ccc36a034a2df7914ab3d63ed9a35dc0a3781ae"
+  ],
+  "infographic": {
+    "tool": "image_gen.imagegen",
+    "mode": "integrada",
+    "prompt": "Use case: infographic-diagram.\nInfografía editorial horizontal en español con tres bloques verticales iguales, fondo marfil, azul Cardano, violeta Midnight y naranja Bitcoin. Tipografía sans serif grande y legible; amplios márgenes; datos exactos. Sin gráficas, velas, flechas de precio, consejos de inversión ni cifras adicionales. Iconos simples decorativos. Texto exacto:\nCabecera:\n\"ADA · NIGHT · BITCOIN\"\n\"27 de octubre de 2026\"\n\"Corte: 09:02 Europe/Madrid (08:02 UTC)\"\nBloque azul:\n\"ADA / CARDANO\"\n\"REVISIÓN · 27/10/2026\"\n\"Sin novedades relevantes corroboradas\"\n\"Fuentes oficiales accesibles consultadas\"\n\"Listado de Intersect: no accesible\"\n\"Sin impacto adicional verificado\"\n\"Fuentes: Cardano Foundation · Input Output\"\n\"cardanofoundation.org/blog · iog.io/news\"\nBloque violeta:\n\"NIGHT / MIDNIGHT\"\n\"CÓDIGO · Integrado el 26/10/2026\"\n\"PR 2326: AURA → BABE\"\n\"Evita coincidir con rotación de validadores\"\n\"Despliegue en mainnet: no verificado\"\n\"Sin efecto de precio establecido\"\n\"Fuente: repositorio oficial midnight-node\"\n\"github.com/midnightntwrk/midnight-node/pull/2326\"\nBloque naranja:\n\"BITCOIN / BTC\"\n\"ETF · Sesión: 26/10/2026\"\n\"+110,3 millones USD netos\"\n\"Doce cifras presentes · Revisables\"\n\"HODL del 23: ya figura a cero\"\n\"Total del 23: −137,9 millones USD\"\n\"Strategy · Declaración: 26/10/2026\"\n\"Sin compras ni ventas de BTC del 19 al 25\"\n\"Strive · Declaración: 26/10/2026\"\n\"6.182 BTC comprados del 17 al 23\"\n\"Fuentes: Farside · Formularios SEC\"\n\"farside.co.uk/btc/ · sec.gov\"\nPie:\n\"Consulta: 27/10/2026 · Ventanas diferentes: no sumar como demanda simultánea.\"\n\"Interpretaciones sin causalidad de precio confirmada.\"\n\"Sin cotizaciones al corte ni recomendaciones de compra o venta.\"\nConstraints: cifras con coma decimal y punto de miles, signos más/menos fieles; flecha AURA a BABE solo cambio de protocolo no precio. Merge no despliegue. No inventes fechas, unidades o garantías. La imagen resume exclusivamente el informe.",
+    "creation_date": "2026-10-27",
+    "exact_generation_time": null,
+    "archived_at": "2026-10-27T09:06:22.800575+01:00",
+    "sha256": "ae25803c1f99642e1aa65e0c8f4290d41c0118cea80c7a244f259d5a8ec880ba",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "visual_check": "Fecha/corte, PR2326/26, no mainnet verificada, +110.3 millones USD (punto decimal en imagen, equivalente a +110,3 en informe), HODL23 cero/−137,9, Strategy19–25 sin compras/ventas y Strive6.182 del17–23 comprobados visualmente. Iconos decorativos sin series cuantitativas."
+  },
+  "files": [
+    {
+      "path": "raw/reports/2026-10-27-informe-ada-night-bitcoin.md",
+      "sha256": "dae781e11bd28878ce59ab266da292f04c6aca061d695e9edb318013a48f2b01",
+      "size_bytes": 3773
+    },
+    {
+      "path": "raw/images/2026-10-27-infografia-ada-night-bitcoin.png",
+      "sha256": "ae25803c1f99642e1aa65e0c8f4290d41c0118cea80c7a244f259d5a8ec880ba",
+      "size_bytes": 1658110
+    },
+    {
+      "path": "raw/data/2026-10-27-farside-bitcoin-sesiones-2026-10-23-y-26.csv",
+      "sha256": "f47ff46c8ee537f62292866cff38a3f6de6a6afd48ad7a4bb79890eaeda9e077",
+      "size_bytes": 385
+    }
+  ]
+}

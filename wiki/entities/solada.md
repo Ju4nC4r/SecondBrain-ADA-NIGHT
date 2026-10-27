@@ -2,9 +2,10 @@
 title: "Solada: reservas, custodia y mercados separados"
 type: entity
 created: "2026-10-14"
-updated: "2026-10-23"
+updated: "2026-10-27"
 tags: [solada, cardano, solana, custodia]
 sources:
+  - "../sources/2026-10-27-informe-angry-crypto-show.md"
   - "../sources/2026-10-23-aviso-angry-acceso-limitado.md"
   - "../sources/2026-10-20-informe-angry-crypto-show.md"
   - "../sources/2026-10-14-informe-angry-crypto-show.md"
@@ -27,3 +28,7 @@ El [canal](../sources/2026-10-20-informe-angry-crypto-show.md) cita 8,5 millones
 ## Cifras de la revisión completa del 23
 
 B [según el informe](../sources/2026-10-23-aviso-angry-acceso-limitado.md) cita >11 millones ADA de volumen, cerca de 100.000 ADA en recompensas e incorporación de NIGHT para recompensas dobles. Sin series, pagos o despliegue reproducidos; no beneficio neto, nueva liquidez, seguridad o cambio de custodia verificados. No se reconstruye crecimiento uniforme desde episodios previos.
+
+## Angry Crypto Show: informe del 27
+
+El [canal](../sources/2026-10-27-informe-angry-crypto-show.md) atribuye >13 millones ADA negociados y 115.000 ADA de recompensas, sin series/pagos reproducidos. No beneficio neto o cambio de custodia verificados. Solicitudes de listados no son aprobaciones. El presentador refiere conversación con el equipo y propone prudencia/apertura, sin orden de compra, valoración o garantía de seguridad.

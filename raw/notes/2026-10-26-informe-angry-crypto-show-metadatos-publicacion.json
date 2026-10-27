@@ -1,0 +1,38 @@
+{
+  "channel": "Angry Crypto Show",
+  "report_date": "2026-10-26",
+  "report_type": "no_new_videos_notice",
+  "source_cutoff_local": "2026-10-26T08:07:43+01:00",
+  "channel_url": "https://www.youtube.com/@AngryCryptoShow/videos",
+  "latest_video_id": "IltXg8rmF-8",
+  "latest_video_url": "https://www.youtube.com/watch?v=IltXg8rmF-8",
+  "latest_video_publication_madrid": "2026-10-23T23:38:51+02:00",
+  "new_video_ids": [],
+  "transcript_path": null,
+  "review_scope": "Canal público ordenado por publicaciones recientes, comparado con registro; sin nuevo análisis de contenido",
+  "prepared_at_utc": "2026-10-26T07:11:32.737043+00:00",
+  "archived_at_utc": "2026-10-26T07:15:00.893954+00:00",
+  "limitations": [
+    "Sin vídeos nuevos visibles en la pestaña consultada al corte.",
+    "No nueva transcripción ni nuevo análisis.",
+    "Archivo no equivale a ingesta terminada."
+  ],
+  "publication_scope": "Copia derivada para publicación: fuentes y análisis sin identificadores de correo o rutas personales. Original íntegro conservado localmente.",
+  "original_metadata_sha256": "fdaad5818f8304ec618e0381ef8305176122027ea907fdcbedbb57c5ce9ff02a",
+  "files": [
+    {
+      "role": "report",
+      "path": "raw/notes/2026-10-26-informe-angry-crypto-show-publicacion.md",
+      "relative_link_from_metadata": "2026-10-26-informe-angry-crypto-show-publicacion.md",
+      "sha256": "1b49d3eb5195ba3b2a8d467db63ef383dc6bd916b1225491fa921a3c1fc692de",
+      "size_bytes": 1723
+    },
+    {
+      "role": "infographic",
+      "path": "raw/images/2026-10-26-infografia-angry-crypto-show.png",
+      "relative_link_from_metadata": "../images/2026-10-26-infografia-angry-crypto-show.png",
+      "sha256": "15f09cc35bc1d780d76eba76e83d06d186c52281abe5ce6e283c7dec78c361fc",
+      "size_bytes": 1422207
+    }
+  ]
+}

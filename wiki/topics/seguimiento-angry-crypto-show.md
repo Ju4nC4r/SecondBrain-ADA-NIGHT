@@ -2,9 +2,11 @@
 title: "Seguimiento de Angry Crypto Show: ADA, Midnight y contexto Bitcoin"
 type: topic
 created: "2026-10-14"
-updated: "2026-10-26"
+updated: "2026-10-27"
 tags: [angry-crypto-show, ada, night, bitcoin]
 sources:
+  - "../sources/2026-10-27-informe-angry-crypto-show.md"
+  - "../sources/2026-10-26-aviso-angry-sin-videos-nuevos.md"
   - "../sources/2026-10-24-informe-angry-crypto-show.md"
   - "../sources/2026-10-23-aviso-angry-acceso-limitado.md"
   - "../sources/2026-10-21-informe-angry-crypto-show.md"
@@ -28,12 +30,16 @@ Seguimiento añadido por petición expresa del usuario a partir del [lote archiv
 
 ## Avisos de estado y contenido pendiente
 
+- [26 de octubre: sin vídeos nuevos](../reports/2026-10-26-angry-crypto-show-sin-videos-nuevos.md): revisión del canal a las 08:07:43 CET.
+
 - [23 de octubre: revisión completa e historial](../reports/2026-10-23-angry-crypto-show-acceso-limitado.md): textos recuperados; aviso de acceso limitado conservado.
 - [19 de octubre: revisión sin vídeos nuevos](../reports/2026-10-19-angry-crypto-show-sin-videos-nuevos.md): ausencia limitada a la revisión de aquella hora.
 
-Estado actual: **catorce vídeos analizados, dos avisos históricos conservados y los dos pendientes del aviso inicial resueltos**. Los análisis nuevos proceden de los textos completos; los títulos no se tratan como prueba.
+Estado actual: **quince vídeos analizados, tres avisos de estado conservados y los dos pendientes del aviso inicial resueltos**. Los análisis nuevos proceden de los textos completos; los títulos no se tratan como prueba.
 
 ## Informes incorporados
+
+- [27 de octubre](../reports/2026-10-27-angry-crypto-show.md): vídeo del 26 por la noche, contradicción ChatterPay y estados técnicos.
 
 - [Edición del 24, completada y entregada el 26](../reports/2026-10-24-angry-crypto-show.md): un vídeo del 23, escalado, MiCA y cobre; no revisión del canal del 25/26.
 
@@ -123,3 +129,11 @@ Estado actual: **trece vídeos analizados**, **dos avisos históricos conservado
 ## Angry: edición del 24 completada el 26
 
 Un vídeo adicional, IltXg8rmF-8, eleva el total a **catorce análisis de vídeo**. La [ficha](../sources/2026-10-24-informe-angry-crypto-show.md) conserva publicación del 23, edición del 24 y corte/preparación/envío/archivo del 26, con el cambio UTC+2 a UTC+1. No duplica la revisión completa del 23 ni acredita revisión del canal del 25/26. Unidades Leios, simulación Hydra, pruebas formales, MiCA repetida e intención provisional sobre cobre mantienen límites.
+
+## Aviso del 26: revisión sin vídeos nuevos
+
+El [aviso del 26](../sources/2026-10-26-aviso-angry-sin-videos-nuevos.md) documenta la comprobación a las 08:07:43 CET: IltXg8rmF-8 sigue como último vídeo visible, ya analizado en la edición del 24 completada el 26. No se repiten transcripción, análisis, recomendaciones o correo. Catorce vídeos analizados y tres avisos de estado; ausencia limitada a aquella pestaña y hora. No acredita revisión del 25. La ingesta de este aviso queda solo en local.
+
+## Angry Crypto Show: informe del 27
+
+[Un vídeo nuevo](../sources/2026-10-27-informe-angry-crypto-show.md) publicado el 26 a las 22:48:41, posterior al aviso de las 08:07:43: quince vídeos analizados y tres avisos conservados. ChatterPay anuncia staking/voto en el canal frente a Preprod/planificado en documentación; contradicción abierta sin mainnet acreditada. Leios 5 %, Peras, agentes, roadmap y publicidad mantienen atribución, unidades y límites. Preparación/envío/archivo del 27 separados; sin duplicar series o episodios.

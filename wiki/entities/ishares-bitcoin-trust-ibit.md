@@ -2,9 +2,10 @@
 title: "iShares Bitcoin Trust ETF / IBIT"
 type: entity
 created: "2026-10-05"
-updated: "2026-10-26"
+updated: "2026-10-27"
 tags: [ibit, blackrock, bitcoin, etf]
 sources:
+  - "../sources/2026-10-27-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-26-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-23-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-17-farside-flujos-bitcoin.md"
@@ -84,3 +85,7 @@ IBIT figura con +16,8 millones de USD en la [sesión del 15](../sources/2026-10-
 ## Revisión del 26 de octubre
 
 [Farside](../sources/2026-10-26-farside-flujos-bitcoin.md), sesión del 23: IBIT −110,3 millones USD. Subtotal once fondos −137,9, con HODL ausente. Dato revisable, sin conciliación con NAV/participaciones del emisor.
+
+## Revisión del 27 de octubre
+
+[Farside](../sources/2026-10-27-farside-flujos-bitcoin.md): sesión del 26, IBIT +110,3 millones USD y otros once 0. Total revisable y sin conciliación con emisor. El HODL del 23 ahora cero no cambia la cifra histórica de IBIT de ese día.

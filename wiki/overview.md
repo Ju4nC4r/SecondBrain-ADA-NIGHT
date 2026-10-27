@@ -6,7 +6,7 @@ Base de conocimiento personal para investigar Cardano (ADA) y Midnight (NIGHT) c
 
 ## Estado
 
-Última incorporación del seguimiento diario: [informe del 26 de octubre](reports/2026-10-26-seguimiento-ada-night-bitcoin.md), corte 06:24 CET. Ejecución del 24 completada el 26: DijkstraNet, devolución declarada, desarrollo, Electrum y ETF provisionales; NIGHT sin novedad corroborada.
+Última incorporación del seguimiento diario: [informe del 27 de octubre](reports/2026-10-27-seguimiento-ada-night-bitcoin.md), corte 09:02 CET. PR Midnight integrada, ETF26 y declaraciones Strategy/Strive; ADA sin novedad corroborada y HODL23 completado.
 
 La estructura conserva la [guía de Karpathy](sources/llm-wiki.md) y los informes de ADA, NIGHT y Bitcoin del [5](reports/2026-10-05-seguimiento-ada-night-bitcoin.md) y [6 de octubre](reports/2026-10-06-seguimiento-ada-night-bitcoin.md), con versiones en RAW y fichas de procedencia. El primero procede de otro chat; el segundo se elaboró manualmente en este proyecto al comprobar que no había una entrega del día 6. La incorporación actualiza activos, conceptos, índices y el tema de seguimiento.
 
@@ -191,3 +191,16 @@ La carta SEC es solicitud sin aprobación; Syngenta reutiliza recuento oficial d
 ## Angry: edición del 24 completada el 26
 
 La [edición retrasada](reports/2026-10-24-angry-crypto-show.md) incorpora un vídeo publicado el 23 y alcanza **catorce vídeos analizados**. Corte y entrega reales del 26 conservados; no revisión del canal del 25/26. Bytes/s y TPS de Leios no se equiparan; simulación Hydra no acredita mainnet. [Pruebas formales](concepts/verificacion-formal-y-supuestos.md) dependen de propiedades/supuestos, sin release reciente Hades comprobada. MiCA repite una postura de consulta ya documentada. El NO al cobre es intención provisional del presentador, sin voto o resultado confirmados. Métricas RealFi/holders, planes SIG y publicidad mantienen atribución y límites.
+
+## Angry: revisión del canal del 26
+
+El [aviso del 26](reports/2026-10-26-angry-crypto-show-sin-videos-nuevos.md) registra ausencia de vídeos nuevos visibles a las 08:07:43 CET. El último ya se analizó en la edición del 24 completada el 26. Catorce vídeos analizados y tres avisos de estado, sin nueva transcripción o recomendaciones. Archivo, entrega e ingesta separados; este aviso permanece solo en local.
+
+## Actualización del 27 de octubre
+
+[Midnight](sources/2026-10-27-midnight-transicion-consenso.md): PR2326 integrada el 26 prepara coordinación AURA→BABE, no migración mainnet comprobada. [ETF](sources/2026-10-27-farside-flujos-bitcoin.md): sesión26 +110,3 millones USD revisables; HODL23 ya0 cierra ausencia sin cambiar −137,9 y conserva original. [Strategy](sources/2026-10-27-strategy-sin-compras-bitcoin.md) declara sin operaciones BTC19–25 y recompra STRC; [Strive](sources/2026-10-27-strive-compras-bitcoin.md) declara 6.182 BTC17–23, ventanas distintas sin suma causal. ADA sin noticia nueva corroborada en fuentes accesibles; listado Intersect falla por tamaño. No custodia auditada, cotizaciones o causa única del precio.
+
+
+## Angry Crypto Show: informe del 27
+
+La [síntesis](reports/2026-10-27-angry-crypto-show.md) incorpora vídeo del 26 a las 22:48:41, posterior al aviso matutino: quince vídeos analizados y tres avisos conservados. [ChatterPay](entities/chatterpay.md) mantiene contradicción entre disponibilidad anunciada y Preprod/staking-voto planificados. [Peras](entities/peras.md) es propuesta de asentamiento; Leios 5 % no prueba activación. Transacciones/agentes, cbADA y Solada son atribuciones sin series reproducidas; escenarios de agentes/poscuántica y roadmap no certifican entrega. No se altera la evaluación del informe diario del 27; son fuentes y alcances distintos.

@@ -2,9 +2,10 @@
 title: "Seguimiento de mercado de ADA y NIGHT"
 type: topic
 created: "2026-10-05"
-updated: "2026-10-26"
+updated: "2026-10-27"
 tags: [ada, night, mercado, seguimiento]
 sources:
+  - "../sources/2026-10-27-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-26-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-23-aviso-angry-acceso-limitado.md"
   - "../sources/2026-10-23-informe-ada-night-bitcoin.md"
@@ -85,7 +86,7 @@ Las capturas del 5 y 6 de Farside conservan el dato antes ausente y su publicaci
 
 ## Fuente complementaria: Angry Crypto Show
 
-El [seguimiento del canal](seguimiento-angry-crypto-show.md) incorpora catorce vídeos analizados: ediciones del 7, 8, 9, 10, 13, 14, 15, 16, 17, 20, 21, 23 (dos vídeos) y 24 (completada el 26). Mantiene separadas las noticias documentadas, métricas no reproducidas, previsiones condicionales y patrocinio. Complementa la serie de Noticias diarias ADA/NIGHT/BTC; el informe del 10 de Angry no rellena la laguna del 10 de esa otra serie.
+El [seguimiento del canal](seguimiento-angry-crypto-show.md) incorpora quince vídeos analizados: ediciones del 7, 8, 9, 10, 13, 14, 15, 16, 17, 20, 21, 23 (dos vídeos) 24 (completada el 26) y 27. Mantiene separadas las noticias documentadas, métricas no reproducidas, previsiones condicionales y patrocinio. Complementa la serie de Noticias diarias ADA/NIGHT/BTC; el informe del 10 de Angry no rellena la laguna del 10 de esa otra serie.
 
 Las lecturas del canal no sustituyen series compatibles de mercado o uso. Los niveles de inversión y plazos ausentes no se reconstruyen desde títulos, gráficos no revisados o intervenciones anteriores. [Previsiones y publicidad](../concepts/previsiones-atribuidas-y-publicidad.md) · [Interoperabilidad y custodia](../concepts/interoperabilidad-custodia-y-privacidad.md).
 
@@ -126,3 +127,15 @@ La [edición del 26](../reports/2026-10-26-seguimiento-ada-night-bitcoin.md), ej
 ## Angry: edición del 24 completada el 26
 
 La [síntesis](../reports/2026-10-24-angry-crypto-show.md) separa métricas atribuidas, escenarios técnicos y opinión de hechos operativos. No cubre las revisiones del canal del 25/26 ni sustituye el informe diario independiente.
+
+## Angry: aviso independiente del 26
+
+El [estado del canal](../reports/2026-10-26-angry-crypto-show-sin-videos-nuevos.md), revisado a las 08:07:43 CET, no localiza vídeos nuevos. No añade noticias, análisis o recomendaciones al seguimiento diario ni repite la edición del 24 entregada el 26.
+
+## Revisión del 27 de octubre
+
+La [edición del 27](../reports/2026-10-27-seguimiento-ada-night-bitcoin.md) añade PR de coordinación AURA→BABE integrada el 26, flujos ETF del 26 y dos declaraciones corporativas con ventanas diferentes. Se cierra HODL del 23 con cero y doce cifras, conservando original. ADA sin nueva noticia corroborada en fuentes accesibles; Intersect listado inaccesible por tamaño. No repetición de anuncios ni causa de precio. Alcance general ADA/NIGHT; BTC expresamente solicitado.
+
+## Angry Crypto Show: informe del 27
+
+La [edición nueva](../reports/2026-10-27-angry-crypto-show.md) conserva ChatterPay Preprod/funciones planificadas frente al anuncio del vídeo y distingue métricas no reproducidas, planes y opinión. No transforma titulares de un canal en disponibilidad, adopción o recomendación propias. Se mantiene separado el informe diario ADA/NIGHT/BTC del 27.
