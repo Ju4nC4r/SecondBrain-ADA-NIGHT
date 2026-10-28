@@ -1,0 +1,240 @@
+YouTube transcript
+Video ID: Xy6l-lC-cYE
+Language: en
+Captions: auto-generated
+
+[0:00] What is good Cardono fam? Ada gang with
+[0:02] lots of exciting updates to unpack
+[0:03] today. So, hit that subscribe, hit that
+[0:05] like. Cardono ADA 24-hour trade volume
+[0:08] reached as high as $240 million
+[0:10] according to Coin Gecko. Blockworks
+[0:13] ranks Cardono as the fourth highest mind
+[0:15] share at 3.18%
+[0:18] following Ethereum at 3.9%
+[0:21] highlighting ADA's social dominance.
+[0:24] ADA generated the 11th highest 24-hour
+[0:27] trade volume on Koshi's crypto
+[0:29] perpetuals at over $550,000,
+[0:33] surpassing BMBB, Dogecoin, and more than
+[0:36] double chain link at 230,000.
+[0:40] Sunday Labs completes its gummy worm
+[0:42] specification, Cardono's layer 2 with
+[0:45] fast finality, high throughput, and
+[0:48] decentralized custody of your funds,
+[0:51] including detailed documentation for
+[0:53] Cardono developers to easily build with.
+[0:56] The spec is done, they say, but Gummy
+[0:58] worm keeps evolving. On gummy worm,
+[1:01] Sunday Lab says Sugar Rush, an orderbook
+[1:04] exchange built on our L2, ran a 14-day
+[1:08] trading competition on Cardono mainet
+[1:10] and processed over 660 million layer 2
+[1:14] transactions. Just the amount of
+[1:16] transaction throughput alone, I think
+[1:18] there's a lot of potential when it comes
+[1:20] to this layer 2 solution. Cardono's
+[1:24] Strike Finance has nearly completed its
+[1:26] iOS app.
+[1:28] Strike Finance is targeting over $100
+[1:31] million in daily volume according to
+[1:34] founder Shenzang.
+[1:36] They will also integrate Agentic
+[1:38] Trading, more yieldbearing assets for
+[1:41] Strike liquidity provider deposits and
+[1:43] so much more. So, a lot of great
+[1:45] features lined up for Strike. They've
+[1:48] also deployed over $277,000
+[1:52] via RealFi.
+[1:54] Zcash founder says, "Prepare for quantum
+[1:57] and AI. Your goal should be using the
+[2:00] strongest cryptography." Charles
+[2:02] Hoskinson has already worked with NIST
+[2:04] on postquantum standards and is working
+[2:07] on Nightstream with people from Google,
+[2:10] Linux Foundation, and Microsoft
+[2:12] Research.
+[2:14] Cardono Foundation says police in
+[2:16] India's most populous spit state now
+[2:20] track criminal evidence on Cardono.
+[2:22] Every scan, every lab result is hashed
+[2:25] onchain live on active cases in Utar
+[2:29] Pradesh. An auditable record from crime
+[2:32] scene to forensic lab. So this is
+[2:35] continuing to advance ADA's
+[2:37] missionritical use cases and utility. I
+[2:40] think it's great. Charles Hoskinson
+[2:42] says, "I've moved on from an
+[2:44] infrastructure guy to an application
+[2:46] guy, a venture guy, and a product guy,
+[2:49] and I'm building products, and if the
+[2:51] products are successful, they bring in
+[2:53] TVL and people as well." Charles says,
+[2:56] "We're talking about how does this
+[2:58] industry go from wallets, addresses,
+[3:01] cryptocurrencies
+[3:03] to it just works on your phone, an app
+[3:06] like everything else, fingerprint, pin
+[3:08] code, that's it." That's what we're
+[3:10] trying to do as an industry. Charles on
+[3:13] UX and abstraction says the user
+[3:16] shouldn't have to care about the wallet
+[3:17] address, the wallet, the blockchain it
+[3:19] settles on, the asset. It's just Charles
+[3:22] at midnight or Ethereum or near and it
+[3:25] just works. Whoever solves that gets all
+[3:28] the users.
+[3:30] Charles says Salana and Sooie are the
+[3:32] two big fast ones. They're great
+[3:34] protocols and they work really well. I
+[3:37] spent quite a bit of time actually
+[3:38] studying narwhal tusk mystici and
+[3:42] there's some great ideas there. It's
+[3:45] more now the holism of the ecosystem.
+[3:49] Charles is focused on the fourth
+[3:51] generation. Everybody is moving in this
+[3:53] direction. He says if you look at
+[3:55] everything Vitalic is doing A16Z is
+[3:58] doing other investors it's all zk zk zk.
+[4:02] They're saying abstraction, smart
+[4:04] compliance to bring in RWAs, adding
+[4:07] identity and AI agents.
+[4:10] Charles says, I shared with Vitalik very
+[4:13] early days of Ethereum two papers from
+[4:16] Microsoft research showing the field of
+[4:18] verified compute preK. I said if we do
+[4:22] UTXO, we have a real natural path to
+[4:26] move into the proof layer and an easy
+[4:28] time writing secure programs. He
+[4:31] finished off saying that Adam was right.
+[4:33] Adam back the inventor of proof of work.
+[4:37] And I really wonder what would have
+[4:39] happened if Ethereum took the way of
+[4:41] UTXO and if they had listened to Charles
+[4:45] and Adam. But alas, here we are and we
+[4:47] see the convergence of everything.
+[4:50] Charles says, "When Laos first launches,
+[4:53] we expect throughput to be two to eight
+[4:55] times faster, but that's the beginning.
+[4:58] And the protocol has a long tail,
+[5:00] meaning you can keep turning it up. We
+[5:02] think we can keep up with the leading
+[5:04] blockchains.
+[5:06] Charles Hoskinson says, "Losolves the
+[5:08] blockchain trillemma. Cardono has full
+[5:10] decentralization, 50% Byzantine
+[5:13] resistance, a ton of scalability with
+[5:15] the system, and safety. I feel pretty
+[5:18] good about that. The protocol seems to
+[5:20] be what it needs to be."
+[5:22] Lark Davis, think of him whatever you
+[5:25] want. Every now and then he gives a
+[5:27] shout out to Charles. He supports
+[5:29] supports Charles Hoskinson welcoming
+[5:31] Tron to Midnight. He says, "Charles,
+[5:34] let's go, man." Boom. So, Midnight's
+[5:36] Night Mode is set to bring privacy to
+[5:38] TRX in December of this year. So, what
+[5:42] else is going on? Ripple officially
+[5:44] receives full US regulatory approval to
+[5:47] operate as a national trust bank. So,
+[5:50] the complete OC approval, I think that's
+[5:53] great. Ripple and Robin Hood officially
+[5:55] announced strategic partnership to
+[5:57] expand stable coin adoption.
+[6:01] Trade finance is coming to the XRPL. So
+[6:03] Ripple announcing the collaboration with
+[6:05] BNY across custody and tokenized trade
+[6:08] finance, bringing BNY's institutional
+[6:11] scale together with RLUSD,
+[6:14] XRP, and the XRPL. A lot of great moves
+[6:16] that benefit all of crypto. Binance
+[6:19] files for crypto license in Brazil.
+[6:22] Finally, a big shout out to all the meme
+[6:25] creators making awesome content. You
+[6:28] know, we need a little bit of that fun,
+[6:29] especially when we're in the bikini
+[6:31] bottom, rock bottom with Adidas Price. A
+[6:34] shout out to the sponsor of Ankor Crypto
+[6:36] Show here on YouTube, Koshi. Koshi was
+[6:39] the first to bring CFTC regulated crypto
+[6:42] per.
+[6:44] So, if you're based in North America, if
+[6:46] you're US-based, I believe Canadians can
+[6:49] also access a part of this, the Crypto
+[6:51] Per, check out my link in the video
+[6:54] description. You get a bonus sent your
+[6:56] way as well. And ADA was included in
+[6:59] their short list of 19 crypto per. So, a
+[7:02] lot of attention to detail with the
+[7:04] listings, and it's great that they
+[7:05] included ADA uh with the listings back
+[7:08] in September. So ADA 20 cents 204
+[7:14] XRP 1.31 a little bit of a boost given
+[7:17] all the news surrounding the OC approval
+[7:20] in the collaborations but still it has a
+[7:23] long way to go. Bitcoin 85 so not bad
+[7:26] good to see it above 80K 80.5 for BTC
+[7:30] but I think we're in a very uh make or
+[7:33] break zone right now for ADA and I think
+[7:35] it's going to be very critical that we
+[7:36] hold above this 20 cent line.
+[7:40] I would say the highlights for me.
+[7:42] Really excited to see that Strike is
+[7:44] crushing it. iOS app around the corner.
+[7:47] Uh also just the bullishness and
+[7:49] optimism, enthusiasm with uh what
+[7:52] they're doing. They just listed Sooie.
+[7:54] They just listed Lighter and Dogecoin.
+[7:56] And there's a lot of great excitement
+[7:58] around uh their protocol, the hackathon
+[8:00] that they just finished doing. So
+[8:04] Agentic Trading, more yield bearing
+[8:05] assets for LP guys. I think a lot of
+[8:08] those things that they're doing are
+[8:10] great. So, I commend that. I think this
+[8:12] is fantastic for Cardono and hopefully
+[8:15] we can see Rioi get closer to that 1 mil
+[8:18] deployed on Strike Finance. Good to see
+[8:20] these efforts continue to steadily grow.
+[8:23] But let me know your thoughts. What do
+[8:25] you think about all the efforts with
+[8:26] Ripple? It looks like the limelight, the
+[8:28] spotlight right now is on Ripple. And I
+[8:31] hope that finally for ADA holders, we
+[8:34] can start to see some exciting
+[8:35] partnerships because I'll keep it real
+[8:37] with you guys. Ripple is crushing it.
+[8:40] Salana Foundation is crushing it. And I
+[8:43] need to see some of that excitement. I
+[8:44] got to see some of that like business
+[8:46] development from the Cardono entities.
+[8:50] And so I think Midnight Foundation and
+[8:53] some others are uh going to do that. And
+[8:55] we're seeing some pretty good stuff from
+[8:57] Charles when it comes to venture
+[8:58] products and real midnight etc. But I
+[9:02] think the time is now more than ever. I
+[9:05] think all eyes right now are on Ripple
+[9:06] and a lot of people are wondering like
+[9:08] hey like is Cardono going to wake up?
+[9:10] Like what's going on, right? And in
+[9:12] Charles's own words he said himself
+[9:16] verbatim quote that no one really cares
+[9:18] these days about settlement time,
+[9:20] decentralization TPS. It's really about
+[9:22] the best products, the best user
+[9:25] experience, the flow of liquidity. Now,
+[9:28] those things are important. So, I do
+[9:30] hope that we can see Cardono really take
+[9:33] inspiration from the Ripples and other
+[9:34] companies because Ripple in less than
+[9:37] two years has already issued more than
+[9:38] $2.4 billion in RLUSD. So, there's a lot
+[9:42] of great inspirations and references we
+[9:45] can use. I'm happy that at least
+[9:47] Midnight is uh going to XRPPL and Solana
+[9:52] when it comes to providing privacy but
+[9:54] also just collaborative partnerships.
+[9:57] So, let me know your thoughts, guys.
+[9:59] Smash that subscribe. Smash that like.

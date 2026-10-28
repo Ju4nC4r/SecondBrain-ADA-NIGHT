@@ -2,9 +2,10 @@
 title: "Leios: testnet, resultados y mainnet"
 type: concept
 created: "2026-10-14"
-updated: "2026-10-27"
+updated: "2026-10-28"
 tags: [ada, night, bitcoin, seguimiento]
 sources:
+  - "../sources/2026-10-28-informe-angry-crypto-show.md"
   - "../sources/2026-10-27-informe-angry-crypto-show.md"
   - "../sources/2026-10-24-informe-angry-crypto-show.md"
   - "../sources/2026-10-26-informe-ada-night-bitcoin.md"
@@ -71,3 +72,7 @@ El [contraste del autor](../sources/2026-10-24-informe-angry-crypto-show.md) cit
 ## Angry Crypto Show: informe del 27
 
 El [vídeo](../sources/2026-10-27-informe-angry-crypto-show.md) da 5 % al desarrollo del hard fork; denominador no reproducido. La página oficial, según la consulta del autor, describe implementación/pruebas y garantías en marcha, evaluación interna sin fechas comprometidas. No 5 % de la red activada, capacidad o lanzamiento inminente. [Peras](../entities/peras.md) aborda asentamiento, otra dimensión distinta de capacidad.
+
+## Angry Crypto Show: informe del 28
+
+El [canal](../sources/2026-10-28-informe-angry-crypto-show.md) atribuye 2–8x al rendimiento inicial esperado, sin carga base/medición mainnet comparables. Se conserva junto a 3–5x/10–15x del 21 y 60x/10–15x del 23, sin resolver como cambio oficial o error: no mismos supuestos demostrados. Infinito/trilema y resistencia bizantina no son garantías universales. Estado oficial según el autor: implementación/garantías y gobernanza pendientes; fases no son fechas.

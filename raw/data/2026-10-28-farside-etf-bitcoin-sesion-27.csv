@@ -1,0 +1,14 @@
+session_date,ticker,net_flow_usd_millions,status,source_url,captured_at
+2026-10-27,IBIT,151.5,revisable; no issuer reconciliation,https://farside.co.uk/btc/,2026-10-28T09:06:02.119106+01:00
+2026-10-27,FBTC,24.5,revisable; no issuer reconciliation,https://farside.co.uk/btc/,2026-10-28T09:06:02.119106+01:00
+2026-10-27,BITB,0.0,revisable; no issuer reconciliation,https://farside.co.uk/btc/,2026-10-28T09:06:02.119106+01:00
+2026-10-27,ARKB,0.0,revisable; no issuer reconciliation,https://farside.co.uk/btc/,2026-10-28T09:06:02.119106+01:00
+2026-10-27,BTCO,0.0,revisable; no issuer reconciliation,https://farside.co.uk/btc/,2026-10-28T09:06:02.119106+01:00
+2026-10-27,EZBC,0.0,revisable; no issuer reconciliation,https://farside.co.uk/btc/,2026-10-28T09:06:02.119106+01:00
+2026-10-27,BRRR,0.0,revisable; no issuer reconciliation,https://farside.co.uk/btc/,2026-10-28T09:06:02.119106+01:00
+2026-10-27,HODL,0.0,revisable; no issuer reconciliation,https://farside.co.uk/btc/,2026-10-28T09:06:02.119106+01:00
+2026-10-27,BTCW,0.0,revisable; no issuer reconciliation,https://farside.co.uk/btc/,2026-10-28T09:06:02.119106+01:00
+2026-10-27,MSBT,0.0,revisable; no issuer reconciliation,https://farside.co.uk/btc/,2026-10-28T09:06:02.119106+01:00
+2026-10-27,GBTC,0.0,revisable; no issuer reconciliation,https://farside.co.uk/btc/,2026-10-28T09:06:02.119106+01:00
+2026-10-27,BTC,0.0,revisable; no issuer reconciliation,https://farside.co.uk/btc/,2026-10-28T09:06:02.119106+01:00
+2026-10-27,TOTAL,176.0,12 present; sum checked; revisable,https://farside.co.uk/btc/,2026-10-28T09:06:02.119106+01:00

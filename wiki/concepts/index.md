@@ -1,6 +1,10 @@
 # Conceptos
 
-Última actualización: **27 de octubre de 2026, 09:18 (Europe/Madrid)**.
+Última actualización: **28 de octubre de 2026, 09:08 (Europe/Madrid)**.
+
+- [Hashes, integridad y procedencia](hashes-integridad-y-procedencia.md): huella posterior frente a verdad de origen.
+
+- [Bóvedas tokenizadas y estándares abiertos](bovedas-tokenizadas-y-estandares-abiertos.md): propuesta, interfaces y adopción por distinguir.
 
 - [Migración de consenso y rotación de comités](migracion-consenso-y-rotacion-comites.md): código integrado frente a activación de red.
 

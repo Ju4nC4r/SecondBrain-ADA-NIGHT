@@ -2,9 +2,10 @@
 title: "Strike Finance"
 type: entity
 created: "2026-10-16"
-updated: "2026-10-23"
+updated: "2026-10-28"
 tags: [strike, cardano, defi]
 sources:
+  - "../sources/2026-10-28-informe-angry-crypto-show.md"
   - "../sources/2026-10-23-aviso-angry-acceso-limitado.md"
   - "../sources/2026-10-21-informe-angry-crypto-show.md"
   - "../sources/2026-10-20-informe-angry-crypto-show.md"
@@ -39,3 +40,7 @@ La asignación empresarial de sUSDrf conserva la discrepancia BlockFi/Blockenfy,
 El [vídeo A](../sources/2026-10-23-aviso-angry-acceso-limitado.md) atribuye hasta **1.000 millones USD de liquidez potencial** a Aave, sin capital captado, plazo, compromiso o operación contrastados. Es distinto del **objetivo de capitalización en 36 meses** del informe del 20; no se sustituye una magnitud por otra o se suman.
 
 B cita >260.000 USD mediante sUSDrf en menos de dos semanas y listados DOGE/LIT hasta 20x, sin series o condiciones actuales verificadas. Elogio, integración narrada y liquidez potencial no acreditan retorno o depósito recomendado; los riesgos del apalancamiento permanecen.
+
+## Angry Crypto Show: informe del 28
+
+El [vídeo](../sources/2026-10-28-informe-angry-crypto-show.md) atribuye meta >100 millones USD de volumen diario, iOS casi terminado, agentes y más activos con rendimiento para LP. La web consultada por el autor mantiene iOS próximo, sin App Store/disponibilidad comprobadas. Meta de volumen no es capitalización, TVL o resultado. >277.000 USD mediante RealFi sigue sin corte/desglose reproducidos; millón desplegado es aspiración, sin retorno garantizado.

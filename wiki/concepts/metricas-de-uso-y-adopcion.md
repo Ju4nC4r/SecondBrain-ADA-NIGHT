@@ -2,9 +2,11 @@
 title: "Métricas de uso y adopción de blockchain"
 type: concept
 created: "2026-10-05"
-updated: "2026-10-27"
+updated: "2026-10-28"
 tags: [metricas, cardano, midnight]
 sources:
+  - "../sources/2026-10-28-informe-angry-crypto-show.md"
+  - "../sources/2026-10-28-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-27-informe-angry-crypto-show.md"
   - "../sources/2026-10-27-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-24-informe-angry-crypto-show.md"
@@ -125,3 +127,11 @@ El [informe](../sources/2026-10-24-informe-angry-crypto-show.md) conserva emisi�
 ## Angry Crypto Show: informe del 27
 
 El [informe](../sources/2026-10-27-informe-angry-crypto-show.md) mantiene >970.000 transacciones/+85 % en siete días y agentes >1.800/>4.400 como atribuciones sin consulta/corte/método reproducidos. No personas, ingresos o serie uniforme. cbADA >60 millones/+2,7 millones en 30 días es oferta envuelta atribuida, no compras netas. Volumen, recompensas Solada y fondos tokenizados no se intercambian ni suman entre ventanas. El alcance potencial de WhatsApp no es adopción de ChatterPay/ADA.
+
+## Revisión del 28 de octubre
+
+El [millón de transacciones Midnight](../sources/2026-10-28-midnight-millon-transacciones.md) es contador atribuido por medio secundario a explorador/IOG al27, no medición propia. Interfaz sin cifras, X403 y falta de desglose de aplicaciones/usuarios impiden derivar adopción económica. La documentación primaria de proyectos comunitarios no audita ese contador. >970.000/+85% del canal anterior carece de serie comparable, no tasa recalculada. El plan de [Steer](../sources/2026-10-28-steer-expansion-cardano.md) no es TVL o retorno conseguido.
+
+## Angry Crypto Show: informe del 28
+
+El [informe](../sources/2026-10-28-informe-angry-crypto-show.md) distingue >660 millones L2/14 días atribuidos; >100 millones USD/día como meta Strike; >277.000 USD desplegados vía RealFi sin corte/desglose; y millón como aspiración. No se suman o convierten a L1, usuarios, TVL o capitalización. Volumen ADA 240 millones USD, mindshare y perpetuos son instantáneas sin series reproducidas. [FMS](../entities/trivolvetech-fms.md) documentado no cuantifica cobertura/adopción auditadas.

@@ -2,9 +2,10 @@
 title: "Verificación formal: propiedades, supuestos y versiones"
 type: concept
 created: "2026-10-26"
-updated: "2026-10-27"
+updated: "2026-10-28"
 tags: [cardano, verificacion-formal, blaster, high-assurance]
 sources:
+  - "../sources/2026-10-28-informe-angry-crypto-show.md"
   - "../sources/2026-10-27-informe-angry-crypto-show.md"
   - "../sources/2026-10-24-informe-angry-crypto-show.md"
 ---
@@ -20,3 +21,7 @@ El parche, los tiempos de resolución mejorados y la primera versión de Hades q
 ## Angry Crypto Show: informe del 27
 
 El [vídeo](../sources/2026-10-27-informe-angry-crypto-show.md) atribuye avances recientes de Midnight en verificación formal, sin propiedad, versión o demostración concreta examinadas. Esa mención no certifica todo el sistema, inmunidad frente a IA, seguridad poscuántica o superioridad técnica frente a Zcash. Las garantías mantienen sus supuestos y lagunas.
+
+## Angry Crypto Show: informe del 28
+
+La [documentación Gummiworm recogida por el autor](../sources/2026-10-28-informe-angry-crypto-show.md) contiene especificaciones y arquitectura Intel TDX con límites de privacidad. Publicar una especificación no demuestra todas sus propiedades, auditoría completa o privacidad absoluta. Del mismo modo, hash de FMS acredita un contraste de integridad posterior, no verdad de origen. [Hashes y procedencia](hashes-integridad-y-procedencia.md).

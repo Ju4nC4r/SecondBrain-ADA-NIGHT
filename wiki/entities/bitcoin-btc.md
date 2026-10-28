@@ -2,9 +2,10 @@
 title: "Bitcoin / BTC — contexto de los informes"
 type: entity
 created: "2026-10-05"
-updated: "2026-10-27"
+updated: "2026-10-28"
 tags: [bitcoin, btc, contexto]
 sources:
+  - "../sources/2026-10-28-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-27-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-26-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-23-informe-ada-night-bitcoin.md"
@@ -127,3 +128,7 @@ Saylor y la comparación de JPM a diez años son previsiones atribuidas; la [fue
 ## Revisión del 27 de octubre
 
 [ETF](../sources/2026-10-27-farside-flujos-bitcoin.md), sesión del 26: +110,3 millones USD revisables; HODL del 23 ya 0 cierra el faltante previo. [Strategy](../sources/2026-10-27-strategy-sin-compras-bitcoin.md) declara el 26 cero compras/ventas BTC del 19–25, saldo 848.517 al 25; STRC 204,9 millones USD. [Strive](../sources/2026-10-27-strive-compras-bitcoin.md) declara 6.182 BTC del 17–23, saldo 43.000 al 23. Ventanas y magnitudes distintas, sin suma automática o causa de precio.
+
+## Revisión del 28 de octubre
+
+[Farside](../sources/2026-10-28-farside-flujos-bitcoin.md), sesión del27, suma +176,0 millonesUSD: IBIT151,5/FBTC24,5, otros10cero. Doce valores presentes, revisables sin conciliación por emisor. Otra sesión respecto a26, sin corregirla, sumar compras de ventanas distintas o probar tendencia/causa de precio. BTC se mantiene como contexto de informes expresamente solicitados.

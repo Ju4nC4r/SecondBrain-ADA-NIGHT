@@ -2,9 +2,10 @@
 title: "Regulación por actividad y participación de protocolo"
 type: concept
 created: "2026-10-22"
-updated: "2026-10-26"
+updated: "2026-10-28"
 tags: [cardano, mica, regulacion, staking]
 sources:
+  - "../sources/2026-10-28-informe-angry-crypto-show.md"
   - "../sources/2026-10-24-informe-angry-crypto-show.md"
   - "../sources/2026-10-23-aviso-angry-acceso-limitado.md"
 ---
@@ -26,3 +27,7 @@ Este caso estadounidense y la consulta europea anterior tienen jurisdicciones y 
 ## Angry: edición del 24 completada el 26
 
 El [episodio](../sources/2026-10-24-informe-angry-crypto-show.md) vuelve sobre la respuesta MiCA presentada el 30 de septiembre y publicada el 21 de octubre, ya recogida en la [ficha del 22](../sources/2026-10-22-cardano-respuesta-mica.md). Proporcionalidad, funciones/riesgos y distinción entre staking directo y servicios de custodia son posiciones de consulta. No otra noticia nueva, reforma o exención aprobadas, ni decisión de la Comisión.
+
+## Angry Crypto Show: informe del 28
+
+El [informe](../sources/2026-10-28-informe-angry-crypto-show.md) distingue anuncio Ripple del 26 sobre aprobación final de su banco fiduciario y carta final OCC no localizada por el autor. La carta OCC de diciembre de 2025 es condicional: no prueba cumplimiento posterior por sí sola. No autorización universal, banco minorista de depósitos o decisión sobre ADA. Robinhood/BNY, anuncios del 27, contienen fases futuras/aprobaciones pendientes. No se niega el anuncio empresarial ni se eleva a documento final del regulador.

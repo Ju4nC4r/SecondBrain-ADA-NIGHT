@@ -2,9 +2,10 @@
 title: "RealFi"
 type: entity
 created: "2026-10-16"
-updated: "2026-10-26"
+updated: "2026-10-28"
 tags: [realfi, cardano, defi]
 sources:
+  - "../sources/2026-10-28-informe-angry-crypto-show.md"
   - "../sources/2026-10-24-informe-angry-crypto-show.md"
   - "../sources/2026-10-23-aviso-angry-acceso-limitado.md"
   - "../sources/2026-10-21-informe-angry-crypto-show.md"
@@ -50,3 +51,7 @@ El [canal](../sources/2026-10-23-aviso-angry-acceso-limitado.md) relata desplieg
 ## Angry: edición del 24 completada el 26
 
 El [canal](../sources/2026-10-24-informe-angry-crypto-show.md) atribuye más de 8,4 millones USD emitidos y +100.000 en 72 horas a Token Terminal, sin serie reproducida. Emisión no es TVL o beneficio; diferencias frente a episodios anteriores con otros cortes no prueban flujos nuevos. Los >6.900 holders de ADA envuelta son otro contador, sin contrato/red identificados o equivalencia a personas.
+
+## Angry Crypto Show: informe del 28
+
+El [canal](../sources/2026-10-28-informe-angry-crypto-show.md) cita >277.000 USD desplegados vía RealFi en Strike y desea acercarse al millón. Dato atribuido y aspiración separados; sin corte, desglose, exposición crediticia o rentabilidad neta reproducidos. No reconstruir crecimiento o flujo desde >260.000 de otro episodio/corte, ni intercambiar con emisión, TVL o meta de volumen diario Strike.

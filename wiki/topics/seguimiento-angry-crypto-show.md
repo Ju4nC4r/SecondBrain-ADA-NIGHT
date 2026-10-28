@@ -2,9 +2,10 @@
 title: "Seguimiento de Angry Crypto Show: ADA, Midnight y contexto Bitcoin"
 type: topic
 created: "2026-10-14"
-updated: "2026-10-27"
+updated: "2026-10-28"
 tags: [angry-crypto-show, ada, night, bitcoin]
 sources:
+  - "../sources/2026-10-28-informe-angry-crypto-show.md"
   - "../sources/2026-10-27-informe-angry-crypto-show.md"
   - "../sources/2026-10-26-aviso-angry-sin-videos-nuevos.md"
   - "../sources/2026-10-24-informe-angry-crypto-show.md"
@@ -35,9 +36,11 @@ Seguimiento añadido por petición expresa del usuario a partir del [lote archiv
 - [23 de octubre: revisión completa e historial](../reports/2026-10-23-angry-crypto-show-acceso-limitado.md): textos recuperados; aviso de acceso limitado conservado.
 - [19 de octubre: revisión sin vídeos nuevos](../reports/2026-10-19-angry-crypto-show-sin-videos-nuevos.md): ausencia limitada a la revisión de aquella hora.
 
-Estado actual: **quince vídeos analizados, tres avisos de estado conservados y los dos pendientes del aviso inicial resueltos**. Los análisis nuevos proceden de los textos completos; los títulos no se tratan como prueba.
+Estado actual: **dieciséis vídeos analizados, tres avisos de estado conservados y los dos pendientes del aviso inicial resueltos**. Los análisis nuevos proceden de los textos completos; los títulos no se tratan como prueba.
 
 ## Informes incorporados
+
+- [28 de octubre](../reports/2026-10-28-angry-crypto-show.md): vídeo del 27, Gummiworm/FMS, metas Strike y previsiones con límites.
 
 - [27 de octubre](../reports/2026-10-27-angry-crypto-show.md): vídeo del 26 por la noche, contradicción ChatterPay y estados técnicos.
 
@@ -137,3 +140,7 @@ El [aviso del 26](../sources/2026-10-26-aviso-angry-sin-videos-nuevos.md) docume
 ## Angry Crypto Show: informe del 27
 
 [Un vídeo nuevo](../sources/2026-10-27-informe-angry-crypto-show.md) publicado el 26 a las 22:48:41, posterior al aviso de las 08:07:43: quince vídeos analizados y tres avisos conservados. ChatterPay anuncia staking/voto en el canal frente a Preprod/planificado en documentación; contradicción abierta sin mainnet acreditada. Leios 5 %, Peras, agentes, roadmap y publicidad mantienen atribución, unidades y límites. Preparación/envío/archivo del 27 separados; sin duplicar series o episodios.
+
+## Angry Crypto Show: informe del 28
+
+[Un vídeo nuevo](../sources/2026-10-28-informe-angry-crypto-show.md), publicado el 27 a las 21:53:45 CET, suma dieciséis análisis de vídeo y tres avisos conservados. Gummiworm/FMS documentados según el autor sin reproducir competición o auditar policía; Strike meta, Leios previsión y TRON plan. Anuncio Ripple de aprobación final y carta OCC condicional son evidencias distintas. No duplica episodios o integra la serie diaria independiente. Solo local, sin correo/commit/push.

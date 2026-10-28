@@ -2,9 +2,11 @@
 title: "Cardano / ADA"
 type: entity
 created: "2026-10-05"
-updated: "2026-10-27"
+updated: "2026-10-28"
 tags: [cardano, ada]
 sources:
+  - "../sources/2026-10-28-informe-angry-crypto-show.md"
+  - "../sources/2026-10-28-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-27-informe-angry-crypto-show.md"
   - "../sources/2026-10-27-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-24-informe-angry-crypto-show.md"
@@ -173,3 +175,11 @@ El [informe del 27](../reports/2026-10-27-seguimiento-ada-night-bitcoin.md) no c
 ## Angry Crypto Show: informe del 27
 
 El [informe](../sources/2026-10-27-informe-angry-crypto-show.md) conserva la contradicción de [ChatterPay](chatterpay.md): disponibilidad de staking/voto anunciada frente a Preprod y funciones planificadas en documentación. No prueba mainnet. Leios 5 % sin denominador no es red activada o fecha. [Peras](peras.md) se interpreta de subtítulos y trata asentamiento bajo supuestos, sin segundos universales. Métricas cbADA/volumen siguen atribuidas, sin compras netas o usuarios demostrados.
+
+## Revisión del 28 de octubre
+
+El [anuncio primario de Steer del 27](../sources/2026-10-28-steer-expansion-cardano.md), leído el 28, propone Smart Pools, estándar abierto de bóvedas y liquidez compartida. [Steer](steer-protocol.md) mantiene detalles/disponibilidad pendientes; no despliegue o capital captado, estándar ratificado ni demanda ADA cuantificada. La ausencia limitada del informe previo conserva su corte.
+
+## Angry Crypto Show: informe del 28
+
+El [informe](../sources/2026-10-28-informe-angry-crypto-show.md) incorpora [Gummiworm](gummiworm.md) y el caso [FMS](trivolvetech-fms.md). >660 millones L2/14 días no es L1/usuarios ni cifra reproducida; el caso forense está documentado por la Fundación sin auditoría de cobertura o fecha nueva. Leios 2–8x es otra previsión sin carga comparable, no mainnet. Metas Strike/UX y métricas atribuidas no prueban adopción o demanda adicional de ADA.

@@ -2,9 +2,10 @@
 title: "Angry Crypto Show"
 type: entity
 created: "2026-10-14"
-updated: "2026-10-27"
+updated: "2026-10-28"
 tags: [angry-crypto-show, medios, ada, night]
 sources:
+  - "../sources/2026-10-28-informe-angry-crypto-show.md"
   - "../sources/2026-10-27-informe-angry-crypto-show.md"
   - "../sources/2026-10-26-aviso-angry-sin-videos-nuevos.md"
   - "../sources/2026-10-24-informe-angry-crypto-show.md"
@@ -79,3 +80,7 @@ El [aviso del 26](../sources/2026-10-26-aviso-angry-sin-videos-nuevos.md) docume
 ## Angry Crypto Show: informe del 27
 
 [Un nuevo vídeo](../sources/2026-10-27-informe-angry-crypto-show.md), 4OpjYL-35Nk publicado el 26 a las 22:48:41, lleva el seguimiento a **quince vídeos analizados y tres avisos de estado conservados**. El aviso del 26 a las 08:07:43 era anterior a esa publicación. ChatterPay mantiene contradicción documental; métricas atribuidas, expectativas y patrocinio conservan límites. TXT completo, informe y PNG verificados; no duplicado de episodios previos.
+
+## Angry Crypto Show: informe del 28
+
+[Un vídeo adicional](../sources/2026-10-28-informe-angry-crypto-show.md), Xy6l-lC-cYE publicado el 27 a las 21:53:45 CET, eleva el seguimiento a **dieciséis vídeos analizados y tres avisos de estado conservados**. Gummiworm/FMS documentados según el contraste del autor; cifras L2, metas Strike, previsiones Leios y plan TRON mantienen límites. Anuncio Ripple de aprobación final distinto de carta condicional OCC. Informe/TXT/PNG íntegros; solo ingesta local.

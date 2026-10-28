@@ -2,9 +2,10 @@
 title: "Nightmode: arquitectura y privacidad entre redes"
 type: concept
 created: "2026-10-21"
-updated: "2026-10-26"
+updated: "2026-10-28"
 tags: [midnight, nightmode, privacidad, interoperabilidad]
 sources:
+  - "../sources/2026-10-28-informe-angry-crypto-show.md"
   - "../sources/2026-10-24-informe-angry-crypto-show.md"
   - "../sources/2026-10-23-aviso-angry-acceso-limitado.md"
   - "../sources/2026-10-21-informe-angry-crypto-show.md"
@@ -35,3 +36,7 @@ La integración anterior de [Dynamic](../entities/dynamic.md) y las funciones fu
 ## Angry: edición del 24 completada el 26
 
 La [consulta documental del autor del 26](../sources/2026-10-24-informe-angry-crypto-show.md) mantiene stagenet, mainnet con ledger v9 y TRON previsto en diciembre. No se retrodata el despliegue al 24. Screening no garantiza cumplimiento universal; relación con Filecoin e importes potenciales siguen sin acuerdo o captación primarios acreditados. No se cuenta como otro lanzamiento el anuncio previo.
+
+## Angry Crypto Show: informe del 28
+
+El [episodio](../sources/2026-10-28-informe-angry-crypto-show.md) repite TRON/NightMode previsto para diciembre de 2026 y la consulta del autor a SIG conserva stagenet/v9. No nueva entrega, privacidad universal TRX o cumplimiento garantizado. Cantidades/horarios de operaciones públicas siguen visibles. Se conserva el calendario como plan sin transformar entusiasmo del canal en funcionamiento comprobado.

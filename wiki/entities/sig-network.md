@@ -2,9 +2,10 @@
 title: "Sig.Network: descripción, privacidad y etapa de despliegue"
 type: entity
 created: "2026-10-14"
-updated: "2026-10-23"
+updated: "2026-10-28"
 tags: [sig-network, midnight, ethereum, privacidad]
 sources:
+  - "../sources/2026-10-28-informe-angry-crypto-show.md"
   - "../sources/2026-10-23-aviso-angry-acceso-limitado.md"
   - "../sources/2026-10-21-informe-angry-crypto-show.md"
   - "../sources/2026-10-09-informe-angry-crypto-show.md"
@@ -33,3 +34,7 @@ Se distingue activo nativo en bóveda de origen de saldo representado privado en
 Los [textos recuperados](../sources/2026-10-23-aviso-angry-acceso-limitado.md) retoman la documentación: stagenet para Ethereum, mainnet con ledger v9 y TRON en diciembre de 2026 como plan del proveedor. B 11:32–11:47 reconoce no haber visto confirmación de TRON/Justin Sun; el entusiasmo o las relaciones personales relatadas no acreditan acuerdo bilateral o funcionamiento actual sobre TRON.
 
 Los importes y tiempos públicos de Ethereum siguen visibles; activo nativo en origen y representación privada son objetos distintos. No se actualizan por estos vídeos las garantías de custodia, cumplimiento o seguridad auditada.
+
+## Angry Crypto Show: informe del 28
+
+La [consulta del autor](../sources/2026-10-28-informe-angry-crypto-show.md) conserva stagenet, mainnet condicionada a ledger v9 y TRON diciembre de 2026 como plan. El relato de bienvenida no verifica servicio general en TRX o confirmación bilateral nueva; cantidades/horarios públicos siguen visibles. Repetir el calendario no es otra integración entregada.

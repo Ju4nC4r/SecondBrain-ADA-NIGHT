@@ -1,0 +1,127 @@
+{
+  "report_date": "2026-10-28",
+  "cutoff": "2026-10-28T09:01:51+01:00",
+  "captured_at": "2026-10-28T09:06:02.119106+01:00",
+  "individual_request_times": null,
+  "consulted": "2026-10-28 antes del corte",
+  "sources": [
+    {
+      "id": "steer",
+      "url": "https://www.steer.finance/blog/steer-protocol-expands-to-cardano",
+      "author": "Steer Protocol",
+      "publication_date": "2026-10-27",
+      "publication_time": null,
+      "event_date": "2026-10-27",
+      "event_kind": "anuncio de expansión; disponibilidad futura no fechada",
+      "verification": "fuente primaria leída directamente"
+    },
+    {
+      "id": "midnight-counter",
+      "url": "https://crypto.news/midnight-mainnet-one-million-transactions/",
+      "author": "Lawrence Mondal",
+      "publication_at": "2026-10-27T18:53:00Z",
+      "event_date": "2026-10-27",
+      "verification": "fuente secundaria leída; anuncio IOG y contador atribuidos, no reproducidos"
+    },
+    {
+      "id": "iog-post",
+      "url": "https://x.com/IOGroup/status/2115130924287644054",
+      "author": "Input Output Group",
+      "publication_date": "2026-10-27",
+      "publication_time": null,
+      "event_date": "2026-10-27",
+      "verification": "enlace del artículo; dos accesos bloqueados HTTP403, no leído directamente"
+    },
+    {
+      "id": "community-docs",
+      "url": "https://docs.midnight.network/sdks/community",
+      "author": "Midnight Docs",
+      "publication_date": null,
+      "updated_date": "2026-09-30",
+      "event_date": null,
+      "verification": "documentación primaria leída; contexto histórico, no noticia nueva"
+    },
+    {
+      "id": "explorer",
+      "url": "https://midnightexplorer.com/",
+      "author": "Midnight Explorer / TexLabs",
+      "publication_date": null,
+      "event_date": null,
+      "verification": "interfaz mainnet legible sin valores de contadores; no prueba del recuento histórico"
+    },
+    {
+      "id": "farside",
+      "url": "https://farside.co.uk/btc/",
+      "author": "Farside Investors",
+      "publication_date": null,
+      "publication_time": null,
+      "event_date": "2026-10-27",
+      "verification": "tabla leída directamente; 12 valores presentes; suma176.0 millonesUSD; revisables sin conciliación con emisores"
+    },
+    {
+      "id": "monthly-context",
+      "url": "https://midnight.network/blog/state-of-the-network-october-2026",
+      "author": "Midnight",
+      "publication_date": "2026-10-27",
+      "publication_time": null,
+      "event_date": null,
+      "verification": "leído directamente como contraste; no contiene el contador; noticias previas no repetidas como novedad"
+    }
+  ],
+  "limitations": [
+    "Informe derivado; no archivo de artículos completos",
+    "NIGHT: número atribuido a medio secundario, X HTTP403 y contador histórico no reproducido",
+    "Explorador comunitario; contexto primario no audita contador",
+    "ETF revisables, sin conciliación con emisores",
+    "Sin cotizaciones comparables, recomendaciones o causa de precio demostrada"
+  ],
+  "archived_full_articles": false,
+  "publication_scope": "Metadatos y consultas derivados para publicación, sin datos privados de correo, chat o rutas personales. Originales conservados íntegros localmente.",
+  "original_metadata_sha256": [
+    "ae2a38aca410d4b411272439fe8cdfc78815b9cf4c02928c553d3e9ac521446c",
+    "b8076a42bcfd0f8ba222da9e9257c42328a6dbc1d8d2edd82559b81cbcd55ff0",
+    "f845acccd7d50d6d66d8518624e1d70d5e63c74f51bef43eef96f2cf4354655d"
+  ],
+  "infographic": {
+    "tool": "image_gen.imagegen",
+    "mode": "herramienta integrada",
+    "prompt": "Crea una infografía editorial en español, horizontal 1536x1024, fondo marfil claro, tipografía grande perfectamente legible, diseño sobrio con tres columnas azules, violetas y naranja. No gráficas de precio, no flechas de subida ni consejos. Reproduce exactamente estas cifras, fechas, etiquetas y texto, distribuyéndolo con suficiente espacio. Evita texto adicional y decoraciones que parezcan datos. Título: \"ADA · NIGHT · BITCOIN\". Subtítulo: \"28 OCTUBRE 2026 | Corte 09:01:51 CET · Europe/Madrid\". Texto pequeño: \"08:01:51 UTC\".\nBloque azul:\n\"ADA / CARDANO\"\n\"PLAN DE DESARROLLO\"\n\"27 OCT · anuncio de Steer\"\n\"Liquidez automática y estándar abierto de bóvedas.\"\n\"Disponibilidad e integración pendientes.\"\n\"Fuente: steer.finance\"\nBloque violeta:\n\"NIGHT / MIDNIGHT\"\n\"RECUENTO ATRIBUIDO\"\n\"1.019.963 transacciones\"\n\"Acumuladas en mainnet al 27 OCT.\"\n\"Crypto.news · 27 OCT, 18:53 UTC\"\n\"Contador histórico no reproducido.\"\n\"Transacciones ≠ usuarios ni compras.\"\n\"Fuente: crypto.news\"\nBloque naranja:\n\"BTC / BITCOIN\"\n\"FLUJOS REVISABLES\"\n\"+176,0 millones USD\"\n\"ETF de EE. UU. · sesión 27 OCT\"\n\"IBIT +151,5 · FBTC +24,5\"\n\"Otros 10 fondos: 0,0\"\n\"12 datos presentes · suma comprobada\"\n\"Fuente: farside.co.uk/btc/\"\nFranja inferior: \"Planes ≠ despliegues · Actividad ≠ adopción económica · Flujos ≠ causa del precio\"\nPie: \"Sin cotizaciones al corte ni recomendaciones de compra o venta.\"\nToda la infografía se basa exclusivamente en el informe de estas tres noticias. El millón de transacciones es una cifra publicada por Crypto.news que atribuye al explorador y a Input Output Group, no un recuento propio. No añadir afirmaciones no provistas. Estilo pulcro profesional, iconos simples de infraestructura, actividad y fondos.",
+    "creation_date": "2026-10-28",
+    "creation_time": null,
+    "generation_completed_before_archive_at": "2026-10-28T09:06:02.119106+01:00",
+    "archived_at": "2026-10-28T09:06:02.119106+01:00",
+    "sha256": "3d068977ba34e4bb43746455a02ef8a8fbc6fa0cafd0557a65f210c816d4caea",
+    "bytes": 1573685,
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "visual_verification": "Texto, cifras, unidades, fecha/corte, etiquetas atribuido/revisable y fuentes comprobados visualmente; no edición posterior",
+    "external_sources": [
+      "https://www.steer.finance/blog/steer-protocol-expands-to-cardano",
+      "https://crypto.news/midnight-mainnet-one-million-transactions/",
+      "https://x.com/IOGroup/status/2115130924287644054",
+      "https://docs.midnight.network/sdks/community",
+      "https://midnightexplorer.com/",
+      "https://farside.co.uk/btc/",
+      "https://midnight.network/blog/state-of-the-network-october-2026"
+    ]
+  },
+  "files": [
+    {
+      "path": "raw/reports/2026-10-28-informe-ada-night-bitcoin.md",
+      "sha256": "1e8a7693730b17e15fbe0f42af13249cd0d18f647ca16b9a3f0122dc7076a7a3",
+      "size_bytes": 3306
+    },
+    {
+      "path": "raw/images/2026-10-28-infografia-ada-night-bitcoin.png",
+      "sha256": "3d068977ba34e4bb43746455a02ef8a8fbc6fa0cafd0557a65f210c816d4caea",
+      "size_bytes": 1573685
+    },
+    {
+      "path": "raw/data/2026-10-28-farside-etf-bitcoin-sesion-27.csv",
+      "sha256": "c554fb664b8a144aadaf8d394ac18ccd86760625820b0428b9529899d8703423",
+      "size_bytes": 1598
+    }
+  ]
+}

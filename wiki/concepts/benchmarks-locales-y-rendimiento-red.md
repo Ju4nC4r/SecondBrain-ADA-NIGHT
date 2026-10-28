@@ -2,9 +2,10 @@
 title: "Benchmarks locales y rendimiento de una red"
 type: concept
 created: "2026-10-19"
-updated: "2026-10-26"
+updated: "2026-10-28"
 tags: [benchmarks, metricas, hydra, cardano]
 sources:
+  - "../sources/2026-10-28-informe-angry-crypto-show.md"
   - "../sources/2026-10-24-informe-angry-crypto-show.md"
   - "../sources/2026-10-23-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-21-informe-angry-crypto-show.md"
@@ -33,3 +34,7 @@ El [nuevo reensayo de Hydra](../sources/2026-10-23-hydra-reensayo-glacier-drop.m
 ## Angry: edición del 24 completada el 26
 
 El [informe](../sources/2026-10-24-informe-angry-crypto-show.md) contrapone TPS narrados de Leios/Hydra a bytes/s, tamaño medio y escenarios documentales de CIP-0164. Aproximadamente 100–200 TPS bajo esos supuestos no es un límite universal. El millón en simulación no se reprodujo; Hydra por aplicación y la cadena base no son niveles sumables. Mantener unidad, versión, carga y entorno evita convertir una proyección en capacidad de producción.
+
+## Angry Crypto Show: informe del 28
+
+[Gummiworm](../entities/gummiworm.md), según el [informe](../sources/2026-10-28-informe-angry-crypto-show.md): demo de abril, un peer, pruebas informales ~4.000 TPS pico/~3.400 sostenidos, distinta de competición atribuida >660 millones L2/14 días. Sin dataset/periodo exacto reproducidos: no se confirma o refuta la competición desde aquel ensayo ni se traslada motor a sistema completo. L1/L2/usuarios y tasa pico/total acumulado son dimensiones distintas; Leios 2–8x es previsión sin carga base.

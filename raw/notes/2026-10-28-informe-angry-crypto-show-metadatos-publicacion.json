@@ -1,0 +1,54 @@
+{
+  "channel": "Angry Crypto Show",
+  "report_date": "2026-10-28",
+  "prepared_at_utc": "2026-10-28T08:02:15.182250+00:00",
+  "prepared_date_madrid": "2026-10-28",
+  "source_cutoff_local": "2026-10-28T09:00:51+01:00",
+  "scope": "Un vídeo nuevo desde la revisión del 27 de octubre; transcripción automática completa.",
+  "transcript_source": "YouTube original, inglés automático, exportado desde Brave autorizado",
+  "review_scope": "Transcripción completa 00:00–09:59; audio y gráficas sin revisión íntegra",
+  "archived_at_utc": "2026-10-28T08:03:08.046569+00:00",
+  "limitations": [
+    "Subtítulos automáticos: nombres y cifras sujetos a errores; sin revisión audiovisual íntegra.",
+    "660 millones L2, 277.000 USD y métricas iniciales del vídeo no reproducidos independientemente.",
+    "100 millones diarios es meta; Leios 2–8x es previsión; integraciones y funciones futuras no acreditadas como entregadas.",
+    "Aprobación final OCC anunciada por Ripple; carta final del regulador no localizada en esta revisión.",
+    "Archivo RAW no equivale a ingesta terminada."
+  ],
+  "source_video": {
+    "video_id": "Xy6l-lC-cYE",
+    "title": "Charles: Leios—Infinitely Scalable. Strike To Integrate Agentic Trading! Angry Crypto Reacts",
+    "publication_date": "2026-10-27",
+    "publication_timestamp": "2026-10-27T13:53:45-07:00",
+    "publication_madrid": "2026-10-27T21:53:45+01:00",
+    "source": "YouTube original, inglés automático, exportado desde Brave autorizado",
+    "review_scope": "Transcripción completa 00:00–09:59; audio y gráficas sin revisión íntegra",
+    "report_date": "2026-10-28",
+    "analysis_completed_at_utc": "2026-10-28T08:03:08.046569+00:00"
+  },
+  "publication_scope": "Metadatos derivados para publicación: fuentes y análisis sin identificadores de correo o rutas personales. Original íntegro conservado localmente.",
+  "original_metadata_sha256": "d852a2c757500dbf55c473b2b12375eb7fcb04a6c862e93747b6243690cbb579",
+  "files": [
+    {
+      "role": "report",
+      "path": "raw/notes/2026-10-28-informe-angry-crypto-show.md",
+      "relative_link_from_metadata": "2026-10-28-informe-angry-crypto-show.md",
+      "sha256": "68f0a912a7f2d1d625937d43e0d9eb4213e57c561886855f70b138176bcf04d3",
+      "size_bytes": 11124
+    },
+    {
+      "role": "infographic",
+      "path": "raw/images/2026-10-28-infografia-angry-crypto-show.png",
+      "relative_link_from_metadata": "../images/2026-10-28-infografia-angry-crypto-show.png",
+      "sha256": "f0b9bdaa3d74dfecc134b9a0b170257805cea54d17422218ea5224680fcbdb20",
+      "size_bytes": 1830510
+    },
+    {
+      "role": "transcript",
+      "path": "raw/transcripts/2026-10-27-angry-crypto-show-Xy6l-lC-cYE.txt",
+      "relative_link_from_metadata": "../transcripts/2026-10-27-angry-crypto-show-Xy6l-lC-cYE.txt",
+      "sha256": "c92514d9c99b6117cef52f9c72b910824c76241d022be667fd2628e703b01c2a",
+      "size_bytes": 10293
+    }
+  ]
+}

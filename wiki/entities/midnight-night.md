@@ -2,9 +2,11 @@
 title: "Midnight / NIGHT"
 type: entity
 created: "2026-10-05"
-updated: "2026-10-27"
+updated: "2026-10-28"
 tags: [midnight, night]
 sources:
+  - "../sources/2026-10-28-informe-angry-crypto-show.md"
+  - "../sources/2026-10-28-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-27-informe-angry-crypto-show.md"
   - "../sources/2026-10-27-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-24-informe-angry-crypto-show.md"
@@ -199,3 +201,11 @@ El [informe](../sources/2026-10-24-informe-angry-crypto-show.md), contrastado el
 ## Angry Crypto Show: informe del 27
 
 El [canal](../sources/2026-10-27-informe-angry-crypto-show.md) atribuye >970.000 transacciones y +85 %/7 días sin instantánea, corte, red exacta o método reproducidos. No actualiza por sí solo la fotografía del consenso o demuestra usuarios/ingresos. Agentes, cómputo e inteligencia tokenizada son escenarios; roadmap Passport Q4 no acredita entrega. Poscuántica y comparación Zcash son opiniones sin comparación técnica completa.
+
+## Revisión del 28 de octubre
+
+[Crypto.news del 27](../sources/2026-10-28-midnight-millon-transacciones.md), 18:53UTC, atribuye a IOG/explorador 1.019.963 transacciones mainnet al27. X403, interfaz sin cifras: no recuento histórico reproducido. Documentación primaria identifica herramienta comunitaria y advierte sobre soporte/auditoría. No usuarios, ingresos, compras NIGHT o cambio de consenso inferidos. >970.000/+85% del canal previo permanece otra atribución sin serie comparable.
+
+## Angry Crypto Show: informe del 28
+
+El [episodio](../sources/2026-10-28-informe-angry-crypto-show.md) conserva TRON/NightMode en diciembre de 2026 como plan: stagenet, mainnet condicionada a v9 y metadatos del tramo público visibles. No privacidad universal TRX entregada. Referencias a NIST o personas de organismos no prueban respaldo institucional o seguridad poscuántica desplegada. Productos móviles, abstracción y agentes son estrategia, no TVL/usuarios/ingresos conseguidos.

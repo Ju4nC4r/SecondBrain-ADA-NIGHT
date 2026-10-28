@@ -1,6 +1,13 @@
 # Resúmenes de fuentes
 
-Última actualización: **27 de octubre de 2026, 09:18 (Europe/Madrid)**.
+Última actualización: **28 de octubre de 2026, 09:10 (Europe/Madrid)**.
+
+- [Angry — 28 de octubre](2026-10-28-informe-angry-crypto-show.md): originales, contrastes, atribuciones y fechas.
+
+- [Informe archivado — 28 de octubre](2026-10-28-informe-ada-night-bitcoin.md): fechas, procedencia e infografía.
+- [Steer: expansión a Cardano](2026-10-28-steer-expansion-cardano.md): anuncio de desarrollo, disponibilidad pendiente.
+- [Midnight: millón atribuido](2026-10-28-midnight-millon-transacciones.md): fuente secundaria, contador no reproducido.
+- [Farside: sesión del 27](2026-10-28-farside-flujos-bitcoin.md): doce cifras revisables y +176,0 millones USD.
 
 - [Angry — 27 de octubre](2026-10-27-informe-angry-crypto-show.md): originales, contradicción ChatterPay y procedencia.
 

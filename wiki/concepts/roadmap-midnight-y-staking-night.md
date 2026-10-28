@@ -2,9 +2,10 @@
 title: "Midnight: roadmap y staking de NIGHT"
 type: concept
 created: "2026-10-14"
-updated: "2026-10-27"
+updated: "2026-10-28"
 tags: [ada, night, bitcoin, seguimiento]
 sources:
+  - "../sources/2026-10-28-informe-angry-crypto-show.md"
   - "../sources/2026-10-27-informe-angry-crypto-show.md"
   - "../sources/2026-10-24-informe-angry-crypto-show.md"
   - "../sources/2026-10-23-aviso-angry-acceso-limitado.md"
@@ -75,3 +76,7 @@ El [informe de edición del 24](../sources/2026-10-24-informe-angry-crypto-show.
 ## Angry Crypto Show: informe del 27
 
 El [informe](../sources/2026-10-27-informe-angry-crypto-show.md) repite Passport v1 Q4 de 2026 y composición/interoperabilidad de la roadmap, sin nueva entrega que contar. Trading por agentes, inteligencia tokenizada, cómputo y ventajas poscuánticas son escenarios atribuidos sin capacidad/rentabilidad certificadas. No actualizan staking, consenso o disponibilidad de v9 por la sola mención del vídeo.
+
+## Angry Crypto Show: informe del 28
+
+El [informe](../sources/2026-10-28-informe-angry-crypto-show.md) mantiene TRON para diciembre y mainnet SIG condicionada a ledger v9; no demuestra entrega o altera staking/consenso. Productos móviles/agentes, abstracción y vínculos poscuánticos son estrategia/declaraciones sin resultados o respaldos institucionales demostrados. Repetición de roadmap no es otro lanzamiento.

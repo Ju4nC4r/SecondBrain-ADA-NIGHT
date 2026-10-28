@@ -2,9 +2,10 @@
 title: "Versiones candidatas y despliegue efectivo"
 type: concept
 created: "2026-10-19"
-updated: "2026-10-27"
+updated: "2026-10-28"
 tags: [ada, night, bitcoin, seguimiento]
 sources:
+  - "../sources/2026-10-28-informe-angry-crypto-show.md"
   - "../sources/2026-10-27-informe-angry-crypto-show.md"
   - "../sources/2026-10-27-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-24-informe-angry-crypto-show.md"
@@ -40,3 +41,7 @@ El [informe](../sources/2026-10-24-informe-angry-crypto-show.md) documenta artí
 ## Angry Crypto Show: informe del 27
 
 [ChatterPay](../entities/chatterpay.md), según el [contraste del 27](../sources/2026-10-27-informe-angry-crypto-show.md), conserva Cardano Preprod y staking/voto planificados frente a un vídeo que los anuncia disponibles. Faltan versión/entorno y prueba de operación; posibles pilotos no se presuponen. Leios 5 % de desarrollo y Peras propuesta tampoco certifican activación. No se modifica el original para resolver silenciosamente la contradicción.
+
+## Angry Crypto Show: informe del 28
+
+Según el [contraste del 28](../sources/2026-10-28-informe-angry-crypto-show.md), especificación pública Gummiworm no certifica auditoría o despliegue completo; iOS Strike próximo no es App Store aprobada. Plan TRON diciembre condicionado a v9 no es servicio universal activo. Anuncios Robinhood/BNY distinguen componentes disponibles descritos, futuros y sujetos a aprobaciones; acuerdo no equivale a toda la ejecución entregada.

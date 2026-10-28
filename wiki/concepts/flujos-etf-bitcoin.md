@@ -2,9 +2,10 @@
 title: "Flujos de ETF al contado de Bitcoin"
 type: concept
 created: "2026-10-05"
-updated: "2026-10-27"
+updated: "2026-10-28"
 tags: [bitcoin, etf, mercado]
 sources:
+  - "../sources/2026-10-28-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-27-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-26-informe-ada-night-bitcoin.md"
   - "../sources/2026-10-23-informe-ada-night-bitcoin.md"
@@ -111,3 +112,7 @@ La [fila de la sesión del 21](../sources/2026-10-22-farside-flujos-bitcoin.md),
 ## Revisión del 27 de octubre
 
 [Consulta del 27](../sources/2026-10-27-farside-flujos-bitcoin.md): sesión del 26 doce cifras presentes, +110,3 millones USD. HODL del 23 ahora 0 completa doce y mantiene −137,9; la [captura anterior](../sources/2026-10-26-farside-flujos-bitcoin.md) conserva ausencia/subtotal. Hora de publicación desconocida, sin conciliación por emisor. No extrapolar una sesión a tendencia ni sumar compras corporativas de otras ventanas.
+
+## Revisión del 28 de octubre
+
+[Sesión27 consultada el28](../sources/2026-10-28-farside-flujos-bitcoin.md): doce celdas presentes, IBIT151,5/FBTC24,5/otros10cero; suma +176,0 millonesUSD. Revisable, publicación exacta desconocida y sin conciliación por emisor. Otra sesión respecto a26; sin tendencia, precio actual o causalidad derivados de un dato diario.

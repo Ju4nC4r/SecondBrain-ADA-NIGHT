@@ -1,6 +1,10 @@
 # Informes elaborados a partir de las fuentes
 
-Última actualización: **27 de octubre de 2026, 09:18 (Europe/Madrid)**.
+Última actualización: **28 de octubre de 2026, 09:10 (Europe/Madrid)**.
+
+- [Angry — 28 de octubre](2026-10-28-angry-crypto-show.md): Gummiworm, Strike, FMS y planes con infografía.
+
+- [Seguimiento — 28 de octubre](2026-10-28-seguimiento-ada-night-bitcoin.md): Steer, contador Midnight atribuido y ETF con infografía.
 
 - [Angry — 27 de octubre](2026-10-27-angry-crypto-show.md): un vídeo nuevo, contraste y límites con infografía.
 

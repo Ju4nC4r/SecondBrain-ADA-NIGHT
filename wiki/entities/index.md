@@ -1,6 +1,11 @@
 # Entidades: proyectos, organizaciones, personas y activos
 
-Última actualización: **27 de octubre de 2026, 09:18 (Europe/Madrid)**.
+Última actualización: **28 de octubre de 2026, 09:08 (Europe/Madrid)**.
+
+- [Gummiworm y Sugar Rush](gummiworm.md): L2 y experimentos no equivalentes.
+- [TrivolveTech FMS](trivolvetech-fms.md): cadena de custodia documentada y límites.
+
+- [Steer Protocol](steer-protocol.md): liquidez automatizada anunciada para Cardano.
 
 - [ChatterPay](chatterpay.md): entorno de pruebas y disponibilidad por verificar.
 - [Peras](peras.md): propuesta de asentamiento y condiciones de cuórum.

@@ -2,9 +2,10 @@
 title: "Nightstream: línea prevista de pruebas ZK poscuánticas"
 type: entity
 created: "2026-10-19"
-updated: "2026-10-23"
+updated: "2026-10-28"
 tags: [nightstream, midnight, zk, roadmap]
 sources:
+  - "../sources/2026-10-28-informe-angry-crypto-show.md"
   - "../sources/2026-10-23-aviso-angry-acceso-limitado.md"
   - "../sources/2026-10-17-informe-angry-crypto-show.md"
 ---
@@ -20,3 +21,7 @@ La posible cooperación con Aztec pertenece al relato e interpretación del cana
 ## Roadmap recogida en la revisión del 23
 
 El [autor del informe](../sources/2026-10-23-aviso-angry-acceso-limitado.md) conserva optimización de tamaño/tiempo de prueba poscuántica en Q4 de 2026 como objetivo de roadmap, sin prueba de resistencia total desplegada. Las menciones del canal a American Fortress/Quantum Alliance y otras organizaciones no tienen aquí documentación primaria suficiente de tecnología, afiliación o garantías; no se certifican como nuevas alianzas por el relato.
+
+## Angry Crypto Show: informe del 28
+
+El [vídeo](../sources/2026-10-28-informe-angry-crypto-show.md) cita NIST y personas de Google, Linux Foundation y Microsoft Research. Sin documentación primaria suficiente de esos organismos para acreditar esos vínculos: no respaldo institucional, alianza o seguridad poscuántica desplegada. Se mantienen los límites previos y la distinción entre personas mencionadas y compromiso formal de organizaciones.

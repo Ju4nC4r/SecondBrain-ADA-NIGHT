@@ -2,9 +2,10 @@
 title: "Previsiones atribuidas, recomendaciones y publicidad"
 type: concept
 created: "2026-10-14"
-updated: "2026-10-27"
+updated: "2026-10-28"
 tags: [medios, previsiones, publicidad, ada]
 sources:
+  - "../sources/2026-10-28-informe-angry-crypto-show.md"
   - "../sources/2026-10-27-informe-angry-crypto-show.md"
   - "../sources/2026-10-24-informe-angry-crypto-show.md"
   - "../sources/2026-10-23-aviso-angry-acceso-limitado.md"
@@ -81,3 +82,7 @@ El [episodio](../sources/2026-10-24-informe-angry-crypto-show.md) mantiene optim
 ## Angry Crypto Show: informe del 27
 
 En el [informe](../sources/2026-10-27-informe-angry-crypto-show.md), recuperación sin cuándo/objetivo no es entrada o stop. Prudencia/apertura a nuevos proyectos tras hablar con Solada no es orden de comprar su token. Kalshi es invitación patrocinada a residentes de EE. UU., sin condiciones o niveles completos comprobados; SUI 20x en Strike es oferta citada, no orden. Advertencias sobre liquidación son contexto editorial del informe, sin atribuirlas falsamente al presentador.
+
+## Angry Crypto Show: informe del 28
+
+En el [episodio](../sources/2026-10-28-informe-angry-crypto-show.md), ADA 0,20 USD es vigilancia de grabación, no orden, stop, objetivo o plazo; no se hereda como operación de episodios anteriores. Meta Strike >100 millones USD/día, millón vía RealFi y Leios 2–8x son expectativas con magnitudes distintas. Kalshi es promoción para EE. UU. con duda sobre Canadá no resuelta como elegibilidad; contexto editorial de derivados no se atribuye al presentador. Pedir mejores productos/acuerdos/UX no instruye comprar activos.

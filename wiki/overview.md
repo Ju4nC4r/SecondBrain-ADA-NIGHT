@@ -6,7 +6,7 @@ Base de conocimiento personal para investigar Cardano (ADA) y Midnight (NIGHT) c
 
 ## Estado
 
-Última incorporación del seguimiento diario: [informe del 27 de octubre](reports/2026-10-27-seguimiento-ada-night-bitcoin.md), corte 09:02 CET. PR Midnight integrada, ETF26 y declaraciones Strategy/Strive; ADA sin novedad corroborada y HODL23 completado.
+Última incorporación del seguimiento diario: [informe del 28 de octubre](reports/2026-10-28-seguimiento-ada-night-bitcoin.md), corte 09:01:51 CET. Steer como plan, contador Midnight atribuido y ETFsesión27 revisables.
 
 La estructura conserva la [guía de Karpathy](sources/llm-wiki.md) y los informes de ADA, NIGHT y Bitcoin del [5](reports/2026-10-05-seguimiento-ada-night-bitcoin.md) y [6 de octubre](reports/2026-10-06-seguimiento-ada-night-bitcoin.md), con versiones en RAW y fichas de procedencia. El primero procede de otro chat; el segundo se elaboró manualmente en este proyecto al comprobar que no había una entrega del día 6. La incorporación actualiza activos, conceptos, índices y el tema de seguimiento.
 
@@ -204,3 +204,11 @@ El [aviso del 26](reports/2026-10-26-angry-crypto-show-sin-videos-nuevos.md) reg
 ## Angry Crypto Show: informe del 27
 
 La [síntesis](reports/2026-10-27-angry-crypto-show.md) incorpora vídeo del 26 a las 22:48:41, posterior al aviso matutino: quince vídeos analizados y tres avisos conservados. [ChatterPay](entities/chatterpay.md) mantiene contradicción entre disponibilidad anunciada y Preprod/staking-voto planificados. [Peras](entities/peras.md) es propuesta de asentamiento; Leios 5 % no prueba activación. Transacciones/agentes, cbADA y Solada son atribuciones sin series reproducidas; escenarios de agentes/poscuántica y roadmap no certifican entrega. No se altera la evaluación del informe diario del 27; son fuentes y alcances distintos.
+
+## Actualización del 28 de octubre
+
+[Steer](sources/2026-10-28-steer-expansion-cardano.md): anuncio27 de liquidez automática y bóvedas abiertas, disponibilidad pendiente. [Midnight](sources/2026-10-28-midnight-millon-transacciones.md): 1.019.963 transacciones al27 atribuidas en Crypto.news; X403 e interfaz sin cifras, sin recuento histórico reproducido o adopción económica probada. La documentación primaria comunitaria no verifica ese número. [ETF](sources/2026-10-28-farside-flujos-bitcoin.md): sesión27 +176,0 millonesUSD, doce celdas revisables sin conciliación con emisores. Informes/canales previos conservan sus cortes y atribuciones; no serie homogénea ni causa de precio. ADA/NIGHT mantienen alcance general.
+
+## Angry Crypto Show: informe del 28
+
+La [síntesis del 28](reports/2026-10-28-angry-crypto-show.md) eleva el seguimiento a dieciséis vídeos y tres avisos. [Gummiworm](entities/gummiworm.md): >660 millones L2/14 días atribuidos sin dataset, demo un peer distinta. [FMS](entities/trivolvetech-fms.md): caso descrito por la Fundación sin auditoría de cobertura/fecha; [integridad no es verdad de origen](concepts/hashes-integridad-y-procedencia.md). Strike >100 millones USD/día es meta, >277.000 vía RealFi dato no reproducido, Leios2–8x previsión y TRON diciembre plan. Ripple anuncia aprobación final; no carta final OCC localizada, documento 2025 condicional. Robinhood/BNY con fases futuras. Esta ingesta conserva RAW y permanece local.

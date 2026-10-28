@@ -1,6 +1,6 @@
 # 🧠 Índice de la wiki
 
-Última actualización: **27 de octubre de 2026, 09:21 (Europe/Madrid)**.
+Última actualización: **28 de octubre de 2026, 09:23 (Europe/Madrid)**.
 
 ![Cardano / ADA](../raw/images/2026-10-05-cardano-logotipo-indice.png) ![Midnight / NIGHT](../raw/images/2026-10-05-midnight-logotipo-indice.png)
 
@@ -10,6 +10,14 @@
 - [Registro de actividad](log.md): operaciones realizadas.
 
 ## 📚 Fuentes
+
+- [Angry — informe del 28](sources/2026-10-28-informe-angry-crypto-show.md): Gummiworm/FMS, metas Strike, previsiones Leios y anuncios con límites.
+
+- [Informe archivado — 28 de octubre](sources/2026-10-28-informe-ada-night-bitcoin.md): fechas, procedencia e infografía.
+- [Steer: expansión a Cardano](sources/2026-10-28-steer-expansion-cardano.md): anuncio de desarrollo, disponibilidad pendiente.
+- [Midnight: millón atribuido](sources/2026-10-28-midnight-millon-transacciones.md): fuente secundaria, contador no reproducido.
+- [Farside: sesión del 27](sources/2026-10-28-farside-flujos-bitcoin.md): doce cifras revisables y +176,0 millones USD.
+
 
 - [Angry — informe del 27](sources/2026-10-27-informe-angry-crypto-show.md): vídeo nuevo, contradicción ChatterPay, métricas y planes con límites.
 
@@ -131,6 +139,12 @@
 
 ## 🏷️ Entidades
 
+- [Gummiworm y Sugar Rush](entities/gummiworm.md): L2, pruebas informales y cifras atribuidas.
+- [TrivolveTech FMS](entities/trivolvetech-fms.md): caso forense documentado, sin auditoría propia.
+
+- [Steer Protocol](entities/steer-protocol.md): liquidez automatizada anunciada para Cardano.
+
+
 - [ChatterPay](entities/chatterpay.md): Preprod y staking/voto planificados frente al anuncio del canal.
 - [Peras](entities/peras.md): asentamiento por votos, cuórum y garantías limitadas.
 
@@ -169,6 +183,11 @@
 - [iShares Bitcoin Trust ETF / IBIT](entities/ishares-bitcoin-trust-ibit.md): fondo de BlackRock, dato publicado y conciliación metodológica pendiente.
 
 ## 💡 Conceptos
+
+- [Hashes, integridad y procedencia](concepts/hashes-integridad-y-procedencia.md): integridad posterior y verdad del registro original.
+
+- [Bóvedas tokenizadas y estándares abiertos](concepts/bovedas-tokenizadas-y-estandares-abiertos.md): propuesta, interfaces y adopción por distinguir.
+
 
 - [Migración de consenso y rotación de comités](concepts/migracion-consenso-y-rotacion-comites.md): coordinación de cambios, código y red por distinguir.
 
@@ -211,11 +230,16 @@
 
 ## 🧭 Temas
 
-- [Seguimiento de Angry Crypto Show](topics/seguimiento-angry-crypto-show.md): quince vídeos analizados y tres avisos de estado conservados; pendientes del aviso resueltos.
+- [Seguimiento de Angry Crypto Show](topics/seguimiento-angry-crypto-show.md): dieciséis vídeos analizados y tres avisos de estado conservados; pendientes del aviso resueltos.
 
 - [Seguimiento de mercado de ADA y NIGHT](topics/seguimiento-mercado-ada-night.md): síntesis, relaciones y preguntas abiertas.
 
 ## 📝 Informes
+
+- [Angry — 28 de octubre](reports/2026-10-28-angry-crypto-show.md): documentación, actividad atribuida, metas y planes separados.
+
+- [Seguimiento — 28 de octubre](reports/2026-10-28-seguimiento-ada-night-bitcoin.md): Steer, contador Midnight atribuido y ETF con infografía.
+
 
 - [Angry — 27 de octubre](reports/2026-10-27-angry-crypto-show.md): contraste ChatterPay, Leios/Peras, agentes y recomendaciones atribuidas.
 
